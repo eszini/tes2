@@ -1,0 +1,46 @@
+#
+#
+#
+# char	*regla1 = " no/ST   <tk ... >  se/ST    <tk ... >  obser/SN | visua/SN | ident/SN | detec/SN | evide/SN | ven/ST | produ/SN  <tk ... >  REF " ;
+# 
+# char	*regla2 = " no/ST   <tk ... >  obser/SN | prese/SN <tk ... >  REF ";
+# 
+# char	*regla3 = " sin/ST  <tk ... >  evide/SN <tk ... >  REF ";
+# 
+# char	*regla4 = " no/ST   <tk ... >  se/ST    <tk ... >  obser/SN | visua/SN | ident/SN | detec/SN   <tk ... > ni/ST | compat/SN  <tk ... >  REF ";
+# 
+# char	*regla5 = " sin/ST  <tk ... >  obser/SN | visua/SN   <tk ... >   ni/ST  <tk ... >  REF ";
+# 
+# char	*regla6 = " no/ST | sin/ST  REF ";
+# 
+# char	*regla7 = " no/ST   <tk ... >  se/ST    <tk ... >   logra/SN  <tk ... > obser/SN | visua/SN | ident/SN | detec/SN   <tk ... >   REF ";
+#
+#
+#
+#
+#
+#  token       wrd     tip    num
+#  no/E        no      1      1
+#  obse/P      obse    2      1
+#  <3+>        <3+>    3      3
+#  <3*>        <3*>    4      3
+#
+#
+#
+#
+
+no/E, <2*>, obser/P | prese/P,  <3*>, REF
+
+no/E, se/E, <1*>, obser/P | visua/P | ident/P | detec/P | evide/P | ven/P | produ/P, <5*>, REF 
+
+probando/E, que/E, la/E, gramatica/E, <8*>, ande/E, perfecta/P, REF, visal/P
+
+probando/E, que/E, <4+>, la/E, gramatica/E, <8+>, ande/E, perfecta/P, REF, visal/P
+
+probando/E, que/P | cual/E , <4+>, la/E, gramatica/E, <8+>, ande/E, perfecta/P, REF, visal/P
+
+
+
+
+
+

@@ -1,0 +1,48 @@
+
+no no RN 0.999297 NEG 
+
+se ser VMI000 1.0 VSE 
+
+ni ni CC 0.834853 CNEG 
+
+sin sin SP 1.0 TNEG 
+
+pero pero CC 0.999902 ENDNEG 
+
+observa observar VMP 0.999909 OBS 
+observada observar VMP 0.999909 OBS 
+observadas observar VMP 0.999909 OBS 
+observadose observar VMP 0.999909 OBS 
+observan observar VMP 0.999909 OBS 
+observando observar VMP 0.999909 OBS 
+observandose observar VMP 0.999909 OBS 
+observandosse observar VMP 0.999909 OBS 
+observaron observar VMP 0.999909 OBS 
+observo observar VMP 0.999909 OBS 
+
+detectado detectar VMP 0.999909 DET 
+detectaron detectar VMP 0.999909 DET 
+detecto detectar VMP 0.999909 DET 
+
+evidencia evidenciar NCF 0.850123 EVI 
+evidencias evidenciar NCF 0.850123 EVI 
+
+visualiza visualizar VMI 0.991255 VIS 
+visualizacin visualizar VMI 0.991255 VIS 
+visualizacion visualizar VMI 0.991255 VIS 
+visualizan visualizar VMI 0.991255 VIS 
+visualizando visualizar VMI 0.991255 VIS 
+visualizar visualizar VMI 0.991255 VIS 
+visualizarse visualizar VMI 0.991255 VIS 
+visualizo visualizar VMI 0.991255 VIS 
+
+identifica identificar VMN 0.999999 IDE 
+identifican identificar VMN 0.999999 IDE 
+identificandose identificar VMN 0.999999 IDE 
+identificar identificar VMN 0.999999 IDE 
+
+. . PNT000 1.0 PTO 
+
+, , PNT000 1.0 COM 
+
+; ; PNT000 1.0 PTC 

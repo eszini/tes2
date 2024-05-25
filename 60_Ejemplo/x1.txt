@@ -1,0 +1,136 @@
+0.9 x 0.8 x 0.85 cm no_NEG se_VSE observo_OBS liquido libre en cavidad ._PTO _PTO 
+diametro longitudinal : 9.7 ( cm ) no_NEG se_VSE detectaron_DET adenomegalias ._PTO _PTO 
+conclusion : la imagen descripta podria corresponder a coleccion ,_COM _COM pero_ENDNEG ,_COM _COM al no_NEG poder visualizarse_VIS claramente plano de separacion con el lobulo izquierdo tiroideo ,_COM _COM no_NEG se_VSE puede descartar compromiso de esta glandula ._PTO _PTO 
+141730 se_VSE observa_OBS glandula tiroides con ecoestructura heterogenea ,_COM _COM predominantemente hipoecoica ,_COM _COM no_NEG nodular ._PTO _PTO 
+942914 ambos nodulos tiroideos difusa y levemente heterogeneos ,_COM _COM compatible con tls no_NEG se_VSE observan_OBS adenomegalias en cuello vol tiroideo ld4 ._PTO _PTO 
+psoas con fibras musculares conservadas ,_COM _COM no_NEG se_VSE observa_OBS imagen sugerente de coleccion ._PTO _PTO 
+pelvis de diametro anteroposterior de 1.4 ( cm ) ,_COM _COM extrarrenal no_NEG se_VSE detecto_DET dilatacion ureteral ._PTO _PTO 
+a116632 se_VSE explora en forma comparativa ambas caderas no_NEG se_VSE observan_OBS alteraciones de partes blandas ni_CNEG derrame articular ambos psoas de estructura conservada en los sectores visibles 
+111205 higado : tamano conservado y moderado incremento de la ecogenicidad en forma difusa via biliar intra y extrahepatica : no_NEG dilatada ._PTO _PTO 
+rder : con ectasia pielocalicial a predominio de grupo calicilar superior ,_COM _COM disminuye parcialmente postmiccion ,_COM _COM no_NEG observandose_OBS dilatacion de ureter ._PTO _PTO 
+a257557 ecografia pleural : hemitorax derecho : sin_TNEG evidencia_EVI de derrame ni_CNEG condensacion ._PTO _PTO 
+via excretora no_NEG dilatada ._PTO _PTO 
+no_NEG se_VSE observan_OBS colecciones ni_CNEG liquido intrarticular al momento del examen ._PTO _PTO 
+no_NEG se_VSE detecto_DET dilatacion ureteral ni_CNEG litiasis en la via urinaria ._PTO _PTO 
+diametro longitudinal : 8.1 ( cm ) ganglios mesentericos en rango no_NEG adenopatico ._PTO _PTO ._PTO _PTO no_NEG se_VSE detectaron_DET colecciones ni_CNEG liquido libre ._PTO _PTO 
+diam long 5.5 cm ,_COM _COM pelvis renal : 2.2 cm ,_COM _COM no_NEG se_VSE observa_OBS dilatacion ureteral ._PTO _PTO 
+a262651 se_VSE observa_OBS ovario derecho de forma y ecoestructura conservada ,_COM _COM ubicado en trayecto inguinal distal por delante de los vasos iliacos sin_TNEG extencion al tcs ni_CNEG plano muscular ,_COM _COM sin_TNEG hidrocele ._PTO _PTO 
+a352965 doppler venoso vcs no_NEG se_VSE observa_OBS imagenes sugerentes de trombosis ,_COM _COM cateter en su interior ._PTO _PTO 
+a144222 ambos lobulos tiroideos e istmo con ecoestructura heterogenea no_NEG nodular ,_COM _COM disminuidos globalmente de tamano ._PTO _PTO 
+a293411 se_VSE explora tobillo y pie izquierdo no_NEG se_VSE observa_OBS aumento del espesor del tcs en comparacion con el contralateral ._PTO _PTO 
+rinon izquierdo con imagen redondeada en sector medio del rinon ( 2.6 x 2.5 cm ) ,_COM _COM isoecoica con el parenquima adyacente ,_COM _COM sin_TNEG senal doppler color de significacion ni_CNEG dilatacion ._PTO _PTO 
+se_VSE observa_OBS cateter de derivacion en fid con escaso liquido adyacente a la punta ,_COM _COM no_NEG se_VSE observan_OBS imagenes quisticas ._PTO _PTO 
+470740 higado homogeneo ._PTO _PTO vesicula normal no_NEG se_VSE visualiza_VIS pancreas ni_CNEG retroperitoneo vascular por interposicion aerea - bazo homogeno ._PTO _PTO mide 9 cm rinones nativos pequenos ._PTO _PTO 
+coledoco no_NEG dilatada vesicula biliar : distendida alitiasica ._PTO _PTO 
+532901 se_VSE explora la pared abdominal en reposo y contraccion no_NEG se_VSE observan_OBS alteraciones del tcs ,_COM _COM ni_CNEG planos musculares no_NEG se_VSE observan_OBS signos ecograficos de hernia ni_CNEG de trombosis al examen doppler color 
+vejiga s / p no_NEG liquido libre ._PTO _PTO 
+ectasia pielocalicial izquierda ,_COM _COM pelvis : 0.9 cm no_NEG se_VSE detecto_DET dilatacion de la via urinaria ._PTO _PTO 
+hemitorax izquierdo : no_NEG se_VSE observa_OBS derrame pleural ._PTO _PTO 
+dada la importante ascitis ,_COM _COM no_NEG se_VSE logra visualizar_VIS shunt su topografia ,_COM _COM ni_CNEG vasos venosos adayacentes con flujo tipo turbulento ._PTO _PTO 
+conclusion : no_NEG se_VSE observan_OBS cambios significativos respecto a estudio previo ._PTO _PTO 
+relacion epiplon aorta : 3,7 / 1,2 colaterales : vena coronaria en epiplon : no_NEG derivacion dorsal : no_NEG hemorroidales : no_NEG vasos cortos : no_NEG ascitis : no_NEG rinones de caracteristicas normales ._PTO _PTO rd : 10,6 cm ri : 10,5 cm conclusion : no_NEG se_VSE observan_OBS signos ecograficos de hipertension portal ._PTO _PTO 
+a146009 higado : hepatomegalia heterogenea debido a la presencia de multiples imagenes hipoecoicas de limites mal definidos ,_COM _COM no_NEG se_VSE observa_OBS imagen nodular dominante ._PTO _PTO 
+a269755 ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no_NEG nodular ._PTO _PTO 
+no_NEG se_VSE observan_OBS imagenes nodulares ,_COM _COM quisticas ni_CNEG calcificaciones ._PTO _PTO 
+a148853 higado : tamano y ecoestructura normal ._PTO _PTO no_NEG se_VSE identifican_IDE imagenes quisticas via biliar intra y extrahepatica : no_NEG dilatada ._PTO _PTO 
+a216841 ambos rinones ortotopicos - rinon derecho de mayor tamano con multiples imagenes quisticas de diferente tamano ,_COM _COM sin_TNEG parenquima renal normal ._PTO _PTO sin_TNEG dilatacion pielocalicial ._PTO _PTO se_VSE visualiza_VIS en forma intermitente ureter derecho no_NEG dilatado de 2.6 mm ._PTO _PTO 
+a27059 ambos lobulos tiroideos e itsmo con ecoestructura minimamente heterogenea difusa no_NEG nodular y aumentados globalmente de tamano ._PTO _PTO 
+diametro longitudinal : 12,7 ( cm ) no_NEG se_VSE detectaron_DET colecciones ni_CNEG liquido libre ._PTO _PTO 
+a29142 ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no_NEG nodular y presencia de multiples tractos fibrosos ._PTO _PTO 
+123104 ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa levemente ,_COM _COM no_NEG nodular ._PTO _PTO 
+la misma no_NEG presenta flujo al doppler color ._PTO _PTO 
+532441 ambos lobulos tiroideos e istmo con ecoestructura heterogenea no_NEG nodular ._PTO _PTO 
+no_NEG liquido libre en cavidad abdominal ,_COM _COM no_NEG derivaciones hemorroidales ._PTO _PTO 
+sin_TNEG dilatacion del sistema excretor no_NEG se_VSE identifica_IDE la vejiga ._PTO _PTO 
+por este metodo no_NEG se_VSE puede descartar hematoma subdural ni_CNEG extradural ._PTO _PTO 
+611191 ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no_NEG nodular y aumentados globalmente de tamano ._PTO _PTO 
+: 20 cm / s venas suprahepaticas : flujo hepatofugo ,_COM _COM onda bifasica via biliar no_NEG dilatada ._PTO _PTO 
+presenta pequeno quiste subependimario de 0.8 x 1.3 mm que no_NEG produce desplazamientos ni_CNEG efectos de masa ._PTO _PTO 
+a345848 se_VSE realiza ecografia ,_COM _COM no_NEG se_VSE observan_OBS cambios significativos con respecto a ecografia previa ._PTO _PTO 
+diametro longitudinal 5.3 ( cm ) ,_COM _COM transversal 3.5 ( cm ) anteroposterior 2.8 ( cm ) ,_COM _COM ovario derecho : de forma ,_COM _COM tamano y estructura conservada 2.9 ( cm ) x 2 ( cm ) x 2.7 ( cm ) con imagen quistica folicular dominante de 0.9 cm x 1.2 cm volumen : 8.6 ( cc ) ovario izquierdo : de forma ,_COM _COM tamano y estructura conservada 2.1 ( cm ) x 1.3 ( cm ) x 2.1 ( cm ) volumen : 3.1 ( cc ) no_NEG liquido libre ._PTO _PTO - 
+891467 se_VSE visualiza_VIS glandula tiroides con ecoestructura heterogenea ,_COM _COM no_NEG nodular ,_COM _COM predominantemente hipoecoica ._PTO _PTO 
+955807 en cara anterior del muslo izquierdo ,_COM _COM por debajo del tcs ,_COM _COM se_VSE observa_OBS una coleccion liquida con algunos tabiques de 54 x 48 x 18 mm no_NEG se_VSE observa_OBS derrame articular 
+no_NEG se_VSE observan_OBS desviaciones de la linea media ,_COM _COM efectos de masa ,_COM _COM ni_CNEG colecciones ._PTO _PTO 
+a117909 se_VSE observo_OBS engrosamiento difuso de partes blandas en plano celular subcutaneo de la pierna derecha sin_TNEG evidencia_EVI de calcificaciones ,_COM _COM lesiones quisticas ni_CNEG nodulares ._PTO _PTO 
+via urinaria no_NEG dilatada vejiga plenificada de contornos regulares ,_COM _COM sin_TNEG residuo postmiccional ._PTO _PTO 
+693781 ambos lobulos tiroideos e istmo con ecoestructura heterogenea no_NEG nodular ._PTO _PTO 
+rd 8,7 cm x 4,2 cm x 3,1 cn ri 9 cm x 3,2 cm x 3,6 cm no_NEG se_VSE observa_OBS dilatacion de la via urinaria ._PTO _PTO 
+al momento del examen no_NEG se_VSE observan_OBS signos ecograficos compatibles con estenosis hipertrofica del piloro ._PTO _PTO 
+no_NEG se_VSE visualiza_VIS coleccion ni_CNEG imagens residuales ._PTO _PTO 
+pancreas : parcialmente visible por interposicion de aire intestinal s / p no_NEG se_VSE identifican_IDE adenomegalias bazo : esplenomegalia homogenea ._PTO _PTO 
+no_NEG se_VSE visualizan_VIS lesiones nodulares solidas ni_CNEG quisticas ._PTO _PTO 
+se_VSE exploran rinones en decubito con transductor de alta frecuencia ,_COM _COM no_NEG se_VSE observan_OBS imagenes patologicas o cambios de ecogenicidad en region media o polos ,_COM _COM ectasias pielicas bilaterales ,_COM _COM rizquierdo con imagen sugerente de doble sistema ._PTO _PTO 
+ovario derecho : 0.8 ( cm ) x 0.5 ( cm ) x 0.7 ( cm ) volumen : 0.2 ( cc ) ovario izquierdo : 0.8 ( cm ) x 0.4 ( cm ) x 0.6 ( cm ) volumen : 0.1 ( cc ) no_NEG se_VSE visualiza_VIS masa pelviana ni_CNEG en region glutea anteriormente conocida ._PTO _PTO 
+rd diam long : 9,1 cm ri diam long : 9,4 cm vejiga de caracteristicas normales no_NEG se_VSE observa_OBS coleccion en herida quirurgica ._PTO _PTO 
+5.9 mm no_NEG se_VSE observaron_OBS cacificaciones ni_CNEG imagenes quisticas en relacion con la misma ._PTO _PTO 
+875104 ambos lobulos tiroideos e istmo con ecoestructura finamente heterogenea difusa ,_COM _COM no_NEG nodular ._PTO _PTO 
+sin_TNEG dilatacion no_NEG se_VSE detecto_DET dilatacion ureteral ._PTO _PTO 
+/ 1 colaterales : vena coronaria en epiplon : no_NEG derivacion dorsal : no_NEG hemorroidales : no_NEG vasos cortos : no_NEG ascitis : moderada rinones de caracteristicas normales conclusion : se_VSE observan_OBS signos ecograficos de hipertension portal ._PTO _PTO 
+rd diam long : 9.9 cm ri diam long : 9.7 cm vejiga de caracteristicas normales ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no_NEG nodular y aumentados globalmente de tamano ._PTO _PTO 
+rinon derecho con dilatacion pielocalicial no_NEG a tension ._PTO _PTO 
+no_NEG se_VSE visualizan_VIS imagenes de aspecto patologico evaluables por este metodo ,_COM _COM ni_CNEG diferencicas significativas a la comparacion con el contralateral ._PTO _PTO 
+dilatacion pielica de 2.3 ( cm ) de diametro anterposterior ,_COM _COM sin_TNEG cambios postmiccionales no_NEG se_VSE detecto_DET dilatacion ureteral ._PTO _PTO 
+vejiga de caracteristicas normales no_NEG se_VSE visualizan_VIS imagenes compatibles con invaginacion intestinal ._PTO _PTO 
+tiene arco % ' o elisa lla mdre refiere mataderos cerca ,_COM _COM si bien no_NEG se_VSE ven otras lesiones ,_COM _COM dejo las rx de torax en la casa ,_COM _COM podrian pedirselas en nueva consulta ._PTO _PTO 
+pequenas imagenes quisticas de aspecto coloide no_NEG mayores a tres milimetros no_NEG se_VSE detectaron_DET adenomegalias laterocervicales ._PTO _PTO 
+a360943 ecografia pleural der : no_NEG se_VSE visualiza_VIS patologia pleuropulmonar por este metodo izq : derrame pleural anecoico ,_COM _COM con multiples tabiques ,_COM _COM algunos de ellos gruesos ,_COM _COM con consolidacion parenquimatosa subyacente ._PTO _PTO 
+999657 no_NEG se_VSE observa_OBS imagen compatible con glandula tiroides ._PTO _PTO 
+bazo : 7.5 cm no_NEG se_VSE observa_OBS liquido libre 
+ambos rinones ortotopicos ,_COM _COM con aumento de ecogenicidad y menor diferencicion corticomedular ,_COM _COM no_NEG se_VSE visualiza_VIS dilatacion pielica ._PTO _PTO 
+extrahepatica : no_NEG dilatada vesicula biliar : de paredes engrosadas con flujo venoso colateral visible ._PTO _PTO 
+a349781 ecoestructura parenquimatosa cerebral y de nucleos de la base sin_TNEG alteraciones sin_TNEG desviaciones de la linea media ,_COM _COM efectos de masa ,_COM _COM ni_CNEG colecciones ._PTO _PTO 
+64072 no_NEG se_VSE observan_OBS imagenes de significacion en la pared abdominal en la region de interes ._PTO _PTO 
+a57035 ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no_NEG nodular y aumentados globalmente de tamano ._PTO _PTO 
+no_NEG se_VSE visualiza_VIS liquido intraarticular ni_CNEG imagenes compatibles con coleccion ._PTO _PTO 
+no_NEG se_VSE observa_OBS liquido libre ni_CNEG colecciones ._PTO _PTO 
+no_NEG se_VSE observan_OBS colecciones ni_CNEG efectos de masa ._PTO _PTO 
+486628 ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no_NEG nodular ,_COM _COM tamano aconservado luz traqueal centrada ._PTO _PTO 
+395021 higado : heterogeneo difuso contorno nodular via biliar intra y extrahepatica : no_NEG dilatada vesicula biliar : no_NEG visible pancreas : sp bazo : homogeneo ._PTO _PTO 
+272872 doppler color pulsado y color no_NEG se_VSE observan_OBS imagenes sugerentes de trombosis a nivel de sistema arterial o venoso de miembros inferiores ._PTO _PTO 
+a255796 se_VSE observa_OBS glandula tiroides aumentada globalmente de tamano ,_COM _COM de contorno lobulado ,_COM _COM con ecoestructura finamente heterogenea ,_COM _COM no_NEG nodular ,_COM _COM predominantemente hipoecoica ,_COM _COM hipervascularizada ._PTO _PTO 
+sin_TNEG calcificaciones ,_COM _COM ni_CNEG vascularizacion en su interior ._PTO _PTO 
+se_VSE explora abdomen ,_COM _COM no_NEG se_VSE observa_OBS imagenes compatibles con pseudoquiste ._PTO _PTO 
+no_NEG se_VSE observa_OBS aumento del liquido articular ni_CNEG alteraciones musculares en la region explorada ._PTO _PTO 
+32.0 cc ovarios con ecoestructura conservada ,_COM _COM no_NEG se_VSE identifican_IDE imagenes quisticas ._PTO _PTO 
+exploracion directa extrarrenal : arteria renal derecha con flujo turbulento en tercio proximal y aumento de la velocidad ( 212 cm / seg ) a dicho nivel ,_COM _COM con disminucon de la velocidad en dos tercios distales ( 65 cm / seg ) sugestivo de estenosis no_NEG se_VSE visualiza_VIS stent a traves de este metodo ._PTO _PTO 
+no_NEG se_VSE visualizan_VIS imagenes quisticas ni_CNEG nodulares ._PTO _PTO 
+no_NEG se_VSE observan_OBS imagenes quisticas ni_CNEG sugestivas de duplicacion 
+a227434 ecografia de ambas caderas comparativas : no_NEG se_VSE identifica_IDE liquido articular en ambas caderas ._PTO _PTO 
+via biliar intra y extrahepatica : no_NEG dilatada vesicula biliar : de paredes gruesas con varices perivesiculares ._PTO _PTO 
+se_VSE oservan dos uteros y dos cuellos de forma y estructura conservada ( utero didelfo ) ut der : 69 x 48 x 21 mm endometrio 6 mm ut izq : 53 x 42 x 29 mm endometrio 7 mm ovario derecho 38 x 30 x 15 mm vol : 9.5 cc ovario izquierdo : 42 x 30 x 20 mm vol : 13 cc foliculo dominante de 19 mm no_NEG se_VSE observa_OBS liquido libre en cavidad 
+se_VSE observa_OBS a nivel de tercio medio posterior de testiculo derecho ,_COM _COM imagen hipoecoica de bordes definidos sugerente de restos adrenales ( mide : 6.7 x 2.1 mm ) dimensiones : testiculo derecho : volumen : 3 ( cc ) testiculo izquierdo : volumen : 3.7 ( cc ) no_NEG se_VSE observa_OBS hidrocele o varicocele ._PTO _PTO 
+via urinaria no_NEG dilatada rinon izquierdo de tamano y ecoestructura normal ._PTO _PTO 
+vci permeable ._PTO _PTO no_NEG se_VSE visualiza_VIS flujo portal en hilio observandose_OBS colaterales venosas ._PTO _PTO via biliar no_NEG dilatada ._PTO _PTO 
+hidrocele bilateral extendiendose a conducto inguinal ,_COM _COM no_NEG se_VSE observa_OBS comunicacion con abdomen ._PTO _PTO 
+no_NEG se_VSE observa_OBS aumento de flujo en su interior ni_CNEG signos de abscedacion ._PTO _PTO 
+no_NEG se_VSE observan_OBS imagenes quisticas ni_CNEG solidas ._PTO _PTO 
+higado de forma ,_COM _COM tamano y ecoestructura habitual ,_COM _COM no_NEG se_VSE evidencia_EVI dilatacion de la via intra ni_CNEG extrahepatica ._PTO _PTO 
+utero : en avf ,_COM _COM de forma ,_COM _COM aumento de tamano para la edad ,_COM _COM forma no_NEG infantil ._PTO _PTO 
+353600 ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no_NEG nodular y aumentados globalmente de tamano ._PTO _PTO 
+no_NEG se_VSE observan_OBS al momento del estudio senal doppler de fistula arteriovenosa ,_COM _COM ni_CNEG signos de trombosis o flebitis ._PTO _PTO 
+no_NEG se_VSE visualiza_VIS liquido en cavidad ni_CNEG interasas ._PTO _PTO 
+pelvis pre - cateterismo : der : 1.6 ( cm ) ;_PTC _PTC izq : 1.4 ( cm ) pelvis post - cateterismo : der : 1 ( cm ) ;_PTC _PTC izq : 1.6 ( cm ) no_NEG se_VSE detecto_DET dilatacion ureteral ,_COM _COM si bien el ureter izquierdo es visible en forma intermitente con un diametro de 0.3 cm pre y post - cateterismo ._PTO _PTO 
+long : 13.9 cm no_NEG se_VSE identifican_IDE adenomegalias ni_CNEG liquido libre en cavidad abdominal ._PTO _PTO 
+481310 se_VSE observa_OBS glandula tiroides con ecoestructura finamente heterogenea ,_COM _COM no_NEG nodular ,_COM _COM con presencia de pequenos quistes coloides de mm ,_COM _COM difusos ._PTO _PTO 
+a121556 ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no_NEG nodular y aumentados globalmente de tamano ._PTO _PTO 
+via biliar extrahepatica : no_NEG dilatada ._PTO _PTO 
+en hueco popliteo y cara posterior de la pierna izquierda se_VSE observa_OBS una formacion quistica con ecos y tabiques en su interior de aprox 18 x 9 x 4 cm que corresponderia a un gran quiste de baker no_NEG prsenta flujo al examen doppler color ni_CNEG compromiso de planos profundos 
+a57909 hemitorax derecho : no_NEG se_VSE observa_OBS derrame pleural ._PTO _PTO 
+mide : 7.3 cm no_NEG se_VSE observa_OBS dilatacion de la via urinaria ._PTO _PTO 
+a225188 se_VSE realiza ecografia a nivel de region sacra ,_COM _COM no_NEG se_VSE observa_OBS imagen vascularizada a dicho nivel ,_COM _COM ni_CNEG compromiso de estructuras profundas ._PTO _PTO 
+la cola del epididimo izquierdo no_NEG se_VSE visualiza_VIS pequena adenomegalias inguinal derecha de 11 mm 
+rd diam long : 7.4 cm ri diam long : 6.5 cm vejiga de caracteristicas normales no_NEG se_VSE observa_OBS engrosamiento de la pared intestinal al momento del estudio ._PTO _PTO 
+diametro longitudinal : 9.9 cm ( normal ) retroperitoneo : relacion epiplon aorta : 1 / 1 colaterales : vena coronaria en epiplon : no_NEG derivacion dorsal : no_NEG hemorroidales : no_NEG vasos cortos : no_NEG ascitis : no_NEG rinones de caracteristicas normales rd 10.2 cm ri9 ._PTO _PTO 9 cm conclusion : no_NEG se_VSE observan_OBS signos ecograficos de hipertension portal ._PTO _PTO 
+vejiga de contorno neto ,_COM _COM paredes finas y contenido normal ,_COM _COM no_NEG se_VSE visualiza_VIS a traves de este metodo diverticulo ._PTO _PTO 
+asas del ileon ,_COM _COM apendicular y cecales de 4 paredes engrosadas no_NEG logrando determinar flujo doppler vascular en su interior por interposicion de ventana acustica ._PTO _PTO 
+no_NEG se_VSE logra identificar_IDE quiste de punta de cateter de dvp ni_CNEG apendice cecal ._PTO _PTO 
+vol : 2.3 cc no_NEG adenomegalias regionales ._PTO _PTO 
+ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no_NEG nodular y aumentados globalmente de tamano ._PTO _PTO 
+a229589 ambos rinones ortotopicos ,_COM _COM de ecoestructura normal ,_COM _COM no_NEG se_VSE observa_OBS aumento de la ecogenicidad parenquimatosa ._PTO _PTO 
+485725 se_VSE observa_OBS glandula tiroides de pequeno volumen ,_COM _COM con ecoestructura finamente heterogenea ,_COM _COM no_NEG nodular ._PTO _PTO 
+miden : rd : 8.9 x 3.3 cm riz : 8.8 x 3.2 cm no_NEG se_VSE observa_OBS dilatacion de la via urinaria ._PTO _PTO 
+a nivel del hilio de observan_OBS dos imagenes nodulares ,_COM _COM ya conocidas ,_COM _COM sin_TNEG cambios significativos ,_COM _COM una de 3 x 3.7 cm y la otra de aprox 4 x 3 cm via biliar intra y extrahepatica : no_NEG dilatada ._PTO _PTO 
+no_NEG se_VSE observa_OBS dilatacion ureteral vejiga vacia con balon ._PTO _PTO 
+no_NEG se_VSE detecto_DET dilatacion de la via urinaria ._PTO _PTO presencia de pelvis extrarenales bilaterales ._PTO _PTO pelvis renal der mide 1.2 cm y extrar 2.3 cm ._PTO _PTO pelvis izquierda mide 0.97 cm y extrarenal 1.1 cm ._PTO _PTO sin_TNEG ditacion calicial ni_CNEG visualizacion_VIS de ureteres ._PTO _PTO 
+sin_TNEG ditacion calicial ni_CNEG visualizacion_VIS de ureteres ._PTO _PTO 
+via biliar con cateter no_NEG dilatada ,_COM _COM se_VSE observa_OBS dilatacion de via biliar mas superficial intrahepatica de 6 mm ._PTO _PTO 

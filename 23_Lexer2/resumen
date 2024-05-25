@@ -1,0 +1,124 @@
+Hola Jose.
+
+Te paso avance !
+
+Agregue una opcion al programa general de "ejecucion" de gramaticas ...
+
+con la opcion -dng=lex    aplica la gramtica segun lo que vimos, basado en lex & yacc
+(el usuario debe proveer el lexer.l y el parser.y ... basados en la version 'base' que arme yo
+y vimos el otro dia ).
+
+con la opcion -dng=nga    aplica el "negex ampliado "
+
+con la opcion -grm=archivo .. indico el archivo donde estan las reglas ( abajo hay un ejemplo ) 
+
+
+aplicando al corpus que me compartiste, ese conjunto de reglas, se llega a 122 negaciones detectadas ( de 136)
+
+Esta es la cantidad de negaciones que matchea con cada una de las reglas ...
+(recordar que el programa las va matcheando en orden ... una negacion puede matchear con mas de una regla
+segun su "formato" ) ...
+
+
+  68 zz01    match con la regla 1
+   0 zz02    match con la regla 2 ...
+   0 zz03
+   1 zz04
+   1 zz05
+   1 zz06
+   1 zz07
+   2 zz08
+  39 zz09
+   1 zz10
+   1 zz11
+   1 zz12
+   6 zz13
+ 122 total
+
+
+Las que quedaron sin match, se agrupan en 
+
+- hay lineas que tienen dos palabras en la palabra de referencia 
+- hay lineas que tienen mal escrita la palabra (en la sentencia )
+- hay lineas que tienen la palabra de busqueda en plural en la frase ( imagen ... imagenes )
+- hay un par de lineas donde la negacion esta redactada muy rebuscada, esas quedaron afuera
+
+seguramente se puede mejorar / afinar mas.
+en la semana sigo probando ...
+
+
+
+ejemplos ...
+
+1355 t1 neg t2 dilatacion t3 sin_TNEG ditacion calicial ni_CNEG visualizacion_VIS de ureteres ._PTO 
+
+esta mal escrito (ditacion)
+
+
+
+
+#
+# archivo de reglas 
+#
+# Cada linea es una "regla"
+#
+# El "ejecutor" de reglas ... ejecuta por cada linea del corpus de input,
+# todas las reglas en orden, hasta que una matchea, y pasa a la siguiente linea.
+# (es decir, no importa que haya varias que matcheen, el ciclo termina
+# con la primera que haga el matching ).
+#
+# Cada regla son "acciones" separadas por ','
+# Cada "accion" se ejecuta en orden.
+# Si el "parser" logra aplicar todas las acciones a una linea, la funcion
+# ( nnparse ) devuelve el numero de regla que matcheo.
+#
+# ej:
+# no/E  debe figurar 'no' exactamente
+# obser/P  es cualquier palabra que matchee al principio con 'obser'
+#          ( observando, observaron, observo etc )
+# a | b    matchea con cualquiera de la lista (OR)
+# <5*>     distancia 5 ... 
+#          indica que entra una accion y otra, puede haber hasta 5 elementos
+# REF      es la palabra que se busca ( ej: 'liquido' )
+# ej:  no/E se/E obser/P <3*> matchea con :
+#      no   se   observan zonas con mucho liquido
+#      no   se   observaron  modificaciones de liquido
+#      no   se   observo     liquido
+#    etc
+#
+#
+
+
+
+no/E, se/E, obser/P | visua/P | ident/P | detec/P | determ/P , <5*>, REF
+
+no/E, se/E, obser/P | detec/P |visua/P | ident/P , <5*>, ni/E, <2*>, REF
+
+no/E, se/E, obser/P | visua/P | ident/P | detec/P , <3*>, compatible/P, <2*>, REF
+
+no/E, poder/P, visual/P, <4*>, REF
+
+no/E, logra/P, deter/P, <3*>, REF
+
+no/E, se/E, logra/P, obser/P | visua/P | ident/P , REF
+
+no/E, se/E, <2*>, descart/P, REF
+
+no/E, <2*>, obser/P | prese/P | produ/P , REF
+
+no/E, REF
+
+sin/E, evide/P | obser/P | visua/P , <3*>, ni/E, REF
+
+sin/E, evide/P, <2*>, REF
+
+sin/E, <5*>, ni/E, REF
+
+sin/E, REF
+
+
+
+
+
+
+

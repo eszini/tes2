@@ -1,0 +1,4 @@
+1000 t1 neg t2 liquido t3 primera palabra ._PTO segunda palabra ._PTO
+1001 t1 neg t2 liquido t3 primera palabra ._PTO no_NEG segunda palabra ._PTO
+1002 t1 neg t2 liquido t3 primera palabra ._PTO
+1002 t1 neg t2 liquido t3 primera palabra ._PTO 

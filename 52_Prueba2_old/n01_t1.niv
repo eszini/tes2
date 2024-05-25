@@ -1,0 +1,31 @@
+#	
+#	niv01_t1.niv
+#	2018-09-22
+#
+#	archivo de niveles para delimitar en el corpus, el nivel de busqueda
+#	de la palabra de "referencia" de la negacion.
+#
+#
+#	La tabla de niveles tiene este formato:
+#
+#
+# 0001 nivel 1 LIN linea
+# 0002 nivel 2 ORC oracion 
+# 0003 nivel 2 ORS oracion
+# 0004 nivel 3 FRA frase
+# 0005 nivel 4 TER terminal
+#
+#  end of comments...
+#	
+
+0001 nivel 1 LIN Linea completa
+0002 nivel 2 ORC Oracion CON negacion
+0003 nivel 2 ORS Oracion SIN negacion
+0003 nivel 2 ORA Oracion SIN negacion
+0004 nivel 3 FRA Frase nominal
+0005 nivel 4 TER Elemento terminal en el arbol
+
+
+
+
+

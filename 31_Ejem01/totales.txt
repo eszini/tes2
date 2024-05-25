@@ -1,0 +1,36 @@
+  72 neg01.txt
+  44 neg02.txt
+   6 neg03.txt
+   1 neg04.txt
+   1 neg05.txt
+   1 neg06.txt
+   1 neg07.txt
+   1 neg08.txt
+   1 neg09.txt
+   1 neg10.txt
+   1 neg11.txt
+   0 neg12.txt
+   1 neg13.txt
+   0 neg14.txt
+ 131 total
+ 
+ 
+Sobre frases 'affirmed' 
+  5 aff01.txt
+  0 aff02.txt
+  1 aff03.txt
+  0 aff04.txt
+  0 aff05.txt
+  0 aff06.txt
+  0 aff07.txt
+  0 aff08.txt
+  0 aff09.txt
+  0 aff10.txt
+  0 aff11.txt
+  0 aff12.txt
+  1 aff13.txt
+  0 aff14.txt
+  7 total
+ 
+ 
+ 

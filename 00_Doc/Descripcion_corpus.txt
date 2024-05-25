@@ -1,0 +1,52 @@
+
+jose <jcastano@dc.uba.ar>
+Archivos adjuntos
+jue., 4 may. 2017 14:28
+para yo
+
+Ernesto,
+
+Te paso uno de los corpus que tengo, sólo para que hagas las pruebas 
+iniciales.
+Este tiene, código de línea, elemento a determinar si está negado, 
+oración o texto que contiene el elemento a considerar y si está negado o 
+no, todo separado por tabs.
+
+Hay otros corpus que tienen este formato especial. Es el formato con que 
+funciona un programita llamado NEGEX, que también está para el inglés. 
+Hay otro corpus que está en el formato de Bio-Scope, probablemente lo 
+usemos después.
+
+Si tenés alguna duda avisame.
+
+Saludos,
+
+José
+
+El 2017-05-03 01:36, ernesto escribió:
+> Hola Jose, como va !?
+> 
+> Creo  que ya tengo claro y completo el mapa del trabajo
+> 
+> Me falta empezar a construir algunas piezas y luego ajuste via testing
+> !
+> 
+> El fin de semana termino el documento de propuesta de trabajo y
+> alcance
+> 
+> para, además de cumplir con la formalidad con la facu, testear si
+> estoy
+> 
+> alineado con la idea de lo que queremos hacer.
+> 
+> Espero  ( en cuento puedas ), algún corpus con negación para empezar
+> 
+> 
+> a hacer toda la etapa de testeo que tengo que hacer.
+> 
+> gracias,
+> 
+> saludos
+> 
+> E
+

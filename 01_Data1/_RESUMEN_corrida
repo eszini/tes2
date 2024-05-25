@@ -1,0 +1,45 @@
+
+
+Anotaciones:
+
+
+En la corrida de verificaciones, se encontraron tres lineas con errores...
+
+1 A la que le faltaba un tab para separar el ultimo campo ( Affirmed ), reg. 1259
+
+2 A las que le faltaba agregar la clasificacion (y por ende, tambien un tab), reg. 1303 y 1354
+
+
+
+Se corrigieron esas lineas, y se genero un nuevo archivo de corpus ( CorpusV2.txt )
+
+para seguir adelante..
+
+
+
+El archivo "diferencias.txt" contiene las diferencias entre el corpus original y el nuevo.
+
+
+
+
+
+
+Esto es lo que arroja la verificacion ... ( f01_err ) ...
+
+
+
+TAB: 1259	edema	Se observa en todo el dorso de mano marcado edema del tejido celular subcutaneo.A nivel de base de tercer dedo se observa pequena imagen hipoecoica, no fluctuante que podria corresponder a coleccion incipente.La misma mide:1,9 x 2,9 x 0,8 cm Affirmed
+
+SIN: 1303	aumento	En FID se visualiza imagen tubular hipoecoica, no compresible, dolorosa, que mide 7 mm de diametro anteroposterior( maximo normal 6 mm), con aumento de ecogenicidad pericecal.
+
+TAB: 1303	aumento	En FID se visualiza imagen tubular hipoecoica, no compresible, dolorosa, que mide 7 mm de diametro anteroposterior( maximo normal 6 mm), con aumento de ecogenicidad pericecal.
+
+SIN: 1354	dilatacion	No se detecto dilatacion de la via urinaria.Presencia de pelvis extrarenales bilaterales.pelvis renal der mide 1.2 cm y extrar 2.3 cm.Pelvis izquierda mide 0.97 cm y extrarenal 1.1 cm.Sin ditacion calicial ni visualizacion de ureteres.
+
+TAB: 1354	dilatacion	No se detecto dilatacion de la via urinaria.Presencia de pelvis extrarenales bilaterales.pelvis renal der mide 1.2 cm y extrar 2.3 cm.Pelvis izquierda mide 0.97 cm y extrarenal 1.1 cm.Sin ditacion calicial ni visualizacion de ureteres.
+
+
+
+
+
+

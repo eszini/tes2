@@ -1,0 +1,27 @@
+
+
+Seccion
+Lexer y Gramatica
+
+
+Tenemos tes_tparser01.c  como programa basico para 
+utilizar lexx y yacc juntos, pero coordinados desde un programa,
+y hacer parsing desde un string 
+En esto radica el principal avance en este tema, ya que hasta
+ahora, solo pudimos hacer andar el lex y el yacc, con programas
+que lean lista de tokes desde archivos.
+
+Con esto, tengo toda la linea en memoria,  y la tokenico con 
+lexx y la verifico gramatica con yacc.
+
+
+Archivos:
+
+lexer.l         separa en tokens el input
+parser.y        gramatica
+
+tes_tparser01.c programa para probar parsear todo el corpus 
+                con una gramatica sencilla, para ver que
+                pase por todas las lineas y no haya errores.
+
+

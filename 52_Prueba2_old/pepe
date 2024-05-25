@@ -1,0 +1,81 @@
+/*
+ * -----------------------------------------------------------------------------------
+ *
+ * 	grama_trk
+ *
+ *	Seguimiento de construccion del arbol de gramatica que hace yacc
+ *
+ *
+ */
+
+
+void grama_trk(char *ptr,char *lvl)
+{
+
+	int	i,j,k;
+	int	f1,f2;
+	int	niv;		/* nivel del arbol cuando me llama yacc */
+
+
+	if ( strcmp(ptr,"YACC") == 0)
+	{
+		printf ("YACC_grama_trk  (%s)\n",lvl);
+	}
+
+	if ( strcmp(ptr,global_ref) == 0)
+		gc_pal_e++;
+
+
+
+	printf ("cuando vale q_bn .. ? %d \n\n",q_bn);
+	printf ("ptr y lvl  %s %s\n",ptr,lvl);
+
+	for (i = 0; i< q_bn; i++)
+		printf ("%d %s\n",i,bn_key[i]);
+
+	for (i=0, f2=1; i< q_bn && f2; i++)
+	{	printf ("estoy en loop ... %d\n",i);
+		printf ("ptr y lvl  %s %s\n",ptr,lvl);
+
+#if 0
+		printf ("comparando ... |%s| |%s| \n",lvl,bn_key[i]);
+#endif
+		printf ("despues del iff... \n");
+
+	}
+
+	printf ("despues del for ... \n");
+
+#if 0
+	if (f2)
+		error(1001);
+
+
+	if (strcmp(lvl,"YACC") == 0)
+	{
+		if (f_buscar)
+		{
+			if (strcmp(ptr,global_ref) == 0)
+				f_palenc = 1;
+		}
+	}
+ 
+	if (strcmp(lvl,"YACC") == 0)
+	{
+		if (f_buscar)
+		{
+			printf ("sigo buscando .... \n");	
+
+
+
+		}
+			
+
+
+	}
+
+#endif
+
+}
+
+

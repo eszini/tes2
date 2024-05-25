@@ -1,0 +1,13 @@
+ *	- maneja diccionario de palabras para busqueda de errores
+int	error(int);
+		error(101);
+		error(102);
+			error(103);
+			error(104);
+			error(105);
+			{	error(501);
+	{	error(701);
+	{	error(702);
+	{	error(703);
+				error(301);
+int	error(value)

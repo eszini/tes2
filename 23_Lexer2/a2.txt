@@ -1,0 +1,16 @@
+1000 t1 neg t2 liquido t3 no se observa liquido ._PTO 
+1001 t1 neg t2 liquido t3 no se observa liquido libre en cavidad ._PTO 
+1002 t1 neg t2 liquido t3 en principio no se observa liquido ._PTO 
+1003 t1 neg t2 liquido t3 en principio no se observa liquido libre en la cavidad ._PTO 
+
+2000 t1 neg t2 liquido t3 en principio no se ma observa liquido ._PTO 
+2001 t1 neg t2 liquido t3 en principio no se ma mb observa liquido libre en cavidad ._PTO 
+2002 t1 neg t2 liquido t3 en principio no se observa ma liquido ._PTO 
+2003 t1 neg t2 liquido t3 en principio no se observa ma mb liquido ._PTO 
+2004 t1 neg t2 liquido t3 en principio no se observa ma mb mc md me liquido ._PTO 
+2005 t1 neg t2 liquido t3 en principio no se ma observa ma mb mc md me liquido libre en la cavidad ._PTO 
+2006 t1 neg t2 liquido t3 en principio no se ma mb observa ma mb mc md me liquido libre en la cavidad ._PTO 
+
+3001 t1 neg t2 liquido t3 a veces no se encuentra. en principio no se observa liquido libre en la cavidad ._PTO 
+3002 t1 neg t2 liquido t3 a veces no se encuentra. en principio no se ma observa ma liquido libre en la cavidad ._PTO 
+

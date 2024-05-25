@@ -1,0 +1,348 @@
+1000	liquido	0.9 x 0.8 x 0.85 cm No se observo liquido libre en cavidad.	Negated
+1001	pielonefritis cronica	88377 Ecografia Renovesical pre y postmiccional RD con signos de pielonefritis cronica sin dilataciones( 9 x 2.5 cm) RI con leve dilatacion pielocalicial Pelvis pre miccional 1.5 cm, postmiccional 1.6 cm, sin variaciones No se visualizan ureteres, Vejiga con escaso residuo postmiccional	Affirmed
+1002	adenomegalias	Diametro longitudinal:9.7( cm ) No se detectaron adenomegalias.	Negated
+1003	separacion	Conclusion: la imagen descripta podria corresponder a coleccion, pero, al no poder visualizarse claramente plano de separacion con el lobulo izquierdo tiroideo, no se puede descartar compromiso de esta glandula.	Negated
+1005	nodular	141730 Se observa glandula tiroides con ecoestructura heterogenea, predominantemente hipoecoica, no nodular.	Negated
+1006	adenomegalias	942914 Ambos nodulos tiroideos difusa y levemente heterogeneos, compatible con TLS No se observan adenomegalias en cuello Vol Tiroideo LD4.	Negated
+1007	ausencia	336386 implante renal aumentado de tamano, heterogeneo, sin diferenciacion  corticomedular Dl 122 mm se observa flujo arteial y venoso a nivel del hilio con ausencia de flujo en la periferia presencia de fistula A-V en tercio medio no se observan colecciones ni liquido libre	Affirmed
+1008	imagen	Psoas con fibras musculares conservadas, no se observa imagen sugerente de coleccion.	Negated
+1009	dilatacion 	Pelvis de diametro anteroposterior de 1.4(cm), extrarrenal No se detecto dilatacion  ureteral.	Negated
+1010	apendicitis	en su diametro anteroposterior, minimo liquido libre, e imagen tubular, dolorosa, no compresible con apendicolito en su interior, compatible con apendicitis aguda.	Affirmed
+1011	derrame 	A116632 Se explora en forma comparativa ambas caderas No se observan alteraciones de partes blandas ni derrame  articular Ambos psoas de estructura conservada en los sectores visibles	Negated
+1012	dilatada	111205 HIGADO: tamano conservado y moderado incremento de la ecogenicidad en forma difusa  VIA BILIAR intra y extrahepatica: no dilatada.	Negated
+1013	cicatriz 	A1945 no se observan alteraciones visibles ecograficamente por detras de la cicatriz  tiroides, parotidas y glandulas submaxilares sin alteraciones	Affirmed
+1014	FORMACION QUISTICA	Medidas vol 25 CC SE OBSERVA OVARIO IZQUIERDO AUMENTADO DE TAMAnO, CON IMAGENES FOLICULARES VOL: 34 CC, Y GRAN  FORMACION QUISTICA que impresiona del anexo izquierdo que se ubica retro y supravesical, con pared con algunos sectores internos engrosados y pequeno  tabique, de 6.0 x 7.5 x 9.0( cm ) No hay liquido libre en cav abd.	Affirmed
+1015	dilatacion	RDer: con ectasia pielocalicial a predominio de grupo calicilar superior, disminuye parcialmente postmiccion, no observandose dilatacion de ureter.	Negated
+1016	heterogenea	A99228 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea no nodular.	Affirmed
+1017	forma	Ambos ovarios de forma, tamano y ecoestructura conservada, con imagenes simples de apariencia folicular, no se observan imagenes quisticas.	Affirmed
+1018	Derivacion 	/ no evaluable por interposicion gaseosa COLATERALES: Vena coronaria en epiplon: 3 mm Derivacion  dorsal: Hemorroidales: Ascitis: Conclusion: se observan signos ecograficos de hipertension  portal.	Affirmed
+1019	heterogenea	Se observa en el espesor de TCS imagen ovalada, de bordes  bien delimitados,finamente heterogenea de 1.3 cm x 0.7 cm x 1.3 cm,(malformacion linfatica) no se logra evaluar con Doppler por llanto persistente y movimiento.	Affirmed
+1020	heterogenea difusa	A22923 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.	Affirmed
+1021	imagen	Se observa imagen retrovesical sacular que no esta en contacto con la pared vesical y que podria corresponder al recto.	Affirmed
+1022	condensacion	A257557 Ecografia pleural: Hemitorax derecho: sin evidencia de derrame ni condensacion.	Negated
+1023	dilatada	Via excretora no dilatada.	Negated
+1024	liquido	No se observan colecciones ni liquido intrarticular al momento del examen.	Negated
+1025	Ectasia	Ectasia pielica premiccional de 0.5 cm que no varia postmiccion.	Affirmed
+1027	forma	Rd nativo no se observa, RIz de forma alterada sin diferencion corticomedular.	Affirmed
+1028	derrame 	A347520 ECOGRAFIA PLEUROPULMONAR En base  pulmonar derecha se observa derrame  pleural anecoico, con pulmon subyacente no aireado.	Affirmed
+1029	Ectasia	Ectasia pielica bilateral pre y posmiccional, se visualizan los ureteres en toda su extension premiccional, en la posmiccion no se identifican los proximales.	Affirmed
+1030	dilatacion 	No se detecto dilatacion  ureteral ni litiasis en la via urinaria.	Negated
+1032	apendicolito	A nivel de fosa iliaca derecha se visualiza asa hipoecogenica con apendicolito en su interior no compresible y con incremento de la ecogenicidad de la grasa periapendicular y con diametro transverso de 8.9 mm No se visualiza liquido libre en el area ni en cavidad.	Affirmed
+1034	liquido	Diametro longitudinal:8.1( cm ) ganglios mesentericos en rango no adenopatico.. No se detectaron colecciones ni liquido libre.	Negated
+1035	imagen	Pequena imagen  quistica a nivel de surco caudotalamico izquierdo que no produce compresion  ventricular.	Affirmed
+1036	dilatacion 	Diam long 5.5 cm, pelvis renal: 2.2 cm, no se observa dilatacion  ureteral.	Negated
+1037	hidrocele	A262651 Se observa ovario derecho de forma y ecoestructura conservada, ubicado en trayecto inguinal distal por delante de los vasos iliacos sin extencion al TCS ni plano muscular, sin hidrocele.	Negated
+1038	imagenes	A352965 DOPPLER VENOSO VCS no se observa imagenes sugerentes de Trombosis, cateter en su interior.	Negated
+1039	doble	A140399 RD pequeno y ecogenico de 5.7 x 1.8 cm, sin diferenciacion  corticomedular RI Aparenta doble 10.7 x 4.6 sin dilataciones, no visualizo ureteres  , me gustaria conocer los antecedentes y si en realidad esta en IRC, tiene CUGM, antecedentes de infecci{on  '.	Possibility		
+1040	INTRAARTICULAR 	EN FORMA COMPARATIVA SE ESTUDIAN AMBAS RODILLAS, REGION SUPRAROTULIANA, MEDIAL, LATERAL, INFRAROTULIANA, POSTERIOR, NO SE OBSERVA AUMENTO DE LIQUIDO PATOLOGICO A NIVEL INTRAARTICULAR	Affirmed
+1041	adenopatia	Presencia de adenopatia en el hilio hepatico de long mayor 1.9 cm VIA BILIAR intra y extrahepatica: no dilatada.	Affirmed
+1042	quistes	A123252 Glandula tiroides con ecoestructura leve y finamente heterogenea, por presencia de pequenos quistes coloides, bilaterales, siendo el predominante en el lobulo izquierdo, en sector medio y anterior, no presentando variaciones con respecto al control previo( enero 2010), de aprox 6 mm( vol 0.2 cc).	Affirmed
+1043	hipertension	Relacion epiplon aorta:1:1.Sin signos de hipertension  portal No se observo liquido libre en cavidad.	Affirmed
+1044	nodular	A144222 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea no nodular, disminuidos globalmente de tamano.	Negated
+1045	aumento	A293411 Se explora tobillo y pie izquierdo No se observa aumento del espesor del TCS en comparacion con el contralateral.	Negated
+1047	centrada	A106632 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano, con multiples areas hipoecoicas y tractos lineales ecogenicos(tractos fibrosos) Luz traqueal  centrada.	Affirmed
+1048	aumento	En FID se observa imagen tubular, no compresible, mide 8.7mm, aumento de ecogencidad de la grasa mesenterica subyacente.	Affirmed
+1049	formacion solida	A46551 Se observa formacion solida finamente heterogenea no vascularizada en parrila costal izquierda ,en plano sudcutaneo profundo.No impresiona compromiso de musculos intercostales ni de arcos costales-.mide 1.5 cm x 0.8 cm.	Affirmed
+1050	dilatacion	Rinon izquierdo con imagen redondeada en sector medio del rinon( 2.6 x 2.5cm), isoecoica con el parenquima adyacente, sin senal Doppler color de significacion ni dilatacion.	Negated
+1051	heterogenea	513410 Ambos lobulos tiroideos e istmo con ecoestructura minimamaente heterogenea no nodular, disminuidos globalmente de tamano.	Affirmed
+1052	imagen	693781 No se observa tejido tiroideo normal En topografia del lobulo izquierdo se observa imagen ecogenica sin flujo doppler que corresponderia a tirodes residual.	Affirmed
+1053	imagen	Se observa a nivel de flanco derecho imagen tubular, hipocoica, sugerente de apendice cecal,aumentado de tamano, con liquido en su interior, no compresible de 14 mm de diametro AP, liquido perivesicular.	Affirmed
+1054	imagenes	Se observa cateter de derivacion en FID con escaso liquido adyacente a la punta, no se observan imagenes quisticas.	Negated
+1055	vascular	470740 Higado homogeneo.vesicula normal No se visualiza pancreas ni retroperitoneo  vascular por interposicion aerea- Bazo homogeno .mide 9 cm Rinones nativos pequenos.	Negated
+1056	Hidrocele	Hidrocele bilateral extendiendose a conducto inguinal, no se observa comunicacion con abdomen.	Affirmed
+1057	Hidronefrosis	Hidronefrosis derecha, pelvis 1 cm, por compresi{on  ' Diagnostico presuntivo: duplcacion, linfangioma, teratoma  ', Deseo conocer evolucion se sugiere consulta a cirugia, no se justifica otro me{todo de im{agenes	Affirmed
+1058	dilatada 	coledoco no dilatada  VESICULA BILIAR: distendida alitiasica.	Negated
+1059	hipertension	/ 1 COLATERALES: Derivaciones: Vasos cortos , periesplenicas , sin hemorroidales Ascitis: no Conclusion: se observan signos ecograficos de hipertension  portal.	Affirmed
+1060	cambios	VESICULA BILIAR: de pared engrosada, de 0.4 cm( tener en cuenta que la pcte no presenta adecuado ayuno), en su interior se observa litiasis unica en bacinete que no moviliza con los cambios de decubito que mide 1.6 cm PANCREAS: tamano y ecoestructura normal.	Affirmed
+1061	hernia	532901 se explora la pared abdominal en reposo y contraccion no se observan alteraciones del Tcs, ni planos musculares no se observan signos ecograficos de hernia ni de trombosis al examen Doppler color	Negated
+1062	engrosamiento	Doppler Color normal, Doppler Pulsado con onda espectral bifasica( normal ) En Vena femoral superficial izquierda se observa engrosamiento de la pared con minima disminucion de la luz, que podria corresponder a trombosis  residual( no observada en ecografia previa) Alteracion espectral a dicho nivel, onda monofasica.	Affirmed
+1063	forma	A127906 Higado tx finamente heterogenea en forma difusa.Vporta,VSH,Art hepatica con senal color y doppler venoso y arterial presente.Vci normal.Via biliar no dilatada.	Affirmed
+1064	heterogenea	A96688 Se observa glandula tiroides con ecoestructura finamente heterogenea, no nodular, con vascularizacion no significativa.	Affirmed
+1065	liquido	Vejiga s / p no liquido libre.	Negated
+1066	imagenes	Vesicula con bilis espesa de paredes finas ,via biliar normal Se visualiza cabeza de pancreas ,importante interposicion aerea.- Bazo de tamano normal con al menos tres imagenes redondeadas hipoecogenicas no vascularizadas,la de mayor tamano de 0.6 cm y de 0.53 y 0.5 cm.	Affirmed
+1067	formacion solida	A20665 HIGADO: A nivel del higado remanente se visualiza formacion solida, finamente heterogenea, vascularizada de aprox 4.5 x 4.5 x 3.8 cm VIA BILIAR intra y extrahepatica: no dilatada.	Affirmed
+1068	herida	No se observan colecciones en cavidad, ni en herida quirurgica.	Affirmed
+1069	Esplenomegalia	Esplenomegalia homogenea mide 14.4 cm bazo accesorio de 2.7 cm VCI SP ambos rinones normales der 6.6 cm y ri 7.3 cm No se obsera Liquido libreen cavidad vejiga poco plenificada.	Affirmed
+1070	Implante	Implante renal en FII, de ecoestructura y ecogenicidad conservada, no se observa dilatacion de la via urinaria.	Affirmed
+1071	diferenciacion	Presenta aumento de la ecogenicidad del parenquima con disminucion de la diferenciacion corticomedular.DL: 11,3 cm No se detecto dilatacion de la via urinaria.	Affirmed
+1072	dilatacion	Ectasia pielocalicial izquierda, pelvis: 0.9cm No se detecto dilatacion de la via urinaria.	Negated
+1073	liquido	RD Diam Long: 8.7 cm RI Diam long:9.4 cm Vejiga de caracteristicas normales Se exploran ambas caderas con trasductor lineal de alta frecuencia: No se observa aumento del liquido intrarticular ni colecciones.	Affirmed
+1074	pequeno 	A141507 Masa hepatica ya conocida, heterogenea, con pequenas imagenes ecogenicas, sin areas de necrosis destacables, que afecta casi totalmente lobulo izquierdo, con muy pequeno  sector  periferico en seg II y III de parenquima conservado.La misma desplaza a VSH derecha, no identificandose media e izq.	Affirmed
+1075	hiperecogenicos	Ambos rinones aumentados de tamano, hiperecogenicos sin diferenciacion  corticomedular( rinones poliquisticos ) Vejiga de caracteristicas normales no se observan colaterales ni signos de HTP	Affirmed
+1076	derrame 	Hemitorax izquierdo: no se observa derrame  pleural.	Negated
+1077	flujo tipo	Dada la importante ascitis, no se logra visualizar shunt su topografia ,ni vasos venosos adayacentes con flujo tipo turbulento.	Negated
+1078	DIFUSO	654368 HIGADO: tamano DISMINU IDO CONTORNO NODULAR, HETEROGENEO  DIFUSO, HIPERECOGENICIDAD PERIPORTAL V PORTA 8 MM VIA BILIAR intra y extrahepatica: no dilatada.	Affirmed
+1079	doble 	residuo vesical postmicional long rI 10 cm RD Aparenta doble  sistema o bifido, no visulaizado en estudios anteriores de 8 cm de long sin dilatacion  pre y post en HSI   1.4 cm, reflujo  , no visualizo ureters, Se sugiere CUGM deseo conocer evolucion	Affirmed
+1080	liquido 	Se exploran ambas caderas en forma bilateral y simetrica: no se observan aumento del liquido  articular	Affirmed
+1081	lineales	741800 Ambos lobulos tiroideos e itsmo con ecoestructura heterogenea no nodular con visualizacion de tractos lineales ecogenicos ), disminuidos globalmente de tamano.	Affirmed
+1082	pequenas	BAZO: Se observan multiples imagenes de contornos irregulares hipoecogenicas predominantemente perifericas algunas de aspectos tringular o en cuna de diferentes tamanos no vascularizadas miden las de mayor tamano 2.1 cm ,otras de 0.7 cm y otras una pequenas perifericas mas redondeadas .Diametro longitudinal:12 (cm)en nel limite superior.Vena esplenica segmento retropancreatico con flujo  venoso conservado.	Affirmed
+1083	AUMENTO	SE OBSERVA AUMENTO DE LIQUIDO A NIVEL DE CAPSULA DE ARTICULACION COXOFEMORAL DERECHA, NO SE OBSERVAN IMAGENES SUGERENES DE PARTICULAS EN SUSPENSION O DETRITUS.	Affirmed
+1084	cambios	Conclusion: no se observan cambios significativos respecto a estudio previo.	Negated
+1085	imagen	Anidel de FID se visualiza imagen tubular con centro hipoecoico, no combresible, doloroso a la compresion, de 7.5mm, que podria corresponder a apex.	Affirmed
+1086	conocido 	Cavernoma portal ya conocido  VIA BILIAR intra y extrahepatica: no dilatada.	Affirmed
+1087	difuso	A52749 Higado: heterogeneo  difuso hiperecogenicidad periportal no se observan bilomas Via biliar intra y extrahepatica: Vesicula biliar: ausente Pancreas: Bazo: tamano aumentado.	Affirmed
+1088	hepatomegalia	A348933 HIGADO: hepatomegalia homogenea con aumento difuso de la ecogenicidad parenquimatosa  VIA BILIAR intra y extrahepatica: no dilatada.	Affirmed
+1089	Implante	764726 Implante hepatico de ecoestructura normal.con aerobilia NO SE OBSERVAN SIGNOS DE HP Flujo turbulento en la porta, lo que es un hallazgo frecuente( posicional )   en region hiliar postanastomotica, pero con buen flujo.	Affirmed
+1090	leve aumento	A199844 HIGADO: tamano conservado, con leve aumento de la ecogenicidad en forma difusa, sin lesiones focales( esteatosis ) VIA BILIAR intra y extrahepatica: no dilatada.	Affirmed
+1091	leve	625749 Se visualiza glandula tiroides con ecoestructura leve y finamente heterogenea, no nodular.	Affirmed
+1092	Derivacion 	Relacion Epiplon Aorta: 3,7 / 1,2 COLATERALES: Vena coronaria en epiplon:no Derivacion  dorsal: no Hemorroidales:no vasos cortos:no Ascitis:no Rinones de caracteristicas normales.RD:10,6 cm Ri:10,5 cm Conclusion: no se observan signos ecograficos de hipertension  portal.	Negated
+1093	nodular	A146009 HIGADO: hepatomegalia heterogenea debido a la presencia de multiples imagenes hipoecoicas de limites mal definidos, no se observa imagen  nodular dominante.	Negated
+1094	Ectasia	Ectasia pielica de 0.5 cm, que no se podifica significativamente postmiccional.	Affirmed
+1095	imagenes	BAZO: tamano y ecoestructura normal, a nivel de polo inferior de imagenes hipoecoicas, superficiales, pequenas agrupadas( ya observadas), sin vascularizacion que podrian corresponder a hematoma residualresuelto( no agudo)sin compromiso de parenquima esplenico, sin calcificaciones, sin evidencias ecograficas de proceso activo.	Affirmed
+1096	nodular	A269755 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular.	Negated
+1097	gaseosa	Diametro longitudinal:22,3( cm ) RETROPERITONEO  VASCULAR Y PANCREAS no visibles por interposicion gaseosa.	Affirmed
+1098	formacion quistica	A nivel supravesical ligeramente lateralizado hacia la izquierda se observa formacion quistica con contenido ecogenico particulado de aprox 6.4cm x 6.6cm x 3cm, sin senal Doppler en su interior, no aparenta comunicacion con la vejiga, extendiendose a lo largo de la FII, en relacion con el polo inferior del RI.	Affirmed
+1099	Aumento difuso	Aumento difuso de la ecogenicidad parenquimatosa( esteatosis hepatica) VIA BILIAR intra y extrahepatica: no dilatada.	Affirmed
+1100	imagenes	No se observan imagenes nodulares, quisticas ni calcificaciones.	Negated
+1101	imagen	A148853 HIGADO: tamano y ecoestructura normal.no se identifican imagenes quisticas VIA BILIAR intra y extrahepatica: no dilatada.	Negated
+1102	dilatacion	A216841 Ambos rinones ortotopicos- Rinon derecho de mayor tamano con multiples imagenes quisticas de diferente tamano, sin parenquima renal normal.Sin dilatacion pielocalicial.Se visualiza en forma intermitente ureter derecho no dilatado de 2.6 mm .	Negated
+1103	cambios	VESICULA BILIAR: En pared posterior se visualiza imagen de baja ecogenicidad, no movil con los cambios en decubito, sin flujo Doppler.Existen ecos internos.	Affirmed
+1104	NECROSIS	Diametro longitudinal: 9.7(cm) ADENOMEGALIAS CON AREAS DE NECROSIS Y CALCIFIXCACIONES, ALGUNAS EN CONGLOMERADO EN: HILIO HEPATICO:34X20 MM, RETROCAVA:58X45X30 MM,PARAAORICO IZQUIERDO DE 61X63X36 MM, PERIUMBILICAL DE60X43X22 MM, FLANCO IZQUIERDO DE83X78X43 MM No se observo liquido libre en cavidad.	Affirmed
+1105	imagen	Se observa en fosa iliaca derecha imagen tubular, no compresible que mide 11 mm de diametro anteroposterior que corresponderia a apex.	Affirmed
+1106	sin residuo postmiccional	A77060 Ecografia Renovesical Pre y postmiccional: vejiga de paredes lisas sin residuo postmiccional, no visualizo ureteres Hidronefrosis bilateral mas marcada del lado izquierdo, pelvis 2.5 cc, Der 1.13 Ambas no se modifican luego de la miccion Tiene Medicina Nuclear   considero importante realizar estudio con fursemida	Affirmed
+1107	herida	627751 Ecografia de partes blandas region dorsal  herida quirurgica por API amplia: No se identifican colecciones observadas en estudios anteriores.	Affirmed
+1108	aumento	A103491 Se realiza examen ecografico comparativo de ambos codos: se visualiza aumento significativo del espesor de partes blandas en codo derecho, no observadose incremento de liquido intraarticular.	Affirmed
+1109	nodular	A27059 Ambos lobulos tiroideos e itsmo con ecoestructura minimamente heterogenea difusa no nodular y aumentados globalmente de tamano.	Negated
+1110	flujo	Vejiga con escaso contenido heterogeneo, de paredes engrosadas, con hiperflujo, no se puede determinar si la imagen intravesical tiene flujo, por dolor y urgencia miccional de la paciente.	Affirmed
+1111	hepatomegalia	A229220 Discreta hepatomegalia homogenea VIA BILIAR intra y extrahepatica: no dilatada.	Affirmed
+1112	forma difusa	Rinon izquierdo de bordes lobulados, con aumento de la ecogenicidad en forma difusa, con imagen  cortical en polo inferior region intermedia, hipocoica,redondeada, no vascularizada( mide 0.9 cm x 0.9 cm ) y otra en sector medio ,mas anterior que mide 0.8 cm x 0.5 cm ) Vejiga de caracteristicas normales.	Affirmed
+1113	imagen	En FID se observa imagen tubular hhipoecoica, no compresible de 13 mm de diametro AP compatible con Apex.	Affirmed
+1114	liquido	Diametro longitudinal:12,7( cm ) No se detectaron colecciones ni liquido libre.	Negated
+1115	hipertension	/ 1( valor elativo por higadopequeno y corticoterapia) COLATERALES: Vena coronaria en epiplon:4 mm Derivacion  dorsal: no Hemorroidales: vasos cortos:no Ascitis:no Rinones de caracteristicas normales Conclusion: se observan signos ecograficos de hipertension  portal.	Affirmed
+1116	Dilatacion	A12538 Ambos rinones rotados, en herradura  , no puedo ver la union anterior, si existe, por intenso meteorismo, parenquima bilateral conservado, sin alteracion de la ecoestructura, medicion por posterior RI 9.3 cm RD 9.4 cm Dilatacion pielica en RI de 2.2 cm se visualiza ureter proximal de 3.2 mm Ectasia pielica derecha de 9 mm vejiga de paredes lisas	Affirmed
+1117	alitiasica	VESPLENICA DE 15 MM ADENOPATIAS EN HILIO Y PERIPANCREATICAS DE 46Y 37 MM RESPECTIVAMENTE Via biliar intra hepatica: 3 mm Vesicula biliar: alitiasica paredes engrosadas NO SE OBSERVA ASCITIS RInONES AUMENTADOS DE TAMAnO, HETEROGENEO DIFUSOS.	Affirmed
+1118	nodular	A29142 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y presencia de multiples tractos fibrosos.	Negated
+1119	heterogenea difusa	946977 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.	Affirmed
+1120	nodular	123104 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa levemente, no nodular.	Negated
+1121	alitiasica 	A211404 Higado: homogeneo, tamano normal vena porta 15 mm flujo hepatopeto VMS 14x12 mm V esplenica 12 mm VSh flujko heptofugo normal Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: alitiasica  Pancreas: sp Bazo:homogeneo tamano normal.	Affirmed
+1122	Flujo	: no se pudo tomar IR: 0.59 Venas porta: Flujo hepatopeto conservado, Velocidad Max.	Affirmed
+1123	megaureter	486353 Ecografia renovesical, pre y postmiccional: Doble  sistema derecho y probable izquierdo o bifido con dilatacion pielocalicial y megaureter que se sigue hasta flancos y no se visualizan ingresando en la vejiga.	Affirmed
+1124	hidrocele	Minimo hidrocele bilateral, no se observa dilatacion de plexo pampiniforme durante las maniobras de Valsalva.	Affirmed
+1125	dilatacion	Coledoco con dilatacion en sus 2 / 3 proximales, con diametro AP 1 cm ; y su porcion distal no dilatada( 3.8mm).No se observan imagenes ecogenicas en su interior.	Affirmed
+1126	flujo	La misma no presenta flujo al doppler color.	Negated
+1127	derrame 	760485 Prenquima pulmonar no aireado de tercio medio,basal y apical de htx izquierdo,con minimo derrame  pleural lineal y broncograma aereo.Distribucion habitual de vasos pulmonares.	Affirmed
+1128	nodular	532441 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea no nodular.	Negated
+1129	liquido	No liquido libre en cavidad abdominal, no derivaciones hemorroidales.	Negated
+1130	dilatacion	Sin dilatacion del sistema excretor No se identifica la vejiga.	Negated
+1131	hematoma	Por este metodo no se puede descartar hematoma subdural ni extradural.	Negated
+1132	parcialmente	Retroperitoneo superior  parcialmente visible por interposicion de aire intestinal, s / p No se identifican adenomegalias.	Affirmed
+1133	nodular	611191 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.	Negated
+1134	dilatada	: 20 cm / s Venas suprahepaticas: Flujo hepatofugo, onda bifasica Via biliar no dilatada.	Negated
+1135	ectasia	No se detecto dilatacion de la via urinaria.Rinon izquierdo impresiona pelvis  bifida con minima ectasia calicial superior.No dilatacion de la via urinaria ni visualizacin de ureteres.No se observan cambios luego de la miccion.	Affirmed
+1136	desplazamiento	Presenta pequeno quiste subependimario de 0.8 x 1.3 mm que no produce desplazamientos ni efectos de masa.	Negated
+1137	cambios	A345848 Se realiza ecografia, no se observan cambios significativos con respecto a ecografia previa.	Negated
+1138	liquido	diametro longitudinal 5.3( cm ), transversal 3.5(cm) anteroposterior 2.8(cm), OVARIO DERECHO: de forma,tamano y estructura conservada 2.9(cm) x 2(cm) x 2.7(cm) con imagen  quistica  folicular dominante de 0.9 cm x 1.2 cm Volumen:8.6( cc ) OVARIO IZQUIERDO: de forma,tamano y estructura conservada 2.1(cm) x 1.3(cm) x 2.1(cm) Volumen: 3.1(cc) No liquido libre.-	Negated		
+1139	QUISTICA	VIA BILIAR intra y extrahepatica: no dilatada.PERSISTE IMAGEN  QUISTICA EN HILIO HEPATCO DE19X17X12 MM, NO SE MODIFICA POST PRANDIAL VESICULA BILIAR: no se identifica( 6 horas de ayuno) PANCREAS: tamano y ecoestructura normal.	Affirmed
+1140	pequenas	A170115 Se visualizan ambos rinones ortotopicos, con leve ectasia pielica bilateral, y pequenas ecorrefringencias en senos, que no constituyen litos definidos, que no modifican postmiccion.	Affirmed
+1141	nodular	891467 Se visualiza glandula tiroides con ecoestructura heterogenea, no nodular, predominantemente hipoecoica.	Negated
+1142	derrame 	955807 en cara anterior del muslo izquierdo, por debajo del TCS, se observa una coleccion liquida con algunos tabiques de54x48x18 mm No se observa derrame  articular	Negated
+1143	asa	En FID se observa asa tubular, no compresible, aperistaltica, de 7mm de diametro, con contenido hipoecoico y ecogenico con sombra acustica( apendicolito ), que podria corresponder a proceso apendicular.	Affirmed
+1144	DIFUSO	A240942 Higado: HETEROGENEO  DIFUSO HIPERECOGENICIDAD PERIPORTAL NO SE OBSERVAN BILOMAS Vesicula biliar: AUSENTE VPORTA 3.7 MM VMS5X3.5 MM Pancreas: SP Bazo: POLIESPLENIA Retroperitoneo: Relacion Epiplon Aorta: 3.	Affirmed
+1145	masa	No se observan desviaciones de la linea media, efectos de masa, ni colecciones.	Negated
+1146	quiste	DIMENSIONES: Rinon derecho: 9.6 cm( con quiste incluido) Rinon izquierdo: 11 cm No se observo liquido libre.	Affirmed
+1147	imagen	Presencia de ganglios adyacentes de 0.6 cm y otro de 0.8 cm - Pequena imagen lineal hipoecogenica no vascularizada.-(adyacentes a ganglios)en plano subcutaneo profundo.- No liquido  articular en codo.	Affirmed
+1148	cuerpos 	Debido a osificacion de cuerpos  vertebrales no se observa medula  espinal por lo cual no se pueden descartar anomalias.	Affirmed
+1149	heterogenea difusa	A150082 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.	Affirmed
+1151	quistica	persiste pequena imagen  quistica ya conocida a nivel del segmento IV, de aprox 1.4 cm x 8 x 5 mm q podri corresponder a quiste  simple VIA BILIAR intra y extrahepatica: no dilatada.	Affirmed
+1152	patologia	No se visualiza RIz en fosa renal ni en el resto de la exploracion abdominal, se sugiere reevaluacion posterior luego de resolucion de patologia ginecologica.	Affirmed
+1153	dilatacion	Dilatacion pielocalicial derecha, pelvis premiccional de 1 cm, potmicc de 0.7 cm Sin dilatacion de la via urinaria izquierda Vejiga  parcialmente replecionada, no se visualiza residuo postmiccional.	Affirmed
+1154	reflujo	residuo vesical postmicional long rI 10 cm RD Aparenta doble  sistema o bifido, no visulaizado en estudios anteriores de 8 cm de long sin dilatacion  pre y post en HSI   1.4 cm, reflujo  , no visualizo ureters, Se sugiere CUGM deseo conocer evolucion	Affirmed
+1155	flujo	Se observa flujo color conservado, sin imagenes sugerentes de estenosis, no se logran obtener registros con Doppler pulsado por arterfactos de movimientos.	Affirmed
+1156	calcificaciones	A117909 Se observo engrosamiento difuso de partes blandas en plano celular subcutaneo de la pierna derecha sin evidencia de calcificaciones, lesiones quisticas ni nodulares.	Negated
+1157	quiste	Rinon derecho: quistes en polo superior e inferior, diametro mayor detectado de 0.6 cm	Affirmed
+1158	dilatada 	Via urinaria no dilatada  Vejiga plenificada de contornos regulares, sin residuo postmiccional.	Negated
+1159	nodular	693781 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea no nodular.	Negated
+1160	dilatacion	RD 8,7 cm x 4,2 cm x 3,1 cn RI 9 cm x 3,2 cm x 3,6 cm No se observa dilatacion de la via urinaria.	Negated
+1161	estenosis	Al momento del examen no se observan signos ecograficos compatibles con estenosis hipertrofica del piloro.	Negated		
+1162	imagen	No se visualiza coleccion ni imagens residuales.	Negated
+1164	periferica	La misma presenta vascularizacion  periferica, pero no central.	Affirmed
+1165	adenomegalias	PANCREAS: parcialmente visible por interposicion de aire intestinal s / p No se identifican adenomegalias BAZO: esplenomegalia homogenea.	Negated
+1166	Obstruccion	2.8 cm Marcada ureterohidronefrosis Izquierda Ureter der entre 1.5 cm y 1 cm, pelvis RI 2.9 cm, no varia luego de la miccion vejiga con imagen ecogenica en zona de reimplante izquierdo, secuela quirurgica  , Obstruccion en la union ureterovesical   se sugiere Medina nuclear.	Affirmed
+1167	lesiones	No se visualizan lesiones nodulares solidas ni quisticas.	Negated
+1168	Derrame 	A328356 Ecografia Pleural Derecho: No se visualiza patologia pleuropaquerenquimatosa por este metodo Izquierdo: Derrame  pleural, con ecos en su interior y presencia de tabiques no vascularizados.	Affirmed
+1169	nodular 	105196 Higado: heterogeneo  difuso contorno nodular  Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: ausente.	Affirmed
+1170	heterogenea	826341 Se visualiza glandula tiroides con ecoestructura heterogenea, no nodular, predominantemente hipoecoica.Vascularizacion s / p Istmo de igual ecoestructura de 2 mm Ganglios subangulomaxilares bilaterales, inespecificos, de 1.5 cm Medidas lob der tir: 1.5 x 1.4 x 3.8( cm ) vol 4.2 cc lob izq tir: 1.5 x 1.5 x 3.7( cm ) vol 4.3 cc	Affirmed
+1171	cambios	Se exploran rinones en decubito con transductor de alta frecuencia, no se observan imagenes patologicas o cambios de ecogenicidad en region media o polos, ectasias pielicas bilaterales, RIzquierdo con imagen sugerente de doble  sistema.	Negated
+1172	formacion	A51509 Se visualiza formacion hipoecoica en area superciliar derecho no adherido a planos profundos de 2cm x 1.5cm x 1cm de diametro aproximado.	Affirmed
+1173	dispositivo	Se visualiza entre TCS y plano muscular  aumento del espesor por ecoestructura ecogenica que impresiona hematoma, observando flujo turbulento en dispositivo de fistula, aunque en la onda espectral no se visualiza la caracteristica de flujo de turbulencia.	Affirmed
+1174	masa	OVARIO DERECHO: 0.8(cm) x 0.5(cm) x 0.7(cm) Volumen: 0.2(cc) OVARIO IZQUIERDO: 0.8(cm) x 0.4(cm) x 0.6(cm) Volumen: 0.1(cc) No se visualiza masa pelviana ni en region glutea anteriormente conocida.	Negated
+1175	heterogenea	Masa hipoecoica heterogenea, ubicada en pared abdominal por debajo del TCS, vascularizada de aprox 4 x 2 cm, se encuentra en relacion a otra estructura intra abdominal de caracteristicas ecograficas similares al ovario izquierdo, no se logra identificar integridad del musculo de pared abd.	Affirmed
+1176	herida	RD Diam Long: 9,1 cm RI Diam long:9,4 cm Vejiga de caracteristicas normales No se observa coleccion en herida quirurgica.	Negated
+1177	centro	A335703 Ambos lobulos tiroideos e istmo con ecoestructura basica homogenea con pequenas areas hipoecoicas, algunas con centro ecogenico, en la region profunda de ambos lobulos, no mayores a 2mm de diam.	Affirmed
+1178	dilatacion	Rinon derecho con dilatacion pielocalicial no a tension.	Affirmed
+1179	cavernoma	cavernoma d etronco y ambas ramas de la porta Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: paredes engrosadas varices perivesiculares 1.9 mm Pancreas: Bazo: homogeneo tamano aumentado.	Affirmed
+1180	dilatacion	RDer: con dilatacion pielica, que no modifica postmiccion.	Affirmed
+1181	aumento	Dimensiones: Testiculo derecho:( 2,9 cm) x( 1,3 cm) x( 0,8 cm) Volumen:( 1,6 cc) Testiculo izquierdo:( 3 cm) x( 1,5 cm) x( 1 cm) Volumen:( 2 cc) Ecografia mamaria: No se visualiza tejido mamario, aumento de la grasa mamaria bilateral, areola izquierda de mayor tamano.	Affirmed
+1182	heterogenea	A169420 Ambos lobulos tiroideos e istmo con heterogenea en forma difusa no nodular.	Affirmed
+1183	imagenes	5.9mm No se observaron cacificaciones ni imagenes quisticas en relacion con la misma.	Negated	
+1184	ectasia	Parenquima renal derecho de ecogenicidad y espesor normales, minima ectasia pielica renal: Pelvis premiccional der: 5.2(cm) Dilatacion pielocalicilar izquierda con dilatacion  ureteral proximal visible( EPU ) Pelvis premiccional 35.1(cm) No se detecto dilatacion  ureteral distal bilateral.	Affirmed
+1186	nodular	875104 Ambos lobulos tiroideos e istmo con ecoestructura finamente heterogenea difusa, no nodular.	Negated
+1187	diferenciacion	Rinon transplantado con leve aumento de la ecogenicidad, adecuada diferenciacion cortico medular, y dilatacion pielocalicial con predominio de ectacia a nivel de calices superiores, diametro pelvis premiccion 1.6 y postmiccion 0.9cm, no se visualiza ureter dilatado.	Affirmed
+1188	Implante	Implante renal de ecoestructura normal.Diam long 12,2 No se detecto dilatacion de la via urinaria.	Affirmed
+1189	dilatacion	Sin dilatacion No se detecto dilatacion  ureteral.	Negated
+1190	tabiques	955807 en cara anterior del muslo izquierdo, por debajo del TCS, se observa una coleccion liquida con algunos tabiques de54x48x18 mm No se observa derrame  articular	Affirmed
+1191	Derivacion	/ 1 COLATERALES: Vena coronaria en epiplon:no Derivacion dorsal:no Hemorroidales: no vasos cortos:no Ascitis:moderada Rinones de caracteristicas normales Conclusion: se observan signos ecograficos de hipertension  portal.	Negated
+1192	ADENOMEGALIAS	Diametro longitudinal: 9.7(cm) ADENOMEGALIAS CON AREAS DE NECROSIS Y CALCIFIXCACIONES, ALGUNAS EN CONGLOMERADO EN: HILIO HEPATICO:34X20 MM, RETROCAVA:58X45X30 MM,PARAAORICO IZQUIERDO DE 61X63X36 MM, PERIUMBILICAL DE60X43X22 MM, FLANCO IZQUIERDO DE83X78X43 MM No se observo liquido libre en cavidad.	Affirmed
+1193	nodular	RD Diam Long: 9.9 cm RI Diam long:9.7 cm Vejiga de caracteristicas normales Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.	Negated
+1194	tension	Rinon derecho con dilatacion pielocalicial no a tension.	Negated
+1195	heterogenea difusa	A115787 Se visualiza glandula tiroides con ecoestructura heterogenea difusa, no nodular.	Affirmed
+1196	imagenes	No se visualizan imagenes de aspecto patologico evaluables por este metodo, ni diferencicas significativas a la comparacion con el contralateral.	Negated
+1197	cambios	Dilatacion pielica de 2.3(cm) de diametro anterposterior, sin cambios postmiccionales No se detecto dilatacion  ureteral.	Negated
+1198	imagen	Vejiga de caracteristicas normales No se visualizan imagenes compatibles con invaginacion intestinal.	Negated
+1199	lesiones	Tiene arco %  ' o elisa   lla mdre refiere mataderos cerca, si bien no se ven otras lesiones, dejo las rx de torax en la casa, podrian pedirselas en nueva consulta.	Negated
+1200	adenomegalias	Pequenas imagenes quisticas de aspecto coloide no mayores a tres milimetros No se detectaron adenomegalias laterocervicales.	Negated
+1201	patologia	A360943 Ecografia Pleural Der: No se visualiza patologia pleuropulmonar por este metodo Izq: Derrame  pleural anecoico, con multiples tabiques, algunos de ellos gruesos, con consolidacion parenquimatosa subyacente.	Negated
+1202	periferico	A321765 HIGADO: tamano y ecoestructura normal, imagen  quistica a nivel de segmento IV, de 1.3 x 1 1 cm( periferico ) VIA BILIAR intra y extrahepatica: no dilatada.	Affirmed
+1203	central	Se observa en region medial de cuello y discretamente hacia la izquierda ,imagen a nivel de tejido celular subcutaneo por encima del musculo cutaneo del cuello,hipoecogenica y finamente heterogena ,compresible ,de contoros netos con senal color predominantemente central mide 1.5 cm x 0.93 cm x 3.6 cm.La misma no impresiona comunicacion con glandula tiroidea ni con su celda.	Affirmed
+1204	quiste	Ambos rinones ecogenicos con multiples quistes corticales no se reconoce parenquima.	Affirmed
+1205	imagen	999657 No se observa imagen compatible con glandula tiroides.	Negated
+1206	leve ectasia	848193 Ecografia renal pre y postmiccional Vejiga sin alteraciones, no visualizo ureteres Doble  sistema bilateral con leve ectasia de ambos hemisistemas inferiores.	Affirmed
+1207	liquido	Bazo: 7.5 cm No se observa liquido libre	Negated
+1208	dilatacion	Ambos rinones ortotopicos, con aumento de ecogenicidad y menor diferencicion corticomedular, no se visualiza dilatacion pielica.	Negated
+1209	flujo 	Shunt esplenorenal visible y permeable de 1.3 cm de diametro con flujo  venoso turbulento.Vena esplenica distal al shunt 30 cm / s. Esplenomegalia homogenea mide 23.3 cm No ascitis.	Affirmed
+1210	dilatada 	extrahepatica: No dilatada  Vesicula biliar: de paredes engrosadas con flujo  venoso colateral visible.	Negated
+1211	Implante	Implante hepatico homogeneo, via biliar no dialtada, pancreas, bazo y ambos rinones de tamano y ecoestructura conservada, no adenomegalias ni liquido libre en cavidada, vejiga plenificada.	Affirmed
+1212	alitiasica	A355177 Higado: homogeneo tamano disminuido a expensas del lobulo izquierdo cavernoma de tronco y rama derecha Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: alitiasica paredes engrosadas varices perivesiculares Pancreas: sp Bazo: homogeneo tamano aumentado.	Affirmed
+1213	masa	A349781 Ecoestructura parenquimatosa cerebral y de nucleos de la base sin alteraciones sin desviaciones de la linea media, efectos de masa, ni colecciones.	Negated
+1214	imagenes	64072 No se observan imagenes de significacion en la pared abdominal en la region de interes.	Negated
+1215	heterogenea difusa	A190878 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y tamano conservado.	Affirmed
+1216	ectasia	por detras de la misma imagen liquida tubular que impresiona asa  distal de colostomia utero prepuberal de 41x18x17 mm oi 31x27x12 mm vol 5,5 cc no se observa imagen de hidrocolpos no se identifica o derecho rinon derecho sp dl 10.2 cm rinon izquierdo en fii menor tamano dl 73 mm ectasia pielica 10 mm	Affirmed
+1217	ESPLENOMEGALIA	PANCREAS NO VISIBLE POR GAS INTESTINAL.ESPLENOMEGALIA HOMOGENEA.	Affirmed
+1218	aumento	A331521 Rinon derecho no dilatado, con aumento de la ecogenicidad y perdida de la diferenciacion cortico-medular.	Affirmed
+1219	nodular	A57035 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.	Negated
+1220	nodular 	395021 Higado: heterogeneo  difuso contorno nodular  Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: no visible Pancreas:sp Bazo: homogeneo.	Affirmed
+1221	liquido intraarticular	No se visualiza liquido intraarticular ni imagenes compatibles con coleccion.	Negated
+1222	aumento	A206025 Se realiza ecografia de partes blandas con transductor de alta frecuencia, Se observa en el dorso de la mano izquierda, aumento del espesor y ecogencicidad del tejido celular subcutaneo, con incremento de vascularizacion y una imagen pequena ovoidea hipoecoica no vascularizada( coleccion ).	Affirmed
+1223	liquido	No se observa liquido libre ni colecciones.	Negated
+1224	imagen	Se observa imagen tubular no compresible descendente de 9.3 mm ap con aumento de grasa mesenterica y pequenos ganglios adayecentes de 0.5 cm.	Affirmed
+1225	masa	No se observan colecciones ni efectos de masa.	Negated
+1226	nodular	486628 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular, tamano aconservado Luz traqueal  centrada.	Negated
+1227	dilatada 	395021 Higado: heterogeneo  difuso contorno nodular  Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: no visible Pancreas:sp Bazo: homogeneo.	Negated
+1228	inflamatorio 	En FID se encuentra imagen tubular no compresible de 1,3 cm de diametro, con hiperflujo periferico y grasa ecogenica alrededor, que podria corresponder a proceso  inflamatorio  apendicular.	Affirmed
+1229	quiste	A176301 Ambos lobulos tiroideos e istmo con ecoestructura homogenea, no nodular y aumentados globalmente de tamano, pequenos quistes de retencion coloidea con predominio a nivel de polo inferior de ambos lobulos.	Affirmed
+1230	Hidronefrosis	74292 Ecografia renovesical pre y postmiccional: Hidronefrosis derecha pelvis, 3.5 cm, que no se modifica con la miccion, escaso parenquima sin diferenciacion  corticomedular, sin cambios con ecografia previa RI con leve dilatacion de la pelvis( 1 cm).	Affirmed
+1231	leve aumento	A305712 HIGADO: de tamano normal con leve aumento de la ecogenicidad parenquimatosa  VIA BILIAR intra y extrahepatica: no dilatada.	Affirmed
+1232	TROMBOSIS	272872 DOPPLER COLOR PULSADO Y COLOR NO SE OBSERVAN IMAGENES SUGERENTES DE TROMBOSIS A NIVEL DE SISTEMA ARTERIAL O VENOSO DE MIEMBROS INFERIORES.	Negated
+1233	hidronefrosis	995571 Ecografia renovesical pre y postmiccional: Ri con hidronefrosis conocida, pelvis 2 cm, que no se modifica luego de la miccion.	Affirmed
+1234	nodular	A255796 Se observa glandula tiroides aumentada globalmente de tamano, de contorno lobulado, con ecoestructura finamente heterogenea, no nodular, predominantemente hipoecoica, hipervascularizada.	Negated
+1235	aumento	A96967 Rinon der disminuido de tamano y con aumento de la ecogenicidad, menor diferencicion corticomedular y menor espesor cortical  Via urinaria no dilatada  Rinon izq de tamano y ecoestructura normal.	Affirmed
+1236	hipertension	/ 1 COLATERALES: Vena coronaria en epiplon: 2 mm Derivacion dorsal:3 mm Hemorroidales: no Ascitis:no rinones sp Conclusion: se observan signos ecograficos de hipertension  portal.	Affirmed
+1237	imagen	En FID se observa imagen tubular, no compresible, de 8 mm de diametro que podria corresponder a proceso apendicular.	Affirmed
+1239	calcificaciones	Sin calcificaciones, ni vascularizacion en su interior.	Negated
+1240	ampliacion 	vejiga de paredes gruesas 8antecedente de ampliacion  vesical, que luego de la miccion no tien residuo pero el ureter se sigue visualizando de 9 mm a 2 mm en su porcion distal Si alteracion del flujo  arterial y venoso del implante tambien se visualiza otro megaureter	Affirmed
+1241	imagenes	Se explora abdomen, no se observa imagenes compatibles con pseudoquiste.	Negated
+1242	aumento	No se observa aumento del liquido  articular ni alteraciones musculares en la region explorada.	Negated		
+1243	imagenes	32.0 cc Ovarios con ecoestructura conservada, no se identifican imagenes quisticas.	Negated
+1244	Dilatacion	Dilatacion de la via urinaria: Premicc Postmicc Der Pelvis 1.3 cm 1.7 cm U Prox 0.5 cm 0.8 cm U distal no se visual no se visual Izq Pelvis 1.5 cm 0.7 cm U Prox 0.4 cm 0.3 cm U distal no se visual no se visual Vejiga  parcialmente replecionada.	Affirmed
+1245	stent	Exploracion directa extrarrenal: Arteria renal derecha con flujo turbulento en tercio proximal y aumento de la velocidad( 212 cm / seg) a dicho nivel, con disminucon de la velocidad en dos tercios distales(65 cm / seg) sugestivo de estenosis no se visualiza stent a traves de este metodo.	Negated
+1246	imagen	A nivel periventricular, en la prolongacion frontal del ventriculo lateral izq, se observa pequena imagen  nodular, ecogenica, a correlacionar con su enfermedad de base No se observa dilatacion  ventricular.	Affirmed
+1247	heterogenea	532441 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea no nodular con visualizacion de No se detectaron adenomegalias laterocervicales.	Affirmed
+1248	lesion	Partes blandas en sitio de lesion se observa aumento de espesor y de ecogenicidad de plano subcutaneo sin compromiso del plano muscular.Ni cambio de ecogenicidad de fascias.Mide espesor 0.96 cm.Al igual que region de hombro sin liquido intraarticular ni compromiso del plano muscular en cara dorsal e inferior de hombro izquierdo.	Affirmed
+1249	imagenes	No se visualizan imagenes quisticas ni nodulares.	Negated
+1250	solida	En plano superficial de pared abdominal anterior derecha, supraumbilical, pequena, solida, hipoecoica, de 0.7 x 0.8( cm ), no vascularizada.	Affirmed
+1252	imagenes	no se observan imagenes quisticas ni sugestivas de duplicacion	Negated
+1253	dilatacion 	VIA BILIAR intra y extrahepatica: dilatacion  sacular de 5 mm aprox, no se observan imagenes sugerentes de litiasis.	Affirmed
+1254	Ureterohidronefrosis	118898 Ureterohidronefrosis marcada bilateral con escaso parenquima RD, RI sin parenquima vejiga de paredes gruesas con diverticulos( neurogenica ) Higado, bazo sin alteraciones no se puede evaluar retroperitoneo por aire	Affirmed
+1255	esteatosis	A339551 HIGADO: tamano normal.aumento de la ecogenicidad en forma difusa( esteatosis ) VIA BILIAR intra y extrahepatica: no dilatada.	Affirmed
+1257	nodular	A169043 Higado: heterogeneo  difuso, contorno nodular, hiperecogenicidad periportal, vena porta en hilio 10 mm VMS 12 mm Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: paredes gruesas Pancreas: sp Bazo:tamano aumentado.	Affirmed
+1258	dilatacion	Higado, sin alteraciones vesicula libre, pancreas, bazo y retroperitoneo de caracteristicas normales IMPLANTE RENAL: diferenciado de 10 x 4 cm, con dilatacion pielocalicial, mas pielica y ureteral que pielica Pelvis 1.72 cm, ureter 0.9 cm, no puedo visualizar la zona de implantacion en vejiga, Arteria y vena sin alteraciones	Affirmed
+1259	edema	Se observa en todo el dorso de mano marcado edema del tejido celular subcutaneo.A nivel de base de tercer dedo se observa pequena imagen hipoecoica, no fluctuante que podria corresponder a coleccion incipente.La misma mide:1,9 x 2,9 x 0,8 cm 	Affirmed
+1260	ureterohidronefrosis	Ureterohidronefrosis derecha con ureter dilatado con urotelio engrosado y ecos moviles en su interior(pioureterohidronefrosis) No se logra visualizar adecuadamente ,desembocadura del mismo impresiona en vejiga.	Affirmed
+1261	liquido 	A227434 Ecografia de ambas caderas comparativas: No se identifica liquido  articular en ambas caderas.	Negated
+1262	SOLIDA HETEROGENEA 	Diametro longitudinal: 12(cm) TROMBO EN VCI DE APROX 16X4X3 CM MASA  SOLIDA HETEROGENEA  PRECAVA QUE CRUZA LA LINEA MEDIA No se observo liquido libre en cavidad.	Affirmed
+1263	dilatada 	Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: de paredes gruesas con varices perivesiculares.	Negated
+1264	hepatomegalia	A290944 HIGADO: leve hepatomegalia con imagen redondeada, solida heterogenea con algunas aereas mas hipoecoicas en su interior en segmento VII que mide aprox 73x65x44 mm, de menor tamano que ecografia previa Se visualizan adenopatias en hilio hepatico VIA BILIAR intra y extrahepatica: no dilatada.	Affirmed
+1265	teratoma	Hidronefrosis derecha, pelvis 1 cm, por compresi{on  ' Diagnostico presuntivo: duplcacion, linfangioma, teratoma  ', Deseo conocer evolucion se sugiere consulta a cirugia, no se justifica otro me{todo de im{agenes	Affirmed
+1266	liquido	se oservan dos uteros y dos cuellos de forma y estructura conservada( utero didelfo) Ut der:69x48x21 mm endometrio 6 mm Ut izq: 53 x 42x 29 mm endometrio 7 mm ovario derecho 38x30x15 mm vol: 9.5 cc ovario izquierdo: 42x30x20 mm vol:13 cc foliculo dominante de 19 mm No se observa liquido libre en cavidad	Negated
+1267	hidrocele	Se observa a nivel de tercio medio posterior de testiculo derecho, imagen hipoecoica de bordes definidos sugerente de restos adrenales( mide:6.7 x 2.1 mm) Dimensiones: Testiculo derecho: Volumen:3( cc ) Testiculo izquierdo: Volumen: 3.7(cc) No se observa hidrocele o varicocele.	Negated
+1268	heterogenea difusa	A214642 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.	Affirmed
+1270	pielonefritis cronica	RI con dilatacion del caliz superior y disminucion del parenquima en polo superior, signos de pielonefritis cronica, que no varia con el vaciado miccional	Affirmed
+1271	dilatada 	Via urinaria no dilatada  Rinon izquierdo de tamano y ecoestructura normal.	Negated
+1272	dilatada	VCI permeable.No se visualiza flujo  portal en hilio observandose colaterales venosas.Via biliar no dilatada.	Negated
+1273	comunicacion	Hidrocele bilateral extendiendose a conducto inguinal, no se observa comunicacion con abdomen.	Negated
+1274	aumento	No se observa aumento de flujo en su interior ni signos de abscedacion.	Negated
+1275	imagenes	No se observan imagenes quisticas ni solidas.	Negated
+1276	heterogenea	Se visualiza glandula tiroides finamente heterogenea, no nodular, predominantemente hipoecoica.	Affirmed
+1277	difuso	51948 Higado: heterogeneo  difuso hipereecogenicidad periportal Via biliar intra y extrahepatica: no dilatada  Pancreas: sp Bazo:homogeneo.	Affirmed
+1278	Implante	Implante renal de ecoestructura normal.12x5x3.8 cm No se detecto dilatacion de la via urinaria.	Affirmed
+1279	dilatacion	Higado de forma, tamano y ecoestructura habitual, no se evidencia dilatacion de la via intra ni extrahepatica.	Negated
+1280	nodular	Imagen  nodular hipoecoica de 0.8 cm cercana al polo inferior No se observo liquido libre en cavidad.	Affirmed
+1281	infantil	UTERO: En AVF, de forma, aumento de tamano para la edad, forma no infantil.	Negated
+1282	TERATOMA	PODRIA CORRESPONDER A TERATOMA No se observo liquido libre en cavidad.	Possibility
+1283	hipertension	Ascitis: no se visualiza Conclusion: Se observan signos ecograficos de hipertension  portal.	Affirmed
+1284	nodular	353600 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.	Negated
+1285	flebitis	No se observan al momento del estudio senal Doppler de fistula arteriovenosa, ni signos de trombosis o flebitis.	Negated
+1286	liquido	No se visualiza liquido en cavidad ni interasas.	Negated
+1287	hepatomegalia	A145521 HIGADO: Discreta hepatomegalia homogenea VIA BILIAR intra y extrahepatica: no dilatada.	Affirmed
+1288	imagen	Se observa una imagen ecogenica lineal, endoluminal en la VCI que podria corresponder a resto de cateter central Relacion Epiplon no valorable por gas.	Affirmed
+1289	dilatacion 	Pelvis pre-cateterismo: der: 1.6(cm) ; izq: 1.4(cm) Pelvis post-cateterismo: der: 1(cm) ; izq:1.6(cm) No se detecto dilatacion  ureteral, si bien el ureter izquierdo es visible en forma intermitente con un diametro de 0.3 cm pre y post-cateterismo.	Negated
+1290	liquido	56671 Imagen  quistica  irregular de aspecto fusiforme y contenido  liquido anecoico( no vascular) en region submaxilar derecha de aproximadamente 1.8 x 1.6 x 1.3cm compatible con linfangioma de acuerdo al antecedente.	Affirmed
+1291	aumento	A328230 Higado: ligeramente disminuido de tamano, contornos irregulares, heterogeneo  difuso con aumento de la ecogenicidad periportal Via biliar intra y extrahepatica: no dilatada.	Affirmed
+1292	diferenciacion	Ambos rinones ortotopicos con discreto aumento de tamano para la edad de ecogenicidad normal con discreta disminucionde diferenciacion corticomedular.Se observa en region media e inferior de valva anterior de rinon derecho imagen hipoecogenica redondedada no vascularizada de limites netos en parenquima renal de 0.6 cm x 0.5 cm de diamtro.	Affirmed
+1293	liquido	Long: 13.9 cm No se identifican adenomegalias ni liquido libre en cavidad abdominal.	Negated
+1294	heterogenea difusa	96507 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular.	Affirmed
+1295	nodular	481310 Se observa glandula tiroides con ecoestructura finamente heterogenea, no nodular, con presencia de pequenos quistes coloides de mm, difusos.	Negated
+1296	Dilatacion 	Dilatacion  ventricular bilateral.Diam supratalamicos: Derecho:1,9 cm Izquierdo:2.3 cm A nivel de union caudotalamica izquierda se observa pequena imagen  quistica que mide:0,7 x 0,5 cm que podria corresponder a lesion evolutiva secundaria a hemorragia No se observan desviaciones de la linea media, efectos de masa, ni colecciones.	Affirmed
+1297	doble 	Rinon derecho aumentado de ecogenicidad, impresiona doble  sistema con ectasia del hemisistema inferior.Ureteres no visibles.	Affirmed
+1298	imagen	La imagen se aloja en el TCS superficial no observandosse comunicacion con areas mas profundas.	Affirmed
+1299	nodular	A121556 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.	Negated
+1300	parcialmente	Medidas RD long: 5.7 cm En topografia de rinon izq se observa gran  hidronefrosis, con contenido homogeneo anecoico, no identificandose parenquima renal( 9.8 cm x 15 cm ) Vejiga  parcialmente plenificada de pared fina y contenido homogeneo.	Affirmed
+1301	dilatada	Via biliar extrahepatica: no dilatada.	Negated
+1302	trombosis	Este trayecto venoso se observo no compresible con contenido hipoecoico, compatible con trombosis.	Affirmed
+1303	aumento	En FID se visualiza imagen tubular hipoecoica, no compresible, dolorosa, que mide 7 mm de diametro anteroposterior( maximo normal 6 mm), con aumento de ecogenicidad pericecal.	Affirmed  
+1304	ectasia	Ecografia renovesical, pre y postmiccional: RD de menor tamano que el derecho( 5.6 cm), con disminucion del espesor a predominio del polo sup, con ectasia pielica de 8 mm que no se modifica luego de la miccion, RI de ecoestructura conservada( 6.4 x 3 cm), sin dilataciones Vejiga sin alteraciones,sin residuo postmiccional.	Affirmed
+1305	nodular	Se observa glandula tiroides con ecoestructura heterogenea, con imagen  nodular en tercio superior y anterior del lobulo derecho, hipoecoica de contorno no definida, de aprox 0.7 x 0.4( cm ) sin vascularizacion.	Affirmed
+1306	hiperecogenicidad	Higado: heterogeneo  difuso hiperecogenicidad periportal Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: no visible Pancreas: sp Bazo: homogeneo, tamano aumentado.	Affirmed
+1307	IMAGENES	Medidas vol 25 CC SE OBSERVA OVARIO IZQUIERDO AUMENTADO DE TAMAnO, CON IMAGENES FOLICULARES VOL: 34 CC, Y GRAN  FORMACION QUISTICA que impresiona del anexo izquierdo que se ubica retro y supravesical, con pared con algunos sectores internos engrosados y pequeno  tabique, de 6.0 x 7.5 x 9.0( cm ) No hay liquido libre en cav abd.	Affirmed
+1308	hipervascularizada	Se explora la region interna del muslo izquierdo en su extremo distal observando en el area palpable formacion hipervascularizada con flujo predominantemente arterial que se abre espacio entre el celular subcutaneo no extendiendose a estructuras vecinas.	Affirmed
+1309	imagen	Por detras del utero y lateralizado a la derecha se observo estructura quistica bilobulada de 5,5 x 2,1 x 3,6 cm que podria corresponder a quiste anexial derecho( en trompa) No se logro identificar ovario izquierdo ni parenquima de ecoestructura habitual vinculable a la imagen  quistica.	Affirmed
+1310	flujo	en hueco popliteo y cara posterior de la pierna izquierda se observa una formacion quistica con ecos y tabiques en su interior de aprox 18x9x4 cm que corresponderia a un gran  quiste de Baker No prsenta flujo al examen Doppler color ni compromiso de planos profundos	Negated
+1312	imagen	Ambos rinones ortotopicos.Rinon derecho de morfologia y ecogenicidad conservado.Rino izquierdo en polo superior valva posterior se observa imagen redondeada de paredes netas y contenido anecoico no vascularizado que podria corresponder a quiste parapielico de 4.2 cm x 3.3 cm.Pelvis renal no dilatada.NO se visualiza ureteres ni ureteroceles.	Affirmed
+1313	quistica 	testiculo derecho en bolsa escrotal presenta una imagen  quistica  simple en su interior de20x15x11 mm que ocupa 2 / 3 de la superficie testicular con parenquima conservado en ambos polos no presenta flujo al examen Doppler color epididmo normal test izq 23x14x6 mm vol 1.10 cc sin alteraciones	Affirmed
+1314	derrame 	A57909 HEMITORAX DERECHO: No se observa derrame  pleural.	Negated
+1315	parcialmente	RD Diam Long:4.3 cm RI Diam long:4.7 cm Vejiga  parcialmente plenificada, de caracteristicas normales No se observan signos ecograficos de hipertrofia  pilorica: Long.10mm ; Esp.1.5mm.	Affirmed
+1316	dilatacion	Mide:7.3 cm No se observa dilatacion de la via urinaria.	Negated
+1317	biliares	vias  biliares no dilatadas.	Affirmed
+1318	calcificaciones	A309816 control masa hepatica conocida en lobulo izquierdo con calcificaciones y areas de necrosis Mide 20x17x12 cm no se observa liquido libre	Affirmed
+1319	pulmonar	A293902 Ecografia pleural: Izq: Parenquima  pulmonar no aireado desde base a campo medio.	Affirmed 
+1320	IMAGEN	A225188 SE REALIZA ECOGRAFIA A NIVEL DE REGION SACRA, NO SE OBSERVA IMAGEN VASCULARIZADA A DICHO NIVEL, NI COMPROMISO DE ESTRUCTURAS PROFUNDAS.	Negated
+1321	ADENOMEGALIAS	LA COLA DEL EPIDIDIMO IZQUIERDO NO SE VISUALIZA PEQUEnA ADENOMEGALIAS INGUINAL DERECHA DE 11 MM	Negated		
+1322	liquido	Diametro longitudinal:83 mm RETROPERITONEO  VASCULAR: no valorable Minimo liquido libre en Douglas.. Ambos rinones de caracteristicas normales.	Affirmed
+1323	engrosamiento	RD Diam Long:7.4 cm RI Diam long: 6.5cm Vejiga de caracteristicas normales No se observa engrosamiento de la pared intestinal al momento del estudio.	Negated
+1324	hipertension	Diametro longitudinal: 9.9 cm( normal ) Retroperitoneo: Relacion Epiplon Aorta: 1 / 1 COLATERALES: Vena coronaria en epiplon:no Derivacion  dorsal: no Hemorroidales: no vasos cortos:no Ascitis:no Rinones de caracteristicas normales RD 10.2 CM RI9.9 CM Conclusion: NO se observan signos ecograficos de hipertension  portal.	Negated		
+1325	Esplenomegalia	Esplenomegalia homogenea, 18.5cm Pancreas no evaluable por aire intestinal interpuesto.	Affirmed
+1326	diverticulo	Vejiga de contorno neto, paredes finas y contenido normal, no se visualiza a traves de este metodo diverticulo.	Negated
+1327	vascular	Asas del ileon, apendicular y cecales de4 paredes engrosadas no logrando determinar flujo doppler vascular en su interior por interposicion de ventana acustica.	Negated
+1328	liquido	Vejiga de paredes engrosadas,de contenido no homogeneo, se visualiza en region inferolateral izquierda de vejiga imagen de paredes engrosadas y contenido  liquido de 2.8 cm x 1.9 cm compatible con ureter distal izquierdo remanente.	Affirmed
+1329	Ectasia	Ectasia pielica 0.6 cm No se detecto dilatacion de la via urinaria.	Affirmed
+1330	tabiques	Se visualizan colecciones con tabiques finos, ubicadas en flanco derecho( 6.46 x 4.98 cm), flanco izquierdo( 4.68 x 1.85 cm)y FII( 3.9 x 3 cm) que no afectan al momento de este estudio la motilidad de las asas adyascentes.	Affirmed
+1331	flujo	VSH: onda trifasica con flujo hepatofugo Via biliar intra y extrahepatica: no dilatado Vesicula biliar: alitiasica.	Affirmed
+1332	quiste	No se logra identificar quiste de punta de cateter de DVP ni apendice cecal.	Negated
+1333	hidronefrosis	En fosa renal izquierda se observa importante  hidronefrosis, no se logra identificar parenquima renal.	Affirmed
+1334	adenomegalias	Vol: 2.3 cc No adenomegalias regionales.	Negated
+1335	heterogenea	372461 Ambos lobulos tiroideos e istmo con ecoestructura finamente heterogenea no nodular.	Affirmed
+1336	nodular	Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.	Negated
+1337	aumento	A229589 Ambos rinones ortotopicos, de ecoestructura normal, no se observa aumento de la ecogenicidad parenquimatosa.	Negated
+1338	nodular	485725 Se observa glandula tiroides de pequeno volumen, con ecoestructura finamente heterogenea, no nodular.	Negated
+1339	liquido liquido	Rinon izquierdo: mo se identifica en su fosa ni en el resto del abdomen en la region pelviana se observa dos uteros el izquiedo en aparente comunicacion con una formacion liquida con un nivel liquido liquido de 52x27 mm que corresponderia a vagina( hidrocolpos ).	Affirmed
+1340	esteatosis	A97100 HIGADO: tamano conservado,con aumento leve de la ecogenicidad en forma difusa( esteatosis GI) VIA BILIAR intra y extrahepatica: no dilatada.	Affirmed
+1341	trombo 	se observa imagen ecogenica lineal en VCI que no ocluye totalmente la luz del vaso de 2 x 0.8 cm que correponderia a trombo  mural residual,( correlacionar con antecedentes) No se observo liquido libre en cavidad.	Affirmed
+1342	dilatacion	Miden: RD: 8.9 x 3.3 cm RIz: 8.8 x 3.2 cm No se observa dilatacion de la via urinaria.	Negated
+1343	cambios	A nivel del hilio de observan dos imagenes nodulares, ya conocidas, sin cambios significativos, una de 3 x 3.7 cm y la otra de aprox 4 x 3 cm VIA BILIAR intra y extrahepatica: no dilatada.	Negated
+1344	heterogenea	962986 Se visualiza glandula tiroides con aumento del tamano y ecoestructura heterogenea, no nodular.Moderado incremento de la vascularizacion.	Affirmed
+1345	bifida	No se detecto dilatacion de la via urinaria.Rinon izquierdo impresiona pelvis  bifida con minima ectasia calicial superior.No dilatacion de la via urinaria ni visualizacin de ureteres.No se observan cambios luego de la miccion.	Affirmed
+1346	cambios	presenta una imagen ecogenica de 3 mm en pared posterior, sin sombra acustica, no se moviliza con los cambios de decubito( polipo ).	Affirmed
+1347	imagen	Persiste imagen ovoidea, de aspecto quistico, en segmento VII, de aprox 4.5 x 3.5 x 2.3 cm VIA BILIAR intra y extrahepatica: no dilatada.	Affirmed
+1348	adenomegalias	Se observa formacion heterogena con areas hipoecoicas de limites no definidos de 3.5 x 2 cm aprox, que podria corresponder a conglomerado de adenomegalias, adenoflemon en formacion( no se observa coleccion propiamente dicha) Musculo ECM derecho desplazado en forma  posterior.	Possibility
+1349	hematoma	Se visualiza entre TCS y plano muscular  aumento del espesor por ecoestructura ecogenica que impresiona hematoma, observando flujo turbulento en dispositivo de fistula, aunque en la onda espectral no se visualiza la caracteristica de flujo de turbulencia.	Possibility
+1350	infiltracion	Se observa TIzq aumentado de volumen con areas hipoecoicas de bordes no definidos sugerentes de infiltracion leucemica.	Possibility
+1351	nodulos	A36699 HIGADO: aumentado de tamano, heterogneo de contornos lobulados( que pordrian corresponder a nodulos e regeneracion) VIA BILIAR intra y extrahepatica: no dilatada.	Possibility
+1352	Dilatacion	Dilatacion pielocalicila bilateral	Affirmed
+1353	Dilatacion	No se observa dilatacion  ureteral Vejiga vacia con balon.	Negated
+1354	dilatacion	No se detecto dilatacion de la via urinaria.Presencia de pelvis extrarenales bilaterales.pelvis renal der mide 1.2 cm y extrar 2.3 cm.Pelvis izquierda mide 0.97 cm y extrarenal 1.1 cm.Sin ditacion calicial ni visualizacion de ureteres. 	Negated 
+1355	dilatacion	Sin ditacion calicial ni visualizacion de ureteres.	Negated
+1356	dilatada	Via biliar con cateter no dilatada, se observa dilatacion de via biliar mas superficial intrahepatica de 6 mm.	Negated
+1357	flujo	RD Diam Long: 10 cm RI Diam long:10 cm Vejiga de caracteristicas normales Ao abdominal de paredes lisas, Pico sistolico maximo( PSM ) de 168 cm / s ARD y ARIz permeables en todo trayecto con PSM derecho 158 cm / s( elevado ), izquierdo de 100 cm / s no se observan cambios de flujo.	Affirmed
+1358	DILATACION	Via urinaria no dilatada  Rinon izquierdo de forma conservada DILATACION PIELOCALICIAL PELVIS 20 MM ESPESOR DE PARENQUIMA 9 MM SE VISUALIZA URETER DISTAL DE 8 MM Vejiga SP DIMENSIONES: Rinon derecho: diametro longitudinal: 2.2(cm) Rinon izquierdo: diametro longitudinal: 8.8(cm)	Affirmed
+1359	fibrilar	(prevascular) el esternocleido mastoideo derecho se abomba levemente hacia afuera sin cambios en la ecoestructura ni el el patron fibrilar.	Affirmed
+1360	ectasia	ectasia pielica izquierda de 1.1 cm que no se observa luego del vaciado  Vejiga de contorno irregular, paredes levemente engrosada y contenido normal.	Affirmed

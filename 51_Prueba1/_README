@@ -1,0 +1,20 @@
+
+Una prueba de hacer un matching de frase con
+strings tipo 
+
+
+
+palabra / palabra .... # tokens .... palabra / palabra .... [pal buscada] 
+
+
+
+
+consultado Jose ...
+esto es muy parecido a lo que hacer negex ...
+se podria usar, pero parece un poco complejo frente a lo que planteo
+de poder utilizar gramaticas mas complejas
+
+
+
+
+

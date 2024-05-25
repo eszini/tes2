@@ -1,0 +1,24 @@
+
+
+
+Despues de la charla "on presentia" con Jose.
+
+
+- en el lexer / parser ... se le tiene que poder decir al "lector" de gramatica, que 
+  avise si encontro la "palabra" buscada en un nivel del arbol, definido por el usuario.
+
+
+- el parser tiene que tener recuperacion de errores
+
+- el parser tiene que resolver conflictos de reduce reduce o shift reduce con
+  alguna estrategia por defecto.
+
+
+
+
+ver la 1077
+
+
+
+  
+ 

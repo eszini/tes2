@@ -1,0 +1,33 @@
+
+
+
+Parsing 
+
+
+
+
+
+
+
+
+
+
+Scripts:
+
+
+todo.sh
+Compilar y corre todos los programas
+
+compilar.sh
+Solo compila todo los programas necesarios en la seccion
+
+correr.sh
+Corre todos los programas de la seccion (no compila nada )
+
+borrar.sh
+Borra todo lo que no sirve 
+
+
+
+
+

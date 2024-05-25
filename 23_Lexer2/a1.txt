@@ -1,0 +1,11 @@
+1005 t1 neg t2 liquido t3 antes hay palabras no se observo liquido libre en cavidad ._PTO 
+1000 t1 neg t2 liquido t3 no se observo liquido libre en cavidad ._PTO 
+1001 t1 neg t2 liquido t3 no se observo ma  liquido libre en cavidad ._PTO 
+1002 t1 neg t2 liquido t3 no se observo ma mb liquido libre en cavidad ._PTO 
+1003 t1 neg t2 liquido t3 no se observo ma mb mc md me liquido libre en cavidad ._PTO 
+1004 t1 neg t2 liquido t3 no se observo ma mb mc md me mf liquido libre en cavidad ._PTO 
+1005 t1 neg t2 liquido t3 antes hay palabras no se observo liquido libre en cavidad ._PTO 
+
+
+
+

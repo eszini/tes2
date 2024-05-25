@@ -1,0 +1,82 @@
+/*
+ *
+ * 	Ejemplos de uso:
+ *
+ * 	para el ejemplo ...
+ *
+ *
+ *
+ *	h01                       corpus de entrada, con el siguiente formato  ( es igual al f01 )
+ *
+ *      Ej:
+ *
+ *      1000 T1 Neg T2 liquido T3 0.9 x 0.8 x 0.85 cm No se observo liquido libre en cavidad.
+ *
+ *
+ *
+ *
+ *	1) Generar en salida, todos los tokens del archivo de input, en formato columnar ( 1 tkn x linea)
+ *
+ * 	./tes_cpar05 -inp=h01  -out=h01_tkn
+ *
+ * 	./tes_cpar05  h01  h01_tkn
+ *
+ *
+ *	2) Generar en salida, todos los tokens del archivo de input, en formato columnar ( 1 tkn x linea)
+ *         con -e agrega al final de linea, el token EOL
+ *
+ * 	./tes_cpar05 -inp=h01  -out=h01_tkn  -e
+ *
+ *
+ *	3) Generar en salida, todos los tokens del archivo de input, en formato columnar ( 1 tkn x linea)
+ *         con -m pasa todo a minuscula
+ *
+ * 	./tes_cpar05 -inp=h01  -out=h01_tkn  -m
+ *
+ *
+ *	4) Generar en salida, todos los tokens del archivo de input, en formato columnar ( 1 tkn x linea)
+ *         Con -s ... separa segmentos por T1 T2 y T3 y procesa solo la frase que esta despues de T3 ...
+ *
+ * 	./tes_cpar05 -inp=h01  -out=h01_tkn  -s
+ *
+ *
+ *	5) Generar en salida, todos los tokens del archivo de input, en formato "linea" (no columnar)
+ *
+ * 	./tes_cpar05 -inp=h01  -out=h01_tkn  -f
+ *
+ *
+ * 	6) Idem anterior, con alguna informacion de salida 
+ *
+ * 	./tes_cpar05 -inp=h01  -out=h01_tkn  -s -e -m -f -v
+ *
+ *
+ * 	7) SIN -f  ...  Agrega informacion en archivo de salida para controlar funcionamiento ( linea procesada y nro de token)
+ *
+ * 	./tes_cpar05 -inp=h01  -out=h01_tkn  -s -e -v -nvd=1
+ *
+ *
+ * 	8) Para usar con un archivo de "marcas" ( para taggear ... )  Al final de este fuente, ejemplo de marcas !!!
+ *
+ * 	   Atencion !!!  La busqueda en la tabla de marcas NO es case sensitivo ... considerar el uso de -m 
+ *
+ * 	./tes_cpar05 h01 h01_tag  -mrk=f05_t1.mrk                    ( sale en formato columnar, con tags donde aplique )
+ *
+ * 	./tes_cpar05 h01 h01_tag  -mrk=f05_t1.mrk  -m                ( pasa todo a minuscula para eliminar el problema del case sensitive )
+ *
+ * 	./tes_cpar05 h01 h01_tag  -mrk=f05_t1.mrk  -s -m             ( aplica solo a la "frase" despues de marca t3 )
+ *
+ * 	./tes_cpar05 h01 h01_tag  -mrk=f05_t1.mrk  -s -m -nvd=1      ( agrega la frase procesada y nro de token en la salida )
+ *
+ * 	./tes_cpar05 h01 h01_tag  -mrk=f05_t1.mrk  -s -m -f          ( genera salida en formato frase, con tags )
+ *
+ * 	./tes_cpar05 h01 h01_tag  -mrk=f05_t1.mrk  -v -s -m -e       ( salida formato sentencia, con tags, en minuscula, con EOL, muestra proceso por pantalla )
+ *
+ *
+ *
+ */
+
+
+
+
+
+

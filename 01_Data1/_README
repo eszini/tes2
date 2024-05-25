@@ -1,0 +1,46 @@
+
+
+
+PASO  01
+
+
+Parte del archivo de corpus original
+
+Realiza algunas verificaciones para los procesos posteriores
+
+a) Verifica que todas las lineas tengan una clasificacion entre "Affirmed, Negated o Possibility "
+
+b) Verifica que todas las lineas tengan 3 tabs (separadores de los campos )
+
+
+
+El resultado es f01_err, que indica las lineas que tienen algun problema.
+
+
+Consideraciones:
+
+Esta depuracion se hizo para reducir errores en el sugsiguiente diseño y construccion de 
+programas.
+Se puede correr todo el proceso sin modificar el corpus en estos dos aspectos, pero
+obviamente eso introduce mas nivel de error en los resultados.
+
+
+Scripts:
+
+
+todo.sh
+Compilar y corre todos los programas
+
+compilar.sh
+Solo compila todo los programas necesarios en la seccion
+
+correr.sh
+Corre todos los programas de la seccion (no compila nada )
+
+borrar.sh
+Borra todo lo que no sirve 
+
+
+
+
+

@@ -1,0 +1,19 @@
+
+
+Anotaciones:
+
+
+
+Se genera el corpus CorpusV3.txt
+
+
+Parte del original, y contiene correcciones:
+
+
+- corrige cantidad de tabs incorrectos 
+
+- corrige el faltante de clasificador ( Aff, Neg o Poss )
+
+- elimina caracteres excedentes en cada linea (blancos, tabs y control M )
+
+

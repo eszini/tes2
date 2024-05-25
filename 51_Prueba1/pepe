@@ -1,0 +1,40 @@
+int	pres_reglas()
+{
+	int i;
+	char	*regla;
+	
+	for (i=0; i< cant_reglas; i++)
+	{	switch (i)
+		{
+			case 0:
+				regla = regla1;
+				break;
+			case 1:
+				regla = regla2;
+				break;
+			case 2:
+				regla = regla3;
+				break;
+			case 3:
+				regla = regla4;
+				break;
+			case 4:
+				regla = regla5;
+				break;
+			case 5:
+				regla = regla6;
+				break;
+			case 6:
+				regla = regla7;
+				break;
+
+			default:
+				printf ("error en reglas !!! \n");
+				error(901);
+				break;
+
+		}
+		printf ("Regla nro %2d:  \"%s\"  \n",i,regla);
+	}
+
+}

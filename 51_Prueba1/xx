@@ -1,0 +1,8 @@
+REG 01  no/ST <tk ... 0> se/ST <tk ... 0>  obser/SN <tk ... 3 > PTO
+REG 01  no/ST <tk ... 0> se/ST <tk ... 0>  obser/SN <tk ... 3 > PTO
+REG 01  no/ST <tk ... 0> se/ST <tk ... 0>  detec/SN <tk ... 3 > PTO
+REG  01  no/ST <tk ... 0> se/ST <tk ... 0>  detec/SN <tk ... 3 > PTO
+REG  02  no/ST <tk ... 0> poder/ST <tk ... 0>  visua/SN <tk ... 3 > COM no/ST   <tk ... 0> se/SN <tk .. 2> desca/SN <tk ... 4> PTO
+REG  03 no/ST <tk .. 2> PTO
+REG 01  no/ST <tk ... 0> se/ST <tk ... 0>  obser/SN <tk ... 6 > PTO
+REG 01  no/ST <tk ... 0> se/ST <tk ... 0>  obser/SN <tk ... 6 > PTO

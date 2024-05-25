@@ -1,0 +1,49 @@
+
+
+
+
+#
+# ejemplo de archivo de gramatica simplificada
+#
+
+# palabra    calificador_de_busqueda ( ST exacto .. SN cualquier palabra que coincida al principio )
+#
+
+
+# Ejemplo ...
+
+	{	no,ST
+		3
+		obser,SN | visua,SN | ident,SN 
+		3
+		REF,ST
+	}
+
+
+#
+# Esto implica que el parser tiene que buscar ...
+#
+#
+#
+# Cualquier 'conjunto' de palabras en una linea, 
+# que matchee con :
+#
+#
+# La palabra NO (exacta)
+# despues puede haber un maximo de hasta 3 tokens 
+# cualquiera palabra cuyas primeras letras coincidan con 'obser' 'visua' o 'ident' 
+# despues puede haber un meximo de hasta 3 tokens
+# la palabra que se busca (provista en la linea)
+#
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,47 @@
+
+
+
+PASO  02
+
+
+Parte del archivo de corpus con lineas corregidas por 
+
+a) Numero incorrecto de TAB
+
+b) Faltante de clasificador Affirmed, Negated o Possibility
+
+
+Y corrige en cada linea, los caracteres excedentes al final, si son tab, blanco o ^M (suelen venir de entorno windows)
+
+Genera un nuevo archivo de corpus con esas lineas corregidas
+
+
+Consideraciones:
+
+Esta depuracion se hizo para reducir errores en el sugsiguiente diseño y construccion de 
+programas.
+Se puede correr todo el proceso sin modificar el corpus en estos dos aspectos, pero
+obviamente eso introduce mas nivel de error en los resultados, y habria que introducir
+la rutina de limpieza de fin de linea en el resto de los programas.
+Se decidio corregir al principio.
+
+
+Scripts:
+
+
+todo.sh
+Compilar y corre todos los programas
+
+compilar.sh
+Solo compila todo los programas necesarios en la seccion
+
+correr.sh
+Corre todos los programas de la seccion (no compila nada )
+
+borrar.sh
+Borra todo lo que no sirve 
+
+
+
+
+

@@ -1,0 +1,14 @@
+total 1668
+drwxr-xr-x  2 ernest ernest   4096 May 25 07:08 .
+drwxr-xr-x 20 ernest ernest   4096 Mar 13 03:56 ..
+-rw-r--r--  1 ernest ernest      0 May 25 07:08 files
+-rw-r--r--  1 ernest ernest 164864 Sep 27  2018 tes_agrega01.exe
+-rw-r--r--  1 ernest ernest 176404 Sep 27  2018 tes_cpar02.exe
+-rw-r--r--  1 ernest ernest  51488 Mar 13 04:25 tes_cpar04.exe
+-rw-r--r--  1 ernest ernest 213725 Oct 12  2018 tes_cpar05.exe
+-rw-r--r--  1 ernest ernest 214337 Oct 12  2018 tes_cpar06.exe
+-rw-r--r--  1 ernest ernest 174057 Sep 27  2018 tes_diccio03.exe
+-rw-r--r--  1 ernest ernest 163644 Sep 27  2018 tes_filtro01.exe
+-rw-r--r--  1 ernest ernest 163453 Sep 27  2018 tes_filtro02.exe
+-rw-r--r--  1 ernest ernest 172822 Sep 27  2018 tes_gmarca01.exe
+-rw-r--r--  1 ernest ernest 180395 Sep 27  2018 tes_tparser01.exe

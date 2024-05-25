@@ -1,0 +1,50 @@
+	{
+
+		printf ("Parsing linea con NGA \n\n");
+	
+		printf ("Separar: \n");
+		printf ("0: |%s|\n",segmento[0]);
+		printf ("1: |%s|\n",segmento[1]);
+		printf ("2: |%s|\n",segmento[2]);
+		printf ("3: |%s|\n",segmento[3]);
+		
+		printf ("\n\n");
+		printf ("Cantidad de tokens ... %3d\n",q_tk);
+		for (i=0; i< q_tk; i++)
+			printf ("(%3d) %s\n",i,tk[i] );
+		printf ("\n\n");
+
+		printf ("Cantidad de reglas ... %3d\n",q_grm);
+		for (i=0; i < q_grm; i++)
+		{
+			j=0;
+			while ( tbr[i][j] != (reglaptr) NULL )
+			{
+				printf ("Reg: %2d  tk: (%2d)          tip: %3d    num: %3d   %d |%s|\n",
+					i,j,
+					(*tbr[i][j]).tip, (*tbr[i][j]).num,(*tbr[i][j]).mrk,(*tbr[i][j]).wrd   );
+
+				if ( (*tbr[i][j]).nx != (reglaptr) NULL )
+				{
+					rpa = (reglaptr *) &tbr[i][j];
+					m9 = ( **rpa).num;
+
+					for ( k=0; k< m9; k++)
+					{	
+						if (k)
+						{
+							printf ("                           tip: %3d    num: %3d   %d |%s|\n",
+								(**rpa).tip, (**rpa).num, (**rpa).mrk, (**rpa).wrd   );
+						}
+
+						rpa = (reglaptr *) & (*rpa)->nx;
+					}
+				}
+				j++;
+
+			}  /* while tbr ... */
+			printf ("\n");
+		}
+		printf ("\n\n");
+
+	} /* if gp_verbose ... */

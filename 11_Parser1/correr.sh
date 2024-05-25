@@ -1,0 +1,160 @@
+#!/bin/bash
+
+#	correr.sh
+#
+#	corre procesos en esta etapa
+
+
+
+echo "correr.sh"
+echo " "
+
+echo "Aplico parser para verificar si pasan bien todas las lineas ... "
+echo " "
+
+./tes_cpar02 f01_neg_fra f02_neg_fra_sen -m -f -v > z2_aff.log
+./tes_cpar02 f01_aff_fra f02_aff_fra_sen -m -f -v > z2_neg.log
+./tes_cpar02 f01_pos_fra f02_pos_fra_sen -m -f -v > z2_pos.log
+
+echo "Verifico si algun caracter se le paso al parser .. (la cuenta tiene que dar 0) ... "
+echo " "
+
+cat z2_*.log | grep "Caracter no definido" | wc -l
+
+echo " "
+echo "Aplico parser nuevam. para generar tokens en forma columnar ... "
+echo " " 
+
+./tes_cpar02 f01_neg_fra f02_neg_fra_tkn -m -v > z1_aff.log
+./tes_cpar02 f01_aff_fra f02_aff_fra_tkn -m -v > z1_neg.log
+./tes_cpar02 f01_pos_fra f02_pos_fra_tkn -m -v > z1_pos.log
+
+cat f02_*tkn | sort -u > f03_tkn
+
+
+echo "Extraemos palabras \"importantes\" para la gramatica ... "
+echo " "
+
+cat f03_tkn | grep -w ^no        > f04_t1
+cat f03_tkn | grep -w ^se       >> f04_t1
+cat f03_tkn | grep -w ^ni       >> f04_t1
+cat f03_tkn | grep    ^sin      >> f04_t1
+cat f03_tkn | grep    ^pero     >> f04_t1
+cat f03_tkn | grep     observ   >> f04_t1
+cat f03_tkn | grep     detect   >> f04_t1
+cat f03_tkn | grep     eviden   >> f04_t1
+cat f03_tkn | grep     visualiz >> f04_t1
+cat f03_tkn | grep     identif  >> f04_t1
+
+cat f03_tkn | grep '^\.'        >> f04_t1
+cat f03_tkn | grep '^,'         >> f04_t1
+cat f03_tkn | grep '^;'         >> f04_t1
+
+echo " "
+echo "Cantidad de palabras \"importantes\" encontradas ... "
+echo " "
+
+cat f04_t1 | wc -l
+
+echo " "
+
+echo "Generamos la tabla para el tagger ... "
+echo " "
+
+./tes_gmarca01 f04_t1 f04_t2 -v -f  > z3.log
+
+cat f04_t1.bse f04_t2 > f05_t1.mrk
+
+
+echo "En \"f05_t1.mrk\" quedo la tabla de palabras a taggear por el tagger ... "
+echo " "
+
+
+
+
+
+#	
+#	f04_t1.mrk
+#	2017-05-28
+#
+#	archivo de marcas
+#	
+#	se genera corriendo:
+#
+#
+#	luego se procesa con freeling
+#
+#	/usr/local/bin/analyze -f local.cfg <f04_neg_sen.txt >f04_neg_sen_fre.txt
+#	/usr/local/bin/analyze -f local.cfg <f04_aff_sen.txt >f04_aff_sen_fre.txt
+#	/usr/local/bin/analyze -f local.cfg <f04_pos_sen.txt >f04_pos_sen_fre.txt
+#
+#	se concatenan los resultados para unificar y hacer una tabla general
+#
+#	cat f04_???_sen_fre.txt | sort -u > f04_m1_srt
+#
+#	se rescata lo necesario para las marcas que se quieran ...
+#
+#	
+#	cat f04_m1_srt | grep ^no      >> f04_t1
+#	cat f04_m1_srt | grep ^sin     >> f04_t1
+#	cat f04_m1_srt | grep observ   >> f04_t1
+#	cat f04_m1_srt | grep detect   >> f04_t1
+#	cat f04_m1_srt | grep eviden   >> f04_t1
+#	cat f04_m1_srt | grep ^ni      >> f04_t1
+#	cat f04_m1_srt | grep ^pero    >> f04_t1
+#	cat f04_m1_srt | grep visualiz >> f04_t1
+#	cat f04_m1_srt | grep identif  >> f04_t1
+#
+#	finalmente editar hasta lograr la apariencia necesaria ...	
+#
+#	
+
+# no no RN 0.999297 NEG
+# 
+# ni ni CC 0.834853 CNEG
+# 
+# pero pero CC 0.999902 ENDNEG
+# 
+# sin sin SP 1 TNEG
+# 
+# se ser VMI000 1 VSE
+# 
+# , , PNT000 1 COM
+# 
+# . . PNT000 1 PTO
+# 
+# observar observar VMIP3S0 0.989241 OBS
+# observa observar VMIP3S0 0.989241 OBS
+# observada observar VMP00SF 1 OBS
+# observadas observar VMP00PF 1 OBS
+# observadose observadose VMSP3S0 1 OBS
+# observan observar VMIP3P0 1 OBS
+# observando observar VMG0000 1 OBS
+# observandosse observandosse NCMS000 1 OBS
+# observaron observar VMIS3P0 1 OBS
+# observo observar VMIP1S0 1 OBS
+# 
+# detectar detectar VMP00SM 1 DET
+# detectado detectar VMP00SM 1 DET
+# detectaron detectar VMIS3P0 1 DET
+# detecto detectar VMIP1S0 1 DET
+# 
+# evidenciar evidencia NCFS000 0.614458 EVI
+# evidencia evidencia NCFS000 0.614458 EVI
+# evidencia evidenciar VMIP3S0 0.373494 EVI
+# evidencias evidencia NCFP000 0.989726 EVI
+# 
+# visualizar visualizar VMIP3S0 0.989236 VIS
+# visualiza visualizar VMIP3S0 0.989236 VIS
+# visualizacin visualizacin NCMS000 0.677562 VIS
+# visualizacion visualizacion NCFS000 1 VIS
+# visualizan visualizar VMIP3P0 1 VIS
+# visualizando visualizar VMG0000 1 VIS
+# visualizar visualizar VMN0000 1 VIS
+# visualizo visualizar VMIP1S0 1 VIS
+# 
+# identificar identificar VMN0000 1 IDE
+# identifica identificar VMIP3S0 0.989241 IDE
+# identifican identificar VMIP3P0 1 IDE
+# identificando identificar VMG0000 1 IDE
+# 

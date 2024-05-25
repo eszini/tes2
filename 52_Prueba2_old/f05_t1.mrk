@@ -1,0 +1,145 @@
+#	
+#	f05_t1.mrk
+#	2017-05-28
+#
+#	archivo de marcas para el tagger
+#
+#	Se genera un archivo con las palabras que son "importantes" en la gramatica 
+#	que se quiere construir.
+#	
+#	Para cada una de esas palabras, se genera una entrada en la tabla, con el
+#	correspondiente codigo (tag) con las que la marcara el tagger.
+#
+#	version 1
+#	usaba freeling
+#
+#	version 2
+#	ya no hace falta freeling, pero se respeta el formato con los campos
+#	que genera freeling, para compatibilidad con los programas que utilizan la tabla
+#	
+#
+#	se genera corriendo:
+#
+#	./tes_cpar02 f01_neg_fra f02_neg_fra_tkn -m -v 
+#	./tes_cpar02 f01_aff_fra f02_aff_fra_tkn -m -v 
+#	./tes_cpar02 f01_pos_fra f02_pos_fra_tkn -m -v 
+#
+#	(obsoleto en version 2 )
+#	luego se procesa con freeling
+#
+#	/usr/local/bin/analyze -f local.cfg <f04_neg_sen.txt >f04_neg_sen_fre.txt
+#	/usr/local/bin/analyze -f local.cfg <f04_aff_sen.txt >f04_aff_sen_fre.txt
+#	/usr/local/bin/analyze -f local.cfg <f04_pos_sen.txt >f04_pos_sen_fre.txt
+#
+#	se concatenan los resultados para unificar y hacer una tabla general
+#
+#	cat f02_*tkn | sort -u > f03_tkn
+#
+#	se rescata lo necesario para las marcas que se quieran ...
+#
+#	
+#	cat f03_tkn | grep -w ^no        > f04_t1
+#	cat f03_tkn | grep -w ^se       >> f04_t1
+#	cat f03_tkn | grep -w ^ni       >> f04_t1
+#	cat f03_tkn | grep    ^sin      >> f04_t1
+#	cat f03_tkn | grep    ^pero     >> f04_t1
+#	cat f03_tkn | grep     observ   >> f04_t1
+#	cat f03_tkn | grep     detect   >> f04_t1
+#	cat f03_tkn | grep     eviden   >> f04_t1
+#	cat f03_tkn | grep     visualiz >> f04_t1
+#	cat f03_tkn | grep     identif  >> f04_t1
+#	cat f03_tkn | grep '^\.'        >> f04_t1
+#	cat f03_tkn | grep '^,'         >> f04_t1
+#	cat f03_tkn | grep '^;'         >> f04_t1
+#
+#
+#	finalmente modificar para ajustar al formato anteriormente
+#	usado despues de freeling
+#
+#	./tes_gmarca01 f04_t1 f04_t2 -v -f  > z3.log
+#	cat f04_t1.bse f04_t2 > f05_t1.mrk
+#
+#	La tabla de marcas tiene este formato:
+#
+#
+# no no RN 0.999297 NEG
+# ni ni CC 0.834853 CNEG
+# pero pero CC 0.999902 ENDNEG
+# sin sin SP 1 TNEG
+# se ser VMI000 1 VSE
+# , , PNT000 1 COM
+# . . PNT000 1 PTO
+# observar observar VMIP3S0 0.989241 OBS
+# observa observar VMIP3S0 0.989241 OBS
+# detectar detectar VMP00SM 1 DET
+# detectado detectar VMP00SM 1 DET
+# detectaron detectar VMIS3P0 1 DET
+# evidenciar evidencia NCFS000 0.614458 EVI
+# evidencia evidenciar VMIP3S0 0.373494 EVI
+# evidencias evidencia NCFP000 0.989726 EVI
+# visualizar visualizar VMIP3S0 0.989236 VIS
+# visualizo visualizar VMIP1S0 1 VIS
+# identificar identificar VMN0000 1 IDE
+# identifican identificar VMIP3P0 1 IDE
+# 
+#
+#	El primer token es lo que buscar el tagger,
+#	Y le agrega el ultimo token ...
+#	Asi,  en la frase " ... no se han detectado formas ... "
+#	queda:
+#
+#	"... no_NEG se_VSE han detectado_DET formas ... "
+#
+#  end of comments...
+#	
+
+
+
+
+no no RN 0.999297 NEG 
+
+se ser VMI000 1.0 VSE 
+
+ni ni CC 0.834853 CNEG 
+
+sin sin SP 1.0 TNEG 
+
+pero pero CC 0.999902 ENDNEG 
+
+observa observar VMP 0.999909 OBS 
+observada observar VMP 0.999909 OBS 
+observadas observar VMP 0.999909 OBS 
+observadose observar VMP 0.999909 OBS 
+observan observar VMP 0.999909 OBS 
+observando observar VMP 0.999909 OBS 
+observandose observar VMP 0.999909 OBS 
+observandosse observar VMP 0.999909 OBS 
+observaron observar VMP 0.999909 OBS 
+observo observar VMP 0.999909 OBS 
+
+detectado detectar VMP 0.999909 DET 
+detectaron detectar VMP 0.999909 DET 
+detecto detectar VMP 0.999909 DET 
+
+evidencia evidenciar NCF 0.850123 EVI 
+evidencias evidenciar NCF 0.850123 EVI 
+
+visualiza visualizar VMI 0.991255 VIS 
+visualizacin visualizar VMI 0.991255 VIS 
+visualizacion visualizar VMI 0.991255 VIS 
+visualizan visualizar VMI 0.991255 VIS 
+visualizando visualizar VMI 0.991255 VIS 
+visualizar visualizar VMI 0.991255 VIS 
+visualizarse visualizar VMI 0.991255 VIS 
+visualizo visualizar VMI 0.991255 VIS 
+
+identifica identificar VMN 0.999999 IDE 
+identifican identificar VMN 0.999999 IDE 
+identificandose identificar VMN 0.999999 IDE 
+identificar identificar VMN 0.999999 IDE 
+
+. . PNT000 1.0 PTO 
+
+, , PNT000 1.0 COM 
+
+; ; PNT000 1.0 PTC 

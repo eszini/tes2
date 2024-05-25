@@ -1,0 +1,500 @@
+   15  vi tes_cpar04.c
+   16  sh compilar.sh
+   17  sh correr.sh
+   18  vi z2
+   19  more correr.sh
+   20   ./tes_cpar04 a.txt x2.txt -v -f -dng=nga > z3
+   21  vi z3
+   22  vi correr.sh
+   23  sh correr.sh
+   24  vi parser_nga.txt
+   25  cd ..
+   26  ls -la
+   27  cd 51_Prueba1/
+   28  ls -la
+   29  vi tes_parser03.c
+   30  cp tes_parser03.c ../99_tmp/
+   31  pwd
+   32  ls -la
+   33  ls -la
+   34  ls -la
+   35  ls -la
+   36  clear
+   37  ls -la
+   38  cd ..
+   39  cd 23_Lexer2/
+   40  ls -la
+   41  vi tes_cpar04.c
+   42  vi parser_nga.txt 
+   43  exit
+   44  cd tesis2
+   45  ls -la
+   46  ls -la
+   47  clear
+   48  ls -la
+   49  cd 23_Lexer2/
+   50  ls -la
+   51  vi parser_nga.txt 
+   52  ls -la
+   53  ls -la
+   54  tes_cpar04.c tes_cpar05.c
+   55  cp tes_cpar04.c tes_cpar05.c
+   56  vi tes_cpar05.c
+   57  sh compilar.sh
+   58  more correr.sh
+   59  vi compilar.sh
+   60  sh compilar.sh
+   61  vi tes_cpar05.c
+   62  sh compilar.sh
+   63  vi tes_cpar05.c
+   64  vi tes_cpar05.c
+   65  sh compilar.sh
+   66  vi tes_cpar05.c
+   67  sh compilar.sh
+   68  more correr.sh
+   69  ./tes_cpar05 a.txt x2.txt -v -f -dng=nga > z4
+   70  more z4
+   71  ./tes_cpar05 a.txt x2.txt -v -f -dng=nga -grm=pepe 
+   72  more pepe
+   73  rm pepe
+   74  rm oeoe
+   75  rm pepe
+   76  ./tes_cpar05 a.txt x2.txt -v -f -dng=nga -grm=pepe 
+   77  ./tes_cpar05 a.txt x2.txt -v -f -dng=nga 
+   78  vi tes_cpar05.c
+   79  exit
+   80  cd "wrk tabla rapidminer"/
+   81  ls -la
+   82  more export_tabla_marcelo 
+   83  wc -l export_tabla_marcelo 
+   84  head -10000 export_tabla_marcelo  > tabla
+   85  ls -la
+   86  exit
+   87  ls a
+   88  ls -la
+   89  cd tesis2
+   90  ls -la
+   91  cd 23_Lexer2/
+   92  ls -la
+   93  more correr.sh
+   94  ls -la
+   95  history
+   96  vi tes_cpar05.c
+   97  history
+   98  ./tes_cpar05 a.txt x2.txt -v -f -dng=nga 
+   99  vi tes_cpar05.c
+  100  sh compilar.sh
+  101  ./tes_cpar05 a.txt x2.txt -v -f -dng=nga 
+  102  ./tes_cpar05 a.txt x2.txt -v -f -dng=nga
+  103  vi tes_cpar05.c
+  104  sh compilaqr.sh
+  105  more compilar.sh
+  106  sh compilar.sh
+  107  ./tes_cpar05 a.txt x2.txt -v -f -dng=nga
+  108  vi tes_cpar05.c
+  109  sh compilar.sh
+  110  ./tes_cpar05 a.txt x2.txt -v -f -dng=nga
+  111  vi tes_cpar05.c
+  112  sh compilar.sh
+  113  ./tes_cpar05 a.txt x2.txt -v -f -dng=nga
+  114  vi tes_cpar05.c
+  115  sh compilar.sh
+  116  ./tes_cpar05 a.txt x2.txt -v -f -dng=nga
+  117  vi tes_cpar04.c
+  118  vi tes_cpar05.c
+  119  sh compilar.sh
+  120  ./tes_cpar05 a.txt x2.txt -v -f -dng=nga
+  121  vi tes_cpar05.c
+  122  ./tes_cpar05 a.txt x2.txt -v -f -dng=nga -mrk=f05_t1.mrk
+  123  ./tes_cpar05 a.txt x2.txt -v -f -dng=nga -mrk=f05_t1.mrk
+  124  clear
+  125  ls -la
+  126  ./tes_cpar05 a.txt x2.txt -v -f -dng=nga -mrk=f05_t1.mrk -dic=diccio01.txt
+  127  ./tes_cpar05 a.txt x2.txt -v -f -dng=nga  -dic=diccio01.txt
+  128  sh compilar.sh
+  129  ./tes_cpar05 a.txt x2.txt -v -f -dng=nga  -dic=diccio01.txt
+  130  clear
+  131  lks -la
+  132  ls -la
+  133  vi ../11_Parser1/tes_cpar02.c
+  134  vi tes_cpar05.c
+  135  vi tes_cpar05.c
+  136  vi tes_cpar05.c
+  137  vi tes_cpar05.c
+  138  sh compilar.sh
+  139  vi tes_cpar05.c
+  140  sh compilar.sh
+  141  ./tes_cpar05 a.txt x2.txt -v -f -dng=nga  -dic=diccio01.txt
+  142  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt
+  143  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt > z4
+  144  vi z4
+  145  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  > z4 
+  146  vi z4
+  147  clear
+  148  ls -la
+  149  clear
+  150  ls -la
+  151  vi tes_cpar05.c
+  152  clear
+  153  ls -la
+  154  vi tes_cpar05.c
+  155  vi parser_nga.txt 
+  156  ls -la
+  157  vi tes_cpar05.c
+  158  sh compilar.sh
+  159  vi tes_cpar05.c
+  160  sh compilar.sh
+  161  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  
+  162  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt
+  163  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  164  vi zz
+  165  vi tes_cpar05.c
+  166  sh compilar.sh
+  167  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  168  vi zz
+  169  vi parser_nga.txt 
+  170  vi tes_cpar05.c
+  171  sh compilar.sh
+  172  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  173  vi zz
+  174  vi tes_cpar05.c
+  175  sh compilar.sh 
+  176  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  177  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt 
+  178  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt 
+  179  vi tes_cpar05.c
+  180  sh compilar.sh 
+  181  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt 
+  182  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  183  vi zz
+  184  vi tes_cpar05.C
+  185  sh compilar.sh 
+  186  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  187  vi zz
+  188  vi tes_cpar05.c
+  189  sh compilar.sh
+  190  vi tes_cpar05.c
+  191  sh compilar.sh
+  192  vi tes_cpar05.c
+  193  sh compilar.sh
+  194  vi tes_cpar05.c
+  195  sh compilar.sh
+  196  vi tes_cpar05.c
+  197  sh compilar.sh
+  198  vi tes_cpar05.c
+  199  sh compilar.sh
+  200  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  201  vi z
+  202  vi zz
+  203  vi tes_cpar05.c
+  204  sh compilar.sh
+  205  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  206  vi zz
+  207  vi tes_cpar05.c
+  208  sh compilar.sh
+  209  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  210  vi zz
+  211  vi tes_cpar05.c
+  212  sh compilar.sh
+  213  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  214  vi zz
+  215  vi tes_cpar05.c
+  216  vi zz
+  217  vi tes_cpar05.c
+  218  sh compilar.sh
+  219  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  220  vi zz
+  221  ls -la
+  222  pwd
+  223  ls -la
+  224  vi tes_cpar05.c
+  225  vi zz
+  226  vi tes_cpar05.c
+  227  sh compilar.sh
+  228  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  229  vi zz
+  230  vi tes_cpar05.c
+  231  sh compilar.sh
+  232  vi tes_cpar05.c
+  233  sh compilar.sh
+  234  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  235  vi zz
+  236  vi parser_nga.txt 
+  237  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  238  vi zz
+  239  vi tes_cpar05.c
+  240  vi parser_nga.txt 
+  241  sh compilar.sh
+  242  vi tes_cpar05.c
+  243  sh compilar.sh
+  244  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  245  vi zz
+  246  vi tes_cpar05.c
+  247  sh compilar.sh
+  248  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  249  vi zz
+  250  vi tes_cpar05.c
+  251  sh compilar.sh
+  252  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  253  vi zz
+  254  vi tes_cpar05.c
+  255  sh compilar.sh
+  256  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  257  vi zz
+  258  vi tes_cpar05.c
+  259  sh compilar.sh
+  260  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  261  vi zz
+  262  vi tes_cpar05.c
+  263  sh compilar.sh
+  264  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  265  vi zz
+  266  vi parser_nga.txt 
+  267  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  268  vi zz
+  269  vi tes_cpar05.c
+  270  sh compilar.sh
+  271  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  272  vi zz
+  273  vi tes_cpar05.c
+  274  sh compilar.sh
+  275  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  276  vi zz
+  277  vi parser_nga.txt 
+  278  sh compilar.sh
+  279  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  280  vi zz
+  281  vi tes_cpa05.c
+  282  vi tes_cpar05.c
+  283  sh compilar.sh
+  284  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  285  vi zz
+  286  vi parser_nga.txt 
+  287  sh compilar.sh
+  288  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  289  vi zz
+  290  vi tes_cpar05.c
+  291  sh compilar.sh
+  292  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  293  vi zz
+  294  vi parser_nga.txt 
+  295  vi zz
+  296  vi parser_nga.txt 
+  297  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  298  vi zz
+  299  vi tes_cpar05.c
+  300  sh compilar.sh
+  301  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  302  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt 
+  303  vi tes_cpar05.c
+  304  sh compilar.sh
+  305  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt 
+  306  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  307  vi zz
+  308  vi tes_cpar05.c
+  309  sh compilar.sh
+  310  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  311  vi zz
+  312  vi tes_cpar05.c
+  313  sh compilar.sh
+  314  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  315  vi zz
+  316  vi tes_cpar05.c
+  317  sh compilar.sh
+  318  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  319  vi zz
+  320  vi tes_cpar05.c
+  321  sh compilar.sh
+  322  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  323  vi zz
+  324  vi tes_cpar05.c
+  325  sh compilar.sh
+  326  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  327  vi zz
+  328  clear
+  329  ls -la
+  330  pwd
+  331  ls -la
+  332  vi tes_cpar05.c
+  333  sh compilar.sh
+  334  vi tes_cpar05.c
+  335  sh compilar.sh
+  336  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  337  vi zz
+  338  vi tes_cpar05.c
+  339  sh compilar.sh
+  340  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  341  vi zz
+  342  vi tes_cpar05.c
+  343  sh compilar.sh
+  344  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  345  vi zz
+  346  vi tes_cpar05.c
+  347  sh compilar.sh
+  348  vi tes_cpar05.c
+  349  sh compilar.sh
+  350  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  351  vi zz
+  352  vi tes_cpar05.c
+  353  vi zz
+  354  vi tes_cpar05.c
+  355  sh co
+  356  sh compilar.sh 
+  357  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  358  vi zz
+  359  vi parser_nga.txt 
+  360  vi tes_cpar05.c
+  361  sh compilar.sh 
+  362  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  363  vi zz
+  364  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  365  vi zz
+  366  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt 
+  367  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  368  vi tes_cpar05.c
+  369  sh compilar.sh 
+  370  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  371  vi zz
+  372  vi tes_cpar05.c
+  373  sh compilar.sh 
+  374  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  375  vi zz
+  376  vi tes_cpar05.c
+  377  sh compilar.sh 
+  378  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  379  vi zz
+  380  vi tes_cpar05.c
+  381  sh compilar.sh 
+  382  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  383  vi zz
+  384  vi tes_cpar05.c
+  385  sh compilar.sh 
+  386  vi compilar.sh
+  387  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  388  vi zz
+  389  vi tes_cpar05.c
+  390  sh compilar.sh 
+  391  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  392  vi zz
+  393  sh compilar.sh 
+  394  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  395  vi zz
+  396  vi tes_cpar05.c
+  397  sh compilar.sh 
+  398  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  399  vi zz
+  400  vi tes_cpar05.c
+  401  sh compilar.sh 
+  402  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  403  vi zz
+  404  vi tes_cpar05.c
+  405  sh compilar.sh 
+  406  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  407  vi parser_nga.txt 
+  408  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  409  vi zz
+  410  clear
+  411  ls -la
+  412  vi tes_cpar05.c
+  413  vi pepe
+  414  vi tes_cpar05.c
+  415  more h01
+  416  cp f01 h01
+  417  cp ../52_Prueba2/f01 h01
+  418  cp ../03_Data3/f01 h01
+  419  ls -la
+  420  clear
+  421  ls -la
+  422  vi compilar.sh
+  423  sh compilar.sh
+  424  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  425  vi zz
+  426  vi tes_cpar05.c
+  427  cat tes_cpar05.c | grep tes_cpar05 > probar.sh
+  428  vi probar.sh
+  429  sh probar.sh
+  430  ls -la
+  431  ls -la
+  432  vi tes_cpar05.c
+  433  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  434  vi zz
+  435  vi tes_cpar05.c
+  436  sh compilar.sh
+  437  vi tes_cpar05.c
+  438  sh compilar.sh
+  439  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  440  vi zz
+  441  vi tes_cpar05.c
+  442  sh compilar.sh
+  443  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  444  vi zz
+  445  vi tes_cpar05.c
+  446  wc -l *.c
+  447  ls -la
+  448  vi tes_cpar05.c
+  449  sh compilar.sh
+  450  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  451  vi zz
+  452  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=lex -grm=parser_nga.txt > zz
+  453  vi zz
+  454  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=lex -grm=parser_nga.txt > zz
+  455  vi zz
+  456  clear
+  457  ls -la
+  458  vi tes_cpar05.c
+  459  sh compilar.sh
+  460  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=lex -grm=parser_nga.txt > zz
+  461  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  462  vi zz
+  463  vi tes_cpar05.c
+  464  sh compilar.sh
+  465  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  466  vi zz
+  467  clear
+  468  ls -la
+  469  vi tes_cpar05.c
+  470  sh compilar.sh
+  471  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  472  vi zz
+  473  vi tes_cpar05.c
+  474  sh compilar.sh
+  475  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  476  vi zz
+  477  clear
+  478  ls -la
+  479  vi tes_cpar05.c
+  480  sh compilar.sh
+  481  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  482  vi tes_cpar05.c
+  483  ls -la
+  484  ls -la *.c
+  485  find .. -print | grep parser
+  486  cp ../52_Prueba2/tes_parser03.c tes_parser03.txt
+  487  cp ../51_Prueba1/tes_parser03.c tes_parser03.txt
+  488  vi tes_parser03.txt
+  489  vi tes_cpar05.c
+  490  sh compilar.sh
+  491  vi tes_cpar05.c
+  492  sh compilar.sh
+  493  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt > zz
+  494  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt 
+  495  sh compilar.sh
+  496  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt 
+  497  vi tes_cpar05.c
+  498  sh compilar.sh
+  499  ./tes_cpar05 a.txt x2.txt -v -f  -dic=diccio01.txt -mrk=f05_t1.mrk  -dng=nga -grm=parser_nga.txt 
+  500  exit
+  501  pwd
+  502  ls -la
+  503  cd tesis2
+  504  ls -la
+  505  cd 25_Lexer4/
+  506  ls -la
+  507  ls -la
+  508  clear
+  509  ls -la
+  510  vi tes_cpar05.c
+  511  ./tes_cpar05 -h
+  512  vi tes_cpar05.c
+  513  history
+  514  history > hist

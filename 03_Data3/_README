@@ -1,0 +1,68 @@
+
+
+
+PASO  03
+
+
+a)   tes_agrega01
+
+Parte del archivo de corpus con lineas corregidas por 
+
+a) Numero incorrecto de TAB
+
+b) Faltante de clasificador Affirmed, Negated o Possibility
+
+c) Eliminacion de caracteres excedentes al final de linea ( blancos, tab, control M )
+
+
+Genera un nuevo archivo de corpus con marcas TAB1 TAB2 y TAB3.
+Esto se utiliza en subsecuentes procesos para extraer los campos delimitados por tabs
+
+Nro Registro ; Palabra Contextual de referencia ; Frase (en la que se busca negacion ) ; Aff Neg o Poss
+ 
+
+
+
+b)   tes_filtro01
+
+
+Reordena el file anterior, poniendo 
+
+nro reg T1 aff neg o pos T2 palabra T3 frase 
+
+Las marcas aff neg o pos, se abrevian para facilidad de proceso 
+Se utilizan las marcas T1 T2 y T3 como separadores. (se penso un caracter, separado por ";" ... 
+pero el ; aparece en el texto.
+
+Se verifico que T1 T2 y T3 no aparecen en el texto
+
+
+c)   tes_filtro02
+
+Genera archivos conteniendo solo las frases del corpus.
+Esto es para hacer algunos procesos posterior de parsing / tokenizacion y tagging 
+Se separan en archivos 'aff' 'neg' y 'pos' para tener diferenciadas las frases afirmadas, negadas y posibileadas
+
+
+
+
+
+Scripts:
+
+
+todo.sh
+Compilar y corre todos los programas
+
+compilar.sh
+Solo compila todo los programas necesarios en la seccion
+
+correr.sh
+Corre todos los programas de la seccion (no compila nada )
+
+borrar.sh
+Borra todo lo que no sirve 
+
+
+
+
+

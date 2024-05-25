@@ -1,0 +1,23 @@
+
+
+Anotaciones:
+
+
+
+Se genera el corpus CorpusV4.txt que tiene formato
+
+
+Nro Registro TAB1  Palabra de referencia TAB2  frase TAB3  Aff Neg o Poss
+
+
+Se genera el archivo f01 ... con formato
+
+nro reg T1 aff neg o pos T2 palabra T3 frase 
+
+
+
+
+
+
+
+

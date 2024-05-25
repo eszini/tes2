@@ -1,0 +1,91 @@
+/*
+ * -----------------------------------------------------------------------------------
+ *
+ *	bd_load
+ *	carga la base de datos del diccionario
+ *
+ * -----------------------------------------------------------------------------------
+ */
+
+
+/*
+ *	2018-04-21
+ *
+ *	bd_load
+ *	carga la base de datos del diccionario
+ *	diccio base: diccio01.txt
+ *
+ */
+
+int	bd_load()
+{
+	char	b1[MAXB];
+	int	flag,f1;
+	int	i,j,k;
+	int	ql;
+
+	if (gp_fverbose("d1"))
+	{
+		printf ("\nCargando diccionario de palabras \n\n");
+	}
+
+	/* cantidad de palabras en el diccionario */
+	q_wrd = 0;
+
+	/* ptr al contenedor de direccion del ultimo nodo de la cadena */
+	npa = (nodeptr *) &np1;
+
+	ql=0;
+	while (fgets(b1,MAXB,hfdic) != NULL)
+	{
+		if (!linea_vacia(b1)  && b1[0] != '#' )
+		{
+			for ( flag=0, j=strlen(b1); !flag && j; j--)
+				if (b1[j] == '\n')
+					b1[j]=0,flag=1;
+
+			if (gp_fverbose("d3"))
+			{
+				printf ("%3d |%s|\n",ql,b1);
+			}
+
+			*npa = (nodeptr ) malloc ( sizeof (node));
+			(**npa).wrd = ( char *) malloc(strlen(b1)+1);
+			sprintf ( (**npa).wrd,"%s",b1);
+			(**npa).num = q_wrd+1;
+			(**npa).nx = (nodeptr) NULL;
+			npa = (nodeptr *) & (*npa)->nx;
+
+			q_wrd++;
+			ql++;
+		}
+	}
+
+	if (gp_fverbose("d1"))
+	{
+		printf ("Cantidad de palabras en diccionario  : %6d\n",q_wrd);
+	}
+
+
+	if (gp_fverbose("d3"))
+	{
+		printf ("\n\nComprobando integridad del diccionario : \n\n");
+	
+		i=0;
+		npa = (nodeptr *) &np1;
+
+		while ( (*npa) != (nodeptr) NULL )
+		{
+			printf ("i: %3d  (**npa).num: %3d  (**npa).wrd: |%s|\n",i,(**npa).num,(**npa).wrd);
+			npa = (nodeptr *) & (*npa)->nx;
+			i++;
+		}
+
+		printf ("\n");
+	}
+}
+
+
+
+
+
