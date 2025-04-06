@@ -1,0 +1,28 @@
+aff con 0 
+198
+aff con 1 
+8
+neg con 0 
+16
+neg con 1
+120
+ 
+ 
+ 
+ 
+Registros con "Aff" ... 
+Estadisticas: 
+Cant de registros       :   206
+Cant de reg clasif en 0 :   198
+Cant de reg clasif en 1 :     8
+
+fin proceso 
+Registros con "Neg" ... 
+Estadisticas: 
+Cant de registros       :   136
+Cant de reg clasif en 0 :    16
+Cant de reg clasif en 1 :   120
+
+fin proceso 
+Prueba con diccionario ... 
+ 

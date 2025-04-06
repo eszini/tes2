@@ -1,0 +1,141 @@
+Clasificar:   0  regla: 0  nro:1003 pal:separacion lin:Conclusion: la imagen descripta podria corresponder a coleccion, pero, al no poder visualizarse claramente plano de separacion con el lobulo izquierdo tiroideo, no se puede descartar compromiso de esta glandula.
+Clasificar:   0  regla: 0  nro:1077 pal:flujo tipo lin:Dada la importante ascitis, no se logra visualizar shunt su topografia ,ni vasos venosos adayacentes con flujo tipo turbulento.
+Clasificar:   0  regla: 0  nro:1101 pal:imagen lin:A148853 HIGADO: tamano y ecoestructura normal.no se identifican imagenes quisticas VIA BILIAR intra y extrahepatica: no dilatada.
+Clasificar:   0  regla: 0  nro:1131 pal:hematoma lin:Por este metodo no se puede descartar hematoma subdural ni extradural.
+Clasificar:   0  regla: 0  nro:1136 pal:desplazamiento lin:Presenta pequeno quiste subependimario de 0.8 x 1.3 mm que no produce desplazamientos ni efectos de masa.
+Clasificar:   0  regla: 0  nro:1145 pal:masa lin:No se observan desviaciones de la linea media, efectos de masa, ni colecciones.
+Clasificar:   0  regla: 0  nro:1162 pal:imagen lin:No se visualiza coleccion ni imagens residuales.
+Clasificar:   0  regla: 0  nro:1194 pal:tension lin:Rinon derecho con dilatacion pielocalicial no a tension.
+Clasificar:   0  regla: 0  nro:1198 pal:imagen lin:Vejiga de caracteristicas normales No se visualizan imagenes compatibles con invaginacion intestinal.
+Clasificar:   0  regla: 0  nro:1213 pal:masa lin:A349781 Ecoestructura parenquimatosa cerebral y de nucleos de la base sin alteraciones sin desviaciones de la linea media, efectos de masa, ni colecciones.
+Clasificar:   0  regla: 0  nro:1221 pal:liquido intraarticular lin:No se visualiza liquido intraarticular ni imagenes compatibles con coleccion.
+Clasificar:   0  regla: 0  nro:1285 pal:flebitis lin:No se observan al momento del estudio senal Doppler de fistula arteriovenosa, ni signos de trombosis o flebitis.
+Clasificar:   0  regla: 0  nro:1310 pal:flujo lin:en hueco popliteo y cara posterior de la pierna izquierda se observa una formacion quistica con ecos y tabiques en su interior de aprox 18x9x4 cm que corresponderia a un gran  quiste de Baker No prsenta flujo al examen Doppler color ni compromiso de planos profundos
+Clasificar:   0  regla: 0  nro:1326 pal:diverticulo lin:Vejiga de contorno neto, paredes finas y contenido normal, no se visualiza a traves de este metodo diverticulo.
+Clasificar:   0  regla: 0  nro:1327 pal:vascular lin:Asas del ileon, apendicular y cecales de4 paredes engrosadas no logrando determinar flujo doppler vascular en su interior por interposicion de ventana acustica.
+Clasificar:   0  regla: 0  nro:1355 pal:dilatacion lin:Sin ditacion calicial ni visualizacion de ureteres.
+
+
+
+
+
+Clasificar:   1  regla: 1  nro:1000 pal:liquido lin:0.9 x 0.8 x 0.85 cm No se observo liquido libre en cavidad.
+Clasificar:   1  regla: 1  nro:1002 pal:adenomegalias lin:Diametro longitudinal:9.7( cm ) No se detectaron adenomegalias.
+Clasificar:   1  regla: 1  nro:1006 pal:adenomegalias lin:942914 Ambos nodulos tiroideos difusa y levemente heterogeneos, compatible con TLS No se observan adenomegalias en cuello Vol Tiroideo LD4.
+Clasificar:   1  regla: 1  nro:1008 pal:imagen lin:Psoas con fibras musculares conservadas, no se observa imagen sugerente de coleccion.
+Clasificar:   1  regla: 1  nro:1009 pal:dilatacion lin:Pelvis de diametro anteroposterior de 1.4(cm), extrarrenal No se detecto dilatacion  ureteral.
+Clasificar:   1  regla: 1  nro:1024 pal:liquido lin:No se observan colecciones ni liquido intrarticular al momento del examen.
+Clasificar:   1  regla: 1  nro:1030 pal:dilatacion lin:No se detecto dilatacion  ureteral ni litiasis en la via urinaria.
+Clasificar:   1  regla: 1  nro:1034 pal:liquido lin:Diametro longitudinal:8.1( cm ) ganglios mesentericos en rango no adenopatico.. No se detectaron colecciones ni liquido libre.
+Clasificar:   1  regla: 1  nro:1036 pal:dilatacion lin:Diam long 5.5 cm, pelvis renal: 2.2 cm, no se observa dilatacion  ureteral.
+Clasificar:   1  regla: 1  nro:1038 pal:imagenes lin:A352965 DOPPLER VENOSO VCS no se observa imagenes sugerentes de Trombosis, cateter en su interior.
+Clasificar:   1  regla: 1  nro:1045 pal:aumento lin:A293411 Se explora tobillo y pie izquierdo No se observa aumento del espesor del TCS en comparacion con el contralateral.
+Clasificar:   1  regla: 1  nro:1054 pal:imagenes lin:Se observa cateter de derivacion en FID con escaso liquido adyacente a la punta, no se observan imagenes quisticas.
+Clasificar:   1  regla: 1  nro:1055 pal:vascular lin:470740 Higado homogeneo.vesicula normal No se visualiza pancreas ni retroperitoneo  vascular por interposicion aerea- Bazo homogeno .mide 9 cm Rinones nativos pequenos.
+Clasificar:   1  regla: 1  nro:1061 pal:hernia lin:532901 se explora la pared abdominal en reposo y contraccion no se observan alteraciones del Tcs, ni planos musculares no se observan signos ecograficos de hernia ni de trombosis al examen Doppler color
+Clasificar:   1  regla: 1  nro:1072 pal:dilatacion lin:Ectasia pielocalicial izquierda, pelvis: 0.9cm No se detecto dilatacion de la via urinaria.
+Clasificar:   1  regla: 1  nro:1076 pal:derrame lin:Hemitorax izquierdo: no se observa derrame  pleural.
+Clasificar:   1  regla: 1  nro:1084 pal:cambios lin:Conclusion: no se observan cambios significativos respecto a estudio previo.
+Clasificar:   1  regla: 1  nro:1093 pal:nodular lin:A146009 HIGADO: hepatomegalia heterogenea debido a la presencia de multiples imagenes hipoecoicas de limites mal definidos, no se observa imagen  nodular dominante.
+Clasificar:   1  regla: 1  nro:1100 pal:imagenes lin:No se observan imagenes nodulares, quisticas ni calcificaciones.
+Clasificar:   1  regla: 1  nro:1114 pal:liquido lin:Diametro longitudinal:12,7( cm ) No se detectaron colecciones ni liquido libre.
+Clasificar:   1  regla: 1  nro:1137 pal:cambios lin:A345848 Se realiza ecografia, no se observan cambios significativos con respecto a ecografia previa.
+Clasificar:   1  regla: 1  nro:1142 pal:derrame lin:955807 en cara anterior del muslo izquierdo, por debajo del TCS, se observa una coleccion liquida con algunos tabiques de54x48x18 mm No se observa derrame  articular
+Clasificar:   1  regla: 1  nro:1160 pal:dilatacion lin:RD 8,7 cm x 4,2 cm x 3,1 cn RI 9 cm x 3,2 cm x 3,6 cm No se observa dilatacion de la via urinaria.
+Clasificar:   1  regla: 1  nro:1165 pal:adenomegalias lin:PANCREAS: parcialmente visible por interposicion de aire intestinal s / p No se identifican adenomegalias BAZO: esplenomegalia homogenea.
+Clasificar:   1  regla: 1  nro:1167 pal:lesiones lin:No se visualizan lesiones nodulares solidas ni quisticas.
+Clasificar:   1  regla: 1  nro:1171 pal:cambios lin:Se exploran rinones en decubito con transductor de alta frecuencia, no se observan imagenes patologicas o cambios de ecogenicidad en region media o polos, ectasias pielicas bilaterales, RIzquierdo con imagen sugerente de doble  sistema.
+Clasificar:   1  regla: 1  nro:1174 pal:masa lin:OVARIO DERECHO: 0.8(cm) x 0.5(cm) x 0.7(cm) Volumen: 0.2(cc) OVARIO IZQUIERDO: 0.8(cm) x 0.4(cm) x 0.6(cm) Volumen: 0.1(cc) No se visualiza masa pelviana ni en region glutea anteriormente conocida.
+Clasificar:   1  regla: 1  nro:1176 pal:herida lin:RD Diam Long: 9,1 cm RI Diam long:9,4 cm Vejiga de caracteristicas normales No se observa coleccion en herida quirurgica.
+Clasificar:   1  regla: 1  nro:1183 pal:imagenes lin:5.9mm No se observaron cacificaciones ni imagenes quisticas en relacion con la misma.
+Clasificar:   1  regla: 1  nro:1189 pal:dilatacion lin:Sin dilatacion No se detecto dilatacion  ureteral.
+Clasificar:   1  regla: 1  nro:1196 pal:imagenes lin:No se visualizan imagenes de aspecto patologico evaluables por este metodo, ni diferencicas significativas a la comparacion con el contralateral.
+Clasificar:   1  regla: 1  nro:1199 pal:lesiones lin:Tiene arco %  ' o elisa   lla mdre refiere mataderos cerca, si bien no se ven otras lesiones, dejo las rx de torax en la casa, podrian pedirselas en nueva consulta.
+Clasificar:   1  regla: 1  nro:1200 pal:adenomegalias lin:Pequenas imagenes quisticas de aspecto coloide no mayores a tres milimetros No se detectaron adenomegalias laterocervicales.
+Clasificar:   1  regla: 1  nro:1201 pal:patologia lin:A360943 Ecografia Pleural Der: No se visualiza patologia pleuropulmonar por este metodo Izq: Derrame  pleural anecoico, con multiples tabiques, algunos de ellos gruesos, con consolidacion parenquimatosa subyacente.
+Clasificar:   1  regla: 1  nro:1205 pal:imagen lin:999657 No se observa imagen compatible con glandula tiroides.
+Clasificar:   1  regla: 1  nro:1207 pal:liquido lin:Bazo: 7.5 cm No se observa liquido libre
+Clasificar:   1  regla: 1  nro:1208 pal:dilatacion lin:Ambos rinones ortotopicos, con aumento de ecogenicidad y menor diferencicion corticomedular, no se visualiza dilatacion pielica.
+Clasificar:   1  regla: 1  nro:1214 pal:imagenes lin:64072 No se observan imagenes de significacion en la pared abdominal en la region de interes.
+Clasificar:   1  regla: 1  nro:1223 pal:liquido lin:No se observa liquido libre ni colecciones.
+Clasificar:   1  regla: 1  nro:1232 pal:trombosis lin:272872 DOPPLER COLOR PULSADO Y COLOR NO SE OBSERVAN IMAGENES SUGERENTES DE TROMBOSIS A NIVEL DE SISTEMA ARTERIAL O VENOSO DE MIEMBROS INFERIORES.
+Clasificar:   1  regla: 1  nro:1241 pal:imagenes lin:Se explora abdomen, no se observa imagenes compatibles con pseudoquiste.
+Clasificar:   1  regla: 1  nro:1242 pal:aumento lin:No se observa aumento del liquido  articular ni alteraciones musculares en la region explorada.
+Clasificar:   1  regla: 1  nro:1243 pal:imagenes lin:32.0 cc Ovarios con ecoestructura conservada, no se identifican imagenes quisticas.
+Clasificar:   1  regla: 1  nro:1245 pal:stent lin:Exploracion directa extrarrenal: Arteria renal derecha con flujo turbulento en tercio proximal y aumento de la velocidad( 212 cm / seg) a dicho nivel, con disminucon de la velocidad en dos tercios distales(65 cm / seg) sugestivo de estenosis no se visualiza stent a traves de este metodo.
+Clasificar:   1  regla: 1  nro:1249 pal:imagenes lin:No se visualizan imagenes quisticas ni nodulares.
+Clasificar:   1  regla: 1  nro:1252 pal:imagenes lin:no se observan imagenes quisticas ni sugestivas de duplicacion
+Clasificar:   1  regla: 1  nro:1261 pal:liquido lin:A227434 Ecografia de ambas caderas comparativas: No se identifica liquido  articular en ambas caderas.
+Clasificar:   1  regla: 1  nro:1266 pal:liquido lin:se oservan dos uteros y dos cuellos de forma y estructura conservada( utero didelfo) Ut der:69x48x21 mm endometrio 6 mm Ut izq: 53 x 42x 29 mm endometrio 7 mm ovario derecho 38x30x15 mm vol: 9.5 cc ovario izquierdo: 42x30x20 mm vol:13 cc foliculo dominante de 19 mm No se observa liquido libre en cavidad
+Clasificar:   1  regla: 1  nro:1267 pal:hidrocele lin:Se observa a nivel de tercio medio posterior de testiculo derecho, imagen hipoecoica de bordes definidos sugerente de restos adrenales( mide:6.7 x 2.1 mm) Dimensiones: Testiculo derecho: Volumen:3( cc ) Testiculo izquierdo: Volumen: 3.7(cc) No se observa hidrocele o varicocele.
+Clasificar:   1  regla: 1  nro:1273 pal:comunicacion lin:Hidrocele bilateral extendiendose a conducto inguinal, no se observa comunicacion con abdomen.
+Clasificar:   1  regla: 1  nro:1274 pal:aumento lin:No se observa aumento de flujo en su interior ni signos de abscedacion.
+Clasificar:   1  regla: 1  nro:1275 pal:imagenes lin:No se observan imagenes quisticas ni solidas.
+Clasificar:   1  regla: 1  nro:1279 pal:dilatacion lin:Higado de forma, tamano y ecoestructura habitual, no se evidencia dilatacion de la via intra ni extrahepatica.
+Clasificar:   1  regla: 1  nro:1286 pal:liquido lin:No se visualiza liquido en cavidad ni interasas.
+Clasificar:   1  regla: 1  nro:1289 pal:dilatacion lin:Pelvis pre-cateterismo: der: 1.6(cm) ; izq: 1.4(cm) Pelvis post-cateterismo: der: 1(cm) ; izq:1.6(cm) No se detecto dilatacion  ureteral, si bien el ureter izquierdo es visible en forma intermitente con un diametro de 0.3 cm pre y post-cateterismo.
+Clasificar:   1  regla: 1  nro:1293 pal:liquido lin:Long: 13.9 cm No se identifican adenomegalias ni liquido libre en cavidad abdominal.
+Clasificar:   1  regla: 1  nro:1314 pal:derrame lin:A57909 HEMITORAX DERECHO: No se observa derrame  pleural.
+Clasificar:   1  regla: 1  nro:1316 pal:dilatacion lin:Mide:7.3 cm No se observa dilatacion de la via urinaria.
+Clasificar:   1  regla: 1  nro:1320 pal:imagen lin:A225188 SE REALIZA ECOGRAFIA A NIVEL DE REGION SACRA, NO SE OBSERVA IMAGEN VASCULARIZADA A DICHO NIVEL, NI COMPROMISO DE ESTRUCTURAS PROFUNDAS.
+Clasificar:   1  regla: 1  nro:1321 pal:adenomegalias lin:LA COLA DEL EPIDIDIMO IZQUIERDO NO SE VISUALIZA PEQUEnA ADENOMEGALIAS INGUINAL DERECHA DE 11 MM
+Clasificar:   1  regla: 1  nro:1323 pal:engrosamiento lin:RD Diam Long:7.4 cm RI Diam long: 6.5cm Vejiga de caracteristicas normales No se observa engrosamiento de la pared intestinal al momento del estudio.
+Clasificar:   1  regla: 1  nro:1324 pal:hipertension lin:Diametro longitudinal: 9.9 cm( normal ) Retroperitoneo: Relacion Epiplon Aorta: 1 / 1 COLATERALES: Vena coronaria en epiplon:no Derivacion  dorsal: no Hemorroidales: no vasos cortos:no Ascitis:no Rinones de caracteristicas normales RD 10.2 CM RI9.9 CM Conclusion: NO se observan signos ecograficos de hipertension  portal.
+Clasificar:   1  regla: 1  nro:1337 pal:aumento lin:A229589 Ambos rinones ortotopicos, de ecoestructura normal, no se observa aumento de la ecogenicidad parenquimatosa.
+Clasificar:   1  regla: 1  nro:1342 pal:dilatacion lin:Miden: RD: 8.9 x 3.3 cm RIz: 8.8 x 3.2 cm No se observa dilatacion de la via urinaria.
+Clasificar:   1  regla: 1  nro:1353 pal:dilatacion lin:No se observa dilatacion  ureteral Vejiga vacia con balon.
+Clasificar:   1  regla: 1  nro:1354 pal:dilatacion lin:No se detecto dilatacion de la via urinaria.Presencia de pelvis extrarenales bilaterales.pelvis renal der mide 1.2 cm y extrar 2.3 cm.Pelvis izquierda mide 0.97 cm y extrarenal 1.1 cm.Sin ditacion calicial ni visualizacion de ureteres. 
+Clasificar:   1  regla: 2  nro:1015 pal:dilatacion lin:RDer: con ectasia pielocalicial a predominio de grupo calicilar superior, disminuye parcialmente postmiccion, no observandose dilatacion de ureter.
+Clasificar:   1  regla: 2  nro:1126 pal:flujo lin:La misma no presenta flujo al doppler color.
+Clasificar:   1  regla: 3  nro:1156 pal:calcificaciones lin:A117909 Se observo engrosamiento difuso de partes blandas en plano celular subcutaneo de la pierna derecha sin evidencia de calcificaciones, lesiones quisticas ni nodulares.
+Clasificar:   1  regla: 4  nro:1011 pal:derrame lin:A116632 Se explora en forma comparativa ambas caderas No se observan alteraciones de partes blandas ni derrame  articular Ambos psoas de estructura conservada en los sectores visibles
+Clasificar:   1  regla: 4  nro:1161 pal:estenosis lin:Al momento del examen no se observan signos ecograficos compatibles con estenosis hipertrofica del piloro.
+Clasificar:   1  regla: 4  nro:1225 pal:masa lin:No se observan colecciones ni efectos de masa.
+Clasificar:   1  regla: 5  nro:1022 pal:condensacion lin:A257557 Ecografia pleural: Hemitorax derecho: sin evidencia de derrame ni condensacion.
+Clasificar:   1  regla: 5  nro:1050 pal:dilatacion lin:Rinon izquierdo con imagen redondeada en sector medio del rinon( 2.6 x 2.5cm), isoecoica con el parenquima adyacente, sin senal Doppler color de significacion ni dilatacion.
+Clasificar:   1  regla: 6  nro:1005 pal:nodular lin:141730 Se observa glandula tiroides con ecoestructura heterogenea, predominantemente hipoecoica, no nodular.
+Clasificar:   1  regla: 6  nro:1012 pal:dilatada lin:111205 HIGADO: tamano conservado y moderado incremento de la ecogenicidad en forma difusa  VIA BILIAR intra y extrahepatica: no dilatada.
+Clasificar:   1  regla: 6  nro:1023 pal:dilatada lin:Via excretora no dilatada.
+Clasificar:   1  regla: 6  nro:1037 pal:hidrocele lin:A262651 Se observa ovario derecho de forma y ecoestructura conservada, ubicado en trayecto inguinal distal por delante de los vasos iliacos sin extencion al TCS ni plano muscular, sin hidrocele.
+Clasificar:   1  regla: 6  nro:1044 pal:nodular lin:A144222 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea no nodular, disminuidos globalmente de tamano.
+Clasificar:   1  regla: 6  nro:1058 pal:dilatada lin:coledoco no dilatada  VESICULA BILIAR: distendida alitiasica.
+Clasificar:   1  regla: 6  nro:1065 pal:liquido lin:Vejiga s / p no liquido libre.
+Clasificar:   1  regla: 6  nro:1092 pal:derivacion lin:Relacion Epiplon Aorta: 3,7 / 1,2 COLATERALES: Vena coronaria en epiplon:no Derivacion  dorsal: no Hemorroidales:no vasos cortos:no Ascitis:no Rinones de caracteristicas normales.RD:10,6 cm Ri:10,5 cm Conclusion: no se observan signos ecograficos de hipertension  portal.
+Clasificar:   1  regla: 6  nro:1096 pal:nodular lin:A269755 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular.
+Clasificar:   1  regla: 6  nro:1102 pal:dilatacion lin:A216841 Ambos rinones ortotopicos- Rinon derecho de mayor tamano con multiples imagenes quisticas de diferente tamano, sin parenquima renal normal.Sin dilatacion pielocalicial.Se visualiza en forma intermitente ureter derecho no dilatado de 2.6 mm .
+Clasificar:   1  regla: 6  nro:1109 pal:nodular lin:A27059 Ambos lobulos tiroideos e itsmo con ecoestructura minimamente heterogenea difusa no nodular y aumentados globalmente de tamano.
+Clasificar:   1  regla: 6  nro:1118 pal:nodular lin:A29142 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y presencia de multiples tractos fibrosos.
+Clasificar:   1  regla: 6  nro:1120 pal:nodular lin:123104 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa levemente, no nodular.
+Clasificar:   1  regla: 6  nro:1128 pal:nodular lin:532441 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea no nodular.
+Clasificar:   1  regla: 6  nro:1129 pal:liquido lin:No liquido libre en cavidad abdominal, no derivaciones hemorroidales.
+Clasificar:   1  regla: 6  nro:1130 pal:dilatacion lin:Sin dilatacion del sistema excretor No se identifica la vejiga.
+Clasificar:   1  regla: 6  nro:1133 pal:nodular lin:611191 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.
+Clasificar:   1  regla: 6  nro:1134 pal:dilatada lin:: 20 cm / s Venas suprahepaticas: Flujo hepatofugo, onda bifasica Via biliar no dilatada.
+Clasificar:   1  regla: 6  nro:1138 pal:liquido lin:diametro longitudinal 5.3( cm ), transversal 3.5(cm) anteroposterior 2.8(cm), OVARIO DERECHO: de forma,tamano y estructura conservada 2.9(cm) x 2(cm) x 2.7(cm) con imagen  quistica  folicular dominante de 0.9 cm x 1.2 cm Volumen:8.6( cc ) OVARIO IZQUIERDO: de forma,tamano y estructura conservada 2.1(cm) x 1.3(cm) x 2.1(cm) Volumen: 3.1(cc) No liquido libre.-
+Clasificar:   1  regla: 6  nro:1141 pal:nodular lin:891467 Se visualiza glandula tiroides con ecoestructura heterogenea, no nodular, predominantemente hipoecoica.
+Clasificar:   1  regla: 6  nro:1158 pal:dilatada lin:Via urinaria no dilatada  Vejiga plenificada de contornos regulares, sin residuo postmiccional.
+Clasificar:   1  regla: 6  nro:1159 pal:nodular lin:693781 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea no nodular.
+Clasificar:   1  regla: 6  nro:1186 pal:nodular lin:875104 Ambos lobulos tiroideos e istmo con ecoestructura finamente heterogenea difusa, no nodular.
+Clasificar:   1  regla: 6  nro:1191 pal:derivacion lin:/ 1 COLATERALES: Vena coronaria en epiplon:no Derivacion dorsal:no Hemorroidales: no vasos cortos:no Ascitis:moderada Rinones de caracteristicas normales Conclusion: se observan signos ecograficos de hipertension  portal.
+Clasificar:   1  regla: 6  nro:1193 pal:nodular lin:RD Diam Long: 9.9 cm RI Diam long:9.7 cm Vejiga de caracteristicas normales Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.
+Clasificar:   1  regla: 6  nro:1197 pal:cambios lin:Dilatacion pielica de 2.3(cm) de diametro anterposterior, sin cambios postmiccionales No se detecto dilatacion  ureteral.
+Clasificar:   1  regla: 6  nro:1210 pal:dilatada lin:extrahepatica: No dilatada  Vesicula biliar: de paredes engrosadas con flujo  venoso colateral visible.
+Clasificar:   1  regla: 6  nro:1219 pal:nodular lin:A57035 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.
+Clasificar:   1  regla: 6  nro:1226 pal:nodular lin:486628 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular, tamano aconservado Luz traqueal  centrada.
+Clasificar:   1  regla: 6  nro:1227 pal:dilatada lin:395021 Higado: heterogeneo  difuso contorno nodular  Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: no visible Pancreas:sp Bazo: homogeneo.
+Clasificar:   1  regla: 6  nro:1234 pal:nodular lin:A255796 Se observa glandula tiroides aumentada globalmente de tamano, de contorno lobulado, con ecoestructura finamente heterogenea, no nodular, predominantemente hipoecoica, hipervascularizada.
+Clasificar:   1  regla: 6  nro:1239 pal:calcificaciones lin:Sin calcificaciones, ni vascularizacion en su interior.
+Clasificar:   1  regla: 6  nro:1263 pal:dilatada lin:Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: de paredes gruesas con varices perivesiculares.
+Clasificar:   1  regla: 6  nro:1271 pal:dilatada lin:Via urinaria no dilatada  Rinon izquierdo de tamano y ecoestructura normal.
+Clasificar:   1  regla: 6  nro:1272 pal:dilatada lin:VCI permeable.No se visualiza flujo  portal en hilio observandose colaterales venosas.Via biliar no dilatada.
+Clasificar:   1  regla: 6  nro:1281 pal:infantil lin:UTERO: En AVF, de forma, aumento de tamano para la edad, forma no infantil.
+Clasificar:   1  regla: 6  nro:1284 pal:nodular lin:353600 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.
+Clasificar:   1  regla: 6  nro:1295 pal:nodular lin:481310 Se observa glandula tiroides con ecoestructura finamente heterogenea, no nodular, con presencia de pequenos quistes coloides de mm, difusos.
+Clasificar:   1  regla: 6  nro:1299 pal:nodular lin:A121556 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.
+Clasificar:   1  regla: 6  nro:1301 pal:dilatada lin:Via biliar extrahepatica: no dilatada.
+Clasificar:   1  regla: 6  nro:1334 pal:adenomegalias lin:Vol: 2.3 cc No adenomegalias regionales.
+Clasificar:   1  regla: 6  nro:1336 pal:nodular lin:Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.
+Clasificar:   1  regla: 6  nro:1338 pal:nodular lin:485725 Se observa glandula tiroides de pequeno volumen, con ecoestructura finamente heterogenea, no nodular.
+Clasificar:   1  regla: 6  nro:1343 pal:cambios lin:A nivel del hilio de observan dos imagenes nodulares, ya conocidas, sin cambios significativos, una de 3 x 3.7 cm y la otra de aprox 4 x 3 cm VIA BILIAR intra y extrahepatica: no dilatada.
+Clasificar:   1  regla: 6  nro:1356 pal:dilatada lin:Via biliar con cateter no dilatada, se observa dilatacion de via biliar mas superficial intrahepatica de 6 mm.
+Clasificar:   1  regla: 7  nro:1332 pal:quiste lin:No se logra identificar quiste de punta de cateter de DVP ni apendice cecal.

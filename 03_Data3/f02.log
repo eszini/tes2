@@ -1,0 +1,3829 @@
+cuarto segmento 
+buffer1     1000  TAB1  liquido  TAB2  0.9 x 0.8 x 0.85 cm No se observo liquido libre en cavidad.  TAB3  Negated
+
+p2          94
+buffer1+p2  Negated
+
+Linea:  0
+segm1: >1000<
+segm2: >liquido<
+segm3: >0.9 x 0.8 x 0.85 cm No se observo liquido libre en cavidad.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1001  TAB1  pielonefritis cronica  TAB2  88377 Ecografia Renovesical pre y postmiccional RD con signos de pielonefritis cronica sin dilataciones( 9 x 2.5 cm) RI con leve dilatacion pielocalicial Pelvis pre miccional 1.5 cm, postmiccional 1.6 cm, sin variaciones No se visualizan ureteres, Vejiga con escaso residuo postmiccional  TAB3  Affirmed
+
+p2          336
+buffer1+p2  Affirmed
+
+Linea:  1
+segm1: >1001<
+segm2: >pielonefritis cronica<
+segm3: >88377 Ecografia Renovesical pre y postmiccional RD con signos de pielonefritis cronica sin dilataciones( 9 x 2.5 cm) RI con leve dilatacion pielocalicial Pelvis pre miccional 1.5 cm, postmiccional 1.6 cm, sin variaciones No se visualizan ureteres, Vejiga con escaso residuo postmiccional<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1002  TAB1  adenomegalias  TAB2  Diametro longitudinal:9.7( cm ) No se detectaron adenomegalias.  TAB3  Negated
+
+p2          104
+buffer1+p2  Negated
+
+Linea:  2
+segm1: >1002<
+segm2: >adenomegalias<
+segm3: >Diametro longitudinal:9.7( cm ) No se detectaron adenomegalias.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1003  TAB1  separacion  TAB2  Conclusion: la imagen descripta podria corresponder a coleccion, pero, al no poder visualizarse claramente plano de separacion con el lobulo izquierdo tiroideo, no se puede descartar compromiso de esta glandula.  TAB3  Negated
+
+p2          249
+buffer1+p2  Negated
+
+Linea:  3
+segm1: >1003<
+segm2: >separacion<
+segm3: >Conclusion: la imagen descripta podria corresponder a coleccion, pero, al no poder visualizarse claramente plano de separacion con el lobulo izquierdo tiroideo, no se puede descartar compromiso de esta glandula.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1005  TAB1  nodular  TAB2  141730 Se observa glandula tiroides con ecoestructura heterogenea, predominantemente hipoecoica, no nodular.  TAB3  Negated
+
+p2          143
+buffer1+p2  Negated
+
+Linea:  4
+segm1: >1005<
+segm2: >nodular<
+segm3: >141730 Se observa glandula tiroides con ecoestructura heterogenea, predominantemente hipoecoica, no nodular.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1006  TAB1  adenomegalias  TAB2  942914 Ambos nodulos tiroideos difusa y levemente heterogeneos, compatible con TLS No se observan adenomegalias en cuello Vol Tiroideo LD4.  TAB3  Negated
+
+p2          180
+buffer1+p2  Negated
+
+Linea:  5
+segm1: >1006<
+segm2: >adenomegalias<
+segm3: >942914 Ambos nodulos tiroideos difusa y levemente heterogeneos, compatible con TLS No se observan adenomegalias en cuello Vol Tiroideo LD4.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1007  TAB1  ausencia  TAB2  336386 implante renal aumentado de tamano, heterogeneo, sin diferenciacion  corticomedular Dl 122 mm se observa flujo arteial y venoso a nivel del hilio con ausencia de flujo en la periferia presencia de fistula A-V en tercio medio no se observan colecciones ni liquido libre  TAB3  Affirmed
+
+p2          311
+buffer1+p2  Affirmed
+
+Linea:  6
+segm1: >1007<
+segm2: >ausencia<
+segm3: >336386 implante renal aumentado de tamano, heterogeneo, sin diferenciacion  corticomedular Dl 122 mm se observa flujo arteial y venoso a nivel del hilio con ausencia de flujo en la periferia presencia de fistula A-V en tercio medio no se observan colecciones ni liquido libre<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1008  TAB1  imagen  TAB2  Psoas con fibras musculares conservadas, no se observa imagen sugerente de coleccion.  TAB3  Negated
+
+p2          119
+buffer1+p2  Negated
+
+Linea:  7
+segm1: >1008<
+segm2: >imagen<
+segm3: >Psoas con fibras musculares conservadas, no se observa imagen sugerente de coleccion.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1009  TAB1  dilatacion   TAB2  Pelvis de diametro anteroposterior de 1.4(cm), extrarrenal No se detecto dilatacion  ureteral.  TAB3  Negated
+
+p2          133
+buffer1+p2  Negated
+
+Linea:  8
+segm1: >1009<
+segm2: >dilatacion <
+segm3: >Pelvis de diametro anteroposterior de 1.4(cm), extrarrenal No se detecto dilatacion  ureteral.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1010  TAB1  apendicitis  TAB2  en su diametro anteroposterior, minimo liquido libre, e imagen tubular, dolorosa, no compresible con apendicolito en su interior, compatible con apendicitis aguda.  TAB3  Affirmed
+
+p2          202
+buffer1+p2  Affirmed
+
+Linea:  9
+segm1: >1010<
+segm2: >apendicitis<
+segm3: >en su diametro anteroposterior, minimo liquido libre, e imagen tubular, dolorosa, no compresible con apendicolito en su interior, compatible con apendicitis aguda.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1011  TAB1  derrame   TAB2  A116632 Se explora en forma comparativa ambas caderas No se observan alteraciones de partes blandas ni derrame  articular Ambos psoas de estructura conservada en los sectores visibles  TAB3  Negated
+
+p2          219
+buffer1+p2  Negated
+
+Linea:  10
+segm1: >1011<
+segm2: >derrame <
+segm3: >A116632 Se explora en forma comparativa ambas caderas No se observan alteraciones de partes blandas ni derrame  articular Ambos psoas de estructura conservada en los sectores visibles<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1012  TAB1  dilatada  TAB2  111205 HIGADO: tamano conservado y moderado incremento de la ecogenicidad en forma difusa  VIA BILIAR intra y extrahepatica: no dilatada.  TAB3  Negated
+
+p2          173
+buffer1+p2  Negated
+
+Linea:  11
+segm1: >1012<
+segm2: >dilatada<
+segm3: >111205 HIGADO: tamano conservado y moderado incremento de la ecogenicidad en forma difusa  VIA BILIAR intra y extrahepatica: no dilatada.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1013  TAB1  cicatriz   TAB2  A1945 no se observan alteraciones visibles ecograficamente por detras de la cicatriz  tiroides, parotidas y glandulas submaxilares sin alteraciones  TAB3  Affirmed
+
+p2          184
+buffer1+p2  Affirmed
+
+Linea:  12
+segm1: >1013<
+segm2: >cicatriz <
+segm3: >A1945 no se observan alteraciones visibles ecograficamente por detras de la cicatriz  tiroides, parotidas y glandulas submaxilares sin alteraciones<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1014  TAB1  FORMACION QUISTICA  TAB2  Medidas vol 25 CC SE OBSERVA OVARIO IZQUIERDO AUMENTADO DE TAMAnO, CON IMAGENES FOLICULARES VOL: 34 CC, Y GRAN  FORMACION QUISTICA que impresiona del anexo izquierdo que se ubica retro y supravesical, con pared con algunos sectores internos engrosados y pequeno  tabique, de 6.0 x 7.5 x 9.0( cm ) No hay liquido libre en cav abd.  TAB3  Affirmed
+
+p2          375
+buffer1+p2  Affirmed
+
+Linea:  13
+segm1: >1014<
+segm2: >FORMACION QUISTICA<
+segm3: >Medidas vol 25 CC SE OBSERVA OVARIO IZQUIERDO AUMENTADO DE TAMAnO, CON IMAGENES FOLICULARES VOL: 34 CC, Y GRAN  FORMACION QUISTICA que impresiona del anexo izquierdo que se ubica retro y supravesical, con pared con algunos sectores internos engrosados y pequeno  tabique, de 6.0 x 7.5 x 9.0( cm ) No hay liquido libre en cav abd.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1015  TAB1  dilatacion  TAB2  RDer: con ectasia pielocalicial a predominio de grupo calicilar superior, disminuye parcialmente postmiccion, no observandose dilatacion de ureter.  TAB3  Negated
+
+p2          185
+buffer1+p2  Negated
+
+Linea:  14
+segm1: >1015<
+segm2: >dilatacion<
+segm3: >RDer: con ectasia pielocalicial a predominio de grupo calicilar superior, disminuye parcialmente postmiccion, no observandose dilatacion de ureter.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1016  TAB1  heterogenea  TAB2  A99228 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea no nodular.  TAB3  Affirmed
+
+p2          119
+buffer1+p2  Affirmed
+
+Linea:  15
+segm1: >1016<
+segm2: >heterogenea<
+segm3: >A99228 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea no nodular.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1017  TAB1  forma  TAB2  Ambos ovarios de forma, tamano y ecoestructura conservada, con imagenes simples de apariencia folicular, no se observan imagenes quisticas.  TAB3  Affirmed
+
+p2          172
+buffer1+p2  Affirmed
+
+Linea:  16
+segm1: >1017<
+segm2: >forma<
+segm3: >Ambos ovarios de forma, tamano y ecoestructura conservada, con imagenes simples de apariencia folicular, no se observan imagenes quisticas.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1018  TAB1  Derivacion   TAB2  / no evaluable por interposicion gaseosa COLATERALES: Vena coronaria en epiplon: 3 mm Derivacion  dorsal: Hemorroidales: Ascitis: Conclusion: se observan signos ecograficos de hipertension  portal.  TAB3  Affirmed
+
+p2          236
+buffer1+p2  Affirmed
+
+Linea:  17
+segm1: >1018<
+segm2: >Derivacion <
+segm3: >/ no evaluable por interposicion gaseosa COLATERALES: Vena coronaria en epiplon: 3 mm Derivacion  dorsal: Hemorroidales: Ascitis: Conclusion: se observan signos ecograficos de hipertension  portal.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1019  TAB1  heterogenea  TAB2  Se observa en el espesor de TCS imagen ovalada, de bordes  bien delimitados,finamente heterogenea de 1.3 cm x 0.7 cm x 1.3 cm,(malformacion linfatica) no se logra evaluar con Doppler por llanto persistente y movimiento.  TAB3  Affirmed
+
+p2          258
+buffer1+p2  Affirmed
+
+Linea:  18
+segm1: >1019<
+segm2: >heterogenea<
+segm3: >Se observa en el espesor de TCS imagen ovalada, de bordes  bien delimitados,finamente heterogenea de 1.3 cm x 0.7 cm x 1.3 cm,(malformacion linfatica) no se logra evaluar con Doppler por llanto persistente y movimiento.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1020  TAB1  heterogenea difusa  TAB2  A22923 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.  TAB3  Affirmed
+
+p2          168
+buffer1+p2  Affirmed
+
+Linea:  19
+segm1: >1020<
+segm2: >heterogenea difusa<
+segm3: >A22923 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1021  TAB1  imagen  TAB2  Se observa imagen retrovesical sacular que no esta en contacto con la pared vesical y que podria corresponder al recto.  TAB3  Affirmed
+
+p2          153
+buffer1+p2  Affirmed
+
+Linea:  20
+segm1: >1021<
+segm2: >imagen<
+segm3: >Se observa imagen retrovesical sacular que no esta en contacto con la pared vesical y que podria corresponder al recto.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1022  TAB1  condensacion  TAB2  A257557 Ecografia pleural: Hemitorax derecho: sin evidencia de derrame ni condensacion.  TAB3  Negated
+
+p2          127
+buffer1+p2  Negated
+
+Linea:  21
+segm1: >1022<
+segm2: >condensacion<
+segm3: >A257557 Ecografia pleural: Hemitorax derecho: sin evidencia de derrame ni condensacion.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1023  TAB1  dilatada  TAB2  Via excretora no dilatada.  TAB3  Negated
+
+p2          62
+buffer1+p2  Negated
+
+Linea:  22
+segm1: >1023<
+segm2: >dilatada<
+segm3: >Via excretora no dilatada.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1024  TAB1  liquido  TAB2  No se observan colecciones ni liquido intrarticular al momento del examen.  TAB3  Negated
+
+p2          109
+buffer1+p2  Negated
+
+Linea:  23
+segm1: >1024<
+segm2: >liquido<
+segm3: >No se observan colecciones ni liquido intrarticular al momento del examen.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1025  TAB1  Ectasia  TAB2  Ectasia pielica premiccional de 0.5 cm que no varia postmiccion.  TAB3  Affirmed
+
+p2          99
+buffer1+p2  Affirmed
+
+Linea:  24
+segm1: >1025<
+segm2: >Ectasia<
+segm3: >Ectasia pielica premiccional de 0.5 cm que no varia postmiccion.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1027  TAB1  forma  TAB2  Rd nativo no se observa, RIz de forma alterada sin diferencion corticomedular.  TAB3  Affirmed
+
+p2          111
+buffer1+p2  Affirmed
+
+Linea:  25
+segm1: >1027<
+segm2: >forma<
+segm3: >Rd nativo no se observa, RIz de forma alterada sin diferencion corticomedular.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1028  TAB1  derrame   TAB2  A347520 ECOGRAFIA PLEUROPULMONAR En base  pulmonar derecha se observa derrame  pleural anecoico, con pulmon subyacente no aireado.  TAB3  Affirmed
+
+p2          166
+buffer1+p2  Affirmed
+
+Linea:  26
+segm1: >1028<
+segm2: >derrame <
+segm3: >A347520 ECOGRAFIA PLEUROPULMONAR En base  pulmonar derecha se observa derrame  pleural anecoico, con pulmon subyacente no aireado.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1029  TAB1  Ectasia  TAB2  Ectasia pielica bilateral pre y posmiccional, se visualizan los ureteres en toda su extension premiccional, en la posmiccion no se identifican los proximales.  TAB3  Affirmed
+
+p2          193
+buffer1+p2  Affirmed
+
+Linea:  27
+segm1: >1029<
+segm2: >Ectasia<
+segm3: >Ectasia pielica bilateral pre y posmiccional, se visualizan los ureteres en toda su extension premiccional, en la posmiccion no se identifican los proximales.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1030  TAB1  dilatacion   TAB2  No se detecto dilatacion  ureteral ni litiasis en la via urinaria.  TAB3  Negated
+
+p2          105
+buffer1+p2  Negated
+
+Linea:  28
+segm1: >1030<
+segm2: >dilatacion <
+segm3: >No se detecto dilatacion  ureteral ni litiasis en la via urinaria.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1032  TAB1  apendicolito  TAB2  A nivel de fosa iliaca derecha se visualiza asa hipoecogenica con apendicolito en su interior no compresible y con incremento de la ecogenicidad de la grasa periapendicular y con diametro transverso de 8.9 mm No se visualiza liquido libre en el area ni en cavidad.  TAB3  Affirmed
+
+p2          304
+buffer1+p2  Affirmed
+
+Linea:  29
+segm1: >1032<
+segm2: >apendicolito<
+segm3: >A nivel de fosa iliaca derecha se visualiza asa hipoecogenica con apendicolito en su interior no compresible y con incremento de la ecogenicidad de la grasa periapendicular y con diametro transverso de 8.9 mm No se visualiza liquido libre en el area ni en cavidad.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1034  TAB1  liquido  TAB2  Diametro longitudinal:8.1( cm ) ganglios mesentericos en rango no adenopatico.. No se detectaron colecciones ni liquido libre.  TAB3  Negated
+
+p2          161
+buffer1+p2  Negated
+
+Linea:  30
+segm1: >1034<
+segm2: >liquido<
+segm3: >Diametro longitudinal:8.1( cm ) ganglios mesentericos en rango no adenopatico.. No se detectaron colecciones ni liquido libre.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1035  TAB1  imagen  TAB2  Pequena imagen  quistica a nivel de surco caudotalamico izquierdo que no produce compresion  ventricular.  TAB3  Affirmed
+
+p2          139
+buffer1+p2  Affirmed
+
+Linea:  31
+segm1: >1035<
+segm2: >imagen<
+segm3: >Pequena imagen  quistica a nivel de surco caudotalamico izquierdo que no produce compresion  ventricular.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1036  TAB1  dilatacion   TAB2  Diam long 5.5 cm, pelvis renal: 2.2 cm, no se observa dilatacion  ureteral.  TAB3  Negated
+
+p2          114
+buffer1+p2  Negated
+
+Linea:  32
+segm1: >1036<
+segm2: >dilatacion <
+segm3: >Diam long 5.5 cm, pelvis renal: 2.2 cm, no se observa dilatacion  ureteral.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1037  TAB1  hidrocele  TAB2  A262651 Se observa ovario derecho de forma y ecoestructura conservada, ubicado en trayecto inguinal distal por delante de los vasos iliacos sin extencion al TCS ni plano muscular, sin hidrocele.  TAB3  Negated
+
+p2          231
+buffer1+p2  Negated
+
+Linea:  33
+segm1: >1037<
+segm2: >hidrocele<
+segm3: >A262651 Se observa ovario derecho de forma y ecoestructura conservada, ubicado en trayecto inguinal distal por delante de los vasos iliacos sin extencion al TCS ni plano muscular, sin hidrocele.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1038  TAB1  imagenes  TAB2  A352965 DOPPLER VENOSO VCS no se observa imagenes sugerentes de Trombosis, cateter en su interior.  TAB3  Negated
+
+p2          134
+buffer1+p2  Negated
+
+Linea:  34
+segm1: >1038<
+segm2: >imagenes<
+segm3: >A352965 DOPPLER VENOSO VCS no se observa imagenes sugerentes de Trombosis, cateter en su interior.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1039  TAB1  doble  TAB2  A140399 RD pequeno y ecogenico de 5.7 x 1.8 cm, sin diferenciacion  corticomedular RI Aparenta doble 10.7 x 4.6 sin dilataciones, no visualizo ureteres  , me gustaria conocer los antecedentes y si en realidad esta en IRC, tiene CUGM, antecedentes de infecci{on  '.  TAB3  Possibility
+
+p2          297
+buffer1+p2  Possibility
+
+Linea:  35
+segm1: >1039<
+segm2: >doble<
+segm3: >A140399 RD pequeno y ecogenico de 5.7 x 1.8 cm, sin diferenciacion  corticomedular RI Aparenta doble 10.7 x 4.6 sin dilataciones, no visualizo ureteres  , me gustaria conocer los antecedentes y si en realidad esta en IRC, tiene CUGM, antecedentes de infecci{on  '.<
+segm4: >Pos<
+cuarto segmento 
+buffer1     1040  TAB1  INTRAARTICULAR   TAB2  EN FORMA COMPARATIVA SE ESTUDIAN AMBAS RODILLAS, REGION SUPRAROTULIANA, MEDIAL, LATERAL, INFRAROTULIANA, POSTERIOR, NO SE OBSERVA AUMENTO DE LIQUIDO PATOLOGICO A NIVEL INTRAARTICULAR  TAB3  Affirmed
+
+p2          225
+buffer1+p2  Affirmed
+
+Linea:  36
+segm1: >1040<
+segm2: >INTRAARTICULAR <
+segm3: >EN FORMA COMPARATIVA SE ESTUDIAN AMBAS RODILLAS, REGION SUPRAROTULIANA, MEDIAL, LATERAL, INFRAROTULIANA, POSTERIOR, NO SE OBSERVA AUMENTO DE LIQUIDO PATOLOGICO A NIVEL INTRAARTICULAR<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1041  TAB1  adenopatia  TAB2  Presencia de adenopatia en el hilio hepatico de long mayor 1.9 cm VIA BILIAR intra y extrahepatica: no dilatada.  TAB3  Affirmed
+
+p2          150
+buffer1+p2  Affirmed
+
+Linea:  37
+segm1: >1041<
+segm2: >adenopatia<
+segm3: >Presencia de adenopatia en el hilio hepatico de long mayor 1.9 cm VIA BILIAR intra y extrahepatica: no dilatada.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1042  TAB1  quistes  TAB2  A123252 Glandula tiroides con ecoestructura leve y finamente heterogenea, por presencia de pequenos quistes coloides, bilaterales, siendo el predominante en el lobulo izquierdo, en sector medio y anterior, no presentando variaciones con respecto al control previo( enero 2010), de aprox 6 mm( vol 0.2 cc).  TAB3  Affirmed
+
+p2          340
+buffer1+p2  Affirmed
+
+Linea:  38
+segm1: >1042<
+segm2: >quistes<
+segm3: >A123252 Glandula tiroides con ecoestructura leve y finamente heterogenea, por presencia de pequenos quistes coloides, bilaterales, siendo el predominante en el lobulo izquierdo, en sector medio y anterior, no presentando variaciones con respecto al control previo( enero 2010), de aprox 6 mm( vol 0.2 cc).<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1043  TAB1  hipertension  TAB2  Relacion epiplon aorta:1:1.Sin signos de hipertension  portal No se observo liquido libre en cavidad.  TAB3  Affirmed
+
+p2          141
+buffer1+p2  Affirmed
+
+Linea:  39
+segm1: >1043<
+segm2: >hipertension<
+segm3: >Relacion epiplon aorta:1:1.Sin signos de hipertension  portal No se observo liquido libre en cavidad.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1044  TAB1  nodular  TAB2  A144222 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea no nodular, disminuidos globalmente de tamano.  TAB3  Negated
+
+p2          151
+buffer1+p2  Negated
+
+Linea:  40
+segm1: >1044<
+segm2: >nodular<
+segm3: >A144222 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea no nodular, disminuidos globalmente de tamano.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1045  TAB1  aumento  TAB2  A293411 Se explora tobillo y pie izquierdo No se observa aumento del espesor del TCS en comparacion con el contralateral.  TAB3  Negated
+
+p2          156
+buffer1+p2  Negated
+
+Linea:  41
+segm1: >1045<
+segm2: >aumento<
+segm3: >A293411 Se explora tobillo y pie izquierdo No se observa aumento del espesor del TCS en comparacion con el contralateral.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1047  TAB1  centrada  TAB2  A106632 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano, con multiples areas hipoecoicas y tractos lineales ecogenicos(tractos fibrosos) Luz traqueal  centrada.  TAB3  Affirmed
+
+p2          263
+buffer1+p2  Affirmed
+
+Linea:  42
+segm1: >1047<
+segm2: >centrada<
+segm3: >A106632 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano, con multiples areas hipoecoicas y tractos lineales ecogenicos(tractos fibrosos) Luz traqueal  centrada.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1048  TAB1  aumento  TAB2  En FID se observa imagen tubular, no compresible, mide 8.7mm, aumento de ecogencidad de la grasa mesenterica subyacente.  TAB3  Affirmed
+
+p2          155
+buffer1+p2  Affirmed
+
+Linea:  43
+segm1: >1048<
+segm2: >aumento<
+segm3: >En FID se observa imagen tubular, no compresible, mide 8.7mm, aumento de ecogencidad de la grasa mesenterica subyacente.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1049  TAB1  formacion solida  TAB2  A46551 Se observa formacion solida finamente heterogenea no vascularizada en parrila costal izquierda ,en plano sudcutaneo profundo.No impresiona compromiso de musculos intercostales ni de arcos costales-.mide 1.5 cm x 0.8 cm.  TAB3  Affirmed
+
+p2          270
+buffer1+p2  Affirmed
+
+Linea:  44
+segm1: >1049<
+segm2: >formacion solida<
+segm3: >A46551 Se observa formacion solida finamente heterogenea no vascularizada en parrila costal izquierda ,en plano sudcutaneo profundo.No impresiona compromiso de musculos intercostales ni de arcos costales-.mide 1.5 cm x 0.8 cm.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1050  TAB1  dilatacion  TAB2  Rinon izquierdo con imagen redondeada en sector medio del rinon( 2.6 x 2.5cm), isoecoica con el parenquima adyacente, sin senal Doppler color de significacion ni dilatacion.  TAB3  Negated
+
+p2          211
+buffer1+p2  Negated
+
+Linea:  45
+segm1: >1050<
+segm2: >dilatacion<
+segm3: >Rinon izquierdo con imagen redondeada en sector medio del rinon( 2.6 x 2.5cm), isoecoica con el parenquima adyacente, sin senal Doppler color de significacion ni dilatacion.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1051  TAB1  heterogenea  TAB2  513410 Ambos lobulos tiroideos e istmo con ecoestructura minimamaente heterogenea no nodular, disminuidos globalmente de tamano.  TAB3  Affirmed
+
+p2          167
+buffer1+p2  Affirmed
+
+Linea:  46
+segm1: >1051<
+segm2: >heterogenea<
+segm3: >513410 Ambos lobulos tiroideos e istmo con ecoestructura minimamaente heterogenea no nodular, disminuidos globalmente de tamano.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1052  TAB1  imagen  TAB2  693781 No se observa tejido tiroideo normal En topografia del lobulo izquierdo se observa imagen ecogenica sin flujo doppler que corresponderia a tirodes residual.  TAB3  Affirmed
+
+p2          197
+buffer1+p2  Affirmed
+
+Linea:  47
+segm1: >1052<
+segm2: >imagen<
+segm3: >693781 No se observa tejido tiroideo normal En topografia del lobulo izquierdo se observa imagen ecogenica sin flujo doppler que corresponderia a tirodes residual.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1053  TAB1  imagen  TAB2  Se observa a nivel de flanco derecho imagen tubular, hipocoica, sugerente de apendice cecal,aumentado de tamano, con liquido en su interior, no compresible de 14 mm de diametro AP, liquido perivesicular.  TAB3  Affirmed
+
+p2          237
+buffer1+p2  Affirmed
+
+Linea:  48
+segm1: >1053<
+segm2: >imagen<
+segm3: >Se observa a nivel de flanco derecho imagen tubular, hipocoica, sugerente de apendice cecal,aumentado de tamano, con liquido en su interior, no compresible de 14 mm de diametro AP, liquido perivesicular.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1054  TAB1  imagenes  TAB2  Se observa cateter de derivacion en FID con escaso liquido adyacente a la punta, no se observan imagenes quisticas.  TAB3  Negated
+
+p2          151
+buffer1+p2  Negated
+
+Linea:  49
+segm1: >1054<
+segm2: >imagenes<
+segm3: >Se observa cateter de derivacion en FID con escaso liquido adyacente a la punta, no se observan imagenes quisticas.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1055  TAB1  vascular  TAB2  470740 Higado homogeneo.vesicula normal No se visualiza pancreas ni retroperitoneo  vascular por interposicion aerea- Bazo homogeno .mide 9 cm Rinones nativos pequenos.  TAB3  Negated
+
+p2          204
+buffer1+p2  Negated
+
+Linea:  50
+segm1: >1055<
+segm2: >vascular<
+segm3: >470740 Higado homogeneo.vesicula normal No se visualiza pancreas ni retroperitoneo  vascular por interposicion aerea- Bazo homogeno .mide 9 cm Rinones nativos pequenos.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1056  TAB1  Hidrocele  TAB2  Hidrocele bilateral extendiendose a conducto inguinal, no se observa comunicacion con abdomen.  TAB3  Affirmed
+
+p2          131
+buffer1+p2  Affirmed
+
+Linea:  51
+segm1: >1056<
+segm2: >Hidrocele<
+segm3: >Hidrocele bilateral extendiendose a conducto inguinal, no se observa comunicacion con abdomen.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1057  TAB1  Hidronefrosis  TAB2  Hidronefrosis derecha, pelvis 1 cm, por compresi{on  ' Diagnostico presuntivo: duplcacion, linfangioma, teratoma  ', Deseo conocer evolucion se sugiere consulta a cirugia, no se justifica otro me{todo de im{agenes  TAB3  Affirmed
+
+p2          254
+buffer1+p2  Affirmed
+
+Linea:  52
+segm1: >1057<
+segm2: >Hidronefrosis<
+segm3: >Hidronefrosis derecha, pelvis 1 cm, por compresi{on  ' Diagnostico presuntivo: duplcacion, linfangioma, teratoma  ', Deseo conocer evolucion se sugiere consulta a cirugia, no se justifica otro me{todo de im{agenes<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1058  TAB1  dilatada   TAB2  coledoco no dilatada  VESICULA BILIAR: distendida alitiasica.  TAB3  Negated
+
+p2          98
+buffer1+p2  Negated
+
+Linea:  53
+segm1: >1058<
+segm2: >dilatada <
+segm3: >coledoco no dilatada  VESICULA BILIAR: distendida alitiasica.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1059  TAB1  hipertension  TAB2  / 1 COLATERALES: Derivaciones: Vasos cortos , periesplenicas , sin hemorroidales Ascitis: no Conclusion: se observan signos ecograficos de hipertension  portal.  TAB3  Affirmed
+
+p2          200
+buffer1+p2  Affirmed
+
+Linea:  54
+segm1: >1059<
+segm2: >hipertension<
+segm3: >/ 1 COLATERALES: Derivaciones: Vasos cortos , periesplenicas , sin hemorroidales Ascitis: no Conclusion: se observan signos ecograficos de hipertension  portal.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1060  TAB1  cambios  TAB2  VESICULA BILIAR: de pared engrosada, de 0.4 cm( tener en cuenta que la pcte no presenta adecuado ayuno), en su interior se observa litiasis unica en bacinete que no moviliza con los cambios de decubito que mide 1.6 cm PANCREAS: tamano y ecoestructura normal.  TAB3  Affirmed
+
+p2          293
+buffer1+p2  Affirmed
+
+Linea:  55
+segm1: >1060<
+segm2: >cambios<
+segm3: >VESICULA BILIAR: de pared engrosada, de 0.4 cm( tener en cuenta que la pcte no presenta adecuado ayuno), en su interior se observa litiasis unica en bacinete que no moviliza con los cambios de decubito que mide 1.6 cm PANCREAS: tamano y ecoestructura normal.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1061  TAB1  hernia  TAB2  532901 se explora la pared abdominal en reposo y contraccion no se observan alteraciones del Tcs, ni planos musculares no se observan signos ecograficos de hernia ni de trombosis al examen Doppler color  TAB3  Negated
+
+p2          236
+buffer1+p2  Negated
+
+Linea:  56
+segm1: >1061<
+segm2: >hernia<
+segm3: >532901 se explora la pared abdominal en reposo y contraccion no se observan alteraciones del Tcs, ni planos musculares no se observan signos ecograficos de hernia ni de trombosis al examen Doppler color<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1062  TAB1  engrosamiento  TAB2  Doppler Color normal, Doppler Pulsado con onda espectral bifasica( normal ) En Vena femoral superficial izquierda se observa engrosamiento de la pared con minima disminucion de la luz, que podria corresponder a trombosis  residual( no observada en ecografia previa) Alteracion espectral a dicho nivel, onda monofasica.  TAB3  Affirmed
+
+p2          359
+buffer1+p2  Affirmed
+
+Linea:  57
+segm1: >1062<
+segm2: >engrosamiento<
+segm3: >Doppler Color normal, Doppler Pulsado con onda espectral bifasica( normal ) En Vena femoral superficial izquierda se observa engrosamiento de la pared con minima disminucion de la luz, que podria corresponder a trombosis  residual( no observada en ecografia previa) Alteracion espectral a dicho nivel, onda monofasica.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1063  TAB1  forma  TAB2  A127906 Higado tx finamente heterogenea en forma difusa.Vporta,VSH,Art hepatica con senal color y doppler venoso y arterial presente.Vci normal.Via biliar no dilatada.  TAB3  Affirmed
+
+p2          200
+buffer1+p2  Affirmed
+
+Linea:  58
+segm1: >1063<
+segm2: >forma<
+segm3: >A127906 Higado tx finamente heterogenea en forma difusa.Vporta,VSH,Art hepatica con senal color y doppler venoso y arterial presente.Vci normal.Via biliar no dilatada.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1064  TAB1  heterogenea  TAB2  A96688 Se observa glandula tiroides con ecoestructura finamente heterogenea, no nodular, con vascularizacion no significativa.  TAB3  Affirmed
+
+p2          165
+buffer1+p2  Affirmed
+
+Linea:  59
+segm1: >1064<
+segm2: >heterogenea<
+segm3: >A96688 Se observa glandula tiroides con ecoestructura finamente heterogenea, no nodular, con vascularizacion no significativa.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1065  TAB1  liquido  TAB2  Vejiga s / p no liquido libre.  TAB3  Negated
+
+p2          65
+buffer1+p2  Negated
+
+Linea:  60
+segm1: >1065<
+segm2: >liquido<
+segm3: >Vejiga s / p no liquido libre.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1066  TAB1  imagenes  TAB2  Vesicula con bilis espesa de paredes finas ,via biliar normal Se visualiza cabeza de pancreas ,importante interposicion aerea.- Bazo de tamano normal con al menos tres imagenes redondeadas hipoecogenicas no vascularizadas,la de mayor tamano de 0.6 cm y de 0.53 y 0.5 cm.  TAB3  Affirmed
+
+p2          306
+buffer1+p2  Affirmed
+
+Linea:  61
+segm1: >1066<
+segm2: >imagenes<
+segm3: >Vesicula con bilis espesa de paredes finas ,via biliar normal Se visualiza cabeza de pancreas ,importante interposicion aerea.- Bazo de tamano normal con al menos tres imagenes redondeadas hipoecogenicas no vascularizadas,la de mayor tamano de 0.6 cm y de 0.53 y 0.5 cm.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1067  TAB1  formacion solida  TAB2  A20665 HIGADO: A nivel del higado remanente se visualiza formacion solida, finamente heterogenea, vascularizada de aprox 4.5 x 4.5 x 3.8 cm VIA BILIAR intra y extrahepatica: no dilatada.  TAB3  Affirmed
+
+p2          230
+buffer1+p2  Affirmed
+
+Linea:  62
+segm1: >1067<
+segm2: >formacion solida<
+segm3: >A20665 HIGADO: A nivel del higado remanente se visualiza formacion solida, finamente heterogenea, vascularizada de aprox 4.5 x 4.5 x 3.8 cm VIA BILIAR intra y extrahepatica: no dilatada.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1068  TAB1  herida  TAB2  No se observan colecciones en cavidad, ni en herida quirurgica.  TAB3  Affirmed
+
+p2          97
+buffer1+p2  Affirmed
+
+Linea:  63
+segm1: >1068<
+segm2: >herida<
+segm3: >No se observan colecciones en cavidad, ni en herida quirurgica.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1069  TAB1  Esplenomegalia  TAB2  Esplenomegalia homogenea mide 14.4 cm bazo accesorio de 2.7 cm VCI SP ambos rinones normales der 6.6 cm y ri 7.3 cm No se obsera Liquido libreen cavidad vejiga poco plenificada.  TAB3  Affirmed
+
+p2          219
+buffer1+p2  Affirmed
+
+Linea:  64
+segm1: >1069<
+segm2: >Esplenomegalia<
+segm3: >Esplenomegalia homogenea mide 14.4 cm bazo accesorio de 2.7 cm VCI SP ambos rinones normales der 6.6 cm y ri 7.3 cm No se obsera Liquido libreen cavidad vejiga poco plenificada.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1070  TAB1  Implante  TAB2  Implante renal en FII, de ecoestructura y ecogenicidad conservada, no se observa dilatacion de la via urinaria.  TAB3  Affirmed
+
+p2          147
+buffer1+p2  Affirmed
+
+Linea:  65
+segm1: >1070<
+segm2: >Implante<
+segm3: >Implante renal en FII, de ecoestructura y ecogenicidad conservada, no se observa dilatacion de la via urinaria.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1071  TAB1  diferenciacion  TAB2  Presenta aumento de la ecogenicidad del parenquima con disminucion de la diferenciacion corticomedular.DL: 11,3 cm No se detecto dilatacion de la via urinaria.  TAB3  Affirmed
+
+p2          201
+buffer1+p2  Affirmed
+
+Linea:  66
+segm1: >1071<
+segm2: >diferenciacion<
+segm3: >Presenta aumento de la ecogenicidad del parenquima con disminucion de la diferenciacion corticomedular.DL: 11,3 cm No se detecto dilatacion de la via urinaria.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1072  TAB1  dilatacion  TAB2  Ectasia pielocalicial izquierda, pelvis: 0.9cm No se detecto dilatacion de la via urinaria.  TAB3  Negated
+
+p2          129
+buffer1+p2  Negated
+
+Linea:  67
+segm1: >1072<
+segm2: >dilatacion<
+segm3: >Ectasia pielocalicial izquierda, pelvis: 0.9cm No se detecto dilatacion de la via urinaria.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1073  TAB1  liquido  TAB2  RD Diam Long: 8.7 cm RI Diam long:9.4 cm Vejiga de caracteristicas normales Se exploran ambas caderas con trasductor lineal de alta frecuencia: No se observa aumento del liquido intrarticular ni colecciones.  TAB3  Affirmed
+
+p2          242
+buffer1+p2  Affirmed
+
+Linea:  68
+segm1: >1073<
+segm2: >liquido<
+segm3: >RD Diam Long: 8.7 cm RI Diam long:9.4 cm Vejiga de caracteristicas normales Se exploran ambas caderas con trasductor lineal de alta frecuencia: No se observa aumento del liquido intrarticular ni colecciones.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1074  TAB1  pequeno   TAB2  A141507 Masa hepatica ya conocida, heterogenea, con pequenas imagenes ecogenicas, sin areas de necrosis destacables, que afecta casi totalmente lobulo izquierdo, con muy pequeno  sector  periferico en seg II y III de parenquima conservado.La misma desplaza a VSH derecha, no identificandose media e izq.  TAB3  Affirmed
+
+p2          339
+buffer1+p2  Affirmed
+
+Linea:  69
+segm1: >1074<
+segm2: >pequeno <
+segm3: >A141507 Masa hepatica ya conocida, heterogenea, con pequenas imagenes ecogenicas, sin areas de necrosis destacables, que afecta casi totalmente lobulo izquierdo, con muy pequeno  sector  periferico en seg II y III de parenquima conservado.La misma desplaza a VSH derecha, no identificandose media e izq.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1075  TAB1  hiperecogenicos  TAB2  Ambos rinones aumentados de tamano, hiperecogenicos sin diferenciacion  corticomedular( rinones poliquisticos ) Vejiga de caracteristicas normales no se observan colaterales ni signos de HTP  TAB3  Affirmed
+
+p2          233
+buffer1+p2  Affirmed
+
+Linea:  70
+segm1: >1075<
+segm2: >hiperecogenicos<
+segm3: >Ambos rinones aumentados de tamano, hiperecogenicos sin diferenciacion  corticomedular( rinones poliquisticos ) Vejiga de caracteristicas normales no se observan colaterales ni signos de HTP<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1076  TAB1  derrame   TAB2  Hemitorax izquierdo: no se observa derrame  pleural.  TAB3  Negated
+
+p2          88
+buffer1+p2  Negated
+
+Linea:  71
+segm1: >1076<
+segm2: >derrame <
+segm3: >Hemitorax izquierdo: no se observa derrame  pleural.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1077  TAB1  flujo tipo  TAB2  Dada la importante ascitis, no se logra visualizar shunt su topografia ,ni vasos venosos adayacentes con flujo tipo turbulento.  TAB3  Negated
+
+p2          165
+buffer1+p2  Negated
+
+Linea:  72
+segm1: >1077<
+segm2: >flujo tipo<
+segm3: >Dada la importante ascitis, no se logra visualizar shunt su topografia ,ni vasos venosos adayacentes con flujo tipo turbulento.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1078  TAB1  DIFUSO  TAB2  654368 HIGADO: tamano DISMINU IDO CONTORNO NODULAR, HETEROGENEO  DIFUSO, HIPERECOGENICIDAD PERIPORTAL V PORTA 8 MM VIA BILIAR intra y extrahepatica: no dilatada.  TAB3  Affirmed
+
+p2          195
+buffer1+p2  Affirmed
+
+Linea:  73
+segm1: >1078<
+segm2: >DIFUSO<
+segm3: >654368 HIGADO: tamano DISMINU IDO CONTORNO NODULAR, HETEROGENEO  DIFUSO, HIPERECOGENICIDAD PERIPORTAL V PORTA 8 MM VIA BILIAR intra y extrahepatica: no dilatada.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1079  TAB1  doble   TAB2  residuo vesical postmicional long rI 10 cm RD Aparenta doble  sistema o bifido, no visulaizado en estudios anteriores de 8 cm de long sin dilatacion  pre y post en HSI   1.4 cm, reflujo  , no visualizo ureters, Se sugiere CUGM deseo conocer evolucion  TAB3  Affirmed
+
+p2          284
+buffer1+p2  Affirmed
+
+Linea:  74
+segm1: >1079<
+segm2: >doble <
+segm3: >residuo vesical postmicional long rI 10 cm RD Aparenta doble  sistema o bifido, no visulaizado en estudios anteriores de 8 cm de long sin dilatacion  pre y post en HSI   1.4 cm, reflujo  , no visualizo ureters, Se sugiere CUGM deseo conocer evolucion<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1080  TAB1  liquido   TAB2  Se exploran ambas caderas en forma bilateral y simetrica: no se observan aumento del liquido  articular  TAB3  Affirmed
+
+p2          139
+buffer1+p2  Affirmed
+
+Linea:  75
+segm1: >1080<
+segm2: >liquido <
+segm3: >Se exploran ambas caderas en forma bilateral y simetrica: no se observan aumento del liquido  articular<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1081  TAB1  lineales  TAB2  741800 Ambos lobulos tiroideos e itsmo con ecoestructura heterogenea no nodular con visualizacion de tractos lineales ecogenicos ), disminuidos globalmente de tamano.  TAB3  Affirmed
+
+p2          202
+buffer1+p2  Affirmed
+
+Linea:  76
+segm1: >1081<
+segm2: >lineales<
+segm3: >741800 Ambos lobulos tiroideos e itsmo con ecoestructura heterogenea no nodular con visualizacion de tractos lineales ecogenicos ), disminuidos globalmente de tamano.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1082  TAB1  pequenas  TAB2  BAZO: Se observan multiples imagenes de contornos irregulares hipoecogenicas predominantemente perifericas algunas de aspectos tringular o en cuna de diferentes tamanos no vascularizadas miden las de mayor tamano 2.1 cm ,otras de 0.7 cm y otras una pequenas perifericas mas redondeadas .Diametro longitudinal:12 (cm)en nel limite superior.Vena esplenica segmento retropancreatico con flujo  venoso conservado.  TAB3  Affirmed
+
+p2          445
+buffer1+p2  Affirmed
+
+Linea:  77
+segm1: >1082<
+segm2: >pequenas<
+segm3: >BAZO: Se observan multiples imagenes de contornos irregulares hipoecogenicas predominantemente perifericas algunas de aspectos tringular o en cuna de diferentes tamanos no vascularizadas miden las de mayor tamano 2.1 cm ,otras de 0.7 cm y otras una pequenas perifericas mas redondeadas .Diametro longitudinal:12 (cm)en nel limite superior.Vena esplenica segmento retropancreatico con flujo  venoso conservado.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1083  TAB1  AUMENTO  TAB2  SE OBSERVA AUMENTO DE LIQUIDO A NIVEL DE CAPSULA DE ARTICULACION COXOFEMORAL DERECHA, NO SE OBSERVAN IMAGENES SUGERENES DE PARTICULAS EN SUSPENSION O DETRITUS.  TAB3  Affirmed
+
+p2          194
+buffer1+p2  Affirmed
+
+Linea:  78
+segm1: >1083<
+segm2: >AUMENTO<
+segm3: >SE OBSERVA AUMENTO DE LIQUIDO A NIVEL DE CAPSULA DE ARTICULACION COXOFEMORAL DERECHA, NO SE OBSERVAN IMAGENES SUGERENES DE PARTICULAS EN SUSPENSION O DETRITUS.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1084  TAB1  cambios  TAB2  Conclusion: no se observan cambios significativos respecto a estudio previo.  TAB3  Negated
+
+p2          111
+buffer1+p2  Negated
+
+Linea:  79
+segm1: >1084<
+segm2: >cambios<
+segm3: >Conclusion: no se observan cambios significativos respecto a estudio previo.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1085  TAB1  imagen  TAB2  Anidel de FID se visualiza imagen tubular con centro hipoecoico, no combresible, doloroso a la compresion, de 7.5mm, que podria corresponder a apex.  TAB3  Affirmed
+
+p2          182
+buffer1+p2  Affirmed
+
+Linea:  80
+segm1: >1085<
+segm2: >imagen<
+segm3: >Anidel de FID se visualiza imagen tubular con centro hipoecoico, no combresible, doloroso a la compresion, de 7.5mm, que podria corresponder a apex.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1086  TAB1  conocido   TAB2  Cavernoma portal ya conocido  VIA BILIAR intra y extrahepatica: no dilatada.  TAB3  Affirmed
+
+p2          113
+buffer1+p2  Affirmed
+
+Linea:  81
+segm1: >1086<
+segm2: >conocido <
+segm3: >Cavernoma portal ya conocido  VIA BILIAR intra y extrahepatica: no dilatada.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1087  TAB1  difuso  TAB2  A52749 Higado: heterogeneo  difuso hiperecogenicidad periportal no se observan bilomas Via biliar intra y extrahepatica: Vesicula biliar: ausente Pancreas: Bazo: tamano aumentado.  TAB3  Affirmed
+
+p2          213
+buffer1+p2  Affirmed
+
+Linea:  82
+segm1: >1087<
+segm2: >difuso<
+segm3: >A52749 Higado: heterogeneo  difuso hiperecogenicidad periportal no se observan bilomas Via biliar intra y extrahepatica: Vesicula biliar: ausente Pancreas: Bazo: tamano aumentado.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1088  TAB1  hepatomegalia  TAB2  A348933 HIGADO: hepatomegalia homogenea con aumento difuso de la ecogenicidad parenquimatosa  VIA BILIAR intra y extrahepatica: no dilatada.  TAB3  Affirmed
+
+p2          181
+buffer1+p2  Affirmed
+
+Linea:  83
+segm1: >1088<
+segm2: >hepatomegalia<
+segm3: >A348933 HIGADO: hepatomegalia homogenea con aumento difuso de la ecogenicidad parenquimatosa  VIA BILIAR intra y extrahepatica: no dilatada.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1089  TAB1  Implante  TAB2  764726 Implante hepatico de ecoestructura normal.con aerobilia NO SE OBSERVAN SIGNOS DE HP Flujo turbulento en la porta, lo que es un hallazgo frecuente( posicional )   en region hiliar postanastomotica, pero con buen flujo.  TAB3  Affirmed
+
+p2          260
+buffer1+p2  Affirmed
+
+Linea:  84
+segm1: >1089<
+segm2: >Implante<
+segm3: >764726 Implante hepatico de ecoestructura normal.con aerobilia NO SE OBSERVAN SIGNOS DE HP Flujo turbulento en la porta, lo que es un hallazgo frecuente( posicional )   en region hiliar postanastomotica, pero con buen flujo.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1090  TAB1  leve aumento  TAB2  A199844 HIGADO: tamano conservado, con leve aumento de la ecogenicidad en forma difusa, sin lesiones focales( esteatosis ) VIA BILIAR intra y extrahepatica: no dilatada.  TAB3  Affirmed
+
+p2          209
+buffer1+p2  Affirmed
+
+Linea:  85
+segm1: >1090<
+segm2: >leve aumento<
+segm3: >A199844 HIGADO: tamano conservado, con leve aumento de la ecogenicidad en forma difusa, sin lesiones focales( esteatosis ) VIA BILIAR intra y extrahepatica: no dilatada.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1091  TAB1  leve  TAB2  625749 Se visualiza glandula tiroides con ecoestructura leve y finamente heterogenea, no nodular.  TAB3  Affirmed
+
+p2          129
+buffer1+p2  Affirmed
+
+Linea:  86
+segm1: >1091<
+segm2: >leve<
+segm3: >625749 Se visualiza glandula tiroides con ecoestructura leve y finamente heterogenea, no nodular.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1092  TAB1  Derivacion   TAB2  Relacion Epiplon Aorta: 3,7 / 1,2 COLATERALES: Vena coronaria en epiplon:no Derivacion  dorsal: no Hemorroidales:no vasos cortos:no Ascitis:no Rinones de caracteristicas normales.RD:10,6 cm Ri:10,5 cm Conclusion: no se observan signos ecograficos de hipertension  portal.  TAB3  Negated
+
+p2          310
+buffer1+p2  Negated
+
+Linea:  87
+segm1: >1092<
+segm2: >Derivacion <
+segm3: >Relacion Epiplon Aorta: 3,7 / 1,2 COLATERALES: Vena coronaria en epiplon:no Derivacion  dorsal: no Hemorroidales:no vasos cortos:no Ascitis:no Rinones de caracteristicas normales.RD:10,6 cm Ri:10,5 cm Conclusion: no se observan signos ecograficos de hipertension  portal.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1093  TAB1  nodular  TAB2  A146009 HIGADO: hepatomegalia heterogenea debido a la presencia de multiples imagenes hipoecoicas de limites mal definidos, no se observa imagen  nodular dominante.  TAB3  Negated
+
+p2          199
+buffer1+p2  Negated
+
+Linea:  88
+segm1: >1093<
+segm2: >nodular<
+segm3: >A146009 HIGADO: hepatomegalia heterogenea debido a la presencia de multiples imagenes hipoecoicas de limites mal definidos, no se observa imagen  nodular dominante.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1094  TAB1  Ectasia  TAB2  Ectasia pielica de 0.5 cm, que no se podifica significativamente postmiccional.  TAB3  Affirmed
+
+p2          114
+buffer1+p2  Affirmed
+
+Linea:  89
+segm1: >1094<
+segm2: >Ectasia<
+segm3: >Ectasia pielica de 0.5 cm, que no se podifica significativamente postmiccional.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1095  TAB1  imagenes  TAB2  BAZO: tamano y ecoestructura normal, a nivel de polo inferior de imagenes hipoecoicas, superficiales, pequenas agrupadas( ya observadas), sin vascularizacion que podrian corresponder a hematoma residualresuelto( no agudo)sin compromiso de parenquima esplenico, sin calcificaciones, sin evidencias ecograficas de proceso activo.  TAB3  Affirmed
+
+p2          363
+buffer1+p2  Affirmed
+
+Linea:  90
+segm1: >1095<
+segm2: >imagenes<
+segm3: >BAZO: tamano y ecoestructura normal, a nivel de polo inferior de imagenes hipoecoicas, superficiales, pequenas agrupadas( ya observadas), sin vascularizacion que podrian corresponder a hematoma residualresuelto( no agudo)sin compromiso de parenquima esplenico, sin calcificaciones, sin evidencias ecograficas de proceso activo.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1096  TAB1  nodular  TAB2  A269755 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular.  TAB3  Negated
+
+p2          123
+buffer1+p2  Negated
+
+Linea:  91
+segm1: >1096<
+segm2: >nodular<
+segm3: >A269755 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1097  TAB1  gaseosa  TAB2  Diametro longitudinal:22,3( cm ) RETROPERITONEO  VASCULAR Y PANCREAS no visibles por interposicion gaseosa.  TAB3  Affirmed
+
+p2          142
+buffer1+p2  Affirmed
+
+Linea:  92
+segm1: >1097<
+segm2: >gaseosa<
+segm3: >Diametro longitudinal:22,3( cm ) RETROPERITONEO  VASCULAR Y PANCREAS no visibles por interposicion gaseosa.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1098  TAB1  formacion quistica  TAB2  A nivel supravesical ligeramente lateralizado hacia la izquierda se observa formacion quistica con contenido ecogenico particulado de aprox 6.4cm x 6.6cm x 3cm, sin senal Doppler en su interior, no aparenta comunicacion con la vejiga, extendiendose a lo largo de la FII, en relacion con el polo inferior del RI.  TAB3  Affirmed
+
+p2          357
+buffer1+p2  Affirmed
+
+Linea:  93
+segm1: >1098<
+segm2: >formacion quistica<
+segm3: >A nivel supravesical ligeramente lateralizado hacia la izquierda se observa formacion quistica con contenido ecogenico particulado de aprox 6.4cm x 6.6cm x 3cm, sin senal Doppler en su interior, no aparenta comunicacion con la vejiga, extendiendose a lo largo de la FII, en relacion con el polo inferior del RI.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1099  TAB1  Aumento difuso  TAB2  Aumento difuso de la ecogenicidad parenquimatosa( esteatosis hepatica) VIA BILIAR intra y extrahepatica: no dilatada.  TAB3  Affirmed
+
+p2          159
+buffer1+p2  Affirmed
+
+Linea:  94
+segm1: >1099<
+segm2: >Aumento difuso<
+segm3: >Aumento difuso de la ecogenicidad parenquimatosa( esteatosis hepatica) VIA BILIAR intra y extrahepatica: no dilatada.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1100  TAB1  imagenes  TAB2  No se observan imagenes nodulares, quisticas ni calcificaciones.  TAB3  Negated
+
+p2          100
+buffer1+p2  Negated
+
+Linea:  95
+segm1: >1100<
+segm2: >imagenes<
+segm3: >No se observan imagenes nodulares, quisticas ni calcificaciones.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1101  TAB1  imagen  TAB2  A148853 HIGADO: tamano y ecoestructura normal.no se identifican imagenes quisticas VIA BILIAR intra y extrahepatica: no dilatada.  TAB3  Negated
+
+p2          163
+buffer1+p2  Negated
+
+Linea:  96
+segm1: >1101<
+segm2: >imagen<
+segm3: >A148853 HIGADO: tamano y ecoestructura normal.no se identifican imagenes quisticas VIA BILIAR intra y extrahepatica: no dilatada.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1102  TAB1  dilatacion  TAB2  A216841 Ambos rinones ortotopicos- Rinon derecho de mayor tamano con multiples imagenes quisticas de diferente tamano, sin parenquima renal normal.Sin dilatacion pielocalicial.Se visualiza en forma intermitente ureter derecho no dilatado de 2.6 mm .  TAB3  Negated
+
+p2          287
+buffer1+p2  Negated
+
+Linea:  97
+segm1: >1102<
+segm2: >dilatacion<
+segm3: >A216841 Ambos rinones ortotopicos- Rinon derecho de mayor tamano con multiples imagenes quisticas de diferente tamano, sin parenquima renal normal.Sin dilatacion pielocalicial.Se visualiza en forma intermitente ureter derecho no dilatado de 2.6 mm .<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1103  TAB1  cambios  TAB2  VESICULA BILIAR: En pared posterior se visualiza imagen de baja ecogenicidad, no movil con los cambios en decubito, sin flujo Doppler.Existen ecos internos.  TAB3  Affirmed
+
+p2          191
+buffer1+p2  Affirmed
+
+Linea:  98
+segm1: >1103<
+segm2: >cambios<
+segm3: >VESICULA BILIAR: En pared posterior se visualiza imagen de baja ecogenicidad, no movil con los cambios en decubito, sin flujo Doppler.Existen ecos internos.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1104  TAB1  NECROSIS  TAB2  Diametro longitudinal: 9.7(cm) ADENOMEGALIAS CON AREAS DE NECROSIS Y CALCIFIXCACIONES, ALGUNAS EN CONGLOMERADO EN: HILIO HEPATICO:34X20 MM, RETROCAVA:58X45X30 MM,PARAAORICO IZQUIERDO DE 61X63X36 MM, PERIUMBILICAL DE60X43X22 MM, FLANCO IZQUIERDO DE83X78X43 MM No se observo liquido libre en cavidad.  TAB3  Affirmed
+
+p2          334
+buffer1+p2  Affirmed
+
+Linea:  99
+segm1: >1104<
+segm2: >NECROSIS<
+segm3: >Diametro longitudinal: 9.7(cm) ADENOMEGALIAS CON AREAS DE NECROSIS Y CALCIFIXCACIONES, ALGUNAS EN CONGLOMERADO EN: HILIO HEPATICO:34X20 MM, RETROCAVA:58X45X30 MM,PARAAORICO IZQUIERDO DE 61X63X36 MM, PERIUMBILICAL DE60X43X22 MM, FLANCO IZQUIERDO DE83X78X43 MM No se observo liquido libre en cavidad.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1105  TAB1  imagen  TAB2  Se observa en fosa iliaca derecha imagen tubular, no compresible que mide 11 mm de diametro anteroposterior que corresponderia a apex.  TAB3  Affirmed
+
+p2          168
+buffer1+p2  Affirmed
+
+Linea:  100
+segm1: >1105<
+segm2: >imagen<
+segm3: >Se observa en fosa iliaca derecha imagen tubular, no compresible que mide 11 mm de diametro anteroposterior que corresponderia a apex.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1106  TAB1  sin residuo postmiccional  TAB2  A77060 Ecografia Renovesical Pre y postmiccional: vejiga de paredes lisas sin residuo postmiccional, no visualizo ureteres Hidronefrosis bilateral mas marcada del lado izquierdo, pelvis 2.5 cc, Der 1.13 Ambas no se modifican luego de la miccion Tiene Medicina Nuclear   considero importante realizar estudio con fursemida  TAB3  Affirmed
+
+p2          374
+buffer1+p2  Affirmed
+
+Linea:  101
+segm1: >1106<
+segm2: >sin residuo postmiccional<
+segm3: >A77060 Ecografia Renovesical Pre y postmiccional: vejiga de paredes lisas sin residuo postmiccional, no visualizo ureteres Hidronefrosis bilateral mas marcada del lado izquierdo, pelvis 2.5 cc, Der 1.13 Ambas no se modifican luego de la miccion Tiene Medicina Nuclear   considero importante realizar estudio con fursemida<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1107  TAB1  herida  TAB2  627751 Ecografia de partes blandas region dorsal  herida quirurgica por API amplia: No se identifican colecciones observadas en estudios anteriores.  TAB3  Affirmed
+
+p2          182
+buffer1+p2  Affirmed
+
+Linea:  102
+segm1: >1107<
+segm2: >herida<
+segm3: >627751 Ecografia de partes blandas region dorsal  herida quirurgica por API amplia: No se identifican colecciones observadas en estudios anteriores.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1108  TAB1  aumento  TAB2  A103491 Se realiza examen ecografico comparativo de ambos codos: se visualiza aumento significativo del espesor de partes blandas en codo derecho, no observadose incremento de liquido intraarticular.  TAB3  Affirmed
+
+p2          234
+buffer1+p2  Affirmed
+
+Linea:  103
+segm1: >1108<
+segm2: >aumento<
+segm3: >A103491 Se realiza examen ecografico comparativo de ambos codos: se visualiza aumento significativo del espesor de partes blandas en codo derecho, no observadose incremento de liquido intraarticular.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1109  TAB1  nodular  TAB2  A27059 Ambos lobulos tiroideos e itsmo con ecoestructura minimamente heterogenea difusa no nodular y aumentados globalmente de tamano.  TAB3  Negated
+
+p2          169
+buffer1+p2  Negated
+
+Linea:  104
+segm1: >1109<
+segm2: >nodular<
+segm3: >A27059 Ambos lobulos tiroideos e itsmo con ecoestructura minimamente heterogenea difusa no nodular y aumentados globalmente de tamano.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1110  TAB1  flujo  TAB2  Vejiga con escaso contenido heterogeneo, de paredes engrosadas, con hiperflujo, no se puede determinar si la imagen intravesical tiene flujo, por dolor y urgencia miccional de la paciente.  TAB3  Affirmed
+
+p2          221
+buffer1+p2  Affirmed
+
+Linea:  105
+segm1: >1110<
+segm2: >flujo<
+segm3: >Vejiga con escaso contenido heterogeneo, de paredes engrosadas, con hiperflujo, no se puede determinar si la imagen intravesical tiene flujo, por dolor y urgencia miccional de la paciente.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1111  TAB1  hepatomegalia  TAB2  A229220 Discreta hepatomegalia homogenea VIA BILIAR intra y extrahepatica: no dilatada.  TAB3  Affirmed
+
+p2          128
+buffer1+p2  Affirmed
+
+Linea:  106
+segm1: >1111<
+segm2: >hepatomegalia<
+segm3: >A229220 Discreta hepatomegalia homogenea VIA BILIAR intra y extrahepatica: no dilatada.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1112  TAB1  forma difusa  TAB2  Rinon izquierdo de bordes lobulados, con aumento de la ecogenicidad en forma difusa, con imagen  cortical en polo inferior region intermedia, hipocoica,redondeada, no vascularizada( mide 0.9 cm x 0.9 cm ) y otra en sector medio ,mas anterior que mide 0.8 cm x 0.5 cm ) Vejiga de caracteristicas normales.  TAB3  Affirmed
+
+p2          344
+buffer1+p2  Affirmed
+
+Linea:  107
+segm1: >1112<
+segm2: >forma difusa<
+segm3: >Rinon izquierdo de bordes lobulados, con aumento de la ecogenicidad en forma difusa, con imagen  cortical en polo inferior region intermedia, hipocoica,redondeada, no vascularizada( mide 0.9 cm x 0.9 cm ) y otra en sector medio ,mas anterior que mide 0.8 cm x 0.5 cm ) Vejiga de caracteristicas normales.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1113  TAB1  imagen  TAB2  En FID se observa imagen tubular hhipoecoica, no compresible de 13 mm de diametro AP compatible con Apex.  TAB3  Affirmed
+
+p2          139
+buffer1+p2  Affirmed
+
+Linea:  108
+segm1: >1113<
+segm2: >imagen<
+segm3: >En FID se observa imagen tubular hhipoecoica, no compresible de 13 mm de diametro AP compatible con Apex.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1114  TAB1  liquido  TAB2  Diametro longitudinal:12,7( cm ) No se detectaron colecciones ni liquido libre.  TAB3  Negated
+
+p2          114
+buffer1+p2  Negated
+
+Linea:  109
+segm1: >1114<
+segm2: >liquido<
+segm3: >Diametro longitudinal:12,7( cm ) No se detectaron colecciones ni liquido libre.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1115  TAB1  hipertension  TAB2  / 1( valor elativo por higadopequeno y corticoterapia) COLATERALES: Vena coronaria en epiplon:4 mm Derivacion  dorsal: no Hemorroidales: vasos cortos:no Ascitis:no Rinones de caracteristicas normales Conclusion: se observan signos ecograficos de hipertension  portal.  TAB3  Affirmed
+
+p2          307
+buffer1+p2  Affirmed
+
+Linea:  110
+segm1: >1115<
+segm2: >hipertension<
+segm3: >/ 1( valor elativo por higadopequeno y corticoterapia) COLATERALES: Vena coronaria en epiplon:4 mm Derivacion  dorsal: no Hemorroidales: vasos cortos:no Ascitis:no Rinones de caracteristicas normales Conclusion: se observan signos ecograficos de hipertension  portal.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1116  TAB1  Dilatacion  TAB2  A12538 Ambos rinones rotados, en herradura  , no puedo ver la union anterior, si existe, por intenso meteorismo, parenquima bilateral conservado, sin alteracion de la ecoestructura, medicion por posterior RI 9.3 cm RD 9.4 cm Dilatacion pielica en RI de 2.2 cm se visualiza ureter proximal de 3.2 mm Ectasia pielica derecha de 9 mm vejiga de paredes lisas  TAB3  Affirmed
+
+p2          392
+buffer1+p2  Affirmed
+
+Linea:  111
+segm1: >1116<
+segm2: >Dilatacion<
+segm3: >A12538 Ambos rinones rotados, en herradura  , no puedo ver la union anterior, si existe, por intenso meteorismo, parenquima bilateral conservado, sin alteracion de la ecoestructura, medicion por posterior RI 9.3 cm RD 9.4 cm Dilatacion pielica en RI de 2.2 cm se visualiza ureter proximal de 3.2 mm Ectasia pielica derecha de 9 mm vejiga de paredes lisas<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1117  TAB1  alitiasica  TAB2  VESPLENICA DE 15 MM ADENOPATIAS EN HILIO Y PERIPANCREATICAS DE 46Y 37 MM RESPECTIVAMENTE Via biliar intra hepatica: 3 mm Vesicula biliar: alitiasica paredes engrosadas NO SE OBSERVA ASCITIS RInONES AUMENTADOS DE TAMAnO, HETEROGENEO DIFUSOS.  TAB3  Affirmed
+
+p2          278
+buffer1+p2  Affirmed
+
+Linea:  112
+segm1: >1117<
+segm2: >alitiasica<
+segm3: >VESPLENICA DE 15 MM ADENOPATIAS EN HILIO Y PERIPANCREATICAS DE 46Y 37 MM RESPECTIVAMENTE Via biliar intra hepatica: 3 mm Vesicula biliar: alitiasica paredes engrosadas NO SE OBSERVA ASCITIS RInONES AUMENTADOS DE TAMAnO, HETEROGENEO DIFUSOS.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1118  TAB1  nodular  TAB2  A29142 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y presencia de multiples tractos fibrosos.  TAB3  Negated
+
+p2          164
+buffer1+p2  Negated
+
+Linea:  113
+segm1: >1118<
+segm2: >nodular<
+segm3: >A29142 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y presencia de multiples tractos fibrosos.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1119  TAB1  heterogenea difusa  TAB2  946977 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.  TAB3  Affirmed
+
+p2          168
+buffer1+p2  Affirmed
+
+Linea:  114
+segm1: >1119<
+segm2: >heterogenea difusa<
+segm3: >946977 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1120  TAB1  nodular  TAB2  123104 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa levemente, no nodular.  TAB3  Negated
+
+p2          133
+buffer1+p2  Negated
+
+Linea:  115
+segm1: >1120<
+segm2: >nodular<
+segm3: >123104 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa levemente, no nodular.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1121  TAB1  alitiasica   TAB2  A211404 Higado: homogeneo, tamano normal vena porta 15 mm flujo hepatopeto VMS 14x12 mm V esplenica 12 mm VSh flujko heptofugo normal Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: alitiasica  Pancreas: sp Bazo:homogeneo tamano normal.  TAB3  Affirmed
+
+p2          291
+buffer1+p2  Affirmed
+
+Linea:  116
+segm1: >1121<
+segm2: >alitiasica <
+segm3: >A211404 Higado: homogeneo, tamano normal vena porta 15 mm flujo hepatopeto VMS 14x12 mm V esplenica 12 mm VSh flujko heptofugo normal Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: alitiasica  Pancreas: sp Bazo:homogeneo tamano normal.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1122  TAB1  Flujo  TAB2  : no se pudo tomar IR: 0.59 Venas porta: Flujo hepatopeto conservado, Velocidad Max.  TAB3  Affirmed
+
+p2          117
+buffer1+p2  Affirmed
+
+Linea:  117
+segm1: >1122<
+segm2: >Flujo<
+segm3: >: no se pudo tomar IR: 0.59 Venas porta: Flujo hepatopeto conservado, Velocidad Max.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1123  TAB1  megaureter  TAB2  486353 Ecografia renovesical, pre y postmiccional: Doble  sistema derecho y probable izquierdo o bifido con dilatacion pielocalicial y megaureter que se sigue hasta flancos y no se visualizan ingresando en la vejiga.  TAB3  Affirmed
+
+p2          254
+buffer1+p2  Affirmed
+
+Linea:  118
+segm1: >1123<
+segm2: >megaureter<
+segm3: >486353 Ecografia renovesical, pre y postmiccional: Doble  sistema derecho y probable izquierdo o bifido con dilatacion pielocalicial y megaureter que se sigue hasta flancos y no se visualizan ingresando en la vejiga.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1124  TAB1  hidrocele  TAB2  Minimo hidrocele bilateral, no se observa dilatacion de plexo pampiniforme durante las maniobras de Valsalva.  TAB3  Affirmed
+
+p2          146
+buffer1+p2  Affirmed
+
+Linea:  119
+segm1: >1124<
+segm2: >hidrocele<
+segm3: >Minimo hidrocele bilateral, no se observa dilatacion de plexo pampiniforme durante las maniobras de Valsalva.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1125  TAB1  dilatacion  TAB2  Coledoco con dilatacion en sus 2 / 3 proximales, con diametro AP 1 cm ; y su porcion distal no dilatada( 3.8mm).No se observan imagenes ecogenicas en su interior.  TAB3  Affirmed
+
+p2          200
+buffer1+p2  Affirmed
+
+Linea:  120
+segm1: >1125<
+segm2: >dilatacion<
+segm3: >Coledoco con dilatacion en sus 2 / 3 proximales, con diametro AP 1 cm ; y su porcion distal no dilatada( 3.8mm).No se observan imagenes ecogenicas en su interior.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1126  TAB1  flujo  TAB2  La misma no presenta flujo al doppler color.  TAB3  Negated
+
+p2          77
+buffer1+p2  Negated
+
+Linea:  121
+segm1: >1126<
+segm2: >flujo<
+segm3: >La misma no presenta flujo al doppler color.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1127  TAB1  derrame   TAB2  760485 Prenquima pulmonar no aireado de tercio medio,basal y apical de htx izquierdo,con minimo derrame  pleural lineal y broncograma aereo.Distribucion habitual de vasos pulmonares.  TAB3  Affirmed
+
+p2          218
+buffer1+p2  Affirmed
+
+Linea:  122
+segm1: >1127<
+segm2: >derrame <
+segm3: >760485 Prenquima pulmonar no aireado de tercio medio,basal y apical de htx izquierdo,con minimo derrame  pleural lineal y broncograma aereo.Distribucion habitual de vasos pulmonares.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1128  TAB1  nodular  TAB2  532441 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea no nodular.  TAB3  Negated
+
+p2          115
+buffer1+p2  Negated
+
+Linea:  123
+segm1: >1128<
+segm2: >nodular<
+segm3: >532441 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea no nodular.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1129  TAB1  liquido  TAB2  No liquido libre en cavidad abdominal, no derivaciones hemorroidales.  TAB3  Negated
+
+p2          104
+buffer1+p2  Negated
+
+Linea:  124
+segm1: >1129<
+segm2: >liquido<
+segm3: >No liquido libre en cavidad abdominal, no derivaciones hemorroidales.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1130  TAB1  dilatacion  TAB2  Sin dilatacion del sistema excretor No se identifica la vejiga.  TAB3  Negated
+
+p2          101
+buffer1+p2  Negated
+
+Linea:  125
+segm1: >1130<
+segm2: >dilatacion<
+segm3: >Sin dilatacion del sistema excretor No se identifica la vejiga.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1131  TAB1  hematoma  TAB2  Por este metodo no se puede descartar hematoma subdural ni extradural.  TAB3  Negated
+
+p2          106
+buffer1+p2  Negated
+
+Linea:  126
+segm1: >1131<
+segm2: >hematoma<
+segm3: >Por este metodo no se puede descartar hematoma subdural ni extradural.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1132  TAB1  parcialmente  TAB2  Retroperitoneo superior  parcialmente visible por interposicion de aire intestinal, s / p No se identifican adenomegalias.  TAB3  Affirmed
+
+p2          162
+buffer1+p2  Affirmed
+
+Linea:  127
+segm1: >1132<
+segm2: >parcialmente<
+segm3: >Retroperitoneo superior  parcialmente visible por interposicion de aire intestinal, s / p No se identifican adenomegalias.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1133  TAB1  nodular  TAB2  611191 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.  TAB3  Negated
+
+p2          157
+buffer1+p2  Negated
+
+Linea:  128
+segm1: >1133<
+segm2: >nodular<
+segm3: >611191 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1134  TAB1  dilatada  TAB2  : 20 cm / s Venas suprahepaticas: Flujo hepatofugo, onda bifasica Via biliar no dilatada.  TAB3  Negated
+
+p2          125
+buffer1+p2  Negated
+
+Linea:  129
+segm1: >1134<
+segm2: >dilatada<
+segm3: >: 20 cm / s Venas suprahepaticas: Flujo hepatofugo, onda bifasica Via biliar no dilatada.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1135  TAB1  ectasia  TAB2  No se detecto dilatacion de la via urinaria.Rinon izquierdo impresiona pelvis  bifida con minima ectasia calicial superior.No dilatacion de la via urinaria ni visualizacin de ureteres.No se observan cambios luego de la miccion.  TAB3  Affirmed
+
+p2          262
+buffer1+p2  Affirmed
+
+Linea:  130
+segm1: >1135<
+segm2: >ectasia<
+segm3: >No se detecto dilatacion de la via urinaria.Rinon izquierdo impresiona pelvis  bifida con minima ectasia calicial superior.No dilatacion de la via urinaria ni visualizacin de ureteres.No se observan cambios luego de la miccion.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1136  TAB1  desplazamiento  TAB2  Presenta pequeno quiste subependimario de 0.8 x 1.3 mm que no produce desplazamientos ni efectos de masa.  TAB3  Negated
+
+p2          147
+buffer1+p2  Negated
+
+Linea:  131
+segm1: >1136<
+segm2: >desplazamiento<
+segm3: >Presenta pequeno quiste subependimario de 0.8 x 1.3 mm que no produce desplazamientos ni efectos de masa.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1137  TAB1  cambios  TAB2  A345848 Se realiza ecografia, no se observan cambios significativos con respecto a ecografia previa.  TAB3  Negated
+
+p2          135
+buffer1+p2  Negated
+
+Linea:  132
+segm1: >1137<
+segm2: >cambios<
+segm3: >A345848 Se realiza ecografia, no se observan cambios significativos con respecto a ecografia previa.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1138  TAB1  liquido  TAB2  diametro longitudinal 5.3( cm ), transversal 3.5(cm) anteroposterior 2.8(cm), OVARIO DERECHO: de forma,tamano y estructura conservada 2.9(cm) x 2(cm) x 2.7(cm) con imagen  quistica  folicular dominante de 0.9 cm x 1.2 cm Volumen:8.6( cc ) OVARIO IZQUIERDO: de forma,tamano y estructura conservada 2.1(cm) x 1.3(cm) x 2.1(cm) Volumen: 3.1(cc) No liquido libre.-  TAB3  Negated
+
+p2          395
+buffer1+p2  Negated
+
+Linea:  133
+segm1: >1138<
+segm2: >liquido<
+segm3: >diametro longitudinal 5.3( cm ), transversal 3.5(cm) anteroposterior 2.8(cm), OVARIO DERECHO: de forma,tamano y estructura conservada 2.9(cm) x 2(cm) x 2.7(cm) con imagen  quistica  folicular dominante de 0.9 cm x 1.2 cm Volumen:8.6( cc ) OVARIO IZQUIERDO: de forma,tamano y estructura conservada 2.1(cm) x 1.3(cm) x 2.1(cm) Volumen: 3.1(cc) No liquido libre.-<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1139  TAB1  QUISTICA  TAB2  VIA BILIAR intra y extrahepatica: no dilatada.PERSISTE IMAGEN  QUISTICA EN HILIO HEPATCO DE19X17X12 MM, NO SE MODIFICA POST PRANDIAL VESICULA BILIAR: no se identifica( 6 horas de ayuno) PANCREAS: tamano y ecoestructura normal.  TAB3  Affirmed
+
+p2          262
+buffer1+p2  Affirmed
+
+Linea:  134
+segm1: >1139<
+segm2: >QUISTICA<
+segm3: >VIA BILIAR intra y extrahepatica: no dilatada.PERSISTE IMAGEN  QUISTICA EN HILIO HEPATCO DE19X17X12 MM, NO SE MODIFICA POST PRANDIAL VESICULA BILIAR: no se identifica( 6 horas de ayuno) PANCREAS: tamano y ecoestructura normal.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1140  TAB1  pequenas  TAB2  A170115 Se visualizan ambos rinones ortotopicos, con leve ectasia pielica bilateral, y pequenas ecorrefringencias en senos, que no constituyen litos definidos, que no modifican postmiccion.  TAB3  Affirmed
+
+p2          225
+buffer1+p2  Affirmed
+
+Linea:  135
+segm1: >1140<
+segm2: >pequenas<
+segm3: >A170115 Se visualizan ambos rinones ortotopicos, con leve ectasia pielica bilateral, y pequenas ecorrefringencias en senos, que no constituyen litos definidos, que no modifican postmiccion.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1141  TAB1  nodular  TAB2  891467 Se visualiza glandula tiroides con ecoestructura heterogenea, no nodular, predominantemente hipoecoica.  TAB3  Negated
+
+p2          145
+buffer1+p2  Negated
+
+Linea:  136
+segm1: >1141<
+segm2: >nodular<
+segm3: >891467 Se visualiza glandula tiroides con ecoestructura heterogenea, no nodular, predominantemente hipoecoica.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1142  TAB1  derrame   TAB2  955807 en cara anterior del muslo izquierdo, por debajo del TCS, se observa una coleccion liquida con algunos tabiques de54x48x18 mm No se observa derrame  articular  TAB3  Negated
+
+p2          201
+buffer1+p2  Negated
+
+Linea:  137
+segm1: >1142<
+segm2: >derrame <
+segm3: >955807 en cara anterior del muslo izquierdo, por debajo del TCS, se observa una coleccion liquida con algunos tabiques de54x48x18 mm No se observa derrame  articular<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1143  TAB1  asa  TAB2  En FID se observa asa tubular, no compresible, aperistaltica, de 7mm de diametro, con contenido hipoecoico y ecogenico con sombra acustica( apendicolito ), que podria corresponder a proceso apendicular.  TAB3  Affirmed
+
+p2          233
+buffer1+p2  Affirmed
+
+Linea:  138
+segm1: >1143<
+segm2: >asa<
+segm3: >En FID se observa asa tubular, no compresible, aperistaltica, de 7mm de diametro, con contenido hipoecoico y ecogenico con sombra acustica( apendicolito ), que podria corresponder a proceso apendicular.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1144  TAB1  DIFUSO  TAB2  A240942 Higado: HETEROGENEO  DIFUSO HIPERECOGENICIDAD PERIPORTAL NO SE OBSERVAN BILOMAS Vesicula biliar: AUSENTE VPORTA 3.7 MM VMS5X3.5 MM Pancreas: SP Bazo: POLIESPLENIA Retroperitoneo: Relacion Epiplon Aorta: 3.  TAB3  Affirmed
+
+p2          247
+buffer1+p2  Affirmed
+
+Linea:  139
+segm1: >1144<
+segm2: >DIFUSO<
+segm3: >A240942 Higado: HETEROGENEO  DIFUSO HIPERECOGENICIDAD PERIPORTAL NO SE OBSERVAN BILOMAS Vesicula biliar: AUSENTE VPORTA 3.7 MM VMS5X3.5 MM Pancreas: SP Bazo: POLIESPLENIA Retroperitoneo: Relacion Epiplon Aorta: 3.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1145  TAB1  masa  TAB2  No se observan desviaciones de la linea media, efectos de masa, ni colecciones.  TAB3  Negated
+
+p2          111
+buffer1+p2  Negated
+
+Linea:  140
+segm1: >1145<
+segm2: >masa<
+segm3: >No se observan desviaciones de la linea media, efectos de masa, ni colecciones.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1146  TAB1  quiste  TAB2  DIMENSIONES: Rinon derecho: 9.6 cm( con quiste incluido) Rinon izquierdo: 11 cm No se observo liquido libre.  TAB3  Affirmed
+
+p2          142
+buffer1+p2  Affirmed
+
+Linea:  141
+segm1: >1146<
+segm2: >quiste<
+segm3: >DIMENSIONES: Rinon derecho: 9.6 cm( con quiste incluido) Rinon izquierdo: 11 cm No se observo liquido libre.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1147  TAB1  imagen  TAB2  Presencia de ganglios adyacentes de 0.6 cm y otro de 0.8 cm - Pequena imagen lineal hipoecogenica no vascularizada.-(adyacentes a ganglios)en plano subcutaneo profundo.- No liquido  articular en codo.  TAB3  Affirmed
+
+p2          234
+buffer1+p2  Affirmed
+
+Linea:  142
+segm1: >1147<
+segm2: >imagen<
+segm3: >Presencia de ganglios adyacentes de 0.6 cm y otro de 0.8 cm - Pequena imagen lineal hipoecogenica no vascularizada.-(adyacentes a ganglios)en plano subcutaneo profundo.- No liquido  articular en codo.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1148  TAB1  cuerpos   TAB2  Debido a osificacion de cuerpos  vertebrales no se observa medula  espinal por lo cual no se pueden descartar anomalias.  TAB3  Affirmed
+
+p2          156
+buffer1+p2  Affirmed
+
+Linea:  143
+segm1: >1148<
+segm2: >cuerpos <
+segm3: >Debido a osificacion de cuerpos  vertebrales no se observa medula  espinal por lo cual no se pueden descartar anomalias.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1149  TAB1  heterogenea difusa  TAB2  A150082 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.  TAB3  Affirmed
+
+p2          169
+buffer1+p2  Affirmed
+
+Linea:  144
+segm1: >1149<
+segm2: >heterogenea difusa<
+segm3: >A150082 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1151  TAB1  quistica  TAB2  persiste pequena imagen  quistica ya conocida a nivel del segmento IV, de aprox 1.4 cm x 8 x 5 mm q podri corresponder a quiste  simple VIA BILIAR intra y extrahepatica: no dilatada.  TAB3  Affirmed
+
+p2          218
+buffer1+p2  Affirmed
+
+Linea:  145
+segm1: >1151<
+segm2: >quistica<
+segm3: >persiste pequena imagen  quistica ya conocida a nivel del segmento IV, de aprox 1.4 cm x 8 x 5 mm q podri corresponder a quiste  simple VIA BILIAR intra y extrahepatica: no dilatada.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1152  TAB1  patologia  TAB2  No se visualiza RIz en fosa renal ni en el resto de la exploracion abdominal, se sugiere reevaluacion posterior luego de resolucion de patologia ginecologica.  TAB3  Affirmed
+
+p2          195
+buffer1+p2  Affirmed
+
+Linea:  146
+segm1: >1152<
+segm2: >patologia<
+segm3: >No se visualiza RIz en fosa renal ni en el resto de la exploracion abdominal, se sugiere reevaluacion posterior luego de resolucion de patologia ginecologica.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1153  TAB1  dilatacion  TAB2  Dilatacion pielocalicial derecha, pelvis premiccional de 1 cm, potmicc de 0.7 cm Sin dilatacion de la via urinaria izquierda Vejiga  parcialmente replecionada, no se visualiza residuo postmiccional.  TAB3  Affirmed
+
+p2          236
+buffer1+p2  Affirmed
+
+Linea:  147
+segm1: >1153<
+segm2: >dilatacion<
+segm3: >Dilatacion pielocalicial derecha, pelvis premiccional de 1 cm, potmicc de 0.7 cm Sin dilatacion de la via urinaria izquierda Vejiga  parcialmente replecionada, no se visualiza residuo postmiccional.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1154  TAB1  reflujo  TAB2  residuo vesical postmicional long rI 10 cm RD Aparenta doble  sistema o bifido, no visulaizado en estudios anteriores de 8 cm de long sin dilatacion  pre y post en HSI   1.4 cm, reflujo  , no visualizo ureters, Se sugiere CUGM deseo conocer evolucion  TAB3  Affirmed
+
+p2          285
+buffer1+p2  Affirmed
+
+Linea:  148
+segm1: >1154<
+segm2: >reflujo<
+segm3: >residuo vesical postmicional long rI 10 cm RD Aparenta doble  sistema o bifido, no visulaizado en estudios anteriores de 8 cm de long sin dilatacion  pre y post en HSI   1.4 cm, reflujo  , no visualizo ureters, Se sugiere CUGM deseo conocer evolucion<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1155  TAB1  flujo  TAB2  Se observa flujo color conservado, sin imagenes sugerentes de estenosis, no se logran obtener registros con Doppler pulsado por arterfactos de movimientos.  TAB3  Affirmed
+
+p2          188
+buffer1+p2  Affirmed
+
+Linea:  149
+segm1: >1155<
+segm2: >flujo<
+segm3: >Se observa flujo color conservado, sin imagenes sugerentes de estenosis, no se logran obtener registros con Doppler pulsado por arterfactos de movimientos.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1156  TAB1  calcificaciones  TAB2  A117909 Se observo engrosamiento difuso de partes blandas en plano celular subcutaneo de la pierna derecha sin evidencia de calcificaciones, lesiones quisticas ni nodulares.  TAB3  Negated
+
+p2          216
+buffer1+p2  Negated
+
+Linea:  150
+segm1: >1156<
+segm2: >calcificaciones<
+segm3: >A117909 Se observo engrosamiento difuso de partes blandas en plano celular subcutaneo de la pierna derecha sin evidencia de calcificaciones, lesiones quisticas ni nodulares.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1157  TAB1  quiste  TAB2  Rinon derecho: quistes en polo superior e inferior, diametro mayor detectado de 0.6 cm  TAB3  Affirmed
+
+p2          120
+buffer1+p2  Affirmed
+
+Linea:  151
+segm1: >1157<
+segm2: >quiste<
+segm3: >Rinon derecho: quistes en polo superior e inferior, diametro mayor detectado de 0.6 cm<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1158  TAB1  dilatada   TAB2  Via urinaria no dilatada  Vejiga plenificada de contornos regulares, sin residuo postmiccional.  TAB3  Negated
+
+p2          132
+buffer1+p2  Negated
+
+Linea:  152
+segm1: >1158<
+segm2: >dilatada <
+segm3: >Via urinaria no dilatada  Vejiga plenificada de contornos regulares, sin residuo postmiccional.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1159  TAB1  nodular  TAB2  693781 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea no nodular.  TAB3  Negated
+
+p2          115
+buffer1+p2  Negated
+
+Linea:  153
+segm1: >1159<
+segm2: >nodular<
+segm3: >693781 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea no nodular.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1160  TAB1  dilatacion  TAB2  RD 8,7 cm x 4,2 cm x 3,1 cn RI 9 cm x 3,2 cm x 3,6 cm No se observa dilatacion de la via urinaria.  TAB3  Negated
+
+p2          136
+buffer1+p2  Negated
+
+Linea:  154
+segm1: >1160<
+segm2: >dilatacion<
+segm3: >RD 8,7 cm x 4,2 cm x 3,1 cn RI 9 cm x 3,2 cm x 3,6 cm No se observa dilatacion de la via urinaria.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1161  TAB1  estenosis  TAB2  Al momento del examen no se observan signos ecograficos compatibles con estenosis hipertrofica del piloro.  TAB3  Negated
+
+p2          143
+buffer1+p2  Negated
+
+Linea:  155
+segm1: >1161<
+segm2: >estenosis<
+segm3: >Al momento del examen no se observan signos ecograficos compatibles con estenosis hipertrofica del piloro.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1162  TAB1  imagen  TAB2  No se visualiza coleccion ni imagens residuales.  TAB3  Negated
+
+p2          82
+buffer1+p2  Negated
+
+Linea:  156
+segm1: >1162<
+segm2: >imagen<
+segm3: >No se visualiza coleccion ni imagens residuales.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1164  TAB1  periferica  TAB2  La misma presenta vascularizacion  periferica, pero no central.  TAB3  Affirmed
+
+p2          101
+buffer1+p2  Affirmed
+
+Linea:  157
+segm1: >1164<
+segm2: >periferica<
+segm3: >La misma presenta vascularizacion  periferica, pero no central.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1165  TAB1  adenomegalias  TAB2  PANCREAS: parcialmente visible por interposicion de aire intestinal s / p No se identifican adenomegalias BAZO: esplenomegalia homogenea.  TAB3  Negated
+
+p2          178
+buffer1+p2  Negated
+
+Linea:  158
+segm1: >1165<
+segm2: >adenomegalias<
+segm3: >PANCREAS: parcialmente visible por interposicion de aire intestinal s / p No se identifican adenomegalias BAZO: esplenomegalia homogenea.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1166  TAB1  Obstruccion  TAB2  2.8 cm Marcada ureterohidronefrosis Izquierda Ureter der entre 1.5 cm y 1 cm, pelvis RI 2.9 cm, no varia luego de la miccion vejiga con imagen ecogenica en zona de reimplante izquierdo, secuela quirurgica  , Obstruccion en la union ureterovesical   se sugiere Medina nuclear.  TAB3  Affirmed
+
+p2          314
+buffer1+p2  Affirmed
+
+Linea:  159
+segm1: >1166<
+segm2: >Obstruccion<
+segm3: >2.8 cm Marcada ureterohidronefrosis Izquierda Ureter der entre 1.5 cm y 1 cm, pelvis RI 2.9 cm, no varia luego de la miccion vejiga con imagen ecogenica en zona de reimplante izquierdo, secuela quirurgica  , Obstruccion en la union ureterovesical   se sugiere Medina nuclear.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1167  TAB1  lesiones  TAB2  No se visualizan lesiones nodulares solidas ni quisticas.  TAB3  Negated
+
+p2          93
+buffer1+p2  Negated
+
+Linea:  160
+segm1: >1167<
+segm2: >lesiones<
+segm3: >No se visualizan lesiones nodulares solidas ni quisticas.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1168  TAB1  Derrame   TAB2  A328356 Ecografia Pleural Derecho: No se visualiza patologia pleuropaquerenquimatosa por este metodo Izquierdo: Derrame  pleural, con ecos en su interior y presencia de tabiques no vascularizados.  TAB3  Affirmed
+
+p2          232
+buffer1+p2  Affirmed
+
+Linea:  161
+segm1: >1168<
+segm2: >Derrame <
+segm3: >A328356 Ecografia Pleural Derecho: No se visualiza patologia pleuropaquerenquimatosa por este metodo Izquierdo: Derrame  pleural, con ecos en su interior y presencia de tabiques no vascularizados.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1169  TAB1  nodular   TAB2  105196 Higado: heterogeneo  difuso contorno nodular  Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: ausente.  TAB3  Affirmed
+
+p2          161
+buffer1+p2  Affirmed
+
+Linea:  162
+segm1: >1169<
+segm2: >nodular <
+segm3: >105196 Higado: heterogeneo  difuso contorno nodular  Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: ausente.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1170  TAB1  heterogenea  TAB2  826341 Se visualiza glandula tiroides con ecoestructura heterogenea, no nodular, predominantemente hipoecoica.Vascularizacion s / p Istmo de igual ecoestructura de 2 mm Ganglios subangulomaxilares bilaterales, inespecificos, de 1.5 cm Medidas lob der tir: 1.5 x 1.4 x 3.8( cm ) vol 4.2 cc lob izq tir: 1.5 x 1.5 x 3.7( cm ) vol 4.3 cc  TAB3  Affirmed
+
+p2          373
+buffer1+p2  Affirmed
+
+Linea:  163
+segm1: >1170<
+segm2: >heterogenea<
+segm3: >826341 Se visualiza glandula tiroides con ecoestructura heterogenea, no nodular, predominantemente hipoecoica.Vascularizacion s / p Istmo de igual ecoestructura de 2 mm Ganglios subangulomaxilares bilaterales, inespecificos, de 1.5 cm Medidas lob der tir: 1.5 x 1.4 x 3.8( cm ) vol 4.2 cc lob izq tir: 1.5 x 1.5 x 3.7( cm ) vol 4.3 cc<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1171  TAB1  cambios  TAB2  Se exploran rinones en decubito con transductor de alta frecuencia, no se observan imagenes patologicas o cambios de ecogenicidad en region media o polos, ectasias pielicas bilaterales, RIzquierdo con imagen sugerente de doble  sistema.  TAB3  Negated
+
+p2          271
+buffer1+p2  Negated
+
+Linea:  164
+segm1: >1171<
+segm2: >cambios<
+segm3: >Se exploran rinones en decubito con transductor de alta frecuencia, no se observan imagenes patologicas o cambios de ecogenicidad en region media o polos, ectasias pielicas bilaterales, RIzquierdo con imagen sugerente de doble  sistema.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1172  TAB1  formacion  TAB2  A51509 Se visualiza formacion hipoecoica en area superciliar derecho no adherido a planos profundos de 2cm x 1.5cm x 1cm de diametro aproximado.  TAB3  Affirmed
+
+p2          181
+buffer1+p2  Affirmed
+
+Linea:  165
+segm1: >1172<
+segm2: >formacion<
+segm3: >A51509 Se visualiza formacion hipoecoica en area superciliar derecho no adherido a planos profundos de 2cm x 1.5cm x 1cm de diametro aproximado.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1173  TAB1  dispositivo  TAB2  Se visualiza entre TCS y plano muscular  aumento del espesor por ecoestructura ecogenica que impresiona hematoma, observando flujo turbulento en dispositivo de fistula, aunque en la onda espectral no se visualiza la caracteristica de flujo de turbulencia.  TAB3  Affirmed
+
+p2          294
+buffer1+p2  Affirmed
+
+Linea:  166
+segm1: >1173<
+segm2: >dispositivo<
+segm3: >Se visualiza entre TCS y plano muscular  aumento del espesor por ecoestructura ecogenica que impresiona hematoma, observando flujo turbulento en dispositivo de fistula, aunque en la onda espectral no se visualiza la caracteristica de flujo de turbulencia.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1174  TAB1  masa  TAB2  OVARIO DERECHO: 0.8(cm) x 0.5(cm) x 0.7(cm) Volumen: 0.2(cc) OVARIO IZQUIERDO: 0.8(cm) x 0.4(cm) x 0.6(cm) Volumen: 0.1(cc) No se visualiza masa pelviana ni en region glutea anteriormente conocida.  TAB3  Negated
+
+p2          229
+buffer1+p2  Negated
+
+Linea:  167
+segm1: >1174<
+segm2: >masa<
+segm3: >OVARIO DERECHO: 0.8(cm) x 0.5(cm) x 0.7(cm) Volumen: 0.2(cc) OVARIO IZQUIERDO: 0.8(cm) x 0.4(cm) x 0.6(cm) Volumen: 0.1(cc) No se visualiza masa pelviana ni en region glutea anteriormente conocida.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1175  TAB1  heterogenea  TAB2  Masa hipoecoica heterogenea, ubicada en pared abdominal por debajo del TCS, vascularizada de aprox 4 x 2 cm, se encuentra en relacion a otra estructura intra abdominal de caracteristicas ecograficas similares al ovario izquierdo, no se logra identificar integridad del musculo de pared abd.  TAB3  Affirmed
+
+p2          329
+buffer1+p2  Affirmed
+
+Linea:  168
+segm1: >1175<
+segm2: >heterogenea<
+segm3: >Masa hipoecoica heterogenea, ubicada en pared abdominal por debajo del TCS, vascularizada de aprox 4 x 2 cm, se encuentra en relacion a otra estructura intra abdominal de caracteristicas ecograficas similares al ovario izquierdo, no se logra identificar integridad del musculo de pared abd.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1176  TAB1  herida  TAB2  RD Diam Long: 9,1 cm RI Diam long:9,4 cm Vejiga de caracteristicas normales No se observa coleccion en herida quirurgica.  TAB3  Negated
+
+p2          155
+buffer1+p2  Negated
+
+Linea:  169
+segm1: >1176<
+segm2: >herida<
+segm3: >RD Diam Long: 9,1 cm RI Diam long:9,4 cm Vejiga de caracteristicas normales No se observa coleccion en herida quirurgica.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1177  TAB1  centro  TAB2  A335703 Ambos lobulos tiroideos e istmo con ecoestructura basica homogenea con pequenas areas hipoecoicas, algunas con centro ecogenico, en la region profunda de ambos lobulos, no mayores a 2mm de diam.  TAB3  Affirmed
+
+p2          236
+buffer1+p2  Affirmed
+
+Linea:  170
+segm1: >1177<
+segm2: >centro<
+segm3: >A335703 Ambos lobulos tiroideos e istmo con ecoestructura basica homogenea con pequenas areas hipoecoicas, algunas con centro ecogenico, en la region profunda de ambos lobulos, no mayores a 2mm de diam.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1178  TAB1  dilatacion  TAB2  Rinon derecho con dilatacion pielocalicial no a tension.  TAB3  Affirmed
+
+p2          94
+buffer1+p2  Affirmed
+
+Linea:  171
+segm1: >1178<
+segm2: >dilatacion<
+segm3: >Rinon derecho con dilatacion pielocalicial no a tension.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1179  TAB1  cavernoma  TAB2  cavernoma d etronco y ambas ramas de la porta Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: paredes engrosadas varices perivesiculares 1.9 mm Pancreas: Bazo: homogeneo tamano aumentado.  TAB3  Affirmed
+
+p2          240
+buffer1+p2  Affirmed
+
+Linea:  172
+segm1: >1179<
+segm2: >cavernoma<
+segm3: >cavernoma d etronco y ambas ramas de la porta Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: paredes engrosadas varices perivesiculares 1.9 mm Pancreas: Bazo: homogeneo tamano aumentado.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1180  TAB1  dilatacion  TAB2  RDer: con dilatacion pielica, que no modifica postmiccion.  TAB3  Affirmed
+
+p2          96
+buffer1+p2  Affirmed
+
+Linea:  173
+segm1: >1180<
+segm2: >dilatacion<
+segm3: >RDer: con dilatacion pielica, que no modifica postmiccion.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1181  TAB1  aumento  TAB2  Dimensiones: Testiculo derecho:( 2,9 cm) x( 1,3 cm) x( 0,8 cm) Volumen:( 1,6 cc) Testiculo izquierdo:( 3 cm) x( 1,5 cm) x( 1 cm) Volumen:( 2 cc) Ecografia mamaria: No se visualiza tejido mamario, aumento de la grasa mamaria bilateral, areola izquierda de mayor tamano.  TAB3  Affirmed
+
+p2          303
+buffer1+p2  Affirmed
+
+Linea:  174
+segm1: >1181<
+segm2: >aumento<
+segm3: >Dimensiones: Testiculo derecho:( 2,9 cm) x( 1,3 cm) x( 0,8 cm) Volumen:( 1,6 cc) Testiculo izquierdo:( 3 cm) x( 1,5 cm) x( 1 cm) Volumen:( 2 cc) Ecografia mamaria: No se visualiza tejido mamario, aumento de la grasa mamaria bilateral, areola izquierda de mayor tamano.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1182  TAB1  heterogenea  TAB2  A169420 Ambos lobulos tiroideos e istmo con heterogenea en forma difusa no nodular.  TAB3  Affirmed
+
+p2          122
+buffer1+p2  Affirmed
+
+Linea:  175
+segm1: >1182<
+segm2: >heterogenea<
+segm3: >A169420 Ambos lobulos tiroideos e istmo con heterogenea en forma difusa no nodular.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1183  TAB1  imagenes  TAB2  5.9mm No se observaron cacificaciones ni imagenes quisticas en relacion con la misma.  TAB3  Negated
+
+p2          121
+buffer1+p2  Negated
+
+Linea:  176
+segm1: >1183<
+segm2: >imagenes<
+segm3: >5.9mm No se observaron cacificaciones ni imagenes quisticas en relacion con la misma.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1184  TAB1  ectasia  TAB2  Parenquima renal derecho de ecogenicidad y espesor normales, minima ectasia pielica renal: Pelvis premiccional der: 5.2(cm) Dilatacion pielocalicilar izquierda con dilatacion  ureteral proximal visible( EPU ) Pelvis premiccional 35.1(cm) No se detecto dilatacion  ureteral distal bilateral.  TAB3  Affirmed
+
+p2          325
+buffer1+p2  Affirmed
+
+Linea:  177
+segm1: >1184<
+segm2: >ectasia<
+segm3: >Parenquima renal derecho de ecogenicidad y espesor normales, minima ectasia pielica renal: Pelvis premiccional der: 5.2(cm) Dilatacion pielocalicilar izquierda con dilatacion  ureteral proximal visible( EPU ) Pelvis premiccional 35.1(cm) No se detecto dilatacion  ureteral distal bilateral.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1186  TAB1  nodular  TAB2  875104 Ambos lobulos tiroideos e istmo con ecoestructura finamente heterogenea difusa, no nodular.  TAB3  Negated
+
+p2          133
+buffer1+p2  Negated
+
+Linea:  178
+segm1: >1186<
+segm2: >nodular<
+segm3: >875104 Ambos lobulos tiroideos e istmo con ecoestructura finamente heterogenea difusa, no nodular.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1187  TAB1  diferenciacion  TAB2  Rinon transplantado con leve aumento de la ecogenicidad, adecuada diferenciacion cortico medular, y dilatacion pielocalicial con predominio de ectacia a nivel de calices superiores, diametro pelvis premiccion 1.6 y postmiccion 0.9cm, no se visualiza ureter dilatado.  TAB3  Affirmed
+
+p2          308
+buffer1+p2  Affirmed
+
+Linea:  179
+segm1: >1187<
+segm2: >diferenciacion<
+segm3: >Rinon transplantado con leve aumento de la ecogenicidad, adecuada diferenciacion cortico medular, y dilatacion pielocalicial con predominio de ectacia a nivel de calices superiores, diametro pelvis premiccion 1.6 y postmiccion 0.9cm, no se visualiza ureter dilatado.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1188  TAB1  Implante  TAB2  Implante renal de ecoestructura normal.Diam long 12,2 No se detecto dilatacion de la via urinaria.  TAB3  Affirmed
+
+p2          134
+buffer1+p2  Affirmed
+
+Linea:  180
+segm1: >1188<
+segm2: >Implante<
+segm3: >Implante renal de ecoestructura normal.Diam long 12,2 No se detecto dilatacion de la via urinaria.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1189  TAB1  dilatacion  TAB2  Sin dilatacion No se detecto dilatacion  ureteral.  TAB3  Negated
+
+p2          88
+buffer1+p2  Negated
+
+Linea:  181
+segm1: >1189<
+segm2: >dilatacion<
+segm3: >Sin dilatacion No se detecto dilatacion  ureteral.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1190  TAB1  tabiques  TAB2  955807 en cara anterior del muslo izquierdo, por debajo del TCS, se observa una coleccion liquida con algunos tabiques de54x48x18 mm No se observa derrame  articular  TAB3  Affirmed
+
+p2          201
+buffer1+p2  Affirmed
+
+Linea:  182
+segm1: >1190<
+segm2: >tabiques<
+segm3: >955807 en cara anterior del muslo izquierdo, por debajo del TCS, se observa una coleccion liquida con algunos tabiques de54x48x18 mm No se observa derrame  articular<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1191  TAB1  Derivacion  TAB2  / 1 COLATERALES: Vena coronaria en epiplon:no Derivacion dorsal:no Hemorroidales: no vasos cortos:no Ascitis:moderada Rinones de caracteristicas normales Conclusion: se observan signos ecograficos de hipertension  portal.  TAB3  Negated
+
+p2          259
+buffer1+p2  Negated
+
+Linea:  183
+segm1: >1191<
+segm2: >Derivacion<
+segm3: >/ 1 COLATERALES: Vena coronaria en epiplon:no Derivacion dorsal:no Hemorroidales: no vasos cortos:no Ascitis:moderada Rinones de caracteristicas normales Conclusion: se observan signos ecograficos de hipertension  portal.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1192  TAB1  ADENOMEGALIAS  TAB2  Diametro longitudinal: 9.7(cm) ADENOMEGALIAS CON AREAS DE NECROSIS Y CALCIFIXCACIONES, ALGUNAS EN CONGLOMERADO EN: HILIO HEPATICO:34X20 MM, RETROCAVA:58X45X30 MM,PARAAORICO IZQUIERDO DE 61X63X36 MM, PERIUMBILICAL DE60X43X22 MM, FLANCO IZQUIERDO DE83X78X43 MM No se observo liquido libre en cavidad.  TAB3  Affirmed
+
+p2          339
+buffer1+p2  Affirmed
+
+Linea:  184
+segm1: >1192<
+segm2: >ADENOMEGALIAS<
+segm3: >Diametro longitudinal: 9.7(cm) ADENOMEGALIAS CON AREAS DE NECROSIS Y CALCIFIXCACIONES, ALGUNAS EN CONGLOMERADO EN: HILIO HEPATICO:34X20 MM, RETROCAVA:58X45X30 MM,PARAAORICO IZQUIERDO DE 61X63X36 MM, PERIUMBILICAL DE60X43X22 MM, FLANCO IZQUIERDO DE83X78X43 MM No se observo liquido libre en cavidad.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1193  TAB1  nodular  TAB2  RD Diam Long: 9.9 cm RI Diam long:9.7 cm Vejiga de caracteristicas normales Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.  TAB3  Negated
+
+p2          226
+buffer1+p2  Negated
+
+Linea:  185
+segm1: >1193<
+segm2: >nodular<
+segm3: >RD Diam Long: 9.9 cm RI Diam long:9.7 cm Vejiga de caracteristicas normales Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1194  TAB1  tension  TAB2  Rinon derecho con dilatacion pielocalicial no a tension.  TAB3  Negated
+
+p2          91
+buffer1+p2  Negated
+
+Linea:  186
+segm1: >1194<
+segm2: >tension<
+segm3: >Rinon derecho con dilatacion pielocalicial no a tension.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1195  TAB1  heterogenea difusa  TAB2  A115787 Se visualiza glandula tiroides con ecoestructura heterogenea difusa, no nodular.  TAB3  Affirmed
+
+p2          134
+buffer1+p2  Affirmed
+
+Linea:  187
+segm1: >1195<
+segm2: >heterogenea difusa<
+segm3: >A115787 Se visualiza glandula tiroides con ecoestructura heterogenea difusa, no nodular.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1196  TAB1  imagenes  TAB2  No se visualizan imagenes de aspecto patologico evaluables por este metodo, ni diferencicas significativas a la comparacion con el contralateral.  TAB3  Negated
+
+p2          181
+buffer1+p2  Negated
+
+Linea:  188
+segm1: >1196<
+segm2: >imagenes<
+segm3: >No se visualizan imagenes de aspecto patologico evaluables por este metodo, ni diferencicas significativas a la comparacion con el contralateral.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1197  TAB1  cambios  TAB2  Dilatacion pielica de 2.3(cm) de diametro anterposterior, sin cambios postmiccionales No se detecto dilatacion  ureteral.  TAB3  Negated
+
+p2          156
+buffer1+p2  Negated
+
+Linea:  189
+segm1: >1197<
+segm2: >cambios<
+segm3: >Dilatacion pielica de 2.3(cm) de diametro anterposterior, sin cambios postmiccionales No se detecto dilatacion  ureteral.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1198  TAB1  imagen  TAB2  Vejiga de caracteristicas normales No se visualizan imagenes compatibles con invaginacion intestinal.  TAB3  Negated
+
+p2          135
+buffer1+p2  Negated
+
+Linea:  190
+segm1: >1198<
+segm2: >imagen<
+segm3: >Vejiga de caracteristicas normales No se visualizan imagenes compatibles con invaginacion intestinal.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1199  TAB1  lesiones  TAB2  Tiene arco %  ' o elisa   lla mdre refiere mataderos cerca, si bien no se ven otras lesiones, dejo las rx de torax en la casa, podrian pedirselas en nueva consulta.  TAB3  Negated
+
+p2          200
+buffer1+p2  Negated
+
+Linea:  191
+segm1: >1199<
+segm2: >lesiones<
+segm3: >Tiene arco %  ' o elisa   lla mdre refiere mataderos cerca, si bien no se ven otras lesiones, dejo las rx de torax en la casa, podrian pedirselas en nueva consulta.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1200  TAB1  adenomegalias  TAB2  Pequenas imagenes quisticas de aspecto coloide no mayores a tres milimetros No se detectaron adenomegalias laterocervicales.  TAB3  Negated
+
+p2          165
+buffer1+p2  Negated
+
+Linea:  192
+segm1: >1200<
+segm2: >adenomegalias<
+segm3: >Pequenas imagenes quisticas de aspecto coloide no mayores a tres milimetros No se detectaron adenomegalias laterocervicales.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1201  TAB1  patologia  TAB2  A360943 Ecografia Pleural Der: No se visualiza patologia pleuropulmonar por este metodo Izq: Derrame  pleural anecoico, con multiples tabiques, algunos de ellos gruesos, con consolidacion parenquimatosa subyacente.  TAB3  Negated
+
+p2          251
+buffer1+p2  Negated
+
+Linea:  193
+segm1: >1201<
+segm2: >patologia<
+segm3: >A360943 Ecografia Pleural Der: No se visualiza patologia pleuropulmonar por este metodo Izq: Derrame  pleural anecoico, con multiples tabiques, algunos de ellos gruesos, con consolidacion parenquimatosa subyacente.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1202  TAB1  periferico  TAB2  A321765 HIGADO: tamano y ecoestructura normal, imagen  quistica a nivel de segmento IV, de 1.3 x 1 1 cm( periferico ) VIA BILIAR intra y extrahepatica: no dilatada.  TAB3  Affirmed
+
+p2          202
+buffer1+p2  Affirmed
+
+Linea:  194
+segm1: >1202<
+segm2: >periferico<
+segm3: >A321765 HIGADO: tamano y ecoestructura normal, imagen  quistica a nivel de segmento IV, de 1.3 x 1 1 cm( periferico ) VIA BILIAR intra y extrahepatica: no dilatada.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1203  TAB1  central  TAB2  Se observa en region medial de cuello y discretamente hacia la izquierda ,imagen a nivel de tejido celular subcutaneo por encima del musculo cutaneo del cuello,hipoecogenica y finamente heterogena ,compresible ,de contoros netos con senal color predominantemente central mide 1.5 cm x 0.93 cm x 3.6 cm.La misma no impresiona comunicacion con glandula tiroidea ni con su celda.  TAB3  Affirmed
+
+p2          411
+buffer1+p2  Affirmed
+
+Linea:  195
+segm1: >1203<
+segm2: >central<
+segm3: >Se observa en region medial de cuello y discretamente hacia la izquierda ,imagen a nivel de tejido celular subcutaneo por encima del musculo cutaneo del cuello,hipoecogenica y finamente heterogena ,compresible ,de contoros netos con senal color predominantemente central mide 1.5 cm x 0.93 cm x 3.6 cm.La misma no impresiona comunicacion con glandula tiroidea ni con su celda.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1204  TAB1  quiste  TAB2  Ambos rinones ecogenicos con multiples quistes corticales no se reconoce parenquima.  TAB3  Affirmed
+
+p2          118
+buffer1+p2  Affirmed
+
+Linea:  196
+segm1: >1204<
+segm2: >quiste<
+segm3: >Ambos rinones ecogenicos con multiples quistes corticales no se reconoce parenquima.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1205  TAB1  imagen  TAB2  999657 No se observa imagen compatible con glandula tiroides.  TAB3  Negated
+
+p2          95
+buffer1+p2  Negated
+
+Linea:  197
+segm1: >1205<
+segm2: >imagen<
+segm3: >999657 No se observa imagen compatible con glandula tiroides.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1206  TAB1  leve ectasia  TAB2  848193 Ecografia renal pre y postmiccional Vejiga sin alteraciones, no visualizo ureteres Doble  sistema bilateral con leve ectasia de ambos hemisistemas inferiores.  TAB3  Affirmed
+
+p2          205
+buffer1+p2  Affirmed
+
+Linea:  198
+segm1: >1206<
+segm2: >leve ectasia<
+segm3: >848193 Ecografia renal pre y postmiccional Vejiga sin alteraciones, no visualizo ureteres Doble  sistema bilateral con leve ectasia de ambos hemisistemas inferiores.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1207  TAB1  liquido  TAB2  Bazo: 7.5 cm No se observa liquido libre  TAB3  Negated
+
+p2          75
+buffer1+p2  Negated
+
+Linea:  199
+segm1: >1207<
+segm2: >liquido<
+segm3: >Bazo: 7.5 cm No se observa liquido libre<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1208  TAB1  dilatacion  TAB2  Ambos rinones ortotopicos, con aumento de ecogenicidad y menor diferencicion corticomedular, no se visualiza dilatacion pielica.  TAB3  Negated
+
+p2          166
+buffer1+p2  Negated
+
+Linea:  200
+segm1: >1208<
+segm2: >dilatacion<
+segm3: >Ambos rinones ortotopicos, con aumento de ecogenicidad y menor diferencicion corticomedular, no se visualiza dilatacion pielica.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1209  TAB1  flujo   TAB2  Shunt esplenorenal visible y permeable de 1.3 cm de diametro con flujo  venoso turbulento.Vena esplenica distal al shunt 30 cm / s. Esplenomegalia homogenea mide 23.3 cm No ascitis.  TAB3  Affirmed
+
+p2          215
+buffer1+p2  Affirmed
+
+Linea:  201
+segm1: >1209<
+segm2: >flujo <
+segm3: >Shunt esplenorenal visible y permeable de 1.3 cm de diametro con flujo  venoso turbulento.Vena esplenica distal al shunt 30 cm / s. Esplenomegalia homogenea mide 23.3 cm No ascitis.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1210  TAB1  dilatada   TAB2  extrahepatica: No dilatada  Vesicula biliar: de paredes engrosadas con flujo  venoso colateral visible.  TAB3  Negated
+
+p2          140
+buffer1+p2  Negated
+
+Linea:  202
+segm1: >1210<
+segm2: >dilatada <
+segm3: >extrahepatica: No dilatada  Vesicula biliar: de paredes engrosadas con flujo  venoso colateral visible.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1211  TAB1  Implante  TAB2  Implante hepatico homogeneo, via biliar no dialtada, pancreas, bazo y ambos rinones de tamano y ecoestructura conservada, no adenomegalias ni liquido libre en cavidada, vejiga plenificada.  TAB3  Affirmed
+
+p2          224
+buffer1+p2  Affirmed
+
+Linea:  203
+segm1: >1211<
+segm2: >Implante<
+segm3: >Implante hepatico homogeneo, via biliar no dialtada, pancreas, bazo y ambos rinones de tamano y ecoestructura conservada, no adenomegalias ni liquido libre en cavidada, vejiga plenificada.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1212  TAB1  alitiasica  TAB2  A355177 Higado: homogeneo tamano disminuido a expensas del lobulo izquierdo cavernoma de tronco y rama derecha Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: alitiasica paredes engrosadas varices perivesiculares Pancreas: sp Bazo: homogeneo tamano aumentado.  TAB3  Affirmed
+
+p2          313
+buffer1+p2  Affirmed
+
+Linea:  204
+segm1: >1212<
+segm2: >alitiasica<
+segm3: >A355177 Higado: homogeneo tamano disminuido a expensas del lobulo izquierdo cavernoma de tronco y rama derecha Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: alitiasica paredes engrosadas varices perivesiculares Pancreas: sp Bazo: homogeneo tamano aumentado.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1213  TAB1  masa  TAB2  A349781 Ecoestructura parenquimatosa cerebral y de nucleos de la base sin alteraciones sin desviaciones de la linea media, efectos de masa, ni colecciones.  TAB3  Negated
+
+p2          187
+buffer1+p2  Negated
+
+Linea:  205
+segm1: >1213<
+segm2: >masa<
+segm3: >A349781 Ecoestructura parenquimatosa cerebral y de nucleos de la base sin alteraciones sin desviaciones de la linea media, efectos de masa, ni colecciones.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1214  TAB1  imagenes  TAB2  64072 No se observan imagenes de significacion en la pared abdominal en la region de interes.  TAB3  Negated
+
+p2          129
+buffer1+p2  Negated
+
+Linea:  206
+segm1: >1214<
+segm2: >imagenes<
+segm3: >64072 No se observan imagenes de significacion en la pared abdominal en la region de interes.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1215  TAB1  heterogenea difusa  TAB2  A190878 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y tamano conservado.  TAB3  Affirmed
+
+p2          154
+buffer1+p2  Affirmed
+
+Linea:  207
+segm1: >1215<
+segm2: >heterogenea difusa<
+segm3: >A190878 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y tamano conservado.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1216  TAB1  ectasia  TAB2  por detras de la misma imagen liquida tubular que impresiona asa  distal de colostomia utero prepuberal de 41x18x17 mm oi 31x27x12 mm vol 5,5 cc no se observa imagen de hidrocolpos no se identifica o derecho rinon derecho sp dl 10.2 cm rinon izquierdo en fii menor tamano dl 73 mm ectasia pielica 10 mm  TAB3  Affirmed
+
+p2          337
+buffer1+p2  Affirmed
+
+Linea:  208
+segm1: >1216<
+segm2: >ectasia<
+segm3: >por detras de la misma imagen liquida tubular que impresiona asa  distal de colostomia utero prepuberal de 41x18x17 mm oi 31x27x12 mm vol 5,5 cc no se observa imagen de hidrocolpos no se identifica o derecho rinon derecho sp dl 10.2 cm rinon izquierdo en fii menor tamano dl 73 mm ectasia pielica 10 mm<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1217  TAB1  ESPLENOMEGALIA  TAB2  PANCREAS NO VISIBLE POR GAS INTESTINAL.ESPLENOMEGALIA HOMOGENEA.  TAB3  Affirmed
+
+p2          106
+buffer1+p2  Affirmed
+
+Linea:  209
+segm1: >1217<
+segm2: >ESPLENOMEGALIA<
+segm3: >PANCREAS NO VISIBLE POR GAS INTESTINAL.ESPLENOMEGALIA HOMOGENEA.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1218  TAB1  aumento  TAB2  A331521 Rinon derecho no dilatado, con aumento de la ecogenicidad y perdida de la diferenciacion cortico-medular.  TAB3  Affirmed
+
+p2          148
+buffer1+p2  Affirmed
+
+Linea:  210
+segm1: >1218<
+segm2: >aumento<
+segm3: >A331521 Rinon derecho no dilatado, con aumento de la ecogenicidad y perdida de la diferenciacion cortico-medular.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1219  TAB1  nodular  TAB2  A57035 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.  TAB3  Negated
+
+p2          157
+buffer1+p2  Negated
+
+Linea:  211
+segm1: >1219<
+segm2: >nodular<
+segm3: >A57035 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1220  TAB1  nodular   TAB2  395021 Higado: heterogeneo  difuso contorno nodular  Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: no visible Pancreas:sp Bazo: homogeneo.  TAB3  Affirmed
+
+p2          192
+buffer1+p2  Affirmed
+
+Linea:  212
+segm1: >1220<
+segm2: >nodular <
+segm3: >395021 Higado: heterogeneo  difuso contorno nodular  Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: no visible Pancreas:sp Bazo: homogeneo.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1221  TAB1  liquido intraarticular  TAB2  No se visualiza liquido intraarticular ni imagenes compatibles con coleccion.  TAB3  Negated
+
+p2          127
+buffer1+p2  Negated
+
+Linea:  213
+segm1: >1221<
+segm2: >liquido intraarticular<
+segm3: >No se visualiza liquido intraarticular ni imagenes compatibles con coleccion.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1222  TAB1  aumento  TAB2  A206025 Se realiza ecografia de partes blandas con transductor de alta frecuencia, Se observa en el dorso de la mano izquierda, aumento del espesor y ecogencicidad del tejido celular subcutaneo, con incremento de vascularizacion y una imagen pequena ovoidea hipoecoica no vascularizada( coleccion ).  TAB3  Affirmed
+
+p2          334
+buffer1+p2  Affirmed
+
+Linea:  214
+segm1: >1222<
+segm2: >aumento<
+segm3: >A206025 Se realiza ecografia de partes blandas con transductor de alta frecuencia, Se observa en el dorso de la mano izquierda, aumento del espesor y ecogencicidad del tejido celular subcutaneo, con incremento de vascularizacion y una imagen pequena ovoidea hipoecoica no vascularizada( coleccion ).<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1223  TAB1  liquido  TAB2  No se observa liquido libre ni colecciones.  TAB3  Negated
+
+p2          78
+buffer1+p2  Negated
+
+Linea:  215
+segm1: >1223<
+segm2: >liquido<
+segm3: >No se observa liquido libre ni colecciones.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1224  TAB1  imagen  TAB2  Se observa imagen tubular no compresible descendente de 9.3 mm ap con aumento de grasa mesenterica y pequenos ganglios adayecentes de 0.5 cm.  TAB3  Affirmed
+
+p2          175
+buffer1+p2  Affirmed
+
+Linea:  216
+segm1: >1224<
+segm2: >imagen<
+segm3: >Se observa imagen tubular no compresible descendente de 9.3 mm ap con aumento de grasa mesenterica y pequenos ganglios adayecentes de 0.5 cm.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1225  TAB1  masa  TAB2  No se observan colecciones ni efectos de masa.  TAB3  Negated
+
+p2          78
+buffer1+p2  Negated
+
+Linea:  217
+segm1: >1225<
+segm2: >masa<
+segm3: >No se observan colecciones ni efectos de masa.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1226  TAB1  nodular  TAB2  486628 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular, tamano aconservado Luz traqueal  centrada.  TAB3  Negated
+
+p2          165
+buffer1+p2  Negated
+
+Linea:  218
+segm1: >1226<
+segm2: >nodular<
+segm3: >486628 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular, tamano aconservado Luz traqueal  centrada.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1227  TAB1  dilatada   TAB2  395021 Higado: heterogeneo  difuso contorno nodular  Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: no visible Pancreas:sp Bazo: homogeneo.  TAB3  Negated
+
+p2          193
+buffer1+p2  Negated
+
+Linea:  219
+segm1: >1227<
+segm2: >dilatada <
+segm3: >395021 Higado: heterogeneo  difuso contorno nodular  Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: no visible Pancreas:sp Bazo: homogeneo.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1228  TAB1  inflamatorio   TAB2  En FID se encuentra imagen tubular no compresible de 1,3 cm de diametro, con hiperflujo periferico y grasa ecogenica alrededor, que podria corresponder a proceso  inflamatorio  apendicular.  TAB3  Affirmed
+
+p2          230
+buffer1+p2  Affirmed
+
+Linea:  220
+segm1: >1228<
+segm2: >inflamatorio <
+segm3: >En FID se encuentra imagen tubular no compresible de 1,3 cm de diametro, con hiperflujo periferico y grasa ecogenica alrededor, que podria corresponder a proceso  inflamatorio  apendicular.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1229  TAB1  quiste  TAB2  A176301 Ambos lobulos tiroideos e istmo con ecoestructura homogenea, no nodular y aumentados globalmente de tamano, pequenos quistes de retencion coloidea con predominio a nivel de polo inferior de ambos lobulos.  TAB3  Affirmed
+
+p2          246
+buffer1+p2  Affirmed
+
+Linea:  221
+segm1: >1229<
+segm2: >quiste<
+segm3: >A176301 Ambos lobulos tiroideos e istmo con ecoestructura homogenea, no nodular y aumentados globalmente de tamano, pequenos quistes de retencion coloidea con predominio a nivel de polo inferior de ambos lobulos.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1230  TAB1  Hidronefrosis  TAB2  74292 Ecografia renovesical pre y postmiccional: Hidronefrosis derecha pelvis, 3.5 cm, que no se modifica con la miccion, escaso parenquima sin diferenciacion  corticomedular, sin cambios con ecografia previa RI con leve dilatacion de la pelvis( 1 cm).  TAB3  Affirmed
+
+p2          293
+buffer1+p2  Affirmed
+
+Linea:  222
+segm1: >1230<
+segm2: >Hidronefrosis<
+segm3: >74292 Ecografia renovesical pre y postmiccional: Hidronefrosis derecha pelvis, 3.5 cm, que no se modifica con la miccion, escaso parenquima sin diferenciacion  corticomedular, sin cambios con ecografia previa RI con leve dilatacion de la pelvis( 1 cm).<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1231  TAB1  leve aumento  TAB2  A305712 HIGADO: de tamano normal con leve aumento de la ecogenicidad parenquimatosa  VIA BILIAR intra y extrahepatica: no dilatada.  TAB3  Affirmed
+
+p2          171
+buffer1+p2  Affirmed
+
+Linea:  223
+segm1: >1231<
+segm2: >leve aumento<
+segm3: >A305712 HIGADO: de tamano normal con leve aumento de la ecogenicidad parenquimatosa  VIA BILIAR intra y extrahepatica: no dilatada.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1232  TAB1  TROMBOSIS  TAB2  272872 DOPPLER COLOR PULSADO Y COLOR NO SE OBSERVAN IMAGENES SUGERENTES DE TROMBOSIS A NIVEL DE SISTEMA ARTERIAL O VENOSO DE MIEMBROS INFERIORES.  TAB3  Negated
+
+p2          182
+buffer1+p2  Negated
+
+Linea:  224
+segm1: >1232<
+segm2: >TROMBOSIS<
+segm3: >272872 DOPPLER COLOR PULSADO Y COLOR NO SE OBSERVAN IMAGENES SUGERENTES DE TROMBOSIS A NIVEL DE SISTEMA ARTERIAL O VENOSO DE MIEMBROS INFERIORES.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1233  TAB1  hidronefrosis  TAB2  995571 Ecografia renovesical pre y postmiccional: Ri con hidronefrosis conocida, pelvis 2 cm, que no se modifica luego de la miccion.  TAB3  Affirmed
+
+p2          174
+buffer1+p2  Affirmed
+
+Linea:  225
+segm1: >1233<
+segm2: >hidronefrosis<
+segm3: >995571 Ecografia renovesical pre y postmiccional: Ri con hidronefrosis conocida, pelvis 2 cm, que no se modifica luego de la miccion.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1234  TAB1  nodular  TAB2  A255796 Se observa glandula tiroides aumentada globalmente de tamano, de contorno lobulado, con ecoestructura finamente heterogenea, no nodular, predominantemente hipoecoica, hipervascularizada.  TAB3  Negated
+
+p2          229
+buffer1+p2  Negated
+
+Linea:  226
+segm1: >1234<
+segm2: >nodular<
+segm3: >A255796 Se observa glandula tiroides aumentada globalmente de tamano, de contorno lobulado, con ecoestructura finamente heterogenea, no nodular, predominantemente hipoecoica, hipervascularizada.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1235  TAB1  aumento  TAB2  A96967 Rinon der disminuido de tamano y con aumento de la ecogenicidad, menor diferencicion corticomedular y menor espesor cortical  Via urinaria no dilatada  Rinon izq de tamano y ecoestructura normal.  TAB3  Affirmed
+
+p2          237
+buffer1+p2  Affirmed
+
+Linea:  227
+segm1: >1235<
+segm2: >aumento<
+segm3: >A96967 Rinon der disminuido de tamano y con aumento de la ecogenicidad, menor diferencicion corticomedular y menor espesor cortical  Via urinaria no dilatada  Rinon izq de tamano y ecoestructura normal.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1236  TAB1  hipertension  TAB2  / 1 COLATERALES: Vena coronaria en epiplon: 2 mm Derivacion dorsal:3 mm Hemorroidales: no Ascitis:no rinones sp Conclusion: se observan signos ecograficos de hipertension  portal.  TAB3  Affirmed
+
+p2          219
+buffer1+p2  Affirmed
+
+Linea:  228
+segm1: >1236<
+segm2: >hipertension<
+segm3: >/ 1 COLATERALES: Vena coronaria en epiplon: 2 mm Derivacion dorsal:3 mm Hemorroidales: no Ascitis:no rinones sp Conclusion: se observan signos ecograficos de hipertension  portal.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1237  TAB1  imagen  TAB2  En FID se observa imagen tubular, no compresible, de 8 mm de diametro que podria corresponder a proceso apendicular.  TAB3  Affirmed
+
+p2          150
+buffer1+p2  Affirmed
+
+Linea:  229
+segm1: >1237<
+segm2: >imagen<
+segm3: >En FID se observa imagen tubular, no compresible, de 8 mm de diametro que podria corresponder a proceso apendicular.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1239  TAB1  calcificaciones  TAB2  Sin calcificaciones, ni vascularizacion en su interior.  TAB3  Negated
+
+p2          98
+buffer1+p2  Negated
+
+Linea:  230
+segm1: >1239<
+segm2: >calcificaciones<
+segm3: >Sin calcificaciones, ni vascularizacion en su interior.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1240  TAB1  ampliacion   TAB2  vejiga de paredes gruesas 8antecedente de ampliacion  vesical, que luego de la miccion no tien residuo pero el ureter se sigue visualizando de 9 mm a 2 mm en su porcion distal Si alteracion del flujo  arterial y venoso del implante tambien se visualiza otro megaureter  TAB3  Affirmed
+
+p2          307
+buffer1+p2  Affirmed
+
+Linea:  231
+segm1: >1240<
+segm2: >ampliacion <
+segm3: >vejiga de paredes gruesas 8antecedente de ampliacion  vesical, que luego de la miccion no tien residuo pero el ureter se sigue visualizando de 9 mm a 2 mm en su porcion distal Si alteracion del flujo  arterial y venoso del implante tambien se visualiza otro megaureter<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1241  TAB1  imagenes  TAB2  Se explora abdomen, no se observa imagenes compatibles con pseudoquiste.  TAB3  Negated
+
+p2          108
+buffer1+p2  Negated
+
+Linea:  232
+segm1: >1241<
+segm2: >imagenes<
+segm3: >Se explora abdomen, no se observa imagenes compatibles con pseudoquiste.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1242  TAB1  aumento  TAB2  No se observa aumento del liquido  articular ni alteraciones musculares en la region explorada.  TAB3  Negated
+
+p2          130
+buffer1+p2  Negated
+
+Linea:  233
+segm1: >1242<
+segm2: >aumento<
+segm3: >No se observa aumento del liquido  articular ni alteraciones musculares en la region explorada.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1243  TAB1  imagenes  TAB2  32.0 cc Ovarios con ecoestructura conservada, no se identifican imagenes quisticas.  TAB3  Negated
+
+p2          119
+buffer1+p2  Negated
+
+Linea:  234
+segm1: >1243<
+segm2: >imagenes<
+segm3: >32.0 cc Ovarios con ecoestructura conservada, no se identifican imagenes quisticas.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1244  TAB1  Dilatacion  TAB2  Dilatacion de la via urinaria: Premicc Postmicc Der Pelvis 1.3 cm 1.7 cm U Prox 0.5 cm 0.8 cm U distal no se visual no se visual Izq Pelvis 1.5 cm 0.7 cm U Prox 0.4 cm 0.3 cm U distal no se visual no se visual Vejiga  parcialmente replecionada.  TAB3  Affirmed
+
+p2          282
+buffer1+p2  Affirmed
+
+Linea:  235
+segm1: >1244<
+segm2: >Dilatacion<
+segm3: >Dilatacion de la via urinaria: Premicc Postmicc Der Pelvis 1.3 cm 1.7 cm U Prox 0.5 cm 0.8 cm U distal no se visual no se visual Izq Pelvis 1.5 cm 0.7 cm U Prox 0.4 cm 0.3 cm U distal no se visual no se visual Vejiga  parcialmente replecionada.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1245  TAB1  stent  TAB2  Exploracion directa extrarrenal: Arteria renal derecha con flujo turbulento en tercio proximal y aumento de la velocidad( 212 cm / seg) a dicho nivel, con disminucon de la velocidad en dos tercios distales(65 cm / seg) sugestivo de estenosis no se visualiza stent a traves de este metodo.  TAB3  Negated
+
+p2          321
+buffer1+p2  Negated
+
+Linea:  236
+segm1: >1245<
+segm2: >stent<
+segm3: >Exploracion directa extrarrenal: Arteria renal derecha con flujo turbulento en tercio proximal y aumento de la velocidad( 212 cm / seg) a dicho nivel, con disminucon de la velocidad en dos tercios distales(65 cm / seg) sugestivo de estenosis no se visualiza stent a traves de este metodo.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1246  TAB1  imagen  TAB2  A nivel periventricular, en la prolongacion frontal del ventriculo lateral izq, se observa pequena imagen  nodular, ecogenica, a correlacionar con su enfermedad de base No se observa dilatacion  ventricular.  TAB3  Affirmed
+
+p2          241
+buffer1+p2  Affirmed
+
+Linea:  237
+segm1: >1246<
+segm2: >imagen<
+segm3: >A nivel periventricular, en la prolongacion frontal del ventriculo lateral izq, se observa pequena imagen  nodular, ecogenica, a correlacionar con su enfermedad de base No se observa dilatacion  ventricular.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1247  TAB1  heterogenea  TAB2  532441 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea no nodular con visualizacion de No se detectaron adenomegalias laterocervicales.  TAB3  Affirmed
+
+p2          188
+buffer1+p2  Affirmed
+
+Linea:  238
+segm1: >1247<
+segm2: >heterogenea<
+segm3: >532441 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea no nodular con visualizacion de No se detectaron adenomegalias laterocervicales.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1248  TAB1  lesion  TAB2  Partes blandas en sitio de lesion se observa aumento de espesor y de ecogenicidad de plano subcutaneo sin compromiso del plano muscular.Ni cambio de ecogenicidad de fascias.Mide espesor 0.96 cm.Al igual que region de hombro sin liquido intraarticular ni compromiso del plano muscular en cara dorsal e inferior de hombro izquierdo.  TAB3  Affirmed
+
+p2          364
+buffer1+p2  Affirmed
+
+Linea:  239
+segm1: >1248<
+segm2: >lesion<
+segm3: >Partes blandas en sitio de lesion se observa aumento de espesor y de ecogenicidad de plano subcutaneo sin compromiso del plano muscular.Ni cambio de ecogenicidad de fascias.Mide espesor 0.96 cm.Al igual que region de hombro sin liquido intraarticular ni compromiso del plano muscular en cara dorsal e inferior de hombro izquierdo.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1249  TAB1  imagenes  TAB2  No se visualizan imagenes quisticas ni nodulares.  TAB3  Negated
+
+p2          85
+buffer1+p2  Negated
+
+Linea:  240
+segm1: >1249<
+segm2: >imagenes<
+segm3: >No se visualizan imagenes quisticas ni nodulares.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1250  TAB1  solida  TAB2  En plano superficial de pared abdominal anterior derecha, supraumbilical, pequena, solida, hipoecoica, de 0.7 x 0.8( cm ), no vascularizada.  TAB3  Affirmed
+
+p2          174
+buffer1+p2  Affirmed
+
+Linea:  241
+segm1: >1250<
+segm2: >solida<
+segm3: >En plano superficial de pared abdominal anterior derecha, supraumbilical, pequena, solida, hipoecoica, de 0.7 x 0.8( cm ), no vascularizada.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1252  TAB1  imagenes  TAB2  no se observan imagenes quisticas ni sugestivas de duplicacion  TAB3  Negated
+
+p2          98
+buffer1+p2  Negated
+
+Linea:  242
+segm1: >1252<
+segm2: >imagenes<
+segm3: >no se observan imagenes quisticas ni sugestivas de duplicacion<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1253  TAB1  dilatacion   TAB2  VIA BILIAR intra y extrahepatica: dilatacion  sacular de 5 mm aprox, no se observan imagenes sugerentes de litiasis.  TAB3  Affirmed
+
+p2          155
+buffer1+p2  Affirmed
+
+Linea:  243
+segm1: >1253<
+segm2: >dilatacion <
+segm3: >VIA BILIAR intra y extrahepatica: dilatacion  sacular de 5 mm aprox, no se observan imagenes sugerentes de litiasis.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1254  TAB1  Ureterohidronefrosis  TAB2  118898 Ureterohidronefrosis marcada bilateral con escaso parenquima RD, RI sin parenquima vejiga de paredes gruesas con diverticulos( neurogenica ) Higado, bazo sin alteraciones no se puede evaluar retroperitoneo por aire  TAB3  Affirmed
+
+p2          269
+buffer1+p2  Affirmed
+
+Linea:  244
+segm1: >1254<
+segm2: >Ureterohidronefrosis<
+segm3: >118898 Ureterohidronefrosis marcada bilateral con escaso parenquima RD, RI sin parenquima vejiga de paredes gruesas con diverticulos( neurogenica ) Higado, bazo sin alteraciones no se puede evaluar retroperitoneo por aire<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1255  TAB1  esteatosis  TAB2  A339551 HIGADO: tamano normal.aumento de la ecogenicidad en forma difusa( esteatosis ) VIA BILIAR intra y extrahepatica: no dilatada.  TAB3  Affirmed
+
+p2          171
+buffer1+p2  Affirmed
+
+Linea:  245
+segm1: >1255<
+segm2: >esteatosis<
+segm3: >A339551 HIGADO: tamano normal.aumento de la ecogenicidad en forma difusa( esteatosis ) VIA BILIAR intra y extrahepatica: no dilatada.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1257  TAB1  nodular  TAB2  A169043 Higado: heterogeneo  difuso, contorno nodular, hiperecogenicidad periportal, vena porta en hilio 10 mm VMS 12 mm Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: paredes gruesas Pancreas: sp Bazo:tamano aumentado.  TAB3  Affirmed
+
+p2          271
+buffer1+p2  Affirmed
+
+Linea:  246
+segm1: >1257<
+segm2: >nodular<
+segm3: >A169043 Higado: heterogeneo  difuso, contorno nodular, hiperecogenicidad periportal, vena porta en hilio 10 mm VMS 12 mm Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: paredes gruesas Pancreas: sp Bazo:tamano aumentado.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1258  TAB1  dilatacion  TAB2  Higado, sin alteraciones vesicula libre, pancreas, bazo y retroperitoneo de caracteristicas normales IMPLANTE RENAL: diferenciado de 10 x 4 cm, con dilatacion pielocalicial, mas pielica y ureteral que pielica Pelvis 1.72 cm, ureter 0.9 cm, no puedo visualizar la zona de implantacion en vejiga, Arteria y vena sin alteraciones  TAB3  Affirmed
+
+p2          364
+buffer1+p2  Affirmed
+
+Linea:  247
+segm1: >1258<
+segm2: >dilatacion<
+segm3: >Higado, sin alteraciones vesicula libre, pancreas, bazo y retroperitoneo de caracteristicas normales IMPLANTE RENAL: diferenciado de 10 x 4 cm, con dilatacion pielocalicial, mas pielica y ureteral que pielica Pelvis 1.72 cm, ureter 0.9 cm, no puedo visualizar la zona de implantacion en vejiga, Arteria y vena sin alteraciones<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1259  TAB1  edema  TAB2  Se observa en todo el dorso de mano marcado edema del tejido celular subcutaneo.A nivel de base de tercer dedo se observa pequena imagen hipoecoica, no fluctuante que podria corresponder a coleccion incipente.La misma mide:1,9 x 2,9 x 0,8 cm   TAB3  Affirmed
+
+p2          275
+buffer1+p2  Affirmed
+
+Linea:  248
+segm1: >1259<
+segm2: >edema<
+segm3: >Se observa en todo el dorso de mano marcado edema del tejido celular subcutaneo.A nivel de base de tercer dedo se observa pequena imagen hipoecoica, no fluctuante que podria corresponder a coleccion incipente.La misma mide:1,9 x 2,9 x 0,8 cm <
+segm4: >Aff<
+cuarto segmento 
+buffer1     1260  TAB1  ureterohidronefrosis  TAB2  Ureterohidronefrosis derecha con ureter dilatado con urotelio engrosado y ecos moviles en su interior(pioureterohidronefrosis) No se logra visualizar adecuadamente ,desembocadura del mismo impresiona en vejiga.  TAB3  Affirmed
+
+p2          258
+buffer1+p2  Affirmed
+
+Linea:  249
+segm1: >1260<
+segm2: >ureterohidronefrosis<
+segm3: >Ureterohidronefrosis derecha con ureter dilatado con urotelio engrosado y ecos moviles en su interior(pioureterohidronefrosis) No se logra visualizar adecuadamente ,desembocadura del mismo impresiona en vejiga.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1261  TAB1  liquido   TAB2  A227434 Ecografia de ambas caderas comparativas: No se identifica liquido  articular en ambas caderas.  TAB3  Negated
+
+p2          138
+buffer1+p2  Negated
+
+Linea:  250
+segm1: >1261<
+segm2: >liquido <
+segm3: >A227434 Ecografia de ambas caderas comparativas: No se identifica liquido  articular en ambas caderas.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1262  TAB1  SOLIDA HETEROGENEA   TAB2  Diametro longitudinal: 12(cm) TROMBO EN VCI DE APROX 16X4X3 CM MASA  SOLIDA HETEROGENEA  PRECAVA QUE CRUZA LA LINEA MEDIA No se observo liquido libre en cavidad.  TAB3  Affirmed
+
+p2          208
+buffer1+p2  Affirmed
+
+Linea:  251
+segm1: >1262<
+segm2: >SOLIDA HETEROGENEA <
+segm3: >Diametro longitudinal: 12(cm) TROMBO EN VCI DE APROX 16X4X3 CM MASA  SOLIDA HETEROGENEA  PRECAVA QUE CRUZA LA LINEA MEDIA No se observo liquido libre en cavidad.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1263  TAB1  dilatada   TAB2  Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: de paredes gruesas con varices perivesiculares.  TAB3  Negated
+
+p2          148
+buffer1+p2  Negated
+
+Linea:  252
+segm1: >1263<
+segm2: >dilatada <
+segm3: >Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: de paredes gruesas con varices perivesiculares.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1264  TAB1  hepatomegalia  TAB2  A290944 HIGADO: leve hepatomegalia con imagen redondeada, solida heterogenea con algunas aereas mas hipoecoicas en su interior en segmento VII que mide aprox 73x65x44 mm, de menor tamano que ecografia previa Se visualizan adenopatias en hilio hepatico VIA BILIAR intra y extrahepatica: no dilatada.  TAB3  Affirmed
+
+p2          339
+buffer1+p2  Affirmed
+
+Linea:  253
+segm1: >1264<
+segm2: >hepatomegalia<
+segm3: >A290944 HIGADO: leve hepatomegalia con imagen redondeada, solida heterogenea con algunas aereas mas hipoecoicas en su interior en segmento VII que mide aprox 73x65x44 mm, de menor tamano que ecografia previa Se visualizan adenopatias en hilio hepatico VIA BILIAR intra y extrahepatica: no dilatada.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1265  TAB1  teratoma  TAB2  Hidronefrosis derecha, pelvis 1 cm, por compresi{on  ' Diagnostico presuntivo: duplcacion, linfangioma, teratoma  ', Deseo conocer evolucion se sugiere consulta a cirugia, no se justifica otro me{todo de im{agenes  TAB3  Affirmed
+
+p2          249
+buffer1+p2  Affirmed
+
+Linea:  254
+segm1: >1265<
+segm2: >teratoma<
+segm3: >Hidronefrosis derecha, pelvis 1 cm, por compresi{on  ' Diagnostico presuntivo: duplcacion, linfangioma, teratoma  ', Deseo conocer evolucion se sugiere consulta a cirugia, no se justifica otro me{todo de im{agenes<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1266  TAB1  liquido  TAB2  se oservan dos uteros y dos cuellos de forma y estructura conservada( utero didelfo) Ut der:69x48x21 mm endometrio 6 mm Ut izq: 53 x 42x 29 mm endometrio 7 mm ovario derecho 38x30x15 mm vol: 9.5 cc ovario izquierdo: 42x30x20 mm vol:13 cc foliculo dominante de 19 mm No se observa liquido libre en cavidad  TAB3  Negated
+
+p2          339
+buffer1+p2  Negated
+
+Linea:  255
+segm1: >1266<
+segm2: >liquido<
+segm3: >se oservan dos uteros y dos cuellos de forma y estructura conservada( utero didelfo) Ut der:69x48x21 mm endometrio 6 mm Ut izq: 53 x 42x 29 mm endometrio 7 mm ovario derecho 38x30x15 mm vol: 9.5 cc ovario izquierdo: 42x30x20 mm vol:13 cc foliculo dominante de 19 mm No se observa liquido libre en cavidad<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1267  TAB1  hidrocele  TAB2  Se observa a nivel de tercio medio posterior de testiculo derecho, imagen hipoecoica de bordes definidos sugerente de restos adrenales( mide:6.7 x 2.1 mm) Dimensiones: Testiculo derecho: Volumen:3( cc ) Testiculo izquierdo: Volumen: 3.7(cc) No se observa hidrocele o varicocele.  TAB3  Negated
+
+p2          315
+buffer1+p2  Negated
+
+Linea:  256
+segm1: >1267<
+segm2: >hidrocele<
+segm3: >Se observa a nivel de tercio medio posterior de testiculo derecho, imagen hipoecoica de bordes definidos sugerente de restos adrenales( mide:6.7 x 2.1 mm) Dimensiones: Testiculo derecho: Volumen:3( cc ) Testiculo izquierdo: Volumen: 3.7(cc) No se observa hidrocele o varicocele.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1268  TAB1  heterogenea difusa  TAB2  A214642 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.  TAB3  Affirmed
+
+p2          169
+buffer1+p2  Affirmed
+
+Linea:  257
+segm1: >1268<
+segm2: >heterogenea difusa<
+segm3: >A214642 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1270  TAB1  pielonefritis cronica  TAB2  RI con dilatacion del caliz superior y disminucion del parenquima en polo superior, signos de pielonefritis cronica, que no varia con el vaciado miccional  TAB3  Affirmed
+
+p2          203
+buffer1+p2  Affirmed
+
+Linea:  258
+segm1: >1270<
+segm2: >pielonefritis cronica<
+segm3: >RI con dilatacion del caliz superior y disminucion del parenquima en polo superior, signos de pielonefritis cronica, que no varia con el vaciado miccional<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1271  TAB1  dilatada   TAB2  Via urinaria no dilatada  Rinon izquierdo de tamano y ecoestructura normal.  TAB3  Negated
+
+p2          112
+buffer1+p2  Negated
+
+Linea:  259
+segm1: >1271<
+segm2: >dilatada <
+segm3: >Via urinaria no dilatada  Rinon izquierdo de tamano y ecoestructura normal.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1272  TAB1  dilatada  TAB2  VCI permeable.No se visualiza flujo  portal en hilio observandose colaterales venosas.Via biliar no dilatada.  TAB3  Negated
+
+p2          145
+buffer1+p2  Negated
+
+Linea:  260
+segm1: >1272<
+segm2: >dilatada<
+segm3: >VCI permeable.No se visualiza flujo  portal en hilio observandose colaterales venosas.Via biliar no dilatada.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1273  TAB1  comunicacion  TAB2  Hidrocele bilateral extendiendose a conducto inguinal, no se observa comunicacion con abdomen.  TAB3  Negated
+
+p2          134
+buffer1+p2  Negated
+
+Linea:  261
+segm1: >1273<
+segm2: >comunicacion<
+segm3: >Hidrocele bilateral extendiendose a conducto inguinal, no se observa comunicacion con abdomen.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1274  TAB1  aumento  TAB2  No se observa aumento de flujo en su interior ni signos de abscedacion.  TAB3  Negated
+
+p2          106
+buffer1+p2  Negated
+
+Linea:  262
+segm1: >1274<
+segm2: >aumento<
+segm3: >No se observa aumento de flujo en su interior ni signos de abscedacion.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1275  TAB1  imagenes  TAB2  No se observan imagenes quisticas ni solidas.  TAB3  Negated
+
+p2          81
+buffer1+p2  Negated
+
+Linea:  263
+segm1: >1275<
+segm2: >imagenes<
+segm3: >No se observan imagenes quisticas ni solidas.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1276  TAB1  heterogenea  TAB2  Se visualiza glandula tiroides finamente heterogenea, no nodular, predominantemente hipoecoica.  TAB3  Affirmed
+
+p2          134
+buffer1+p2  Affirmed
+
+Linea:  264
+segm1: >1276<
+segm2: >heterogenea<
+segm3: >Se visualiza glandula tiroides finamente heterogenea, no nodular, predominantemente hipoecoica.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1277  TAB1  difuso  TAB2  51948 Higado: heterogeneo  difuso hipereecogenicidad periportal Via biliar intra y extrahepatica: no dilatada  Pancreas: sp Bazo:homogeneo.  TAB3  Affirmed
+
+p2          173
+buffer1+p2  Affirmed
+
+Linea:  265
+segm1: >1277<
+segm2: >difuso<
+segm3: >51948 Higado: heterogeneo  difuso hipereecogenicidad periportal Via biliar intra y extrahepatica: no dilatada  Pancreas: sp Bazo:homogeneo.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1278  TAB1  Implante  TAB2  Implante renal de ecoestructura normal.12x5x3.8 cm No se detecto dilatacion de la via urinaria.  TAB3  Affirmed
+
+p2          131
+buffer1+p2  Affirmed
+
+Linea:  266
+segm1: >1278<
+segm2: >Implante<
+segm3: >Implante renal de ecoestructura normal.12x5x3.8 cm No se detecto dilatacion de la via urinaria.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1279  TAB1  dilatacion  TAB2  Higado de forma, tamano y ecoestructura habitual, no se evidencia dilatacion de la via intra ni extrahepatica.  TAB3  Negated
+
+p2          148
+buffer1+p2  Negated
+
+Linea:  267
+segm1: >1279<
+segm2: >dilatacion<
+segm3: >Higado de forma, tamano y ecoestructura habitual, no se evidencia dilatacion de la via intra ni extrahepatica.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1280  TAB1  nodular  TAB2  Imagen  nodular hipoecoica de 0.8 cm cercana al polo inferior No se observo liquido libre en cavidad.  TAB3  Affirmed
+
+p2          136
+buffer1+p2  Affirmed
+
+Linea:  268
+segm1: >1280<
+segm2: >nodular<
+segm3: >Imagen  nodular hipoecoica de 0.8 cm cercana al polo inferior No se observo liquido libre en cavidad.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1281  TAB1  infantil  TAB2  UTERO: En AVF, de forma, aumento de tamano para la edad, forma no infantil.  TAB3  Negated
+
+p2          111
+buffer1+p2  Negated
+
+Linea:  269
+segm1: >1281<
+segm2: >infantil<
+segm3: >UTERO: En AVF, de forma, aumento de tamano para la edad, forma no infantil.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1282  TAB1  TERATOMA  TAB2  PODRIA CORRESPONDER A TERATOMA No se observo liquido libre en cavidad.  TAB3  Possibility
+
+p2          106
+buffer1+p2  Possibility
+
+Linea:  270
+segm1: >1282<
+segm2: >TERATOMA<
+segm3: >PODRIA CORRESPONDER A TERATOMA No se observo liquido libre en cavidad.<
+segm4: >Pos<
+cuarto segmento 
+buffer1     1283  TAB1  hipertension  TAB2  Ascitis: no se visualiza Conclusion: Se observan signos ecograficos de hipertension  portal.  TAB3  Affirmed
+
+p2          132
+buffer1+p2  Affirmed
+
+Linea:  271
+segm1: >1283<
+segm2: >hipertension<
+segm3: >Ascitis: no se visualiza Conclusion: Se observan signos ecograficos de hipertension  portal.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1284  TAB1  nodular  TAB2  353600 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.  TAB3  Negated
+
+p2          157
+buffer1+p2  Negated
+
+Linea:  272
+segm1: >1284<
+segm2: >nodular<
+segm3: >353600 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1285  TAB1  flebitis  TAB2  No se observan al momento del estudio senal Doppler de fistula arteriovenosa, ni signos de trombosis o flebitis.  TAB3  Negated
+
+p2          148
+buffer1+p2  Negated
+
+Linea:  273
+segm1: >1285<
+segm2: >flebitis<
+segm3: >No se observan al momento del estudio senal Doppler de fistula arteriovenosa, ni signos de trombosis o flebitis.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1286  TAB1  liquido  TAB2  No se visualiza liquido en cavidad ni interasas.  TAB3  Negated
+
+p2          83
+buffer1+p2  Negated
+
+Linea:  274
+segm1: >1286<
+segm2: >liquido<
+segm3: >No se visualiza liquido en cavidad ni interasas.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1287  TAB1  hepatomegalia  TAB2  A145521 HIGADO: Discreta hepatomegalia homogenea VIA BILIAR intra y extrahepatica: no dilatada.  TAB3  Affirmed
+
+p2          136
+buffer1+p2  Affirmed
+
+Linea:  275
+segm1: >1287<
+segm2: >hepatomegalia<
+segm3: >A145521 HIGADO: Discreta hepatomegalia homogenea VIA BILIAR intra y extrahepatica: no dilatada.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1288  TAB1  imagen  TAB2  Se observa una imagen ecogenica lineal, endoluminal en la VCI que podria corresponder a resto de cateter central Relacion Epiplon no valorable por gas.  TAB3  Affirmed
+
+p2          185
+buffer1+p2  Affirmed
+
+Linea:  276
+segm1: >1288<
+segm2: >imagen<
+segm3: >Se observa una imagen ecogenica lineal, endoluminal en la VCI que podria corresponder a resto de cateter central Relacion Epiplon no valorable por gas.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1289  TAB1  dilatacion   TAB2  Pelvis pre-cateterismo: der: 1.6(cm) ; izq: 1.4(cm) Pelvis post-cateterismo: der: 1(cm) ; izq:1.6(cm) No se detecto dilatacion  ureteral, si bien el ureter izquierdo es visible en forma intermitente con un diametro de 0.3 cm pre y post-cateterismo.  TAB3  Negated
+
+p2          287
+buffer1+p2  Negated
+
+Linea:  277
+segm1: >1289<
+segm2: >dilatacion <
+segm3: >Pelvis pre-cateterismo: der: 1.6(cm) ; izq: 1.4(cm) Pelvis post-cateterismo: der: 1(cm) ; izq:1.6(cm) No se detecto dilatacion  ureteral, si bien el ureter izquierdo es visible en forma intermitente con un diametro de 0.3 cm pre y post-cateterismo.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1290  TAB1  liquido  TAB2  56671 Imagen  quistica  irregular de aspecto fusiforme y contenido  liquido anecoico( no vascular) en region submaxilar derecha de aproximadamente 1.8 x 1.6 x 1.3cm compatible con linfangioma de acuerdo al antecedente.  TAB3  Affirmed
+
+p2          253
+buffer1+p2  Affirmed
+
+Linea:  278
+segm1: >1290<
+segm2: >liquido<
+segm3: >56671 Imagen  quistica  irregular de aspecto fusiforme y contenido  liquido anecoico( no vascular) en region submaxilar derecha de aproximadamente 1.8 x 1.6 x 1.3cm compatible con linfangioma de acuerdo al antecedente.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1291  TAB1  aumento  TAB2  A328230 Higado: ligeramente disminuido de tamano, contornos irregulares, heterogeneo  difuso con aumento de la ecogenicidad periportal Via biliar intra y extrahepatica: no dilatada.  TAB3  Affirmed
+
+p2          216
+buffer1+p2  Affirmed
+
+Linea:  279
+segm1: >1291<
+segm2: >aumento<
+segm3: >A328230 Higado: ligeramente disminuido de tamano, contornos irregulares, heterogeneo  difuso con aumento de la ecogenicidad periportal Via biliar intra y extrahepatica: no dilatada.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1292  TAB1  diferenciacion  TAB2  Ambos rinones ortotopicos con discreto aumento de tamano para la edad de ecogenicidad normal con discreta disminucionde diferenciacion corticomedular.Se observa en region media e inferior de valva anterior de rinon derecho imagen hipoecogenica redondedada no vascularizada de limites netos en parenquima renal de 0.6 cm x 0.5 cm de diamtro.  TAB3  Affirmed
+
+p2          382
+buffer1+p2  Affirmed
+
+Linea:  280
+segm1: >1292<
+segm2: >diferenciacion<
+segm3: >Ambos rinones ortotopicos con discreto aumento de tamano para la edad de ecogenicidad normal con discreta disminucionde diferenciacion corticomedular.Se observa en region media e inferior de valva anterior de rinon derecho imagen hipoecogenica redondedada no vascularizada de limites netos en parenquima renal de 0.6 cm x 0.5 cm de diamtro.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1293  TAB1  liquido  TAB2  Long: 13.9 cm No se identifican adenomegalias ni liquido libre en cavidad abdominal.  TAB3  Negated
+
+p2          119
+buffer1+p2  Negated
+
+Linea:  281
+segm1: >1293<
+segm2: >liquido<
+segm3: >Long: 13.9 cm No se identifican adenomegalias ni liquido libre en cavidad abdominal.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1294  TAB1  heterogenea difusa  TAB2  96507 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular.  TAB3  Affirmed
+
+p2          132
+buffer1+p2  Affirmed
+
+Linea:  282
+segm1: >1294<
+segm2: >heterogenea difusa<
+segm3: >96507 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1295  TAB1  nodular  TAB2  481310 Se observa glandula tiroides con ecoestructura finamente heterogenea, no nodular, con presencia de pequenos quistes coloides de mm, difusos.  TAB3  Negated
+
+p2          182
+buffer1+p2  Negated
+
+Linea:  283
+segm1: >1295<
+segm2: >nodular<
+segm3: >481310 Se observa glandula tiroides con ecoestructura finamente heterogenea, no nodular, con presencia de pequenos quistes coloides de mm, difusos.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1296  TAB1  Dilatacion   TAB2  Dilatacion  ventricular bilateral.Diam supratalamicos: Derecho:1,9 cm Izquierdo:2.3 cm A nivel de union caudotalamica izquierda se observa pequena imagen  quistica que mide:0,7 x 0,5 cm que podria corresponder a lesion evolutiva secundaria a hemorragia No se observan desviaciones de la linea media, efectos de masa, ni colecciones.  TAB3  Affirmed
+
+p2          371
+buffer1+p2  Affirmed
+
+Linea:  284
+segm1: >1296<
+segm2: >Dilatacion <
+segm3: >Dilatacion  ventricular bilateral.Diam supratalamicos: Derecho:1,9 cm Izquierdo:2.3 cm A nivel de union caudotalamica izquierda se observa pequena imagen  quistica que mide:0,7 x 0,5 cm que podria corresponder a lesion evolutiva secundaria a hemorragia No se observan desviaciones de la linea media, efectos de masa, ni colecciones.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1297  TAB1  doble   TAB2  Rinon derecho aumentado de ecogenicidad, impresiona doble  sistema con ectasia del hemisistema inferior.Ureteres no visibles.  TAB3  Affirmed
+
+p2          159
+buffer1+p2  Affirmed
+
+Linea:  285
+segm1: >1297<
+segm2: >doble <
+segm3: >Rinon derecho aumentado de ecogenicidad, impresiona doble  sistema con ectasia del hemisistema inferior.Ureteres no visibles.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1298  TAB1  imagen  TAB2  La imagen se aloja en el TCS superficial no observandosse comunicacion con areas mas profundas.  TAB3  Affirmed
+
+p2          129
+buffer1+p2  Affirmed
+
+Linea:  286
+segm1: >1298<
+segm2: >imagen<
+segm3: >La imagen se aloja en el TCS superficial no observandosse comunicacion con areas mas profundas.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1299  TAB1  nodular  TAB2  A121556 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.  TAB3  Negated
+
+p2          158
+buffer1+p2  Negated
+
+Linea:  287
+segm1: >1299<
+segm2: >nodular<
+segm3: >A121556 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1300  TAB1  parcialmente  TAB2  Medidas RD long: 5.7 cm En topografia de rinon izq se observa gran  hidronefrosis, con contenido homogeneo anecoico, no identificandose parenquima renal( 9.8 cm x 15 cm ) Vejiga  parcialmente plenificada de pared fina y contenido homogeneo.  TAB3  Affirmed
+
+p2          280
+buffer1+p2  Affirmed
+
+Linea:  288
+segm1: >1300<
+segm2: >parcialmente<
+segm3: >Medidas RD long: 5.7 cm En topografia de rinon izq se observa gran  hidronefrosis, con contenido homogeneo anecoico, no identificandose parenquima renal( 9.8 cm x 15 cm ) Vejiga  parcialmente plenificada de pared fina y contenido homogeneo.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1301  TAB1  dilatada  TAB2  Via biliar extrahepatica: no dilatada.  TAB3  Negated
+
+p2          74
+buffer1+p2  Negated
+
+Linea:  289
+segm1: >1301<
+segm2: >dilatada<
+segm3: >Via biliar extrahepatica: no dilatada.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1302  TAB1  trombosis  TAB2  Este trayecto venoso se observo no compresible con contenido hipoecoico, compatible con trombosis.  TAB3  Affirmed
+
+p2          135
+buffer1+p2  Affirmed
+
+Linea:  290
+segm1: >1302<
+segm2: >trombosis<
+segm3: >Este trayecto venoso se observo no compresible con contenido hipoecoico, compatible con trombosis.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1303  TAB1  aumento  TAB2  En FID se visualiza imagen tubular hipoecoica, no compresible, dolorosa, que mide 7 mm de diametro anteroposterior( maximo normal 6 mm), con aumento de ecogenicidad pericecal.  TAB3  Affirmed
+
+p2          210
+buffer1+p2  Affirmed
+
+Linea:  291
+segm1: >1303<
+segm2: >aumento<
+segm3: >En FID se visualiza imagen tubular hipoecoica, no compresible, dolorosa, que mide 7 mm de diametro anteroposterior( maximo normal 6 mm), con aumento de ecogenicidad pericecal.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1304  TAB1  ectasia  TAB2  Ecografia renovesical, pre y postmiccional: RD de menor tamano que el derecho( 5.6 cm), con disminucion del espesor a predominio del polo sup, con ectasia pielica de 8 mm que no se modifica luego de la miccion, RI de ecoestructura conservada( 6.4 x 3 cm), sin dilataciones Vejiga sin alteraciones,sin residuo postmiccional.  TAB3  Affirmed
+
+p2          358
+buffer1+p2  Affirmed
+
+Linea:  292
+segm1: >1304<
+segm2: >ectasia<
+segm3: >Ecografia renovesical, pre y postmiccional: RD de menor tamano que el derecho( 5.6 cm), con disminucion del espesor a predominio del polo sup, con ectasia pielica de 8 mm que no se modifica luego de la miccion, RI de ecoestructura conservada( 6.4 x 3 cm), sin dilataciones Vejiga sin alteraciones,sin residuo postmiccional.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1305  TAB1  nodular  TAB2  Se observa glandula tiroides con ecoestructura heterogenea, con imagen  nodular en tercio superior y anterior del lobulo derecho, hipoecoica de contorno no definida, de aprox 0.7 x 0.4( cm ) sin vascularizacion.  TAB3  Affirmed
+
+p2          246
+buffer1+p2  Affirmed
+
+Linea:  293
+segm1: >1305<
+segm2: >nodular<
+segm3: >Se observa glandula tiroides con ecoestructura heterogenea, con imagen  nodular en tercio superior y anterior del lobulo derecho, hipoecoica de contorno no definida, de aprox 0.7 x 0.4( cm ) sin vascularizacion.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1306  TAB1  hiperecogenicidad  TAB2  Higado: heterogeneo  difuso hiperecogenicidad periportal Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: no visible Pancreas: sp Bazo: homogeneo, tamano aumentado.  TAB3  Affirmed
+
+p2          224
+buffer1+p2  Affirmed
+
+Linea:  294
+segm1: >1306<
+segm2: >hiperecogenicidad<
+segm3: >Higado: heterogeneo  difuso hiperecogenicidad periportal Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: no visible Pancreas: sp Bazo: homogeneo, tamano aumentado.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1307  TAB1  IMAGENES  TAB2  Medidas vol 25 CC SE OBSERVA OVARIO IZQUIERDO AUMENTADO DE TAMAnO, CON IMAGENES FOLICULARES VOL: 34 CC, Y GRAN  FORMACION QUISTICA que impresiona del anexo izquierdo que se ubica retro y supravesical, con pared con algunos sectores internos engrosados y pequeno  tabique, de 6.0 x 7.5 x 9.0( cm ) No hay liquido libre en cav abd.  TAB3  Affirmed
+
+p2          365
+buffer1+p2  Affirmed
+
+Linea:  295
+segm1: >1307<
+segm2: >IMAGENES<
+segm3: >Medidas vol 25 CC SE OBSERVA OVARIO IZQUIERDO AUMENTADO DE TAMAnO, CON IMAGENES FOLICULARES VOL: 34 CC, Y GRAN  FORMACION QUISTICA que impresiona del anexo izquierdo que se ubica retro y supravesical, con pared con algunos sectores internos engrosados y pequeno  tabique, de 6.0 x 7.5 x 9.0( cm ) No hay liquido libre en cav abd.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1308  TAB1  hipervascularizada  TAB2  Se explora la region interna del muslo izquierdo en su extremo distal observando en el area palpable formacion hipervascularizada con flujo predominantemente arterial que se abre espacio entre el celular subcutaneo no extendiendose a estructuras vecinas.  TAB3  Affirmed
+
+p2          300
+buffer1+p2  Affirmed
+
+Linea:  296
+segm1: >1308<
+segm2: >hipervascularizada<
+segm3: >Se explora la region interna del muslo izquierdo en su extremo distal observando en el area palpable formacion hipervascularizada con flujo predominantemente arterial que se abre espacio entre el celular subcutaneo no extendiendose a estructuras vecinas.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1309  TAB1  imagen  TAB2  Por detras del utero y lateralizado a la derecha se observo estructura quistica bilobulada de 5,5 x 2,1 x 3,6 cm que podria corresponder a quiste anexial derecho( en trompa) No se logro identificar ovario izquierdo ni parenquima de ecoestructura habitual vinculable a la imagen  quistica.  TAB3  Affirmed
+
+p2          322
+buffer1+p2  Affirmed
+
+Linea:  297
+segm1: >1309<
+segm2: >imagen<
+segm3: >Por detras del utero y lateralizado a la derecha se observo estructura quistica bilobulada de 5,5 x 2,1 x 3,6 cm que podria corresponder a quiste anexial derecho( en trompa) No se logro identificar ovario izquierdo ni parenquima de ecoestructura habitual vinculable a la imagen  quistica.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1310  TAB1  flujo  TAB2  en hueco popliteo y cara posterior de la pierna izquierda se observa una formacion quistica con ecos y tabiques en su interior de aprox 18x9x4 cm que corresponderia a un gran  quiste de Baker No prsenta flujo al examen Doppler color ni compromiso de planos profundos  TAB3  Negated
+
+p2          299
+buffer1+p2  Negated
+
+Linea:  298
+segm1: >1310<
+segm2: >flujo<
+segm3: >en hueco popliteo y cara posterior de la pierna izquierda se observa una formacion quistica con ecos y tabiques en su interior de aprox 18x9x4 cm que corresponderia a un gran  quiste de Baker No prsenta flujo al examen Doppler color ni compromiso de planos profundos<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1312  TAB1  imagen  TAB2  Ambos rinones ortotopicos.Rinon derecho de morfologia y ecogenicidad conservado.Rino izquierdo en polo superior valva posterior se observa imagen redondeada de paredes netas y contenido anecoico no vascularizado que podria corresponder a quiste parapielico de 4.2 cm x 3.3 cm.Pelvis renal no dilatada.NO se visualiza ureteres ni ureteroceles.  TAB3  Affirmed
+
+p2          376
+buffer1+p2  Affirmed
+
+Linea:  299
+segm1: >1312<
+segm2: >imagen<
+segm3: >Ambos rinones ortotopicos.Rinon derecho de morfologia y ecogenicidad conservado.Rino izquierdo en polo superior valva posterior se observa imagen redondeada de paredes netas y contenido anecoico no vascularizado que podria corresponder a quiste parapielico de 4.2 cm x 3.3 cm.Pelvis renal no dilatada.NO se visualiza ureteres ni ureteroceles.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1313  TAB1  quistica   TAB2  testiculo derecho en bolsa escrotal presenta una imagen  quistica  simple en su interior de20x15x11 mm que ocupa 2 / 3 de la superficie testicular con parenquima conservado en ambos polos no presenta flujo al examen Doppler color epididmo normal test izq 23x14x6 mm vol 1.10 cc sin alteraciones  TAB3  Affirmed
+
+p2          331
+buffer1+p2  Affirmed
+
+Linea:  300
+segm1: >1313<
+segm2: >quistica <
+segm3: >testiculo derecho en bolsa escrotal presenta una imagen  quistica  simple en su interior de20x15x11 mm que ocupa 2 / 3 de la superficie testicular con parenquima conservado en ambos polos no presenta flujo al examen Doppler color epididmo normal test izq 23x14x6 mm vol 1.10 cc sin alteraciones<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1314  TAB1  derrame   TAB2  A57909 HEMITORAX DERECHO: No se observa derrame  pleural.  TAB3  Negated
+
+p2          93
+buffer1+p2  Negated
+
+Linea:  301
+segm1: >1314<
+segm2: >derrame <
+segm3: >A57909 HEMITORAX DERECHO: No se observa derrame  pleural.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1315  TAB1  parcialmente  TAB2  RD Diam Long:4.3 cm RI Diam long:4.7 cm Vejiga  parcialmente plenificada, de caracteristicas normales No se observan signos ecograficos de hipertrofia  pilorica: Long.10mm ; Esp.1.5mm.  TAB3  Affirmed
+
+p2          224
+buffer1+p2  Affirmed
+
+Linea:  302
+segm1: >1315<
+segm2: >parcialmente<
+segm3: >RD Diam Long:4.3 cm RI Diam long:4.7 cm Vejiga  parcialmente plenificada, de caracteristicas normales No se observan signos ecograficos de hipertrofia  pilorica: Long.10mm ; Esp.1.5mm.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1316  TAB1  dilatacion  TAB2  Mide:7.3 cm No se observa dilatacion de la via urinaria.  TAB3  Negated
+
+p2          94
+buffer1+p2  Negated
+
+Linea:  303
+segm1: >1316<
+segm2: >dilatacion<
+segm3: >Mide:7.3 cm No se observa dilatacion de la via urinaria.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1317  TAB1  biliares  TAB2  vias  biliares no dilatadas.  TAB3  Affirmed
+
+p2          64
+buffer1+p2  Affirmed
+
+Linea:  304
+segm1: >1317<
+segm2: >biliares<
+segm3: >vias  biliares no dilatadas.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1318  TAB1  calcificaciones  TAB2  A309816 control masa hepatica conocida en lobulo izquierdo con calcificaciones y areas de necrosis Mide 20x17x12 cm no se observa liquido libre  TAB3  Affirmed
+
+p2          186
+buffer1+p2  Affirmed
+
+Linea:  305
+segm1: >1318<
+segm2: >calcificaciones<
+segm3: >A309816 control masa hepatica conocida en lobulo izquierdo con calcificaciones y areas de necrosis Mide 20x17x12 cm no se observa liquido libre<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1319  TAB1  pulmonar  TAB2  A293902 Ecografia pleural: Izq: Parenquima  pulmonar no aireado desde base a campo medio.  TAB3  Affirmed
+
+p2          125
+buffer1+p2  Affirmed
+
+Linea:  306
+segm1: >1319<
+segm2: >pulmonar<
+segm3: >A293902 Ecografia pleural: Izq: Parenquima  pulmonar no aireado desde base a campo medio.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1320  TAB1  IMAGEN  TAB2  A225188 SE REALIZA ECOGRAFIA A NIVEL DE REGION SACRA, NO SE OBSERVA IMAGEN VASCULARIZADA A DICHO NIVEL, NI COMPROMISO DE ESTRUCTURAS PROFUNDAS.  TAB3  Negated
+
+p2          177
+buffer1+p2  Negated
+
+Linea:  307
+segm1: >1320<
+segm2: >IMAGEN<
+segm3: >A225188 SE REALIZA ECOGRAFIA A NIVEL DE REGION SACRA, NO SE OBSERVA IMAGEN VASCULARIZADA A DICHO NIVEL, NI COMPROMISO DE ESTRUCTURAS PROFUNDAS.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1321  TAB1  ADENOMEGALIAS  TAB2  LA COLA DEL EPIDIDIMO IZQUIERDO NO SE VISUALIZA PEQUEnA ADENOMEGALIAS INGUINAL DERECHA DE 11 MM  TAB3  Negated
+
+p2          136
+buffer1+p2  Negated
+
+Linea:  308
+segm1: >1321<
+segm2: >ADENOMEGALIAS<
+segm3: >LA COLA DEL EPIDIDIMO IZQUIERDO NO SE VISUALIZA PEQUEnA ADENOMEGALIAS INGUINAL DERECHA DE 11 MM<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1322  TAB1  liquido  TAB2  Diametro longitudinal:83 mm RETROPERITONEO  VASCULAR: no valorable Minimo liquido libre en Douglas.. Ambos rinones de caracteristicas normales.  TAB3  Affirmed
+
+p2          178
+buffer1+p2  Affirmed
+
+Linea:  309
+segm1: >1322<
+segm2: >liquido<
+segm3: >Diametro longitudinal:83 mm RETROPERITONEO  VASCULAR: no valorable Minimo liquido libre en Douglas.. Ambos rinones de caracteristicas normales.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1323  TAB1  engrosamiento  TAB2  RD Diam Long:7.4 cm RI Diam long: 6.5cm Vejiga de caracteristicas normales No se observa engrosamiento de la pared intestinal al momento del estudio.  TAB3  Negated
+
+p2          190
+buffer1+p2  Negated
+
+Linea:  310
+segm1: >1323<
+segm2: >engrosamiento<
+segm3: >RD Diam Long:7.4 cm RI Diam long: 6.5cm Vejiga de caracteristicas normales No se observa engrosamiento de la pared intestinal al momento del estudio.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1324  TAB1  hipertension  TAB2  Diametro longitudinal: 9.9 cm( normal ) Retroperitoneo: Relacion Epiplon Aorta: 1 / 1 COLATERALES: Vena coronaria en epiplon:no Derivacion  dorsal: no Hemorroidales: no vasos cortos:no Ascitis:no Rinones de caracteristicas normales RD 10.2 CM RI9.9 CM Conclusion: NO se observan signos ecograficos de hipertension  portal.  TAB3  Negated
+
+p2          362
+buffer1+p2  Negated
+
+Linea:  311
+segm1: >1324<
+segm2: >hipertension<
+segm3: >Diametro longitudinal: 9.9 cm( normal ) Retroperitoneo: Relacion Epiplon Aorta: 1 / 1 COLATERALES: Vena coronaria en epiplon:no Derivacion  dorsal: no Hemorroidales: no vasos cortos:no Ascitis:no Rinones de caracteristicas normales RD 10.2 CM RI9.9 CM Conclusion: NO se observan signos ecograficos de hipertension  portal.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1325  TAB1  Esplenomegalia  TAB2  Esplenomegalia homogenea, 18.5cm Pancreas no evaluable por aire intestinal interpuesto.  TAB3  Affirmed
+
+p2          129
+buffer1+p2  Affirmed
+
+Linea:  312
+segm1: >1325<
+segm2: >Esplenomegalia<
+segm3: >Esplenomegalia homogenea, 18.5cm Pancreas no evaluable por aire intestinal interpuesto.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1326  TAB1  diverticulo  TAB2  Vejiga de contorno neto, paredes finas y contenido normal, no se visualiza a traves de este metodo diverticulo.  TAB3  Negated
+
+p2          150
+buffer1+p2  Negated
+
+Linea:  313
+segm1: >1326<
+segm2: >diverticulo<
+segm3: >Vejiga de contorno neto, paredes finas y contenido normal, no se visualiza a traves de este metodo diverticulo.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1327  TAB1  vascular  TAB2  Asas del ileon, apendicular y cecales de4 paredes engrosadas no logrando determinar flujo doppler vascular en su interior por interposicion de ventana acustica.  TAB3  Negated
+
+p2          196
+buffer1+p2  Negated
+
+Linea:  314
+segm1: >1327<
+segm2: >vascular<
+segm3: >Asas del ileon, apendicular y cecales de4 paredes engrosadas no logrando determinar flujo doppler vascular en su interior por interposicion de ventana acustica.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1328  TAB1  liquido  TAB2  Vejiga de paredes engrosadas,de contenido no homogeneo, se visualiza en region inferolateral izquierda de vejiga imagen de paredes engrosadas y contenido  liquido de 2.8 cm x 1.9 cm compatible con ureter distal izquierdo remanente.  TAB3  Affirmed
+
+p2          266
+buffer1+p2  Affirmed
+
+Linea:  315
+segm1: >1328<
+segm2: >liquido<
+segm3: >Vejiga de paredes engrosadas,de contenido no homogeneo, se visualiza en region inferolateral izquierda de vejiga imagen de paredes engrosadas y contenido  liquido de 2.8 cm x 1.9 cm compatible con ureter distal izquierdo remanente.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1329  TAB1  Ectasia  TAB2  Ectasia pielica 0.6 cm No se detecto dilatacion de la via urinaria.  TAB3  Affirmed
+
+p2          102
+buffer1+p2  Affirmed
+
+Linea:  316
+segm1: >1329<
+segm2: >Ectasia<
+segm3: >Ectasia pielica 0.6 cm No se detecto dilatacion de la via urinaria.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1330  TAB1  tabiques  TAB2  Se visualizan colecciones con tabiques finos, ubicadas en flanco derecho( 6.46 x 4.98 cm), flanco izquierdo( 4.68 x 1.85 cm)y FII( 3.9 x 3 cm) que no afectan al momento de este estudio la motilidad de las asas adyascentes.  TAB3  Affirmed
+
+p2          258
+buffer1+p2  Affirmed
+
+Linea:  317
+segm1: >1330<
+segm2: >tabiques<
+segm3: >Se visualizan colecciones con tabiques finos, ubicadas en flanco derecho( 6.46 x 4.98 cm), flanco izquierdo( 4.68 x 1.85 cm)y FII( 3.9 x 3 cm) que no afectan al momento de este estudio la motilidad de las asas adyascentes.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1331  TAB1  flujo  TAB2  VSH: onda trifasica con flujo hepatofugo Via biliar intra y extrahepatica: no dilatado Vesicula biliar: alitiasica.  TAB3  Affirmed
+
+p2          148
+buffer1+p2  Affirmed
+
+Linea:  318
+segm1: >1331<
+segm2: >flujo<
+segm3: >VSH: onda trifasica con flujo hepatofugo Via biliar intra y extrahepatica: no dilatado Vesicula biliar: alitiasica.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1332  TAB1  quiste  TAB2  No se logra identificar quiste de punta de cateter de DVP ni apendice cecal.  TAB3  Negated
+
+p2          110
+buffer1+p2  Negated
+
+Linea:  319
+segm1: >1332<
+segm2: >quiste<
+segm3: >No se logra identificar quiste de punta de cateter de DVP ni apendice cecal.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1333  TAB1  hidronefrosis  TAB2  En fosa renal izquierda se observa importante  hidronefrosis, no se logra identificar parenquima renal.  TAB3  Affirmed
+
+p2          144
+buffer1+p2  Affirmed
+
+Linea:  320
+segm1: >1333<
+segm2: >hidronefrosis<
+segm3: >En fosa renal izquierda se observa importante  hidronefrosis, no se logra identificar parenquima renal.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1334  TAB1  adenomegalias  TAB2  Vol: 2.3 cc No adenomegalias regionales.  TAB3  Negated
+
+p2          81
+buffer1+p2  Negated
+
+Linea:  321
+segm1: >1334<
+segm2: >adenomegalias<
+segm3: >Vol: 2.3 cc No adenomegalias regionales.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1335  TAB1  heterogenea  TAB2  372461 Ambos lobulos tiroideos e istmo con ecoestructura finamente heterogenea no nodular.  TAB3  Affirmed
+
+p2          129
+buffer1+p2  Affirmed
+
+Linea:  322
+segm1: >1335<
+segm2: >heterogenea<
+segm3: >372461 Ambos lobulos tiroideos e istmo con ecoestructura finamente heterogenea no nodular.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1336  TAB1  nodular  TAB2  Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.  TAB3  Negated
+
+p2          150
+buffer1+p2  Negated
+
+Linea:  323
+segm1: >1336<
+segm2: >nodular<
+segm3: >Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1337  TAB1  aumento  TAB2  A229589 Ambos rinones ortotopicos, de ecoestructura normal, no se observa aumento de la ecogenicidad parenquimatosa.  TAB3  Negated
+
+p2          151
+buffer1+p2  Negated
+
+Linea:  324
+segm1: >1337<
+segm2: >aumento<
+segm3: >A229589 Ambos rinones ortotopicos, de ecoestructura normal, no se observa aumento de la ecogenicidad parenquimatosa.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1338  TAB1  nodular  TAB2  485725 Se observa glandula tiroides de pequeno volumen, con ecoestructura finamente heterogenea, no nodular.  TAB3  Negated
+
+p2          143
+buffer1+p2  Negated
+
+Linea:  325
+segm1: >1338<
+segm2: >nodular<
+segm3: >485725 Se observa glandula tiroides de pequeno volumen, con ecoestructura finamente heterogenea, no nodular.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1339  TAB1  liquido liquido  TAB2  Rinon izquierdo: mo se identifica en su fosa ni en el resto del abdomen en la region pelviana se observa dos uteros el izquiedo en aparente comunicacion con una formacion liquida con un nivel liquido liquido de 52x27 mm que corresponderia a vagina( hidrocolpos ).  TAB3  Affirmed
+
+p2          306
+buffer1+p2  Affirmed
+
+Linea:  326
+segm1: >1339<
+segm2: >liquido liquido<
+segm3: >Rinon izquierdo: mo se identifica en su fosa ni en el resto del abdomen en la region pelviana se observa dos uteros el izquiedo en aparente comunicacion con una formacion liquida con un nivel liquido liquido de 52x27 mm que corresponderia a vagina( hidrocolpos ).<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1340  TAB1  esteatosis  TAB2  A97100 HIGADO: tamano conservado,con aumento leve de la ecogenicidad en forma difusa( esteatosis GI) VIA BILIAR intra y extrahepatica: no dilatada.  TAB3  Affirmed
+
+p2          185
+buffer1+p2  Affirmed
+
+Linea:  327
+segm1: >1340<
+segm2: >esteatosis<
+segm3: >A97100 HIGADO: tamano conservado,con aumento leve de la ecogenicidad en forma difusa( esteatosis GI) VIA BILIAR intra y extrahepatica: no dilatada.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1341  TAB1  trombo   TAB2  se observa imagen ecogenica lineal en VCI que no ocluye totalmente la luz del vaso de 2 x 0.8 cm que correponderia a trombo  mural residual,( correlacionar con antecedentes) No se observo liquido libre en cavidad.  TAB3  Affirmed
+
+p2          248
+buffer1+p2  Affirmed
+
+Linea:  328
+segm1: >1341<
+segm2: >trombo <
+segm3: >se observa imagen ecogenica lineal en VCI que no ocluye totalmente la luz del vaso de 2 x 0.8 cm que correponderia a trombo  mural residual,( correlacionar con antecedentes) No se observo liquido libre en cavidad.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1342  TAB1  dilatacion  TAB2  Miden: RD: 8.9 x 3.3 cm RIz: 8.8 x 3.2 cm No se observa dilatacion de la via urinaria.  TAB3  Negated
+
+p2          124
+buffer1+p2  Negated
+
+Linea:  329
+segm1: >1342<
+segm2: >dilatacion<
+segm3: >Miden: RD: 8.9 x 3.3 cm RIz: 8.8 x 3.2 cm No se observa dilatacion de la via urinaria.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1343  TAB1  cambios  TAB2  A nivel del hilio de observan dos imagenes nodulares, ya conocidas, sin cambios significativos, una de 3 x 3.7 cm y la otra de aprox 4 x 3 cm VIA BILIAR intra y extrahepatica: no dilatada.  TAB3  Negated
+
+p2          223
+buffer1+p2  Negated
+
+Linea:  330
+segm1: >1343<
+segm2: >cambios<
+segm3: >A nivel del hilio de observan dos imagenes nodulares, ya conocidas, sin cambios significativos, una de 3 x 3.7 cm y la otra de aprox 4 x 3 cm VIA BILIAR intra y extrahepatica: no dilatada.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1344  TAB1  heterogenea  TAB2  962986 Se visualiza glandula tiroides con aumento del tamano y ecoestructura heterogenea, no nodular.Moderado incremento de la vascularizacion.  TAB3  Affirmed
+
+p2          182
+buffer1+p2  Affirmed
+
+Linea:  331
+segm1: >1344<
+segm2: >heterogenea<
+segm3: >962986 Se visualiza glandula tiroides con aumento del tamano y ecoestructura heterogenea, no nodular.Moderado incremento de la vascularizacion.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1345  TAB1  bifida  TAB2  No se detecto dilatacion de la via urinaria.Rinon izquierdo impresiona pelvis  bifida con minima ectasia calicial superior.No dilatacion de la via urinaria ni visualizacin de ureteres.No se observan cambios luego de la miccion.  TAB3  Affirmed
+
+p2          261
+buffer1+p2  Affirmed
+
+Linea:  332
+segm1: >1345<
+segm2: >bifida<
+segm3: >No se detecto dilatacion de la via urinaria.Rinon izquierdo impresiona pelvis  bifida con minima ectasia calicial superior.No dilatacion de la via urinaria ni visualizacin de ureteres.No se observan cambios luego de la miccion.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1346  TAB1  cambios  TAB2  presenta una imagen ecogenica de 3 mm en pared posterior, sin sombra acustica, no se moviliza con los cambios de decubito( polipo ).  TAB3  Affirmed
+
+p2          167
+buffer1+p2  Affirmed
+
+Linea:  333
+segm1: >1346<
+segm2: >cambios<
+segm3: >presenta una imagen ecogenica de 3 mm en pared posterior, sin sombra acustica, no se moviliza con los cambios de decubito( polipo ).<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1347  TAB1  imagen  TAB2  Persiste imagen ovoidea, de aspecto quistico, en segmento VII, de aprox 4.5 x 3.5 x 2.3 cm VIA BILIAR intra y extrahepatica: no dilatada.  TAB3  Affirmed
+
+p2          171
+buffer1+p2  Affirmed
+
+Linea:  334
+segm1: >1347<
+segm2: >imagen<
+segm3: >Persiste imagen ovoidea, de aspecto quistico, en segmento VII, de aprox 4.5 x 3.5 x 2.3 cm VIA BILIAR intra y extrahepatica: no dilatada.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1348  TAB1  adenomegalias  TAB2  Se observa formacion heterogena con areas hipoecoicas de limites no definidos de 3.5 x 2 cm aprox, que podria corresponder a conglomerado de adenomegalias, adenoflemon en formacion( no se observa coleccion propiamente dicha) Musculo ECM derecho desplazado en forma  posterior.  TAB3  Possibility
+
+p2          317
+buffer1+p2  Possibility
+
+Linea:  335
+segm1: >1348<
+segm2: >adenomegalias<
+segm3: >Se observa formacion heterogena con areas hipoecoicas de limites no definidos de 3.5 x 2 cm aprox, que podria corresponder a conglomerado de adenomegalias, adenoflemon en formacion( no se observa coleccion propiamente dicha) Musculo ECM derecho desplazado en forma  posterior.<
+segm4: >Pos<
+cuarto segmento 
+buffer1     1349  TAB1  hematoma  TAB2  Se visualiza entre TCS y plano muscular  aumento del espesor por ecoestructura ecogenica que impresiona hematoma, observando flujo turbulento en dispositivo de fistula, aunque en la onda espectral no se visualiza la caracteristica de flujo de turbulencia.  TAB3  Possibility
+
+p2          291
+buffer1+p2  Possibility
+
+Linea:  336
+segm1: >1349<
+segm2: >hematoma<
+segm3: >Se visualiza entre TCS y plano muscular  aumento del espesor por ecoestructura ecogenica que impresiona hematoma, observando flujo turbulento en dispositivo de fistula, aunque en la onda espectral no se visualiza la caracteristica de flujo de turbulencia.<
+segm4: >Pos<
+cuarto segmento 
+buffer1     1350  TAB1  infiltracion  TAB2  Se observa TIzq aumentado de volumen con areas hipoecoicas de bordes no definidos sugerentes de infiltracion leucemica.  TAB3  Possibility
+
+p2          159
+buffer1+p2  Possibility
+
+Linea:  337
+segm1: >1350<
+segm2: >infiltracion<
+segm3: >Se observa TIzq aumentado de volumen con areas hipoecoicas de bordes no definidos sugerentes de infiltracion leucemica.<
+segm4: >Pos<
+cuarto segmento 
+buffer1     1351  TAB1  nodulos  TAB2  A36699 HIGADO: aumentado de tamano, heterogneo de contornos lobulados( que pordrian corresponder a nodulos e regeneracion) VIA BILIAR intra y extrahepatica: no dilatada.  TAB3  Possibility
+
+p2          204
+buffer1+p2  Possibility
+
+Linea:  338
+segm1: >1351<
+segm2: >nodulos<
+segm3: >A36699 HIGADO: aumentado de tamano, heterogneo de contornos lobulados( que pordrian corresponder a nodulos e regeneracion) VIA BILIAR intra y extrahepatica: no dilatada.<
+segm4: >Pos<
+cuarto segmento 
+buffer1     1352  TAB1  Dilatacion  TAB2  Dilatacion pielocalicila bilateral  TAB3  Affirmed
+
+p2          72
+buffer1+p2  Affirmed
+
+Linea:  339
+segm1: >1352<
+segm2: >Dilatacion<
+segm3: >Dilatacion pielocalicila bilateral<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1353  TAB1  Dilatacion  TAB2  No se observa dilatacion  ureteral Vejiga vacia con balon.  TAB3  Negated
+
+p2          96
+buffer1+p2  Negated
+
+Linea:  340
+segm1: >1353<
+segm2: >Dilatacion<
+segm3: >No se observa dilatacion  ureteral Vejiga vacia con balon.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1354  TAB1  dilatacion  TAB2  No se detecto dilatacion de la via urinaria.Presencia de pelvis extrarenales bilaterales.pelvis renal der mide 1.2 cm y extrar 2.3 cm.Pelvis izquierda mide 0.97 cm y extrarenal 1.1 cm.Sin ditacion calicial ni visualizacion de ureteres.   TAB3  Negated
+
+p2          274
+buffer1+p2  Negated
+
+Linea:  341
+segm1: >1354<
+segm2: >dilatacion<
+segm3: >No se detecto dilatacion de la via urinaria.Presencia de pelvis extrarenales bilaterales.pelvis renal der mide 1.2 cm y extrar 2.3 cm.Pelvis izquierda mide 0.97 cm y extrarenal 1.1 cm.Sin ditacion calicial ni visualizacion de ureteres. <
+segm4: >Neg<
+cuarto segmento 
+buffer1     1355  TAB1  dilatacion  TAB2  Sin ditacion calicial ni visualizacion de ureteres.  TAB3  Negated
+
+p2          89
+buffer1+p2  Negated
+
+Linea:  342
+segm1: >1355<
+segm2: >dilatacion<
+segm3: >Sin ditacion calicial ni visualizacion de ureteres.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1356  TAB1  dilatada  TAB2  Via biliar con cateter no dilatada, se observa dilatacion de via biliar mas superficial intrahepatica de 6 mm.  TAB3  Negated
+
+p2          146
+buffer1+p2  Negated
+
+Linea:  343
+segm1: >1356<
+segm2: >dilatada<
+segm3: >Via biliar con cateter no dilatada, se observa dilatacion de via biliar mas superficial intrahepatica de 6 mm.<
+segm4: >Neg<
+cuarto segmento 
+buffer1     1357  TAB1  flujo  TAB2  RD Diam Long: 10 cm RI Diam long:10 cm Vejiga de caracteristicas normales Ao abdominal de paredes lisas, Pico sistolico maximo( PSM ) de 168 cm / s ARD y ARIz permeables en todo trayecto con PSM derecho 158 cm / s( elevado ), izquierdo de 100 cm / s no se observan cambios de flujo.  TAB3  Affirmed
+
+p2          315
+buffer1+p2  Affirmed
+
+Linea:  344
+segm1: >1357<
+segm2: >flujo<
+segm3: >RD Diam Long: 10 cm RI Diam long:10 cm Vejiga de caracteristicas normales Ao abdominal de paredes lisas, Pico sistolico maximo( PSM ) de 168 cm / s ARD y ARIz permeables en todo trayecto con PSM derecho 158 cm / s( elevado ), izquierdo de 100 cm / s no se observan cambios de flujo.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1358  TAB1  DILATACION  TAB2  Via urinaria no dilatada  Rinon izquierdo de forma conservada DILATACION PIELOCALICIAL PELVIS 20 MM ESPESOR DE PARENQUIMA 9 MM SE VISUALIZA URETER DISTAL DE 8 MM Vejiga SP DIMENSIONES: Rinon derecho: diametro longitudinal: 2.2(cm) Rinon izquierdo: diametro longitudinal: 8.8(cm)  TAB3  Affirmed
+
+p2          316
+buffer1+p2  Affirmed
+
+Linea:  345
+segm1: >1358<
+segm2: >DILATACION<
+segm3: >Via urinaria no dilatada  Rinon izquierdo de forma conservada DILATACION PIELOCALICIAL PELVIS 20 MM ESPESOR DE PARENQUIMA 9 MM SE VISUALIZA URETER DISTAL DE 8 MM Vejiga SP DIMENSIONES: Rinon derecho: diametro longitudinal: 2.2(cm) Rinon izquierdo: diametro longitudinal: 8.8(cm)<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1359  TAB1  fibrilar  TAB2  (prevascular) el esternocleido mastoideo derecho se abomba levemente hacia afuera sin cambios en la ecoestructura ni el el patron fibrilar.  TAB3  Affirmed
+
+p2          175
+buffer1+p2  Affirmed
+
+Linea:  346
+segm1: >1359<
+segm2: >fibrilar<
+segm3: >(prevascular) el esternocleido mastoideo derecho se abomba levemente hacia afuera sin cambios en la ecoestructura ni el el patron fibrilar.<
+segm4: >Aff<
+cuarto segmento 
+buffer1     1360  TAB1  ectasia  TAB2  ectasia pielica izquierda de 1.1 cm que no se observa luego del vaciado  Vejiga de contorno irregular, paredes levemente engrosada y contenido normal.  TAB3  Affirmed
+
+p2          185
+buffer1+p2  Affirmed
+
+Linea:  347
+segm1: >1360<
+segm2: >ectasia<
+segm3: >ectasia pielica izquierda de 1.1 cm que no se observa luego del vaciado  Vejiga de contorno irregular, paredes levemente engrosada y contenido normal.<
+segm4: >Aff<
+cant de lineas contadas 348 

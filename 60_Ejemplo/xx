@@ -1,0 +1,31 @@
+int	q_wrd;				/* palabras en diccionario */
+
+int	bd_load();
+
+
+typedef	struct	tnode	*nodeptr;
+typedef	struct	tnode
+{	char	*wrd;
+	int	num;
+	struct	tnode	*nx;
+}	node;
+
+nodeptr	npx,np1,*npa;
+
+
+
+/*
+ * definicion antigua ...
+ *
+ */
+
+typedef	struct
+{	struct	palabra	*nx;
+	int	ty;
+	char	*tx;	
+}	bd_type;
+
+
+bd_type	*bd_first ;
+
+

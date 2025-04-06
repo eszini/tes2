@@ -1,0 +1,92 @@
+/*
+ *	bm_load
+ *	carga la base de datos de marcas
+ *
+ */
+
+int	bm_load()
+{
+	char	b1[MAXB];
+	char	b2[MAXM];
+	int	flag;
+	int	p1,p2;
+	int	i,j,k;
+	int	f1;
+
+	f1=0;
+	q_bm=0;
+	k=0;
+
+	while (fgets(b1,MAXB,hfmrk) != NULL)
+	{
+		for ( flag=0, j=strlen(b1); !flag && j; j--)
+			if (b1[j] == '\n')
+				b1[j]=0,flag=1;
+
+		if (!linea_vacia(b1)  && b1[0] != '#' )
+		{
+			f1=1;
+		}
+
+		if (f1)
+		{
+			p1=0;
+			p2=0;
+			k=0;
+
+			while (b1[p1] )
+			{	
+				b2[k++] = b1[p1];
+
+				if (b1[p1] == ' ' || b1[p1] == '\n')
+				{	
+					b2[k-1]=0;
+
+
+					if (p2 == 0)
+					{	strcpy(bm_key[q_bm],b2);
+
+					}
+
+					if (p2 == 4)
+					{	strcpy(bm_mrk[q_bm],b2);
+
+					}
+
+					p2++;
+					k=0;
+				}
+
+				p1++;
+
+			}
+		
+			/* next ... */
+			q_bm++;
+			f1=0;
+
+
+			if (q_bm >= MAXK)
+				error(301);
+		}
+
+
+		if (gp_verbose)
+		{
+			printf ("%3d %s\n",q_bm,b1);
+		}
+
+
+	}
+
+	if (gp_verbose)
+	{
+		printf ("Cant de lineas en tabla de marcas: %d\n",q_bm);
+		for (j=0; j<q_bm; j++)
+			printf ("%3d,%-10.10s,%s\n",j,bm_mrk[j],bm_key[j]);
+
+		printf ("\n");
+
+	}
+
+}

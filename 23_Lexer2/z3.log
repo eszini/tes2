@@ -1,0 +1,220 @@
+Name:  ./tes_cpar03
+Param tipo 1: a_01.txt
+Param tipo 1: x2.txt
+Param tipo 2: -v
+Param tipo 2: -f
+Cant de pars ....  5
+Cant de tipo 1 2
+Cant de tipo 2 2
+Cant de tipo 3 0
+
+inp a_01.txt
+out x2.txt
+
+Linea  : 0 
+
+Buffer :|1000 t1 neg t2 liquido t3 palabras de primera oracion ._PTO palabras de segunda oracion ._PTO
+|
+
+Linea  :  0 
+
+segm1  : >1000<
+segm2  : >neg<
+segm3  : >liquido<
+segm4  : >palabras de primera oracion ._PTO palabras de segunda oracion ._PTO
+<
+
+
+  0,palabras
+  1,de
+  2,primera
+  3,oracion
+  4,.
+  5,_PTO
+  6,palabras
+  7,de
+  8,segunda
+  9,oracion
+ 10,.
+ 11,_PTO
+
+Parsing de gramatica ... 
+Palabra que busco ...   |liquido|
+|palabras de primera oracion ._PTO palabras de segunda oracion ._PTO
+|
+
+(lex)  104 palabras 
+                            (yac), eleme: TXT              (palabras)     
+                            (yac), frase: elemento    
+(lex)  107   
+                            (yac), eleme: BLA    
+                            (yac), frase: frase elem  
+(lex)  104 de 
+                            (yac), eleme: TXT              (de)     
+                            (yac), frase: frase elem  
+(lex)  107   
+                            (yac), eleme: BLA    
+                            (yac), frase: frase elem  
+(lex)  104 primera 
+                            (yac), eleme: TXT              (primera)     
+                            (yac), frase: frase elem  
+(lex)  107   
+                            (yac), eleme: BLA    
+                            (yac), frase: frase elem  
+(lex)  104 oracion 
+                            (yac), eleme: TXT              (oracion)     
+                            (yac), frase: frase elem  
+(lex)  107   
+                            (yac), eleme: BLA    
+                            (yac), frase: frase elem  
+(lex)  301 ._PTO 
+                            (yac), or_sn: frase       
+                            (yac), s_ora: oracion_sn PTO 
+(lex)  107   
+                            (yac), eleme: BLA    
+                            (yac), frase: elemento    
+(lex)  104 palabras 
+                            (yac), eleme: TXT              (palabras)     
+                            (yac), frase: frase elem  
+(lex)  107   
+                            (yac), eleme: BLA    
+                            (yac), frase: frase elem  
+(lex)  104 de 
+                            (yac), eleme: TXT              (de)     
+                            (yac), frase: frase elem  
+(lex)  107   
+                            (yac), eleme: BLA    
+                            (yac), frase: frase elem  
+(lex)  104 segunda 
+                            (yac), eleme: TXT              (segunda)     
+                            (yac), frase: frase elem  
+(lex)  107   
+                            (yac), eleme: BLA    
+                            (yac), frase: frase elem  
+(lex)  104 oracion 
+                            (yac), eleme: TXT              (oracion)     
+                            (yac), frase: frase elem  
+(lex)  107   
+                            (yac), eleme: BLA    
+                            (yac), frase: frase elem  
+(lex)  301 ._PTO 
+                            (yac), or_sn: frase       
+                            (yac), s_ora: oracion_sn PTO 
+                            (yac), c_ora: s_ora s_ora 
+(lex)  401 \n 
+                            (yac), linea: c_oracion FNL 
+
+
+Resultado del parser           : 0
+Palabra  encontrada en linea ? : 0
+Palabra  encontrada en scope ? : 0
+
+
+
+ - - - - - - - - - - - - 
+
+
+Linea  : 1 
+
+Buffer :|1001 t1 neg t2 liquido t3 palabras de primera oracion ._PTO no_NEG palabras liquido ._PTO
+|
+
+Linea  :  1 
+
+segm1  : >1001<
+segm2  : >neg<
+segm3  : >liquido<
+segm4  : >palabras de primera oracion ._PTO no_NEG palabras liquido ._PTO
+<
+
+
+  0,palabras
+  1,de
+  2,primera
+  3,oracion
+  4,.
+  5,_PTO
+  6,no_NEG
+  7,palabras
+  8,liquido
+  9,.
+ 10,_PTO
+
+Parsing de gramatica ... 
+Palabra que busco ...   |liquido|
+|palabras de primera oracion ._PTO no_NEG palabras liquido ._PTO
+|
+
+(lex)  104 palabras 
+                            (yac), eleme: TXT              (palabras)     
+                            (yac), frase: elemento    
+(lex)  107   
+                            (yac), eleme: BLA    
+                            (yac), frase: frase elem  
+(lex)  104 de 
+                            (yac), eleme: TXT              (de)     
+                            (yac), frase: frase elem  
+(lex)  107   
+                            (yac), eleme: BLA    
+                            (yac), frase: frase elem  
+(lex)  104 primera 
+                            (yac), eleme: TXT              (primera)     
+                            (yac), frase: frase elem  
+(lex)  107   
+                            (yac), eleme: BLA    
+                            (yac), frase: frase elem  
+(lex)  104 oracion 
+                            (yac), eleme: TXT              (oracion)     
+                            (yac), frase: frase elem  
+(lex)  107   
+                            (yac), eleme: BLA    
+                            (yac), frase: frase elem  
+(lex)  301 ._PTO 
+                            (yac), or_sn: frase       
+                            (yac), s_ora: oracion_sn PTO 
+(lex)  107   
+                            (yac), eleme: BLA    
+                            (yac), frase: elemento    
+(lex)  201 no_NEG 
+(lex)  107   
+                            (yac), eleme: BLA    
+                            (yac), frase: elemento    
+(lex)  104 palabras 
+                            (yac), eleme: TXT              (palabras)     
+                            (yac), frase: frase elem  
+(lex)  107   
+                            (yac), eleme: BLA    
+                            (yac), frase: frase elem  
+(lex)  104 liquido 
+                            (yac), eleme: TXT              (liquido)  !!! 
+                            (yac), frase: frase elem  
+(lex)  107   
+                            (yac), eleme: BLA    
+                            (yac), frase: frase elem  
+(lex)  301 ._PTO 
+                            (yac), or_cn: frase NEG frase 
+                            (yac), s_ora: oracion_cn PTO 
+                            (yac), c_ora: s_ora s_ora 
+(lex)  401 \n 
+                            (yac), linea: c_oracion FNL 
+
+
+Resultado del parser           : 0
+Palabra  encontrada en linea ? : 1
+Palabra  encontrada en scope ? : 1
+
+
+
+ - - - - - - - - - - - - 
+
+
+Cant de lineas procesadas 2
+Cant de encuentros de pal 1
+
+Cant de parseadas bien    2
+Cant de parseadas mal     0
+
+
+
+
+fin proceso 

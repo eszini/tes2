@@ -1,0 +1,3 @@
+1000 t1 neg t2 liquido t3 palabras de primera oracion ._PTO palabras de segunda oracion ._PTO
+1001 t1 neg t2 liquido t3 palabras de primera oracion ._PTO no_NEG palabras liquido ._PTO
+

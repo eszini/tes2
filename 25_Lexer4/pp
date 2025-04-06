@@ -1,0 +1,7439 @@
+[2018/10/12 15:24:58] Comienza programa 
+
+
+Cantidade par     :  5
+Cantidad de par 1 :  2
+Cantidad de par 2 :  1
+Cantidad de par 3 :  1
+
+Cantidade par     :  5
+Cantidad de par 1 :  2
+Cantidad de par 2 :  1
+Cantidad de par 3 :  1
+
+Parametro   0     : ./tes_cpar06
+Parametro   1     : CorpusV5_neg.txt
+Parametro   2     : x6.txt
+Parametro   3     : -dic=diccio01.txt
+Parametro   4     : -v
+
+
+
+Cargando diccionario de palabras 
+
+  0 |a|
+  1 |abd|
+  2 |abdomen|
+  3 |abdominal|
+  4 |abomba|
+  5 |abre|
+  6 |abscedacion|
+  7 |accesorio|
+  8 |aconservado|
+  9 |activo|
+ 10 |acuerdo|
+ 11 |acustica|
+ 12 |adayacentes|
+ 13 |adayecentes|
+ 14 |adecuada|
+ 15 |adecuadamente|
+ 16 |adecuado|
+ 17 |adenoflemon|
+ 18 |adenomegalias|
+ 19 |adenopatia|
+ 20 |adenopatias|
+ 21 |adenopatico|
+ 22 |adherido|
+ 23 |adrenales|
+ 24 |adyacente|
+ 25 |adyacentes|
+ 26 |adyascentes|
+ 27 |aerea|
+ 28 |aereas|
+ 29 |aereo|
+ 30 |aerobilia|
+ 31 |afecta|
+ 32 |afectan|
+ 33 |afuera|
+ 34 |agenes|
+ 35 |agrupadas|
+ 36 |aguda|
+ 37 |agudo|
+ 38 |aire|
+ 39 |aireado|
+ 40 |al|
+ 41 |algunas|
+ 42 |algunos|
+ 43 |alitiasica|
+ 44 |aloja|
+ 45 |alrededor|
+ 46 |alta|
+ 47 |alteracion|
+ 48 |alteraciones|
+ 49 |alterada|
+ 50 |ambas|
+ 51 |ambos|
+ 52 |amplia|
+ 53 |ampliacion|
+ 54 |anecoico|
+ 55 |anexial|
+ 56 |anexo|
+ 57 |anidel|
+ 58 |anomalias|
+ 59 |antecedente|
+ 60 |antecedentes|
+ 61 |anterior|
+ 62 |anteriores|
+ 63 |anteriormente|
+ 64 |anteroposterior|
+ 65 |anterposterior|
+ 66 |ao|
+ 67 |aorta|
+ 68 |ap|
+ 69 |aparenta|
+ 70 |aparente|
+ 71 |apariencia|
+ 72 |apendice|
+ 73 |apendicitis|
+ 74 |apendicolito|
+ 75 |apendicular|
+ 76 |aperistaltica|
+ 77 |apex|
+ 78 |api|
+ 79 |apical|
+ 80 |aprox|
+ 81 |aproximadamente|
+ 82 |aproximado|
+ 83 |arco|
+ 84 |arcos|
+ 85 |ard|
+ 86 |area|
+ 87 |areas|
+ 88 |areola|
+ 89 |ariz|
+ 90 |art|
+ 91 |arteial|
+ 92 |arterfactos|
+ 93 |arteria|
+ 94 |arterial|
+ 95 |arteriovenosa|
+ 96 |articulacion|
+ 97 |articular|
+ 98 |asa|
+ 99 |asas|
+100 |ascitis|
+101 |aspecto|
+102 |aspectos|
+103 |aumentada|
+104 |aumentado|
+105 |aumentados|
+106 |aumento|
+107 |aunque|
+108 |ausencia|
+109 |ausente|
+110 |avf|
+111 |ayuno|
+112 |bacinete|
+113 |baja|
+114 |baker|
+115 |balon|
+116 |basal|
+117 |base|
+118 |basica|
+119 |bazo|
+120 |bien|
+121 |bifasica|
+122 |bifida|
+123 |bifido|
+124 |bilateral|
+125 |bilaterales|
+126 |biliar|
+127 |biliares|
+128 |bilis|
+129 |bilobulada|
+130 |bilomas|
+131 |blandas|
+132 |bolsa|
+133 |bordes|
+134 |broncograma|
+135 |buen|
+136 |cabeza|
+137 |cacificaciones|
+138 |caderas|
+139 |calcificaciones|
+140 |calcifixcaciones|
+141 |calices|
+142 |calicial|
+143 |calicilar|
+144 |caliz|
+145 |cambio|
+146 |cambios|
+147 |campo|
+148 |capsula|
+149 |cara|
+150 |caracteristica|
+151 |caracteristicas|
+152 |casa|
+153 |casi|
+154 |cateter|
+155 |cateterismo|
+156 |caudotalamica|
+157 |caudotalamico|
+158 |cav|
+159 |cavernoma|
+160 |cavidad|
+161 |cavidada|
+162 |cc|
+163 |cecal|
+164 |cecales|
+165 |celda|
+166 |celular|
+167 |centrada|
+168 |central|
+169 |centro|
+170 |cerca|
+171 |cercana|
+172 |cerebral|
+173 |cicatriz|
+174 |cirugia|
+175 |claramente|
+176 |cm|
+177 |cn|
+178 |codo|
+179 |codos|
+180 |cola|
+181 |colateral|
+182 |colaterales|
+183 |coleccion|
+184 |colecciones|
+185 |coledoco|
+186 |coloide|
+187 |coloidea|
+188 |coloides|
+189 |color|
+190 |colostomia|
+191 |combresible|
+192 |comparacion|
+193 |comparativa|
+194 |comparativas|
+195 |comparativo|
+196 |compatible|
+197 |compatibles|
+198 |compresi|
+199 |compresible|
+200 |compresion|
+201 |compromiso|
+202 |comunicacion|
+203 |con|
+204 |conclusion|
+205 |condensacion|
+206 |conducto|
+207 |conglomerado|
+208 |conocer|
+209 |conocida|
+210 |conocidas|
+211 |conocido|
+212 |conservada|
+213 |conservadas|
+214 |conservado|
+215 |considero|
+216 |consolidacion|
+217 |constituyen|
+218 |consulta|
+219 |contacto|
+220 |contenido|
+221 |contorno|
+222 |contornos|
+223 |contoros|
+224 |contraccion|
+225 |contralateral|
+226 |control|
+227 |coronaria|
+228 |correlacionar|
+229 |correponderia|
+230 |corresponder|
+231 |corresponderia|
+232 |cortical|
+233 |corticales|
+234 |cortico|
+235 |corticomedular|
+236 |corticoterapia|
+237 |cortos|
+238 |costal|
+239 |costales|
+240 |coxofemoral|
+241 |cronica|
+242 |cruza|
+243 |cual|
+244 |cuello|
+245 |cuellos|
+246 |cuenta|
+247 |cuerpos|
+248 |cugm|
+249 |cuna|
+250 |cutaneo|
+251 |d|
+252 |dada|
+253 |de|
+254 |debajo|
+255 |debido|
+256 |decubito|
+257 |dedo|
+258 |definida|
+259 |definidos|
+260 |dejo|
+261 |del|
+262 |delante|
+263 |delimitados|
+264 |der|
+265 |derecha|
+266 |derecho|
+267 |derivacion|
+268 |derivaciones|
+269 |derrame|
+270 |descartar|
+271 |descendente|
+272 |descripta|
+273 |desde|
+274 |desembocadura|
+275 |deseo|
+276 |desplaza|
+277 |desplazado|
+278 |desplazamientos|
+279 |destacables|
+280 |desviaciones|
+281 |detectado|
+282 |detectaron|
+283 |detecto|
+284 |determinar|
+285 |detras|
+286 |detritus|
+287 |diagnostico|
+288 |dialtada|
+289 |diam|
+290 |diametro|
+291 |diamtro|
+292 |dicha|
+293 |dicho|
+294 |didelfo|
+295 |diferenciacion|
+296 |diferenciado|
+297 |diferencicas|
+298 |diferencicion|
+299 |diferencion|
+300 |diferente|
+301 |diferentes|
+302 |difusa|
+303 |difuso|
+304 |difusos|
+305 |dilatacion|
+306 |dilataciones|
+307 |dilatada|
+308 |dilatadas|
+309 |dilatado|
+310 |dimensiones|
+311 |directa|
+312 |discreta|
+313 |discretamente|
+314 |discreto|
+315 |disminu|
+316 |disminucion|
+317 |disminucionde|
+318 |disminucon|
+319 |disminuido|
+320 |disminuidos|
+321 |disminuye|
+322 |dispositivo|
+323 |distal|
+324 |distales|
+325 |distendida|
+326 |distribucion|
+327 |ditacion|
+328 |diverticulo|
+329 |diverticulos|
+330 |dl|
+331 |doble|
+332 |dolor|
+333 |dolorosa|
+334 |doloroso|
+335 |dominante|
+336 |doppler|
+337 |dorsal|
+338 |dorso|
+339 |dos|
+340 |douglas|
+341 |duplcacion|
+342 |duplicacion|
+343 |durante|
+344 |dvp|
+345 |e|
+346 |ecm|
+347 |ecoestructura|
+348 |ecogencicidad|
+349 |ecogencidad|
+350 |ecogenica|
+351 |ecogenicas|
+352 |ecogenicidad|
+353 |ecogenico|
+354 |ecogenicos|
+355 |ecografia|
+356 |ecograficamente|
+357 |ecograficas|
+358 |ecografico|
+359 |ecograficos|
+360 |ecorrefringencias|
+361 |ecos|
+362 |ectacia|
+363 |ectasia|
+364 |ectasias|
+365 |edad|
+366 |edema|
+367 |efectos|
+368 |el|
+369 |elativo|
+370 |elevado|
+371 |elisa|
+372 |ellos|
+373 |en|
+374 |encima|
+375 |encuentra|
+376 |endoluminal|
+377 |endometrio|
+378 |enero|
+379 |enfermedad|
+380 |engrosada|
+381 |engrosadas|
+382 |engrosado|
+383 |engrosados|
+384 |engrosamiento|
+385 |entre|
+386 |epididimo|
+387 |epididmo|
+388 |epiplon|
+389 |epu|
+390 |es|
+391 |escaso|
+392 |escrotal|
+393 |esp|
+394 |espacio|
+395 |espectral|
+396 |espesa|
+397 |espesor|
+398 |espinal|
+399 |esplenica|
+400 |esplenico|
+401 |esplenomegalia|
+402 |esplenorenal|
+403 |esta|
+404 |este|
+405 |esteatosis|
+406 |estenosis|
+407 |esternocleido|
+408 |estructura|
+409 |estructuras|
+410 |estudian|
+411 |estudio|
+412 |estudios|
+413 |etronco|
+414 |evaluable|
+415 |evaluables|
+416 |evaluar|
+417 |evidencia|
+418 |evidencias|
+419 |evolucion|
+420 |evolutiva|
+421 |examen|
+422 |excretor|
+423 |excretora|
+424 |existe|
+425 |existen|
+426 |expensas|
+427 |explora|
+428 |exploracion|
+429 |explorada|
+430 |exploran|
+431 |extencion|
+432 |extendiendose|
+433 |extension|
+434 |extradural|
+435 |extrahepatica|
+436 |extrar|
+437 |extrarenal|
+438 |extrarenales|
+439 |extrarrenal|
+440 |extremo|
+441 |fascias|
+442 |femoral|
+443 |fibras|
+444 |fibrilar|
+445 |fibrosos|
+446 |fid|
+447 |fii|
+448 |fina|
+449 |finamente|
+450 |finas|
+451 |finos|
+452 |fistula|
+453 |flanco|
+454 |flancos|
+455 |flebitis|
+456 |fluctuante|
+457 |flujko|
+458 |flujo|
+459 |focales|
+460 |folicular|
+461 |foliculares|
+462 |foliculo|
+463 |forma|
+464 |formacion|
+465 |fosa|
+466 |frecuencia|
+467 |frecuente|
+468 |frontal|
+469 |fursemida|
+470 |fusiforme|
+471 |ganglios|
+472 |gas|
+473 |gaseosa|
+474 |gi|
+475 |ginecologica|
+476 |glandula|
+477 |glandulas|
+478 |globalmente|
+479 |glutea|
+480 |gran|
+481 |grasa|
+482 |gruesas|
+483 |gruesos|
+484 |grupo|
+485 |gustaria|
+486 |habitual|
+487 |hacia|
+488 |hallazgo|
+489 |hasta|
+490 |hay|
+491 |hematoma|
+492 |hemisistema|
+493 |hemisistemas|
+494 |hemitorax|
+495 |hemorragia|
+496 |hemorroidales|
+497 |hepatco|
+498 |hepatica|
+499 |hepatico|
+500 |hepatofugo|
+501 |hepatomegalia|
+502 |hepatopeto|
+503 |heptofugo|
+504 |herida|
+505 |hernia|
+506 |herradura|
+507 |heterogena|
+508 |heterogenea|
+509 |heterogeneo|
+510 |heterogeneos|
+511 |heterogneo|
+512 |hhipoecoica|
+513 |hidrocele|
+514 |hidrocolpos|
+515 |hidronefrosis|
+516 |higado|
+517 |higadopequeno|
+518 |hiliar|
+519 |hilio|
+520 |hiperecogenicidad|
+521 |hiperecogenicos|
+522 |hipereecogenicidad|
+523 |hiperflujo|
+524 |hipertension|
+525 |hipertrofia|
+526 |hipertrofica|
+527 |hipervascularizada|
+528 |hipocoica|
+529 |hipoecogenica|
+530 |hipoecogenicas|
+531 |hipoecoica|
+532 |hipoecoicas|
+533 |hipoecoico|
+534 |hombro|
+535 |homogenea|
+536 |homogeneo|
+537 |homogeno|
+538 |horas|
+539 |hp|
+540 |hsi|
+541 |htp|
+542 |htx|
+543 |hueco|
+544 |identifica|
+545 |identifican|
+546 |identificandose|
+547 |identificar|
+548 |ido|
+549 |igual|
+550 |ii|
+551 |iii|
+552 |ileon|
+553 |iliaca|
+554 |iliacos|
+555 |im|
+556 |imagen|
+557 |imagenes|
+558 |imagens|
+559 |implantacion|
+560 |implante|
+561 |importante|
+562 |impresiona|
+563 |incipente|
+564 |incluido|
+565 |incremento|
+566 |inespecificos|
+567 |infantil|
+568 |infecci|
+569 |inferior|
+570 |inferiores|
+571 |inferolateral|
+572 |infiltracion|
+573 |inflamatorio|
+574 |infrarotuliana|
+575 |ingresando|
+576 |inguinal|
+577 |integridad|
+578 |intenso|
+579 |interasas|
+580 |intercostales|
+581 |interes|
+582 |interior|
+583 |intermedia|
+584 |intermitente|
+585 |interna|
+586 |internos|
+587 |interposicion|
+588 |interpuesto|
+589 |intestinal|
+590 |intra|
+591 |intraarticular|
+592 |intrahepatica|
+593 |intrarticular|
+594 |intravesical|
+595 |invaginacion|
+596 |ir|
+597 |irc|
+598 |irregular|
+599 |irregulares|
+600 |isoecoica|
+601 |istmo|
+602 |itsmo|
+603 |iv|
+604 |izq|
+605 |izquiedo|
+606 |izquierda|
+607 |izquierdo|
+608 |justifica|
+609 |la|
+610 |lado|
+611 |largo|
+612 |las|
+613 |lateral|
+614 |lateralizado|
+615 |laterocervicales|
+616 |lesion|
+617 |lesiones|
+618 |leucemica|
+619 |leve|
+620 |levemente|
+621 |libre|
+622 |libreen|
+623 |ligeramente|
+624 |limite|
+625 |limites|
+626 |linea|
+627 |lineal|
+628 |lineales|
+629 |linfangioma|
+630 |linfatica|
+631 |liquida|
+632 |liquido|
+633 |lisas|
+634 |litiasis|
+635 |litos|
+636 |lla|
+637 |llanto|
+638 |lo|
+639 |lob|
+640 |lobulado|
+641 |lobulados|
+642 |lobulo|
+643 |lobulos|
+644 |logra|
+645 |logran|
+646 |logrando|
+647 |logro|
+648 |long|
+649 |longitudinal|
+650 |los|
+651 |luego|
+652 |luz|
+653 |mal|
+654 |malformacion|
+655 |mamaria|
+656 |mamario|
+657 |maniobras|
+658 |mano|
+659 |marcada|
+660 |marcado|
+661 |mas|
+662 |masa|
+663 |mastoideo|
+664 |mataderos|
+665 |max|
+666 |maximo|
+667 |mayor|
+668 |mayores|
+669 |mdre|
+670 |me|
+671 |media|
+672 |medial|
+673 |medicina|
+674 |medicion|
+675 |medidas|
+676 |medina|
+677 |medio|
+678 |medula|
+679 |medular|
+680 |megaureter|
+681 |menor|
+682 |menos|
+683 |mesenterica|
+684 |mesentericos|
+685 |meteorismo|
+686 |metodo|
+687 |miccion|
+688 |miccional|
+689 |mide|
+690 |miden|
+691 |miembros|
+692 |milimetros|
+693 |minima|
+694 |minimamaente|
+695 |minimamente|
+696 |minimo|
+697 |misma|
+698 |mismo|
+699 |mm|
+700 |mo|
+701 |moderada|
+702 |moderado|
+703 |modifica|
+704 |modifican|
+705 |momento|
+706 |monofasica|
+707 |morfologia|
+708 |motilidad|
+709 |movil|
+710 |moviles|
+711 |moviliza|
+712 |movimiento|
+713 |movimientos|
+714 |multiples|
+715 |mural|
+716 |muscular|
+717 |musculares|
+718 |musculo|
+719 |musculos|
+720 |muslo|
+721 |muy|
+722 |nativo|
+723 |nativos|
+724 |necrosis|
+725 |nel|
+726 |netas|
+727 |neto|
+728 |netos|
+729 |neurogenica|
+730 |ni|
+731 |nivel|
+732 |no|
+733 |nodular|
+734 |nodulares|
+735 |nodulos|
+736 |normal|
+737 |normales|
+738 |nuclear|
+739 |nucleos|
+740 |nueva|
+741 |o|
+742 |obsera|
+743 |observa|
+744 |observada|
+745 |observadas|
+746 |observadose|
+747 |observan|
+748 |observando|
+749 |observandose|
+750 |observandosse|
+751 |observaron|
+752 |observo|
+753 |obstruccion|
+754 |obtener|
+755 |ocluye|
+756 |ocupa|
+757 |oi|
+758 |on|
+759 |onda|
+760 |ortotopicos|
+761 |oservan|
+762 |osificacion|
+763 |otra|
+764 |otras|
+765 |otro|
+766 |ovalada|
+767 |ovario|
+768 |ovarios|
+769 |ovoidea|
+770 |p|
+771 |paciente|
+772 |palpable|
+773 |pampiniforme|
+774 |pancreas|
+775 |para|
+776 |paraaorico|
+777 |parapielico|
+778 |parcialmente|
+779 |pared|
+780 |paredes|
+781 |parenquima|
+782 |parenquimatosa|
+783 |parotidas|
+784 |parrila|
+785 |partes|
+786 |particulado|
+787 |particulas|
+788 |patologia|
+789 |patologicas|
+790 |patologico|
+791 |patron|
+792 |pcte|
+793 |pedirselas|
+794 |pelviana|
+795 |pelvis|
+796 |pequena|
+797 |pequenas|
+798 |pequeno|
+799 |pequenos|
+800 |perdida|
+801 |periapendicular|
+802 |pericecal|
+803 |periesplenicas|
+804 |periferia|
+805 |periferica|
+806 |perifericas|
+807 |periferico|
+808 |peripancreaticas|
+809 |periportal|
+810 |periumbilical|
+811 |periventricular|
+812 |perivesicular|
+813 |perivesiculares|
+814 |permeable|
+815 |permeables|
+816 |pero|
+817 |persiste|
+818 |persistente|
+819 |pico|
+820 |pie|
+821 |pielica|
+822 |pielicas|
+823 |pielocalicial|
+824 |pielocalicila|
+825 |pielocalicilar|
+826 |pielonefritis|
+827 |pierna|
+828 |pilorica|
+829 |piloro|
+830 |pioureterohidronefrosis|
+831 |plano|
+832 |planos|
+833 |plenificada|
+834 |pleural|
+835 |pleuropaquerenquimatosa|
+836 |pleuropulmonar|
+837 |plexo|
+838 |poco|
+839 |poder|
+840 |podifica|
+841 |podri|
+842 |podria|
+843 |podrian|
+844 |poliesplenia|
+845 |polipo|
+846 |poliquisticos|
+847 |polo|
+848 |polos|
+849 |popliteo|
+850 |por|
+851 |porcion|
+852 |pordrian|
+853 |porta|
+854 |portal|
+855 |posicional|
+856 |posmiccion|
+857 |posmiccional|
+858 |post|
+859 |postanastomotica|
+860 |posterior|
+861 |postmicc|
+862 |postmiccion|
+863 |postmiccional|
+864 |postmiccionales|
+865 |postmicional|
+866 |potmicc|
+867 |prandial|
+868 |pre|
+869 |precava|
+870 |predominante|
+871 |predominantemente|
+872 |predominio|
+873 |premicc|
+874 |premiccion|
+875 |premiccional|
+876 |prenquima|
+877 |prepuberal|
+878 |presencia|
+879 |presenta|
+880 |presentando|
+881 |presente|
+882 |presuntivo|
+883 |prevascular|
+884 |previa|
+885 |previo|
+886 |probable|
+887 |proceso|
+888 |produce|
+889 |profunda|
+890 |profundas|
+891 |profundo|
+892 |profundos|
+893 |prolongacion|
+894 |propiamente|
+895 |prox|
+896 |proximal|
+897 |proximales|
+898 |prsenta|
+899 |pseudoquiste|
+900 |psm|
+901 |psoas|
+902 |pudo|
+903 |puede|
+904 |pueden|
+905 |puedo|
+906 |pulmon|
+907 |pulmonar|
+908 |pulmonares|
+909 |pulsado|
+910 |punta|
+911 |q|
+912 |que|
+913 |quirurgica|
+914 |quiste|
+915 |quistes|
+916 |quistica|
+917 |quisticas|
+918 |quistico|
+919 |rama|
+920 |ramas|
+921 |rango|
+922 |rd|
+923 |rder|
+924 |realidad|
+925 |realiza|
+926 |realizar|
+927 |reconoce|
+928 |recto|
+929 |redondeada|
+930 |redondeadas|
+931 |redondedada|
+932 |reevaluacion|
+933 |refiere|
+934 |reflujo|
+935 |regeneracion|
+936 |region|
+937 |regionales|
+938 |registros|
+939 |regulares|
+940 |reimplante|
+941 |relacion|
+942 |remanente|
+943 |renal|
+944 |renovesical|
+945 |replecionada|
+946 |reposo|
+947 |residual|
+948 |residuales|
+949 |residualresuelto|
+950 |residuo|
+951 |resolucion|
+952 |respectivamente|
+953 |respecto|
+954 |resto|
+955 |restos|
+956 |retencion|
+957 |retro|
+958 |retrocava|
+959 |retropancreatico|
+960 |retroperitoneo|
+961 |retrovesical|
+962 |ri|
+963 |rino|
+964 |rinon|
+965 |rinones|
+966 |riz|
+967 |rizquierdo|
+968 |rodillas|
+969 |rotados|
+970 |rx|
+971 |s|
+972 |sacra|
+973 |sacular|
+974 |se|
+975 |sector|
+976 |sectores|
+977 |secuela|
+978 |secundaria|
+979 |seg|
+980 |segmento|
+981 |senal|
+982 |senos|
+983 |separacion|
+984 |shunt|
+985 |si|
+986 |siendo|
+987 |significacion|
+988 |significativa|
+989 |significativamente|
+990 |significativas|
+991 |significativo|
+992 |significativos|
+993 |signos|
+994 |sigue|
+995 |simetrica|
+996 |similares|
+997 |simple|
+998 |simples|
+999 |sin|
+1000 |sistema|
+1001 |sistolico|
+1002 |sitio|
+1003 |solida|
+1004 |solidas|
+1005 |sombra|
+1006 |sp|
+1007 |stent|
+1008 |su|
+1009 |subangulomaxilares|
+1010 |subcutaneo|
+1011 |subdural|
+1012 |subependimario|
+1013 |submaxilar|
+1014 |submaxilares|
+1015 |subyacente|
+1016 |sudcutaneo|
+1017 |sugerenes|
+1018 |sugerente|
+1019 |sugerentes|
+1020 |sugestivas|
+1021 |sugestivo|
+1022 |sugiere|
+1023 |sup|
+1024 |superciliar|
+1025 |superficial|
+1026 |superficiales|
+1027 |superficie|
+1028 |superior|
+1029 |superiores|
+1030 |suprahepaticas|
+1031 |suprarotuliana|
+1032 |supratalamicos|
+1033 |supraumbilical|
+1034 |supravesical|
+1035 |surco|
+1036 |sus|
+1037 |suspension|
+1038 |tabique|
+1039 |tabiques|
+1040 |tamano|
+1041 |tamanos|
+1042 |tambien|
+1043 |tcs|
+1044 |tejido|
+1045 |tener|
+1046 |tension|
+1047 |teratoma|
+1048 |tercer|
+1049 |tercio|
+1050 |tercios|
+1051 |test|
+1052 |testicular|
+1053 |testiculo|
+1054 |tien|
+1055 |tiene|
+1056 |tipo|
+1057 |tir|
+1058 |tirodes|
+1059 |tiroidea|
+1060 |tiroideo|
+1061 |tiroideos|
+1062 |tiroides|
+1063 |tizq|
+1064 |tls|
+1065 |tobillo|
+1066 |toda|
+1067 |todo|
+1068 |tomar|
+1069 |topografia|
+1070 |torax|
+1071 |totalmente|
+1072 |tractos|
+1073 |transductor|
+1074 |transplantado|
+1075 |transversal|
+1076 |transverso|
+1077 |traqueal|
+1078 |trasductor|
+1079 |traves|
+1080 |trayecto|
+1081 |tres|
+1082 |trifasica|
+1083 |tringular|
+1084 |trombo|
+1085 |trombosis|
+1086 |trompa|
+1087 |tronco|
+1088 |tubular|
+1089 |turbulencia|
+1090 |turbulento|
+1091 |tx|
+1092 |u|
+1093 |ubica|
+1094 |ubicada|
+1095 |ubicadas|
+1096 |ubicado|
+1097 |un|
+1098 |una|
+1099 |unica|
+1100 |union|
+1101 |ureter|
+1102 |ureteral|
+1103 |ureteres|
+1104 |ureteroceles|
+1105 |ureterohidronefrosis|
+1106 |ureterovesical|
+1107 |ureters|
+1108 |urgencia|
+1109 |urinaria|
+1110 |urotelio|
+1111 |ut|
+1112 |utero|
+1113 |uteros|
+1114 |v|
+1115 |vacia|
+1116 |vaciado|
+1117 |vagina|
+1118 |valor|
+1119 |valorable|
+1120 |valsalva|
+1121 |valva|
+1122 |varia|
+1123 |variaciones|
+1124 |varices|
+1125 |varicocele|
+1126 |vascular|
+1127 |vascularizacion|
+1128 |vascularizada|
+1129 |vascularizadas|
+1130 |vascularizado|
+1131 |vascularizados|
+1132 |vaso|
+1133 |vasos|
+1134 |vci|
+1135 |vcs|
+1136 |vecinas|
+1137 |vejiga|
+1138 |velocidad|
+1139 |ven|
+1140 |vena|
+1141 |venas|
+1142 |venosas|
+1143 |venoso|
+1144 |venosos|
+1145 |ventana|
+1146 |ventricular|
+1147 |ventriculo|
+1148 |ver|
+1149 |vertebrales|
+1150 |vesical|
+1151 |vesicula|
+1152 |vesplenica|
+1153 |via|
+1154 |vias|
+1155 |vii|
+1156 |vinculable|
+1157 |visible|
+1158 |visibles|
+1159 |visual|
+1160 |visualiza|
+1161 |visualizacin|
+1162 |visualizacion|
+1163 |visualizan|
+1164 |visualizando|
+1165 |visualizar|
+1166 |visualizarse|
+1167 |visualizo|
+1168 |visulaizado|
+1169 |vms|
+1170 |vol|
+1171 |volumen|
+1172 |vporta|
+1173 |vsh|
+1174 |x|
+1175 |y|
+1176 |ya|
+1177 |zona|
+Cantidad de palabras en diccionario  :   1178
+
+
+Comprobando integridad del diccionario : 
+
+i:   0  (**npa).num:   1  (**npa).wrd: |a|
+i:   1  (**npa).num:   2  (**npa).wrd: |abd|
+i:   2  (**npa).num:   3  (**npa).wrd: |abdomen|
+i:   3  (**npa).num:   4  (**npa).wrd: |abdominal|
+i:   4  (**npa).num:   5  (**npa).wrd: |abomba|
+i:   5  (**npa).num:   6  (**npa).wrd: |abre|
+i:   6  (**npa).num:   7  (**npa).wrd: |abscedacion|
+i:   7  (**npa).num:   8  (**npa).wrd: |accesorio|
+i:   8  (**npa).num:   9  (**npa).wrd: |aconservado|
+i:   9  (**npa).num:  10  (**npa).wrd: |activo|
+i:  10  (**npa).num:  11  (**npa).wrd: |acuerdo|
+i:  11  (**npa).num:  12  (**npa).wrd: |acustica|
+i:  12  (**npa).num:  13  (**npa).wrd: |adayacentes|
+i:  13  (**npa).num:  14  (**npa).wrd: |adayecentes|
+i:  14  (**npa).num:  15  (**npa).wrd: |adecuada|
+i:  15  (**npa).num:  16  (**npa).wrd: |adecuadamente|
+i:  16  (**npa).num:  17  (**npa).wrd: |adecuado|
+i:  17  (**npa).num:  18  (**npa).wrd: |adenoflemon|
+i:  18  (**npa).num:  19  (**npa).wrd: |adenomegalias|
+i:  19  (**npa).num:  20  (**npa).wrd: |adenopatia|
+i:  20  (**npa).num:  21  (**npa).wrd: |adenopatias|
+i:  21  (**npa).num:  22  (**npa).wrd: |adenopatico|
+i:  22  (**npa).num:  23  (**npa).wrd: |adherido|
+i:  23  (**npa).num:  24  (**npa).wrd: |adrenales|
+i:  24  (**npa).num:  25  (**npa).wrd: |adyacente|
+i:  25  (**npa).num:  26  (**npa).wrd: |adyacentes|
+i:  26  (**npa).num:  27  (**npa).wrd: |adyascentes|
+i:  27  (**npa).num:  28  (**npa).wrd: |aerea|
+i:  28  (**npa).num:  29  (**npa).wrd: |aereas|
+i:  29  (**npa).num:  30  (**npa).wrd: |aereo|
+i:  30  (**npa).num:  31  (**npa).wrd: |aerobilia|
+i:  31  (**npa).num:  32  (**npa).wrd: |afecta|
+i:  32  (**npa).num:  33  (**npa).wrd: |afectan|
+i:  33  (**npa).num:  34  (**npa).wrd: |afuera|
+i:  34  (**npa).num:  35  (**npa).wrd: |agenes|
+i:  35  (**npa).num:  36  (**npa).wrd: |agrupadas|
+i:  36  (**npa).num:  37  (**npa).wrd: |aguda|
+i:  37  (**npa).num:  38  (**npa).wrd: |agudo|
+i:  38  (**npa).num:  39  (**npa).wrd: |aire|
+i:  39  (**npa).num:  40  (**npa).wrd: |aireado|
+i:  40  (**npa).num:  41  (**npa).wrd: |al|
+i:  41  (**npa).num:  42  (**npa).wrd: |algunas|
+i:  42  (**npa).num:  43  (**npa).wrd: |algunos|
+i:  43  (**npa).num:  44  (**npa).wrd: |alitiasica|
+i:  44  (**npa).num:  45  (**npa).wrd: |aloja|
+i:  45  (**npa).num:  46  (**npa).wrd: |alrededor|
+i:  46  (**npa).num:  47  (**npa).wrd: |alta|
+i:  47  (**npa).num:  48  (**npa).wrd: |alteracion|
+i:  48  (**npa).num:  49  (**npa).wrd: |alteraciones|
+i:  49  (**npa).num:  50  (**npa).wrd: |alterada|
+i:  50  (**npa).num:  51  (**npa).wrd: |ambas|
+i:  51  (**npa).num:  52  (**npa).wrd: |ambos|
+i:  52  (**npa).num:  53  (**npa).wrd: |amplia|
+i:  53  (**npa).num:  54  (**npa).wrd: |ampliacion|
+i:  54  (**npa).num:  55  (**npa).wrd: |anecoico|
+i:  55  (**npa).num:  56  (**npa).wrd: |anexial|
+i:  56  (**npa).num:  57  (**npa).wrd: |anexo|
+i:  57  (**npa).num:  58  (**npa).wrd: |anidel|
+i:  58  (**npa).num:  59  (**npa).wrd: |anomalias|
+i:  59  (**npa).num:  60  (**npa).wrd: |antecedente|
+i:  60  (**npa).num:  61  (**npa).wrd: |antecedentes|
+i:  61  (**npa).num:  62  (**npa).wrd: |anterior|
+i:  62  (**npa).num:  63  (**npa).wrd: |anteriores|
+i:  63  (**npa).num:  64  (**npa).wrd: |anteriormente|
+i:  64  (**npa).num:  65  (**npa).wrd: |anteroposterior|
+i:  65  (**npa).num:  66  (**npa).wrd: |anterposterior|
+i:  66  (**npa).num:  67  (**npa).wrd: |ao|
+i:  67  (**npa).num:  68  (**npa).wrd: |aorta|
+i:  68  (**npa).num:  69  (**npa).wrd: |ap|
+i:  69  (**npa).num:  70  (**npa).wrd: |aparenta|
+i:  70  (**npa).num:  71  (**npa).wrd: |aparente|
+i:  71  (**npa).num:  72  (**npa).wrd: |apariencia|
+i:  72  (**npa).num:  73  (**npa).wrd: |apendice|
+i:  73  (**npa).num:  74  (**npa).wrd: |apendicitis|
+i:  74  (**npa).num:  75  (**npa).wrd: |apendicolito|
+i:  75  (**npa).num:  76  (**npa).wrd: |apendicular|
+i:  76  (**npa).num:  77  (**npa).wrd: |aperistaltica|
+i:  77  (**npa).num:  78  (**npa).wrd: |apex|
+i:  78  (**npa).num:  79  (**npa).wrd: |api|
+i:  79  (**npa).num:  80  (**npa).wrd: |apical|
+i:  80  (**npa).num:  81  (**npa).wrd: |aprox|
+i:  81  (**npa).num:  82  (**npa).wrd: |aproximadamente|
+i:  82  (**npa).num:  83  (**npa).wrd: |aproximado|
+i:  83  (**npa).num:  84  (**npa).wrd: |arco|
+i:  84  (**npa).num:  85  (**npa).wrd: |arcos|
+i:  85  (**npa).num:  86  (**npa).wrd: |ard|
+i:  86  (**npa).num:  87  (**npa).wrd: |area|
+i:  87  (**npa).num:  88  (**npa).wrd: |areas|
+i:  88  (**npa).num:  89  (**npa).wrd: |areola|
+i:  89  (**npa).num:  90  (**npa).wrd: |ariz|
+i:  90  (**npa).num:  91  (**npa).wrd: |art|
+i:  91  (**npa).num:  92  (**npa).wrd: |arteial|
+i:  92  (**npa).num:  93  (**npa).wrd: |arterfactos|
+i:  93  (**npa).num:  94  (**npa).wrd: |arteria|
+i:  94  (**npa).num:  95  (**npa).wrd: |arterial|
+i:  95  (**npa).num:  96  (**npa).wrd: |arteriovenosa|
+i:  96  (**npa).num:  97  (**npa).wrd: |articulacion|
+i:  97  (**npa).num:  98  (**npa).wrd: |articular|
+i:  98  (**npa).num:  99  (**npa).wrd: |asa|
+i:  99  (**npa).num: 100  (**npa).wrd: |asas|
+i: 100  (**npa).num: 101  (**npa).wrd: |ascitis|
+i: 101  (**npa).num: 102  (**npa).wrd: |aspecto|
+i: 102  (**npa).num: 103  (**npa).wrd: |aspectos|
+i: 103  (**npa).num: 104  (**npa).wrd: |aumentada|
+i: 104  (**npa).num: 105  (**npa).wrd: |aumentado|
+i: 105  (**npa).num: 106  (**npa).wrd: |aumentados|
+i: 106  (**npa).num: 107  (**npa).wrd: |aumento|
+i: 107  (**npa).num: 108  (**npa).wrd: |aunque|
+i: 108  (**npa).num: 109  (**npa).wrd: |ausencia|
+i: 109  (**npa).num: 110  (**npa).wrd: |ausente|
+i: 110  (**npa).num: 111  (**npa).wrd: |avf|
+i: 111  (**npa).num: 112  (**npa).wrd: |ayuno|
+i: 112  (**npa).num: 113  (**npa).wrd: |bacinete|
+i: 113  (**npa).num: 114  (**npa).wrd: |baja|
+i: 114  (**npa).num: 115  (**npa).wrd: |baker|
+i: 115  (**npa).num: 116  (**npa).wrd: |balon|
+i: 116  (**npa).num: 117  (**npa).wrd: |basal|
+i: 117  (**npa).num: 118  (**npa).wrd: |base|
+i: 118  (**npa).num: 119  (**npa).wrd: |basica|
+i: 119  (**npa).num: 120  (**npa).wrd: |bazo|
+i: 120  (**npa).num: 121  (**npa).wrd: |bien|
+i: 121  (**npa).num: 122  (**npa).wrd: |bifasica|
+i: 122  (**npa).num: 123  (**npa).wrd: |bifida|
+i: 123  (**npa).num: 124  (**npa).wrd: |bifido|
+i: 124  (**npa).num: 125  (**npa).wrd: |bilateral|
+i: 125  (**npa).num: 126  (**npa).wrd: |bilaterales|
+i: 126  (**npa).num: 127  (**npa).wrd: |biliar|
+i: 127  (**npa).num: 128  (**npa).wrd: |biliares|
+i: 128  (**npa).num: 129  (**npa).wrd: |bilis|
+i: 129  (**npa).num: 130  (**npa).wrd: |bilobulada|
+i: 130  (**npa).num: 131  (**npa).wrd: |bilomas|
+i: 131  (**npa).num: 132  (**npa).wrd: |blandas|
+i: 132  (**npa).num: 133  (**npa).wrd: |bolsa|
+i: 133  (**npa).num: 134  (**npa).wrd: |bordes|
+i: 134  (**npa).num: 135  (**npa).wrd: |broncograma|
+i: 135  (**npa).num: 136  (**npa).wrd: |buen|
+i: 136  (**npa).num: 137  (**npa).wrd: |cabeza|
+i: 137  (**npa).num: 138  (**npa).wrd: |cacificaciones|
+i: 138  (**npa).num: 139  (**npa).wrd: |caderas|
+i: 139  (**npa).num: 140  (**npa).wrd: |calcificaciones|
+i: 140  (**npa).num: 141  (**npa).wrd: |calcifixcaciones|
+i: 141  (**npa).num: 142  (**npa).wrd: |calices|
+i: 142  (**npa).num: 143  (**npa).wrd: |calicial|
+i: 143  (**npa).num: 144  (**npa).wrd: |calicilar|
+i: 144  (**npa).num: 145  (**npa).wrd: |caliz|
+i: 145  (**npa).num: 146  (**npa).wrd: |cambio|
+i: 146  (**npa).num: 147  (**npa).wrd: |cambios|
+i: 147  (**npa).num: 148  (**npa).wrd: |campo|
+i: 148  (**npa).num: 149  (**npa).wrd: |capsula|
+i: 149  (**npa).num: 150  (**npa).wrd: |cara|
+i: 150  (**npa).num: 151  (**npa).wrd: |caracteristica|
+i: 151  (**npa).num: 152  (**npa).wrd: |caracteristicas|
+i: 152  (**npa).num: 153  (**npa).wrd: |casa|
+i: 153  (**npa).num: 154  (**npa).wrd: |casi|
+i: 154  (**npa).num: 155  (**npa).wrd: |cateter|
+i: 155  (**npa).num: 156  (**npa).wrd: |cateterismo|
+i: 156  (**npa).num: 157  (**npa).wrd: |caudotalamica|
+i: 157  (**npa).num: 158  (**npa).wrd: |caudotalamico|
+i: 158  (**npa).num: 159  (**npa).wrd: |cav|
+i: 159  (**npa).num: 160  (**npa).wrd: |cavernoma|
+i: 160  (**npa).num: 161  (**npa).wrd: |cavidad|
+i: 161  (**npa).num: 162  (**npa).wrd: |cavidada|
+i: 162  (**npa).num: 163  (**npa).wrd: |cc|
+i: 163  (**npa).num: 164  (**npa).wrd: |cecal|
+i: 164  (**npa).num: 165  (**npa).wrd: |cecales|
+i: 165  (**npa).num: 166  (**npa).wrd: |celda|
+i: 166  (**npa).num: 167  (**npa).wrd: |celular|
+i: 167  (**npa).num: 168  (**npa).wrd: |centrada|
+i: 168  (**npa).num: 169  (**npa).wrd: |central|
+i: 169  (**npa).num: 170  (**npa).wrd: |centro|
+i: 170  (**npa).num: 171  (**npa).wrd: |cerca|
+i: 171  (**npa).num: 172  (**npa).wrd: |cercana|
+i: 172  (**npa).num: 173  (**npa).wrd: |cerebral|
+i: 173  (**npa).num: 174  (**npa).wrd: |cicatriz|
+i: 174  (**npa).num: 175  (**npa).wrd: |cirugia|
+i: 175  (**npa).num: 176  (**npa).wrd: |claramente|
+i: 176  (**npa).num: 177  (**npa).wrd: |cm|
+i: 177  (**npa).num: 178  (**npa).wrd: |cn|
+i: 178  (**npa).num: 179  (**npa).wrd: |codo|
+i: 179  (**npa).num: 180  (**npa).wrd: |codos|
+i: 180  (**npa).num: 181  (**npa).wrd: |cola|
+i: 181  (**npa).num: 182  (**npa).wrd: |colateral|
+i: 182  (**npa).num: 183  (**npa).wrd: |colaterales|
+i: 183  (**npa).num: 184  (**npa).wrd: |coleccion|
+i: 184  (**npa).num: 185  (**npa).wrd: |colecciones|
+i: 185  (**npa).num: 186  (**npa).wrd: |coledoco|
+i: 186  (**npa).num: 187  (**npa).wrd: |coloide|
+i: 187  (**npa).num: 188  (**npa).wrd: |coloidea|
+i: 188  (**npa).num: 189  (**npa).wrd: |coloides|
+i: 189  (**npa).num: 190  (**npa).wrd: |color|
+i: 190  (**npa).num: 191  (**npa).wrd: |colostomia|
+i: 191  (**npa).num: 192  (**npa).wrd: |combresible|
+i: 192  (**npa).num: 193  (**npa).wrd: |comparacion|
+i: 193  (**npa).num: 194  (**npa).wrd: |comparativa|
+i: 194  (**npa).num: 195  (**npa).wrd: |comparativas|
+i: 195  (**npa).num: 196  (**npa).wrd: |comparativo|
+i: 196  (**npa).num: 197  (**npa).wrd: |compatible|
+i: 197  (**npa).num: 198  (**npa).wrd: |compatibles|
+i: 198  (**npa).num: 199  (**npa).wrd: |compresi|
+i: 199  (**npa).num: 200  (**npa).wrd: |compresible|
+i: 200  (**npa).num: 201  (**npa).wrd: |compresion|
+i: 201  (**npa).num: 202  (**npa).wrd: |compromiso|
+i: 202  (**npa).num: 203  (**npa).wrd: |comunicacion|
+i: 203  (**npa).num: 204  (**npa).wrd: |con|
+i: 204  (**npa).num: 205  (**npa).wrd: |conclusion|
+i: 205  (**npa).num: 206  (**npa).wrd: |condensacion|
+i: 206  (**npa).num: 207  (**npa).wrd: |conducto|
+i: 207  (**npa).num: 208  (**npa).wrd: |conglomerado|
+i: 208  (**npa).num: 209  (**npa).wrd: |conocer|
+i: 209  (**npa).num: 210  (**npa).wrd: |conocida|
+i: 210  (**npa).num: 211  (**npa).wrd: |conocidas|
+i: 211  (**npa).num: 212  (**npa).wrd: |conocido|
+i: 212  (**npa).num: 213  (**npa).wrd: |conservada|
+i: 213  (**npa).num: 214  (**npa).wrd: |conservadas|
+i: 214  (**npa).num: 215  (**npa).wrd: |conservado|
+i: 215  (**npa).num: 216  (**npa).wrd: |considero|
+i: 216  (**npa).num: 217  (**npa).wrd: |consolidacion|
+i: 217  (**npa).num: 218  (**npa).wrd: |constituyen|
+i: 218  (**npa).num: 219  (**npa).wrd: |consulta|
+i: 219  (**npa).num: 220  (**npa).wrd: |contacto|
+i: 220  (**npa).num: 221  (**npa).wrd: |contenido|
+i: 221  (**npa).num: 222  (**npa).wrd: |contorno|
+i: 222  (**npa).num: 223  (**npa).wrd: |contornos|
+i: 223  (**npa).num: 224  (**npa).wrd: |contoros|
+i: 224  (**npa).num: 225  (**npa).wrd: |contraccion|
+i: 225  (**npa).num: 226  (**npa).wrd: |contralateral|
+i: 226  (**npa).num: 227  (**npa).wrd: |control|
+i: 227  (**npa).num: 228  (**npa).wrd: |coronaria|
+i: 228  (**npa).num: 229  (**npa).wrd: |correlacionar|
+i: 229  (**npa).num: 230  (**npa).wrd: |correponderia|
+i: 230  (**npa).num: 231  (**npa).wrd: |corresponder|
+i: 231  (**npa).num: 232  (**npa).wrd: |corresponderia|
+i: 232  (**npa).num: 233  (**npa).wrd: |cortical|
+i: 233  (**npa).num: 234  (**npa).wrd: |corticales|
+i: 234  (**npa).num: 235  (**npa).wrd: |cortico|
+i: 235  (**npa).num: 236  (**npa).wrd: |corticomedular|
+i: 236  (**npa).num: 237  (**npa).wrd: |corticoterapia|
+i: 237  (**npa).num: 238  (**npa).wrd: |cortos|
+i: 238  (**npa).num: 239  (**npa).wrd: |costal|
+i: 239  (**npa).num: 240  (**npa).wrd: |costales|
+i: 240  (**npa).num: 241  (**npa).wrd: |coxofemoral|
+i: 241  (**npa).num: 242  (**npa).wrd: |cronica|
+i: 242  (**npa).num: 243  (**npa).wrd: |cruza|
+i: 243  (**npa).num: 244  (**npa).wrd: |cual|
+i: 244  (**npa).num: 245  (**npa).wrd: |cuello|
+i: 245  (**npa).num: 246  (**npa).wrd: |cuellos|
+i: 246  (**npa).num: 247  (**npa).wrd: |cuenta|
+i: 247  (**npa).num: 248  (**npa).wrd: |cuerpos|
+i: 248  (**npa).num: 249  (**npa).wrd: |cugm|
+i: 249  (**npa).num: 250  (**npa).wrd: |cuna|
+i: 250  (**npa).num: 251  (**npa).wrd: |cutaneo|
+i: 251  (**npa).num: 252  (**npa).wrd: |d|
+i: 252  (**npa).num: 253  (**npa).wrd: |dada|
+i: 253  (**npa).num: 254  (**npa).wrd: |de|
+i: 254  (**npa).num: 255  (**npa).wrd: |debajo|
+i: 255  (**npa).num: 256  (**npa).wrd: |debido|
+i: 256  (**npa).num: 257  (**npa).wrd: |decubito|
+i: 257  (**npa).num: 258  (**npa).wrd: |dedo|
+i: 258  (**npa).num: 259  (**npa).wrd: |definida|
+i: 259  (**npa).num: 260  (**npa).wrd: |definidos|
+i: 260  (**npa).num: 261  (**npa).wrd: |dejo|
+i: 261  (**npa).num: 262  (**npa).wrd: |del|
+i: 262  (**npa).num: 263  (**npa).wrd: |delante|
+i: 263  (**npa).num: 264  (**npa).wrd: |delimitados|
+i: 264  (**npa).num: 265  (**npa).wrd: |der|
+i: 265  (**npa).num: 266  (**npa).wrd: |derecha|
+i: 266  (**npa).num: 267  (**npa).wrd: |derecho|
+i: 267  (**npa).num: 268  (**npa).wrd: |derivacion|
+i: 268  (**npa).num: 269  (**npa).wrd: |derivaciones|
+i: 269  (**npa).num: 270  (**npa).wrd: |derrame|
+i: 270  (**npa).num: 271  (**npa).wrd: |descartar|
+i: 271  (**npa).num: 272  (**npa).wrd: |descendente|
+i: 272  (**npa).num: 273  (**npa).wrd: |descripta|
+i: 273  (**npa).num: 274  (**npa).wrd: |desde|
+i: 274  (**npa).num: 275  (**npa).wrd: |desembocadura|
+i: 275  (**npa).num: 276  (**npa).wrd: |deseo|
+i: 276  (**npa).num: 277  (**npa).wrd: |desplaza|
+i: 277  (**npa).num: 278  (**npa).wrd: |desplazado|
+i: 278  (**npa).num: 279  (**npa).wrd: |desplazamientos|
+i: 279  (**npa).num: 280  (**npa).wrd: |destacables|
+i: 280  (**npa).num: 281  (**npa).wrd: |desviaciones|
+i: 281  (**npa).num: 282  (**npa).wrd: |detectado|
+i: 282  (**npa).num: 283  (**npa).wrd: |detectaron|
+i: 283  (**npa).num: 284  (**npa).wrd: |detecto|
+i: 284  (**npa).num: 285  (**npa).wrd: |determinar|
+i: 285  (**npa).num: 286  (**npa).wrd: |detras|
+i: 286  (**npa).num: 287  (**npa).wrd: |detritus|
+i: 287  (**npa).num: 288  (**npa).wrd: |diagnostico|
+i: 288  (**npa).num: 289  (**npa).wrd: |dialtada|
+i: 289  (**npa).num: 290  (**npa).wrd: |diam|
+i: 290  (**npa).num: 291  (**npa).wrd: |diametro|
+i: 291  (**npa).num: 292  (**npa).wrd: |diamtro|
+i: 292  (**npa).num: 293  (**npa).wrd: |dicha|
+i: 293  (**npa).num: 294  (**npa).wrd: |dicho|
+i: 294  (**npa).num: 295  (**npa).wrd: |didelfo|
+i: 295  (**npa).num: 296  (**npa).wrd: |diferenciacion|
+i: 296  (**npa).num: 297  (**npa).wrd: |diferenciado|
+i: 297  (**npa).num: 298  (**npa).wrd: |diferencicas|
+i: 298  (**npa).num: 299  (**npa).wrd: |diferencicion|
+i: 299  (**npa).num: 300  (**npa).wrd: |diferencion|
+i: 300  (**npa).num: 301  (**npa).wrd: |diferente|
+i: 301  (**npa).num: 302  (**npa).wrd: |diferentes|
+i: 302  (**npa).num: 303  (**npa).wrd: |difusa|
+i: 303  (**npa).num: 304  (**npa).wrd: |difuso|
+i: 304  (**npa).num: 305  (**npa).wrd: |difusos|
+i: 305  (**npa).num: 306  (**npa).wrd: |dilatacion|
+i: 306  (**npa).num: 307  (**npa).wrd: |dilataciones|
+i: 307  (**npa).num: 308  (**npa).wrd: |dilatada|
+i: 308  (**npa).num: 309  (**npa).wrd: |dilatadas|
+i: 309  (**npa).num: 310  (**npa).wrd: |dilatado|
+i: 310  (**npa).num: 311  (**npa).wrd: |dimensiones|
+i: 311  (**npa).num: 312  (**npa).wrd: |directa|
+i: 312  (**npa).num: 313  (**npa).wrd: |discreta|
+i: 313  (**npa).num: 314  (**npa).wrd: |discretamente|
+i: 314  (**npa).num: 315  (**npa).wrd: |discreto|
+i: 315  (**npa).num: 316  (**npa).wrd: |disminu|
+i: 316  (**npa).num: 317  (**npa).wrd: |disminucion|
+i: 317  (**npa).num: 318  (**npa).wrd: |disminucionde|
+i: 318  (**npa).num: 319  (**npa).wrd: |disminucon|
+i: 319  (**npa).num: 320  (**npa).wrd: |disminuido|
+i: 320  (**npa).num: 321  (**npa).wrd: |disminuidos|
+i: 321  (**npa).num: 322  (**npa).wrd: |disminuye|
+i: 322  (**npa).num: 323  (**npa).wrd: |dispositivo|
+i: 323  (**npa).num: 324  (**npa).wrd: |distal|
+i: 324  (**npa).num: 325  (**npa).wrd: |distales|
+i: 325  (**npa).num: 326  (**npa).wrd: |distendida|
+i: 326  (**npa).num: 327  (**npa).wrd: |distribucion|
+i: 327  (**npa).num: 328  (**npa).wrd: |ditacion|
+i: 328  (**npa).num: 329  (**npa).wrd: |diverticulo|
+i: 329  (**npa).num: 330  (**npa).wrd: |diverticulos|
+i: 330  (**npa).num: 331  (**npa).wrd: |dl|
+i: 331  (**npa).num: 332  (**npa).wrd: |doble|
+i: 332  (**npa).num: 333  (**npa).wrd: |dolor|
+i: 333  (**npa).num: 334  (**npa).wrd: |dolorosa|
+i: 334  (**npa).num: 335  (**npa).wrd: |doloroso|
+i: 335  (**npa).num: 336  (**npa).wrd: |dominante|
+i: 336  (**npa).num: 337  (**npa).wrd: |doppler|
+i: 337  (**npa).num: 338  (**npa).wrd: |dorsal|
+i: 338  (**npa).num: 339  (**npa).wrd: |dorso|
+i: 339  (**npa).num: 340  (**npa).wrd: |dos|
+i: 340  (**npa).num: 341  (**npa).wrd: |douglas|
+i: 341  (**npa).num: 342  (**npa).wrd: |duplcacion|
+i: 342  (**npa).num: 343  (**npa).wrd: |duplicacion|
+i: 343  (**npa).num: 344  (**npa).wrd: |durante|
+i: 344  (**npa).num: 345  (**npa).wrd: |dvp|
+i: 345  (**npa).num: 346  (**npa).wrd: |e|
+i: 346  (**npa).num: 347  (**npa).wrd: |ecm|
+i: 347  (**npa).num: 348  (**npa).wrd: |ecoestructura|
+i: 348  (**npa).num: 349  (**npa).wrd: |ecogencicidad|
+i: 349  (**npa).num: 350  (**npa).wrd: |ecogencidad|
+i: 350  (**npa).num: 351  (**npa).wrd: |ecogenica|
+i: 351  (**npa).num: 352  (**npa).wrd: |ecogenicas|
+i: 352  (**npa).num: 353  (**npa).wrd: |ecogenicidad|
+i: 353  (**npa).num: 354  (**npa).wrd: |ecogenico|
+i: 354  (**npa).num: 355  (**npa).wrd: |ecogenicos|
+i: 355  (**npa).num: 356  (**npa).wrd: |ecografia|
+i: 356  (**npa).num: 357  (**npa).wrd: |ecograficamente|
+i: 357  (**npa).num: 358  (**npa).wrd: |ecograficas|
+i: 358  (**npa).num: 359  (**npa).wrd: |ecografico|
+i: 359  (**npa).num: 360  (**npa).wrd: |ecograficos|
+i: 360  (**npa).num: 361  (**npa).wrd: |ecorrefringencias|
+i: 361  (**npa).num: 362  (**npa).wrd: |ecos|
+i: 362  (**npa).num: 363  (**npa).wrd: |ectacia|
+i: 363  (**npa).num: 364  (**npa).wrd: |ectasia|
+i: 364  (**npa).num: 365  (**npa).wrd: |ectasias|
+i: 365  (**npa).num: 366  (**npa).wrd: |edad|
+i: 366  (**npa).num: 367  (**npa).wrd: |edema|
+i: 367  (**npa).num: 368  (**npa).wrd: |efectos|
+i: 368  (**npa).num: 369  (**npa).wrd: |el|
+i: 369  (**npa).num: 370  (**npa).wrd: |elativo|
+i: 370  (**npa).num: 371  (**npa).wrd: |elevado|
+i: 371  (**npa).num: 372  (**npa).wrd: |elisa|
+i: 372  (**npa).num: 373  (**npa).wrd: |ellos|
+i: 373  (**npa).num: 374  (**npa).wrd: |en|
+i: 374  (**npa).num: 375  (**npa).wrd: |encima|
+i: 375  (**npa).num: 376  (**npa).wrd: |encuentra|
+i: 376  (**npa).num: 377  (**npa).wrd: |endoluminal|
+i: 377  (**npa).num: 378  (**npa).wrd: |endometrio|
+i: 378  (**npa).num: 379  (**npa).wrd: |enero|
+i: 379  (**npa).num: 380  (**npa).wrd: |enfermedad|
+i: 380  (**npa).num: 381  (**npa).wrd: |engrosada|
+i: 381  (**npa).num: 382  (**npa).wrd: |engrosadas|
+i: 382  (**npa).num: 383  (**npa).wrd: |engrosado|
+i: 383  (**npa).num: 384  (**npa).wrd: |engrosados|
+i: 384  (**npa).num: 385  (**npa).wrd: |engrosamiento|
+i: 385  (**npa).num: 386  (**npa).wrd: |entre|
+i: 386  (**npa).num: 387  (**npa).wrd: |epididimo|
+i: 387  (**npa).num: 388  (**npa).wrd: |epididmo|
+i: 388  (**npa).num: 389  (**npa).wrd: |epiplon|
+i: 389  (**npa).num: 390  (**npa).wrd: |epu|
+i: 390  (**npa).num: 391  (**npa).wrd: |es|
+i: 391  (**npa).num: 392  (**npa).wrd: |escaso|
+i: 392  (**npa).num: 393  (**npa).wrd: |escrotal|
+i: 393  (**npa).num: 394  (**npa).wrd: |esp|
+i: 394  (**npa).num: 395  (**npa).wrd: |espacio|
+i: 395  (**npa).num: 396  (**npa).wrd: |espectral|
+i: 396  (**npa).num: 397  (**npa).wrd: |espesa|
+i: 397  (**npa).num: 398  (**npa).wrd: |espesor|
+i: 398  (**npa).num: 399  (**npa).wrd: |espinal|
+i: 399  (**npa).num: 400  (**npa).wrd: |esplenica|
+i: 400  (**npa).num: 401  (**npa).wrd: |esplenico|
+i: 401  (**npa).num: 402  (**npa).wrd: |esplenomegalia|
+i: 402  (**npa).num: 403  (**npa).wrd: |esplenorenal|
+i: 403  (**npa).num: 404  (**npa).wrd: |esta|
+i: 404  (**npa).num: 405  (**npa).wrd: |este|
+i: 405  (**npa).num: 406  (**npa).wrd: |esteatosis|
+i: 406  (**npa).num: 407  (**npa).wrd: |estenosis|
+i: 407  (**npa).num: 408  (**npa).wrd: |esternocleido|
+i: 408  (**npa).num: 409  (**npa).wrd: |estructura|
+i: 409  (**npa).num: 410  (**npa).wrd: |estructuras|
+i: 410  (**npa).num: 411  (**npa).wrd: |estudian|
+i: 411  (**npa).num: 412  (**npa).wrd: |estudio|
+i: 412  (**npa).num: 413  (**npa).wrd: |estudios|
+i: 413  (**npa).num: 414  (**npa).wrd: |etronco|
+i: 414  (**npa).num: 415  (**npa).wrd: |evaluable|
+i: 415  (**npa).num: 416  (**npa).wrd: |evaluables|
+i: 416  (**npa).num: 417  (**npa).wrd: |evaluar|
+i: 417  (**npa).num: 418  (**npa).wrd: |evidencia|
+i: 418  (**npa).num: 419  (**npa).wrd: |evidencias|
+i: 419  (**npa).num: 420  (**npa).wrd: |evolucion|
+i: 420  (**npa).num: 421  (**npa).wrd: |evolutiva|
+i: 421  (**npa).num: 422  (**npa).wrd: |examen|
+i: 422  (**npa).num: 423  (**npa).wrd: |excretor|
+i: 423  (**npa).num: 424  (**npa).wrd: |excretora|
+i: 424  (**npa).num: 425  (**npa).wrd: |existe|
+i: 425  (**npa).num: 426  (**npa).wrd: |existen|
+i: 426  (**npa).num: 427  (**npa).wrd: |expensas|
+i: 427  (**npa).num: 428  (**npa).wrd: |explora|
+i: 428  (**npa).num: 429  (**npa).wrd: |exploracion|
+i: 429  (**npa).num: 430  (**npa).wrd: |explorada|
+i: 430  (**npa).num: 431  (**npa).wrd: |exploran|
+i: 431  (**npa).num: 432  (**npa).wrd: |extencion|
+i: 432  (**npa).num: 433  (**npa).wrd: |extendiendose|
+i: 433  (**npa).num: 434  (**npa).wrd: |extension|
+i: 434  (**npa).num: 435  (**npa).wrd: |extradural|
+i: 435  (**npa).num: 436  (**npa).wrd: |extrahepatica|
+i: 436  (**npa).num: 437  (**npa).wrd: |extrar|
+i: 437  (**npa).num: 438  (**npa).wrd: |extrarenal|
+i: 438  (**npa).num: 439  (**npa).wrd: |extrarenales|
+i: 439  (**npa).num: 440  (**npa).wrd: |extrarrenal|
+i: 440  (**npa).num: 441  (**npa).wrd: |extremo|
+i: 441  (**npa).num: 442  (**npa).wrd: |fascias|
+i: 442  (**npa).num: 443  (**npa).wrd: |femoral|
+i: 443  (**npa).num: 444  (**npa).wrd: |fibras|
+i: 444  (**npa).num: 445  (**npa).wrd: |fibrilar|
+i: 445  (**npa).num: 446  (**npa).wrd: |fibrosos|
+i: 446  (**npa).num: 447  (**npa).wrd: |fid|
+i: 447  (**npa).num: 448  (**npa).wrd: |fii|
+i: 448  (**npa).num: 449  (**npa).wrd: |fina|
+i: 449  (**npa).num: 450  (**npa).wrd: |finamente|
+i: 450  (**npa).num: 451  (**npa).wrd: |finas|
+i: 451  (**npa).num: 452  (**npa).wrd: |finos|
+i: 452  (**npa).num: 453  (**npa).wrd: |fistula|
+i: 453  (**npa).num: 454  (**npa).wrd: |flanco|
+i: 454  (**npa).num: 455  (**npa).wrd: |flancos|
+i: 455  (**npa).num: 456  (**npa).wrd: |flebitis|
+i: 456  (**npa).num: 457  (**npa).wrd: |fluctuante|
+i: 457  (**npa).num: 458  (**npa).wrd: |flujko|
+i: 458  (**npa).num: 459  (**npa).wrd: |flujo|
+i: 459  (**npa).num: 460  (**npa).wrd: |focales|
+i: 460  (**npa).num: 461  (**npa).wrd: |folicular|
+i: 461  (**npa).num: 462  (**npa).wrd: |foliculares|
+i: 462  (**npa).num: 463  (**npa).wrd: |foliculo|
+i: 463  (**npa).num: 464  (**npa).wrd: |forma|
+i: 464  (**npa).num: 465  (**npa).wrd: |formacion|
+i: 465  (**npa).num: 466  (**npa).wrd: |fosa|
+i: 466  (**npa).num: 467  (**npa).wrd: |frecuencia|
+i: 467  (**npa).num: 468  (**npa).wrd: |frecuente|
+i: 468  (**npa).num: 469  (**npa).wrd: |frontal|
+i: 469  (**npa).num: 470  (**npa).wrd: |fursemida|
+i: 470  (**npa).num: 471  (**npa).wrd: |fusiforme|
+i: 471  (**npa).num: 472  (**npa).wrd: |ganglios|
+i: 472  (**npa).num: 473  (**npa).wrd: |gas|
+i: 473  (**npa).num: 474  (**npa).wrd: |gaseosa|
+i: 474  (**npa).num: 475  (**npa).wrd: |gi|
+i: 475  (**npa).num: 476  (**npa).wrd: |ginecologica|
+i: 476  (**npa).num: 477  (**npa).wrd: |glandula|
+i: 477  (**npa).num: 478  (**npa).wrd: |glandulas|
+i: 478  (**npa).num: 479  (**npa).wrd: |globalmente|
+i: 479  (**npa).num: 480  (**npa).wrd: |glutea|
+i: 480  (**npa).num: 481  (**npa).wrd: |gran|
+i: 481  (**npa).num: 482  (**npa).wrd: |grasa|
+i: 482  (**npa).num: 483  (**npa).wrd: |gruesas|
+i: 483  (**npa).num: 484  (**npa).wrd: |gruesos|
+i: 484  (**npa).num: 485  (**npa).wrd: |grupo|
+i: 485  (**npa).num: 486  (**npa).wrd: |gustaria|
+i: 486  (**npa).num: 487  (**npa).wrd: |habitual|
+i: 487  (**npa).num: 488  (**npa).wrd: |hacia|
+i: 488  (**npa).num: 489  (**npa).wrd: |hallazgo|
+i: 489  (**npa).num: 490  (**npa).wrd: |hasta|
+i: 490  (**npa).num: 491  (**npa).wrd: |hay|
+i: 491  (**npa).num: 492  (**npa).wrd: |hematoma|
+i: 492  (**npa).num: 493  (**npa).wrd: |hemisistema|
+i: 493  (**npa).num: 494  (**npa).wrd: |hemisistemas|
+i: 494  (**npa).num: 495  (**npa).wrd: |hemitorax|
+i: 495  (**npa).num: 496  (**npa).wrd: |hemorragia|
+i: 496  (**npa).num: 497  (**npa).wrd: |hemorroidales|
+i: 497  (**npa).num: 498  (**npa).wrd: |hepatco|
+i: 498  (**npa).num: 499  (**npa).wrd: |hepatica|
+i: 499  (**npa).num: 500  (**npa).wrd: |hepatico|
+i: 500  (**npa).num: 501  (**npa).wrd: |hepatofugo|
+i: 501  (**npa).num: 502  (**npa).wrd: |hepatomegalia|
+i: 502  (**npa).num: 503  (**npa).wrd: |hepatopeto|
+i: 503  (**npa).num: 504  (**npa).wrd: |heptofugo|
+i: 504  (**npa).num: 505  (**npa).wrd: |herida|
+i: 505  (**npa).num: 506  (**npa).wrd: |hernia|
+i: 506  (**npa).num: 507  (**npa).wrd: |herradura|
+i: 507  (**npa).num: 508  (**npa).wrd: |heterogena|
+i: 508  (**npa).num: 509  (**npa).wrd: |heterogenea|
+i: 509  (**npa).num: 510  (**npa).wrd: |heterogeneo|
+i: 510  (**npa).num: 511  (**npa).wrd: |heterogeneos|
+i: 511  (**npa).num: 512  (**npa).wrd: |heterogneo|
+i: 512  (**npa).num: 513  (**npa).wrd: |hhipoecoica|
+i: 513  (**npa).num: 514  (**npa).wrd: |hidrocele|
+i: 514  (**npa).num: 515  (**npa).wrd: |hidrocolpos|
+i: 515  (**npa).num: 516  (**npa).wrd: |hidronefrosis|
+i: 516  (**npa).num: 517  (**npa).wrd: |higado|
+i: 517  (**npa).num: 518  (**npa).wrd: |higadopequeno|
+i: 518  (**npa).num: 519  (**npa).wrd: |hiliar|
+i: 519  (**npa).num: 520  (**npa).wrd: |hilio|
+i: 520  (**npa).num: 521  (**npa).wrd: |hiperecogenicidad|
+i: 521  (**npa).num: 522  (**npa).wrd: |hiperecogenicos|
+i: 522  (**npa).num: 523  (**npa).wrd: |hipereecogenicidad|
+i: 523  (**npa).num: 524  (**npa).wrd: |hiperflujo|
+i: 524  (**npa).num: 525  (**npa).wrd: |hipertension|
+i: 525  (**npa).num: 526  (**npa).wrd: |hipertrofia|
+i: 526  (**npa).num: 527  (**npa).wrd: |hipertrofica|
+i: 527  (**npa).num: 528  (**npa).wrd: |hipervascularizada|
+i: 528  (**npa).num: 529  (**npa).wrd: |hipocoica|
+i: 529  (**npa).num: 530  (**npa).wrd: |hipoecogenica|
+i: 530  (**npa).num: 531  (**npa).wrd: |hipoecogenicas|
+i: 531  (**npa).num: 532  (**npa).wrd: |hipoecoica|
+i: 532  (**npa).num: 533  (**npa).wrd: |hipoecoicas|
+i: 533  (**npa).num: 534  (**npa).wrd: |hipoecoico|
+i: 534  (**npa).num: 535  (**npa).wrd: |hombro|
+i: 535  (**npa).num: 536  (**npa).wrd: |homogenea|
+i: 536  (**npa).num: 537  (**npa).wrd: |homogeneo|
+i: 537  (**npa).num: 538  (**npa).wrd: |homogeno|
+i: 538  (**npa).num: 539  (**npa).wrd: |horas|
+i: 539  (**npa).num: 540  (**npa).wrd: |hp|
+i: 540  (**npa).num: 541  (**npa).wrd: |hsi|
+i: 541  (**npa).num: 542  (**npa).wrd: |htp|
+i: 542  (**npa).num: 543  (**npa).wrd: |htx|
+i: 543  (**npa).num: 544  (**npa).wrd: |hueco|
+i: 544  (**npa).num: 545  (**npa).wrd: |identifica|
+i: 545  (**npa).num: 546  (**npa).wrd: |identifican|
+i: 546  (**npa).num: 547  (**npa).wrd: |identificandose|
+i: 547  (**npa).num: 548  (**npa).wrd: |identificar|
+i: 548  (**npa).num: 549  (**npa).wrd: |ido|
+i: 549  (**npa).num: 550  (**npa).wrd: |igual|
+i: 550  (**npa).num: 551  (**npa).wrd: |ii|
+i: 551  (**npa).num: 552  (**npa).wrd: |iii|
+i: 552  (**npa).num: 553  (**npa).wrd: |ileon|
+i: 553  (**npa).num: 554  (**npa).wrd: |iliaca|
+i: 554  (**npa).num: 555  (**npa).wrd: |iliacos|
+i: 555  (**npa).num: 556  (**npa).wrd: |im|
+i: 556  (**npa).num: 557  (**npa).wrd: |imagen|
+i: 557  (**npa).num: 558  (**npa).wrd: |imagenes|
+i: 558  (**npa).num: 559  (**npa).wrd: |imagens|
+i: 559  (**npa).num: 560  (**npa).wrd: |implantacion|
+i: 560  (**npa).num: 561  (**npa).wrd: |implante|
+i: 561  (**npa).num: 562  (**npa).wrd: |importante|
+i: 562  (**npa).num: 563  (**npa).wrd: |impresiona|
+i: 563  (**npa).num: 564  (**npa).wrd: |incipente|
+i: 564  (**npa).num: 565  (**npa).wrd: |incluido|
+i: 565  (**npa).num: 566  (**npa).wrd: |incremento|
+i: 566  (**npa).num: 567  (**npa).wrd: |inespecificos|
+i: 567  (**npa).num: 568  (**npa).wrd: |infantil|
+i: 568  (**npa).num: 569  (**npa).wrd: |infecci|
+i: 569  (**npa).num: 570  (**npa).wrd: |inferior|
+i: 570  (**npa).num: 571  (**npa).wrd: |inferiores|
+i: 571  (**npa).num: 572  (**npa).wrd: |inferolateral|
+i: 572  (**npa).num: 573  (**npa).wrd: |infiltracion|
+i: 573  (**npa).num: 574  (**npa).wrd: |inflamatorio|
+i: 574  (**npa).num: 575  (**npa).wrd: |infrarotuliana|
+i: 575  (**npa).num: 576  (**npa).wrd: |ingresando|
+i: 576  (**npa).num: 577  (**npa).wrd: |inguinal|
+i: 577  (**npa).num: 578  (**npa).wrd: |integridad|
+i: 578  (**npa).num: 579  (**npa).wrd: |intenso|
+i: 579  (**npa).num: 580  (**npa).wrd: |interasas|
+i: 580  (**npa).num: 581  (**npa).wrd: |intercostales|
+i: 581  (**npa).num: 582  (**npa).wrd: |interes|
+i: 582  (**npa).num: 583  (**npa).wrd: |interior|
+i: 583  (**npa).num: 584  (**npa).wrd: |intermedia|
+i: 584  (**npa).num: 585  (**npa).wrd: |intermitente|
+i: 585  (**npa).num: 586  (**npa).wrd: |interna|
+i: 586  (**npa).num: 587  (**npa).wrd: |internos|
+i: 587  (**npa).num: 588  (**npa).wrd: |interposicion|
+i: 588  (**npa).num: 589  (**npa).wrd: |interpuesto|
+i: 589  (**npa).num: 590  (**npa).wrd: |intestinal|
+i: 590  (**npa).num: 591  (**npa).wrd: |intra|
+i: 591  (**npa).num: 592  (**npa).wrd: |intraarticular|
+i: 592  (**npa).num: 593  (**npa).wrd: |intrahepatica|
+i: 593  (**npa).num: 594  (**npa).wrd: |intrarticular|
+i: 594  (**npa).num: 595  (**npa).wrd: |intravesical|
+i: 595  (**npa).num: 596  (**npa).wrd: |invaginacion|
+i: 596  (**npa).num: 597  (**npa).wrd: |ir|
+i: 597  (**npa).num: 598  (**npa).wrd: |irc|
+i: 598  (**npa).num: 599  (**npa).wrd: |irregular|
+i: 599  (**npa).num: 600  (**npa).wrd: |irregulares|
+i: 600  (**npa).num: 601  (**npa).wrd: |isoecoica|
+i: 601  (**npa).num: 602  (**npa).wrd: |istmo|
+i: 602  (**npa).num: 603  (**npa).wrd: |itsmo|
+i: 603  (**npa).num: 604  (**npa).wrd: |iv|
+i: 604  (**npa).num: 605  (**npa).wrd: |izq|
+i: 605  (**npa).num: 606  (**npa).wrd: |izquiedo|
+i: 606  (**npa).num: 607  (**npa).wrd: |izquierda|
+i: 607  (**npa).num: 608  (**npa).wrd: |izquierdo|
+i: 608  (**npa).num: 609  (**npa).wrd: |justifica|
+i: 609  (**npa).num: 610  (**npa).wrd: |la|
+i: 610  (**npa).num: 611  (**npa).wrd: |lado|
+i: 611  (**npa).num: 612  (**npa).wrd: |largo|
+i: 612  (**npa).num: 613  (**npa).wrd: |las|
+i: 613  (**npa).num: 614  (**npa).wrd: |lateral|
+i: 614  (**npa).num: 615  (**npa).wrd: |lateralizado|
+i: 615  (**npa).num: 616  (**npa).wrd: |laterocervicales|
+i: 616  (**npa).num: 617  (**npa).wrd: |lesion|
+i: 617  (**npa).num: 618  (**npa).wrd: |lesiones|
+i: 618  (**npa).num: 619  (**npa).wrd: |leucemica|
+i: 619  (**npa).num: 620  (**npa).wrd: |leve|
+i: 620  (**npa).num: 621  (**npa).wrd: |levemente|
+i: 621  (**npa).num: 622  (**npa).wrd: |libre|
+i: 622  (**npa).num: 623  (**npa).wrd: |libreen|
+i: 623  (**npa).num: 624  (**npa).wrd: |ligeramente|
+i: 624  (**npa).num: 625  (**npa).wrd: |limite|
+i: 625  (**npa).num: 626  (**npa).wrd: |limites|
+i: 626  (**npa).num: 627  (**npa).wrd: |linea|
+i: 627  (**npa).num: 628  (**npa).wrd: |lineal|
+i: 628  (**npa).num: 629  (**npa).wrd: |lineales|
+i: 629  (**npa).num: 630  (**npa).wrd: |linfangioma|
+i: 630  (**npa).num: 631  (**npa).wrd: |linfatica|
+i: 631  (**npa).num: 632  (**npa).wrd: |liquida|
+i: 632  (**npa).num: 633  (**npa).wrd: |liquido|
+i: 633  (**npa).num: 634  (**npa).wrd: |lisas|
+i: 634  (**npa).num: 635  (**npa).wrd: |litiasis|
+i: 635  (**npa).num: 636  (**npa).wrd: |litos|
+i: 636  (**npa).num: 637  (**npa).wrd: |lla|
+i: 637  (**npa).num: 638  (**npa).wrd: |llanto|
+i: 638  (**npa).num: 639  (**npa).wrd: |lo|
+i: 639  (**npa).num: 640  (**npa).wrd: |lob|
+i: 640  (**npa).num: 641  (**npa).wrd: |lobulado|
+i: 641  (**npa).num: 642  (**npa).wrd: |lobulados|
+i: 642  (**npa).num: 643  (**npa).wrd: |lobulo|
+i: 643  (**npa).num: 644  (**npa).wrd: |lobulos|
+i: 644  (**npa).num: 645  (**npa).wrd: |logra|
+i: 645  (**npa).num: 646  (**npa).wrd: |logran|
+i: 646  (**npa).num: 647  (**npa).wrd: |logrando|
+i: 647  (**npa).num: 648  (**npa).wrd: |logro|
+i: 648  (**npa).num: 649  (**npa).wrd: |long|
+i: 649  (**npa).num: 650  (**npa).wrd: |longitudinal|
+i: 650  (**npa).num: 651  (**npa).wrd: |los|
+i: 651  (**npa).num: 652  (**npa).wrd: |luego|
+i: 652  (**npa).num: 653  (**npa).wrd: |luz|
+i: 653  (**npa).num: 654  (**npa).wrd: |mal|
+i: 654  (**npa).num: 655  (**npa).wrd: |malformacion|
+i: 655  (**npa).num: 656  (**npa).wrd: |mamaria|
+i: 656  (**npa).num: 657  (**npa).wrd: |mamario|
+i: 657  (**npa).num: 658  (**npa).wrd: |maniobras|
+i: 658  (**npa).num: 659  (**npa).wrd: |mano|
+i: 659  (**npa).num: 660  (**npa).wrd: |marcada|
+i: 660  (**npa).num: 661  (**npa).wrd: |marcado|
+i: 661  (**npa).num: 662  (**npa).wrd: |mas|
+i: 662  (**npa).num: 663  (**npa).wrd: |masa|
+i: 663  (**npa).num: 664  (**npa).wrd: |mastoideo|
+i: 664  (**npa).num: 665  (**npa).wrd: |mataderos|
+i: 665  (**npa).num: 666  (**npa).wrd: |max|
+i: 666  (**npa).num: 667  (**npa).wrd: |maximo|
+i: 667  (**npa).num: 668  (**npa).wrd: |mayor|
+i: 668  (**npa).num: 669  (**npa).wrd: |mayores|
+i: 669  (**npa).num: 670  (**npa).wrd: |mdre|
+i: 670  (**npa).num: 671  (**npa).wrd: |me|
+i: 671  (**npa).num: 672  (**npa).wrd: |media|
+i: 672  (**npa).num: 673  (**npa).wrd: |medial|
+i: 673  (**npa).num: 674  (**npa).wrd: |medicina|
+i: 674  (**npa).num: 675  (**npa).wrd: |medicion|
+i: 675  (**npa).num: 676  (**npa).wrd: |medidas|
+i: 676  (**npa).num: 677  (**npa).wrd: |medina|
+i: 677  (**npa).num: 678  (**npa).wrd: |medio|
+i: 678  (**npa).num: 679  (**npa).wrd: |medula|
+i: 679  (**npa).num: 680  (**npa).wrd: |medular|
+i: 680  (**npa).num: 681  (**npa).wrd: |megaureter|
+i: 681  (**npa).num: 682  (**npa).wrd: |menor|
+i: 682  (**npa).num: 683  (**npa).wrd: |menos|
+i: 683  (**npa).num: 684  (**npa).wrd: |mesenterica|
+i: 684  (**npa).num: 685  (**npa).wrd: |mesentericos|
+i: 685  (**npa).num: 686  (**npa).wrd: |meteorismo|
+i: 686  (**npa).num: 687  (**npa).wrd: |metodo|
+i: 687  (**npa).num: 688  (**npa).wrd: |miccion|
+i: 688  (**npa).num: 689  (**npa).wrd: |miccional|
+i: 689  (**npa).num: 690  (**npa).wrd: |mide|
+i: 690  (**npa).num: 691  (**npa).wrd: |miden|
+i: 691  (**npa).num: 692  (**npa).wrd: |miembros|
+i: 692  (**npa).num: 693  (**npa).wrd: |milimetros|
+i: 693  (**npa).num: 694  (**npa).wrd: |minima|
+i: 694  (**npa).num: 695  (**npa).wrd: |minimamaente|
+i: 695  (**npa).num: 696  (**npa).wrd: |minimamente|
+i: 696  (**npa).num: 697  (**npa).wrd: |minimo|
+i: 697  (**npa).num: 698  (**npa).wrd: |misma|
+i: 698  (**npa).num: 699  (**npa).wrd: |mismo|
+i: 699  (**npa).num: 700  (**npa).wrd: |mm|
+i: 700  (**npa).num: 701  (**npa).wrd: |mo|
+i: 701  (**npa).num: 702  (**npa).wrd: |moderada|
+i: 702  (**npa).num: 703  (**npa).wrd: |moderado|
+i: 703  (**npa).num: 704  (**npa).wrd: |modifica|
+i: 704  (**npa).num: 705  (**npa).wrd: |modifican|
+i: 705  (**npa).num: 706  (**npa).wrd: |momento|
+i: 706  (**npa).num: 707  (**npa).wrd: |monofasica|
+i: 707  (**npa).num: 708  (**npa).wrd: |morfologia|
+i: 708  (**npa).num: 709  (**npa).wrd: |motilidad|
+i: 709  (**npa).num: 710  (**npa).wrd: |movil|
+i: 710  (**npa).num: 711  (**npa).wrd: |moviles|
+i: 711  (**npa).num: 712  (**npa).wrd: |moviliza|
+i: 712  (**npa).num: 713  (**npa).wrd: |movimiento|
+i: 713  (**npa).num: 714  (**npa).wrd: |movimientos|
+i: 714  (**npa).num: 715  (**npa).wrd: |multiples|
+i: 715  (**npa).num: 716  (**npa).wrd: |mural|
+i: 716  (**npa).num: 717  (**npa).wrd: |muscular|
+i: 717  (**npa).num: 718  (**npa).wrd: |musculares|
+i: 718  (**npa).num: 719  (**npa).wrd: |musculo|
+i: 719  (**npa).num: 720  (**npa).wrd: |musculos|
+i: 720  (**npa).num: 721  (**npa).wrd: |muslo|
+i: 721  (**npa).num: 722  (**npa).wrd: |muy|
+i: 722  (**npa).num: 723  (**npa).wrd: |nativo|
+i: 723  (**npa).num: 724  (**npa).wrd: |nativos|
+i: 724  (**npa).num: 725  (**npa).wrd: |necrosis|
+i: 725  (**npa).num: 726  (**npa).wrd: |nel|
+i: 726  (**npa).num: 727  (**npa).wrd: |netas|
+i: 727  (**npa).num: 728  (**npa).wrd: |neto|
+i: 728  (**npa).num: 729  (**npa).wrd: |netos|
+i: 729  (**npa).num: 730  (**npa).wrd: |neurogenica|
+i: 730  (**npa).num: 731  (**npa).wrd: |ni|
+i: 731  (**npa).num: 732  (**npa).wrd: |nivel|
+i: 732  (**npa).num: 733  (**npa).wrd: |no|
+i: 733  (**npa).num: 734  (**npa).wrd: |nodular|
+i: 734  (**npa).num: 735  (**npa).wrd: |nodulares|
+i: 735  (**npa).num: 736  (**npa).wrd: |nodulos|
+i: 736  (**npa).num: 737  (**npa).wrd: |normal|
+i: 737  (**npa).num: 738  (**npa).wrd: |normales|
+i: 738  (**npa).num: 739  (**npa).wrd: |nuclear|
+i: 739  (**npa).num: 740  (**npa).wrd: |nucleos|
+i: 740  (**npa).num: 741  (**npa).wrd: |nueva|
+i: 741  (**npa).num: 742  (**npa).wrd: |o|
+i: 742  (**npa).num: 743  (**npa).wrd: |obsera|
+i: 743  (**npa).num: 744  (**npa).wrd: |observa|
+i: 744  (**npa).num: 745  (**npa).wrd: |observada|
+i: 745  (**npa).num: 746  (**npa).wrd: |observadas|
+i: 746  (**npa).num: 747  (**npa).wrd: |observadose|
+i: 747  (**npa).num: 748  (**npa).wrd: |observan|
+i: 748  (**npa).num: 749  (**npa).wrd: |observando|
+i: 749  (**npa).num: 750  (**npa).wrd: |observandose|
+i: 750  (**npa).num: 751  (**npa).wrd: |observandosse|
+i: 751  (**npa).num: 752  (**npa).wrd: |observaron|
+i: 752  (**npa).num: 753  (**npa).wrd: |observo|
+i: 753  (**npa).num: 754  (**npa).wrd: |obstruccion|
+i: 754  (**npa).num: 755  (**npa).wrd: |obtener|
+i: 755  (**npa).num: 756  (**npa).wrd: |ocluye|
+i: 756  (**npa).num: 757  (**npa).wrd: |ocupa|
+i: 757  (**npa).num: 758  (**npa).wrd: |oi|
+i: 758  (**npa).num: 759  (**npa).wrd: |on|
+i: 759  (**npa).num: 760  (**npa).wrd: |onda|
+i: 760  (**npa).num: 761  (**npa).wrd: |ortotopicos|
+i: 761  (**npa).num: 762  (**npa).wrd: |oservan|
+i: 762  (**npa).num: 763  (**npa).wrd: |osificacion|
+i: 763  (**npa).num: 764  (**npa).wrd: |otra|
+i: 764  (**npa).num: 765  (**npa).wrd: |otras|
+i: 765  (**npa).num: 766  (**npa).wrd: |otro|
+i: 766  (**npa).num: 767  (**npa).wrd: |ovalada|
+i: 767  (**npa).num: 768  (**npa).wrd: |ovario|
+i: 768  (**npa).num: 769  (**npa).wrd: |ovarios|
+i: 769  (**npa).num: 770  (**npa).wrd: |ovoidea|
+i: 770  (**npa).num: 771  (**npa).wrd: |p|
+i: 771  (**npa).num: 772  (**npa).wrd: |paciente|
+i: 772  (**npa).num: 773  (**npa).wrd: |palpable|
+i: 773  (**npa).num: 774  (**npa).wrd: |pampiniforme|
+i: 774  (**npa).num: 775  (**npa).wrd: |pancreas|
+i: 775  (**npa).num: 776  (**npa).wrd: |para|
+i: 776  (**npa).num: 777  (**npa).wrd: |paraaorico|
+i: 777  (**npa).num: 778  (**npa).wrd: |parapielico|
+i: 778  (**npa).num: 779  (**npa).wrd: |parcialmente|
+i: 779  (**npa).num: 780  (**npa).wrd: |pared|
+i: 780  (**npa).num: 781  (**npa).wrd: |paredes|
+i: 781  (**npa).num: 782  (**npa).wrd: |parenquima|
+i: 782  (**npa).num: 783  (**npa).wrd: |parenquimatosa|
+i: 783  (**npa).num: 784  (**npa).wrd: |parotidas|
+i: 784  (**npa).num: 785  (**npa).wrd: |parrila|
+i: 785  (**npa).num: 786  (**npa).wrd: |partes|
+i: 786  (**npa).num: 787  (**npa).wrd: |particulado|
+i: 787  (**npa).num: 788  (**npa).wrd: |particulas|
+i: 788  (**npa).num: 789  (**npa).wrd: |patologia|
+i: 789  (**npa).num: 790  (**npa).wrd: |patologicas|
+i: 790  (**npa).num: 791  (**npa).wrd: |patologico|
+i: 791  (**npa).num: 792  (**npa).wrd: |patron|
+i: 792  (**npa).num: 793  (**npa).wrd: |pcte|
+i: 793  (**npa).num: 794  (**npa).wrd: |pedirselas|
+i: 794  (**npa).num: 795  (**npa).wrd: |pelviana|
+i: 795  (**npa).num: 796  (**npa).wrd: |pelvis|
+i: 796  (**npa).num: 797  (**npa).wrd: |pequena|
+i: 797  (**npa).num: 798  (**npa).wrd: |pequenas|
+i: 798  (**npa).num: 799  (**npa).wrd: |pequeno|
+i: 799  (**npa).num: 800  (**npa).wrd: |pequenos|
+i: 800  (**npa).num: 801  (**npa).wrd: |perdida|
+i: 801  (**npa).num: 802  (**npa).wrd: |periapendicular|
+i: 802  (**npa).num: 803  (**npa).wrd: |pericecal|
+i: 803  (**npa).num: 804  (**npa).wrd: |periesplenicas|
+i: 804  (**npa).num: 805  (**npa).wrd: |periferia|
+i: 805  (**npa).num: 806  (**npa).wrd: |periferica|
+i: 806  (**npa).num: 807  (**npa).wrd: |perifericas|
+i: 807  (**npa).num: 808  (**npa).wrd: |periferico|
+i: 808  (**npa).num: 809  (**npa).wrd: |peripancreaticas|
+i: 809  (**npa).num: 810  (**npa).wrd: |periportal|
+i: 810  (**npa).num: 811  (**npa).wrd: |periumbilical|
+i: 811  (**npa).num: 812  (**npa).wrd: |periventricular|
+i: 812  (**npa).num: 813  (**npa).wrd: |perivesicular|
+i: 813  (**npa).num: 814  (**npa).wrd: |perivesiculares|
+i: 814  (**npa).num: 815  (**npa).wrd: |permeable|
+i: 815  (**npa).num: 816  (**npa).wrd: |permeables|
+i: 816  (**npa).num: 817  (**npa).wrd: |pero|
+i: 817  (**npa).num: 818  (**npa).wrd: |persiste|
+i: 818  (**npa).num: 819  (**npa).wrd: |persistente|
+i: 819  (**npa).num: 820  (**npa).wrd: |pico|
+i: 820  (**npa).num: 821  (**npa).wrd: |pie|
+i: 821  (**npa).num: 822  (**npa).wrd: |pielica|
+i: 822  (**npa).num: 823  (**npa).wrd: |pielicas|
+i: 823  (**npa).num: 824  (**npa).wrd: |pielocalicial|
+i: 824  (**npa).num: 825  (**npa).wrd: |pielocalicila|
+i: 825  (**npa).num: 826  (**npa).wrd: |pielocalicilar|
+i: 826  (**npa).num: 827  (**npa).wrd: |pielonefritis|
+i: 827  (**npa).num: 828  (**npa).wrd: |pierna|
+i: 828  (**npa).num: 829  (**npa).wrd: |pilorica|
+i: 829  (**npa).num: 830  (**npa).wrd: |piloro|
+i: 830  (**npa).num: 831  (**npa).wrd: |pioureterohidronefrosis|
+i: 831  (**npa).num: 832  (**npa).wrd: |plano|
+i: 832  (**npa).num: 833  (**npa).wrd: |planos|
+i: 833  (**npa).num: 834  (**npa).wrd: |plenificada|
+i: 834  (**npa).num: 835  (**npa).wrd: |pleural|
+i: 835  (**npa).num: 836  (**npa).wrd: |pleuropaquerenquimatosa|
+i: 836  (**npa).num: 837  (**npa).wrd: |pleuropulmonar|
+i: 837  (**npa).num: 838  (**npa).wrd: |plexo|
+i: 838  (**npa).num: 839  (**npa).wrd: |poco|
+i: 839  (**npa).num: 840  (**npa).wrd: |poder|
+i: 840  (**npa).num: 841  (**npa).wrd: |podifica|
+i: 841  (**npa).num: 842  (**npa).wrd: |podri|
+i: 842  (**npa).num: 843  (**npa).wrd: |podria|
+i: 843  (**npa).num: 844  (**npa).wrd: |podrian|
+i: 844  (**npa).num: 845  (**npa).wrd: |poliesplenia|
+i: 845  (**npa).num: 846  (**npa).wrd: |polipo|
+i: 846  (**npa).num: 847  (**npa).wrd: |poliquisticos|
+i: 847  (**npa).num: 848  (**npa).wrd: |polo|
+i: 848  (**npa).num: 849  (**npa).wrd: |polos|
+i: 849  (**npa).num: 850  (**npa).wrd: |popliteo|
+i: 850  (**npa).num: 851  (**npa).wrd: |por|
+i: 851  (**npa).num: 852  (**npa).wrd: |porcion|
+i: 852  (**npa).num: 853  (**npa).wrd: |pordrian|
+i: 853  (**npa).num: 854  (**npa).wrd: |porta|
+i: 854  (**npa).num: 855  (**npa).wrd: |portal|
+i: 855  (**npa).num: 856  (**npa).wrd: |posicional|
+i: 856  (**npa).num: 857  (**npa).wrd: |posmiccion|
+i: 857  (**npa).num: 858  (**npa).wrd: |posmiccional|
+i: 858  (**npa).num: 859  (**npa).wrd: |post|
+i: 859  (**npa).num: 860  (**npa).wrd: |postanastomotica|
+i: 860  (**npa).num: 861  (**npa).wrd: |posterior|
+i: 861  (**npa).num: 862  (**npa).wrd: |postmicc|
+i: 862  (**npa).num: 863  (**npa).wrd: |postmiccion|
+i: 863  (**npa).num: 864  (**npa).wrd: |postmiccional|
+i: 864  (**npa).num: 865  (**npa).wrd: |postmiccionales|
+i: 865  (**npa).num: 866  (**npa).wrd: |postmicional|
+i: 866  (**npa).num: 867  (**npa).wrd: |potmicc|
+i: 867  (**npa).num: 868  (**npa).wrd: |prandial|
+i: 868  (**npa).num: 869  (**npa).wrd: |pre|
+i: 869  (**npa).num: 870  (**npa).wrd: |precava|
+i: 870  (**npa).num: 871  (**npa).wrd: |predominante|
+i: 871  (**npa).num: 872  (**npa).wrd: |predominantemente|
+i: 872  (**npa).num: 873  (**npa).wrd: |predominio|
+i: 873  (**npa).num: 874  (**npa).wrd: |premicc|
+i: 874  (**npa).num: 875  (**npa).wrd: |premiccion|
+i: 875  (**npa).num: 876  (**npa).wrd: |premiccional|
+i: 876  (**npa).num: 877  (**npa).wrd: |prenquima|
+i: 877  (**npa).num: 878  (**npa).wrd: |prepuberal|
+i: 878  (**npa).num: 879  (**npa).wrd: |presencia|
+i: 879  (**npa).num: 880  (**npa).wrd: |presenta|
+i: 880  (**npa).num: 881  (**npa).wrd: |presentando|
+i: 881  (**npa).num: 882  (**npa).wrd: |presente|
+i: 882  (**npa).num: 883  (**npa).wrd: |presuntivo|
+i: 883  (**npa).num: 884  (**npa).wrd: |prevascular|
+i: 884  (**npa).num: 885  (**npa).wrd: |previa|
+i: 885  (**npa).num: 886  (**npa).wrd: |previo|
+i: 886  (**npa).num: 887  (**npa).wrd: |probable|
+i: 887  (**npa).num: 888  (**npa).wrd: |proceso|
+i: 888  (**npa).num: 889  (**npa).wrd: |produce|
+i: 889  (**npa).num: 890  (**npa).wrd: |profunda|
+i: 890  (**npa).num: 891  (**npa).wrd: |profundas|
+i: 891  (**npa).num: 892  (**npa).wrd: |profundo|
+i: 892  (**npa).num: 893  (**npa).wrd: |profundos|
+i: 893  (**npa).num: 894  (**npa).wrd: |prolongacion|
+i: 894  (**npa).num: 895  (**npa).wrd: |propiamente|
+i: 895  (**npa).num: 896  (**npa).wrd: |prox|
+i: 896  (**npa).num: 897  (**npa).wrd: |proximal|
+i: 897  (**npa).num: 898  (**npa).wrd: |proximales|
+i: 898  (**npa).num: 899  (**npa).wrd: |prsenta|
+i: 899  (**npa).num: 900  (**npa).wrd: |pseudoquiste|
+i: 900  (**npa).num: 901  (**npa).wrd: |psm|
+i: 901  (**npa).num: 902  (**npa).wrd: |psoas|
+i: 902  (**npa).num: 903  (**npa).wrd: |pudo|
+i: 903  (**npa).num: 904  (**npa).wrd: |puede|
+i: 904  (**npa).num: 905  (**npa).wrd: |pueden|
+i: 905  (**npa).num: 906  (**npa).wrd: |puedo|
+i: 906  (**npa).num: 907  (**npa).wrd: |pulmon|
+i: 907  (**npa).num: 908  (**npa).wrd: |pulmonar|
+i: 908  (**npa).num: 909  (**npa).wrd: |pulmonares|
+i: 909  (**npa).num: 910  (**npa).wrd: |pulsado|
+i: 910  (**npa).num: 911  (**npa).wrd: |punta|
+i: 911  (**npa).num: 912  (**npa).wrd: |q|
+i: 912  (**npa).num: 913  (**npa).wrd: |que|
+i: 913  (**npa).num: 914  (**npa).wrd: |quirurgica|
+i: 914  (**npa).num: 915  (**npa).wrd: |quiste|
+i: 915  (**npa).num: 916  (**npa).wrd: |quistes|
+i: 916  (**npa).num: 917  (**npa).wrd: |quistica|
+i: 917  (**npa).num: 918  (**npa).wrd: |quisticas|
+i: 918  (**npa).num: 919  (**npa).wrd: |quistico|
+i: 919  (**npa).num: 920  (**npa).wrd: |rama|
+i: 920  (**npa).num: 921  (**npa).wrd: |ramas|
+i: 921  (**npa).num: 922  (**npa).wrd: |rango|
+i: 922  (**npa).num: 923  (**npa).wrd: |rd|
+i: 923  (**npa).num: 924  (**npa).wrd: |rder|
+i: 924  (**npa).num: 925  (**npa).wrd: |realidad|
+i: 925  (**npa).num: 926  (**npa).wrd: |realiza|
+i: 926  (**npa).num: 927  (**npa).wrd: |realizar|
+i: 927  (**npa).num: 928  (**npa).wrd: |reconoce|
+i: 928  (**npa).num: 929  (**npa).wrd: |recto|
+i: 929  (**npa).num: 930  (**npa).wrd: |redondeada|
+i: 930  (**npa).num: 931  (**npa).wrd: |redondeadas|
+i: 931  (**npa).num: 932  (**npa).wrd: |redondedada|
+i: 932  (**npa).num: 933  (**npa).wrd: |reevaluacion|
+i: 933  (**npa).num: 934  (**npa).wrd: |refiere|
+i: 934  (**npa).num: 935  (**npa).wrd: |reflujo|
+i: 935  (**npa).num: 936  (**npa).wrd: |regeneracion|
+i: 936  (**npa).num: 937  (**npa).wrd: |region|
+i: 937  (**npa).num: 938  (**npa).wrd: |regionales|
+i: 938  (**npa).num: 939  (**npa).wrd: |registros|
+i: 939  (**npa).num: 940  (**npa).wrd: |regulares|
+i: 940  (**npa).num: 941  (**npa).wrd: |reimplante|
+i: 941  (**npa).num: 942  (**npa).wrd: |relacion|
+i: 942  (**npa).num: 943  (**npa).wrd: |remanente|
+i: 943  (**npa).num: 944  (**npa).wrd: |renal|
+i: 944  (**npa).num: 945  (**npa).wrd: |renovesical|
+i: 945  (**npa).num: 946  (**npa).wrd: |replecionada|
+i: 946  (**npa).num: 947  (**npa).wrd: |reposo|
+i: 947  (**npa).num: 948  (**npa).wrd: |residual|
+i: 948  (**npa).num: 949  (**npa).wrd: |residuales|
+i: 949  (**npa).num: 950  (**npa).wrd: |residualresuelto|
+i: 950  (**npa).num: 951  (**npa).wrd: |residuo|
+i: 951  (**npa).num: 952  (**npa).wrd: |resolucion|
+i: 952  (**npa).num: 953  (**npa).wrd: |respectivamente|
+i: 953  (**npa).num: 954  (**npa).wrd: |respecto|
+i: 954  (**npa).num: 955  (**npa).wrd: |resto|
+i: 955  (**npa).num: 956  (**npa).wrd: |restos|
+i: 956  (**npa).num: 957  (**npa).wrd: |retencion|
+i: 957  (**npa).num: 958  (**npa).wrd: |retro|
+i: 958  (**npa).num: 959  (**npa).wrd: |retrocava|
+i: 959  (**npa).num: 960  (**npa).wrd: |retropancreatico|
+i: 960  (**npa).num: 961  (**npa).wrd: |retroperitoneo|
+i: 961  (**npa).num: 962  (**npa).wrd: |retrovesical|
+i: 962  (**npa).num: 963  (**npa).wrd: |ri|
+i: 963  (**npa).num: 964  (**npa).wrd: |rino|
+i: 964  (**npa).num: 965  (**npa).wrd: |rinon|
+i: 965  (**npa).num: 966  (**npa).wrd: |rinones|
+i: 966  (**npa).num: 967  (**npa).wrd: |riz|
+i: 967  (**npa).num: 968  (**npa).wrd: |rizquierdo|
+i: 968  (**npa).num: 969  (**npa).wrd: |rodillas|
+i: 969  (**npa).num: 970  (**npa).wrd: |rotados|
+i: 970  (**npa).num: 971  (**npa).wrd: |rx|
+i: 971  (**npa).num: 972  (**npa).wrd: |s|
+i: 972  (**npa).num: 973  (**npa).wrd: |sacra|
+i: 973  (**npa).num: 974  (**npa).wrd: |sacular|
+i: 974  (**npa).num: 975  (**npa).wrd: |se|
+i: 975  (**npa).num: 976  (**npa).wrd: |sector|
+i: 976  (**npa).num: 977  (**npa).wrd: |sectores|
+i: 977  (**npa).num: 978  (**npa).wrd: |secuela|
+i: 978  (**npa).num: 979  (**npa).wrd: |secundaria|
+i: 979  (**npa).num: 980  (**npa).wrd: |seg|
+i: 980  (**npa).num: 981  (**npa).wrd: |segmento|
+i: 981  (**npa).num: 982  (**npa).wrd: |senal|
+i: 982  (**npa).num: 983  (**npa).wrd: |senos|
+i: 983  (**npa).num: 984  (**npa).wrd: |separacion|
+i: 984  (**npa).num: 985  (**npa).wrd: |shunt|
+i: 985  (**npa).num: 986  (**npa).wrd: |si|
+i: 986  (**npa).num: 987  (**npa).wrd: |siendo|
+i: 987  (**npa).num: 988  (**npa).wrd: |significacion|
+i: 988  (**npa).num: 989  (**npa).wrd: |significativa|
+i: 989  (**npa).num: 990  (**npa).wrd: |significativamente|
+i: 990  (**npa).num: 991  (**npa).wrd: |significativas|
+i: 991  (**npa).num: 992  (**npa).wrd: |significativo|
+i: 992  (**npa).num: 993  (**npa).wrd: |significativos|
+i: 993  (**npa).num: 994  (**npa).wrd: |signos|
+i: 994  (**npa).num: 995  (**npa).wrd: |sigue|
+i: 995  (**npa).num: 996  (**npa).wrd: |simetrica|
+i: 996  (**npa).num: 997  (**npa).wrd: |similares|
+i: 997  (**npa).num: 998  (**npa).wrd: |simple|
+i: 998  (**npa).num: 999  (**npa).wrd: |simples|
+i: 999  (**npa).num: 1000  (**npa).wrd: |sin|
+i: 1000  (**npa).num: 1001  (**npa).wrd: |sistema|
+i: 1001  (**npa).num: 1002  (**npa).wrd: |sistolico|
+i: 1002  (**npa).num: 1003  (**npa).wrd: |sitio|
+i: 1003  (**npa).num: 1004  (**npa).wrd: |solida|
+i: 1004  (**npa).num: 1005  (**npa).wrd: |solidas|
+i: 1005  (**npa).num: 1006  (**npa).wrd: |sombra|
+i: 1006  (**npa).num: 1007  (**npa).wrd: |sp|
+i: 1007  (**npa).num: 1008  (**npa).wrd: |stent|
+i: 1008  (**npa).num: 1009  (**npa).wrd: |su|
+i: 1009  (**npa).num: 1010  (**npa).wrd: |subangulomaxilares|
+i: 1010  (**npa).num: 1011  (**npa).wrd: |subcutaneo|
+i: 1011  (**npa).num: 1012  (**npa).wrd: |subdural|
+i: 1012  (**npa).num: 1013  (**npa).wrd: |subependimario|
+i: 1013  (**npa).num: 1014  (**npa).wrd: |submaxilar|
+i: 1014  (**npa).num: 1015  (**npa).wrd: |submaxilares|
+i: 1015  (**npa).num: 1016  (**npa).wrd: |subyacente|
+i: 1016  (**npa).num: 1017  (**npa).wrd: |sudcutaneo|
+i: 1017  (**npa).num: 1018  (**npa).wrd: |sugerenes|
+i: 1018  (**npa).num: 1019  (**npa).wrd: |sugerente|
+i: 1019  (**npa).num: 1020  (**npa).wrd: |sugerentes|
+i: 1020  (**npa).num: 1021  (**npa).wrd: |sugestivas|
+i: 1021  (**npa).num: 1022  (**npa).wrd: |sugestivo|
+i: 1022  (**npa).num: 1023  (**npa).wrd: |sugiere|
+i: 1023  (**npa).num: 1024  (**npa).wrd: |sup|
+i: 1024  (**npa).num: 1025  (**npa).wrd: |superciliar|
+i: 1025  (**npa).num: 1026  (**npa).wrd: |superficial|
+i: 1026  (**npa).num: 1027  (**npa).wrd: |superficiales|
+i: 1027  (**npa).num: 1028  (**npa).wrd: |superficie|
+i: 1028  (**npa).num: 1029  (**npa).wrd: |superior|
+i: 1029  (**npa).num: 1030  (**npa).wrd: |superiores|
+i: 1030  (**npa).num: 1031  (**npa).wrd: |suprahepaticas|
+i: 1031  (**npa).num: 1032  (**npa).wrd: |suprarotuliana|
+i: 1032  (**npa).num: 1033  (**npa).wrd: |supratalamicos|
+i: 1033  (**npa).num: 1034  (**npa).wrd: |supraumbilical|
+i: 1034  (**npa).num: 1035  (**npa).wrd: |supravesical|
+i: 1035  (**npa).num: 1036  (**npa).wrd: |surco|
+i: 1036  (**npa).num: 1037  (**npa).wrd: |sus|
+i: 1037  (**npa).num: 1038  (**npa).wrd: |suspension|
+i: 1038  (**npa).num: 1039  (**npa).wrd: |tabique|
+i: 1039  (**npa).num: 1040  (**npa).wrd: |tabiques|
+i: 1040  (**npa).num: 1041  (**npa).wrd: |tamano|
+i: 1041  (**npa).num: 1042  (**npa).wrd: |tamanos|
+i: 1042  (**npa).num: 1043  (**npa).wrd: |tambien|
+i: 1043  (**npa).num: 1044  (**npa).wrd: |tcs|
+i: 1044  (**npa).num: 1045  (**npa).wrd: |tejido|
+i: 1045  (**npa).num: 1046  (**npa).wrd: |tener|
+i: 1046  (**npa).num: 1047  (**npa).wrd: |tension|
+i: 1047  (**npa).num: 1048  (**npa).wrd: |teratoma|
+i: 1048  (**npa).num: 1049  (**npa).wrd: |tercer|
+i: 1049  (**npa).num: 1050  (**npa).wrd: |tercio|
+i: 1050  (**npa).num: 1051  (**npa).wrd: |tercios|
+i: 1051  (**npa).num: 1052  (**npa).wrd: |test|
+i: 1052  (**npa).num: 1053  (**npa).wrd: |testicular|
+i: 1053  (**npa).num: 1054  (**npa).wrd: |testiculo|
+i: 1054  (**npa).num: 1055  (**npa).wrd: |tien|
+i: 1055  (**npa).num: 1056  (**npa).wrd: |tiene|
+i: 1056  (**npa).num: 1057  (**npa).wrd: |tipo|
+i: 1057  (**npa).num: 1058  (**npa).wrd: |tir|
+i: 1058  (**npa).num: 1059  (**npa).wrd: |tirodes|
+i: 1059  (**npa).num: 1060  (**npa).wrd: |tiroidea|
+i: 1060  (**npa).num: 1061  (**npa).wrd: |tiroideo|
+i: 1061  (**npa).num: 1062  (**npa).wrd: |tiroideos|
+i: 1062  (**npa).num: 1063  (**npa).wrd: |tiroides|
+i: 1063  (**npa).num: 1064  (**npa).wrd: |tizq|
+i: 1064  (**npa).num: 1065  (**npa).wrd: |tls|
+i: 1065  (**npa).num: 1066  (**npa).wrd: |tobillo|
+i: 1066  (**npa).num: 1067  (**npa).wrd: |toda|
+i: 1067  (**npa).num: 1068  (**npa).wrd: |todo|
+i: 1068  (**npa).num: 1069  (**npa).wrd: |tomar|
+i: 1069  (**npa).num: 1070  (**npa).wrd: |topografia|
+i: 1070  (**npa).num: 1071  (**npa).wrd: |torax|
+i: 1071  (**npa).num: 1072  (**npa).wrd: |totalmente|
+i: 1072  (**npa).num: 1073  (**npa).wrd: |tractos|
+i: 1073  (**npa).num: 1074  (**npa).wrd: |transductor|
+i: 1074  (**npa).num: 1075  (**npa).wrd: |transplantado|
+i: 1075  (**npa).num: 1076  (**npa).wrd: |transversal|
+i: 1076  (**npa).num: 1077  (**npa).wrd: |transverso|
+i: 1077  (**npa).num: 1078  (**npa).wrd: |traqueal|
+i: 1078  (**npa).num: 1079  (**npa).wrd: |trasductor|
+i: 1079  (**npa).num: 1080  (**npa).wrd: |traves|
+i: 1080  (**npa).num: 1081  (**npa).wrd: |trayecto|
+i: 1081  (**npa).num: 1082  (**npa).wrd: |tres|
+i: 1082  (**npa).num: 1083  (**npa).wrd: |trifasica|
+i: 1083  (**npa).num: 1084  (**npa).wrd: |tringular|
+i: 1084  (**npa).num: 1085  (**npa).wrd: |trombo|
+i: 1085  (**npa).num: 1086  (**npa).wrd: |trombosis|
+i: 1086  (**npa).num: 1087  (**npa).wrd: |trompa|
+i: 1087  (**npa).num: 1088  (**npa).wrd: |tronco|
+i: 1088  (**npa).num: 1089  (**npa).wrd: |tubular|
+i: 1089  (**npa).num: 1090  (**npa).wrd: |turbulencia|
+i: 1090  (**npa).num: 1091  (**npa).wrd: |turbulento|
+i: 1091  (**npa).num: 1092  (**npa).wrd: |tx|
+i: 1092  (**npa).num: 1093  (**npa).wrd: |u|
+i: 1093  (**npa).num: 1094  (**npa).wrd: |ubica|
+i: 1094  (**npa).num: 1095  (**npa).wrd: |ubicada|
+i: 1095  (**npa).num: 1096  (**npa).wrd: |ubicadas|
+i: 1096  (**npa).num: 1097  (**npa).wrd: |ubicado|
+i: 1097  (**npa).num: 1098  (**npa).wrd: |un|
+i: 1098  (**npa).num: 1099  (**npa).wrd: |una|
+i: 1099  (**npa).num: 1100  (**npa).wrd: |unica|
+i: 1100  (**npa).num: 1101  (**npa).wrd: |union|
+i: 1101  (**npa).num: 1102  (**npa).wrd: |ureter|
+i: 1102  (**npa).num: 1103  (**npa).wrd: |ureteral|
+i: 1103  (**npa).num: 1104  (**npa).wrd: |ureteres|
+i: 1104  (**npa).num: 1105  (**npa).wrd: |ureteroceles|
+i: 1105  (**npa).num: 1106  (**npa).wrd: |ureterohidronefrosis|
+i: 1106  (**npa).num: 1107  (**npa).wrd: |ureterovesical|
+i: 1107  (**npa).num: 1108  (**npa).wrd: |ureters|
+i: 1108  (**npa).num: 1109  (**npa).wrd: |urgencia|
+i: 1109  (**npa).num: 1110  (**npa).wrd: |urinaria|
+i: 1110  (**npa).num: 1111  (**npa).wrd: |urotelio|
+i: 1111  (**npa).num: 1112  (**npa).wrd: |ut|
+i: 1112  (**npa).num: 1113  (**npa).wrd: |utero|
+i: 1113  (**npa).num: 1114  (**npa).wrd: |uteros|
+i: 1114  (**npa).num: 1115  (**npa).wrd: |v|
+i: 1115  (**npa).num: 1116  (**npa).wrd: |vacia|
+i: 1116  (**npa).num: 1117  (**npa).wrd: |vaciado|
+i: 1117  (**npa).num: 1118  (**npa).wrd: |vagina|
+i: 1118  (**npa).num: 1119  (**npa).wrd: |valor|
+i: 1119  (**npa).num: 1120  (**npa).wrd: |valorable|
+i: 1120  (**npa).num: 1121  (**npa).wrd: |valsalva|
+i: 1121  (**npa).num: 1122  (**npa).wrd: |valva|
+i: 1122  (**npa).num: 1123  (**npa).wrd: |varia|
+i: 1123  (**npa).num: 1124  (**npa).wrd: |variaciones|
+i: 1124  (**npa).num: 1125  (**npa).wrd: |varices|
+i: 1125  (**npa).num: 1126  (**npa).wrd: |varicocele|
+i: 1126  (**npa).num: 1127  (**npa).wrd: |vascular|
+i: 1127  (**npa).num: 1128  (**npa).wrd: |vascularizacion|
+i: 1128  (**npa).num: 1129  (**npa).wrd: |vascularizada|
+i: 1129  (**npa).num: 1130  (**npa).wrd: |vascularizadas|
+i: 1130  (**npa).num: 1131  (**npa).wrd: |vascularizado|
+i: 1131  (**npa).num: 1132  (**npa).wrd: |vascularizados|
+i: 1132  (**npa).num: 1133  (**npa).wrd: |vaso|
+i: 1133  (**npa).num: 1134  (**npa).wrd: |vasos|
+i: 1134  (**npa).num: 1135  (**npa).wrd: |vci|
+i: 1135  (**npa).num: 1136  (**npa).wrd: |vcs|
+i: 1136  (**npa).num: 1137  (**npa).wrd: |vecinas|
+i: 1137  (**npa).num: 1138  (**npa).wrd: |vejiga|
+i: 1138  (**npa).num: 1139  (**npa).wrd: |velocidad|
+i: 1139  (**npa).num: 1140  (**npa).wrd: |ven|
+i: 1140  (**npa).num: 1141  (**npa).wrd: |vena|
+i: 1141  (**npa).num: 1142  (**npa).wrd: |venas|
+i: 1142  (**npa).num: 1143  (**npa).wrd: |venosas|
+i: 1143  (**npa).num: 1144  (**npa).wrd: |venoso|
+i: 1144  (**npa).num: 1145  (**npa).wrd: |venosos|
+i: 1145  (**npa).num: 1146  (**npa).wrd: |ventana|
+i: 1146  (**npa).num: 1147  (**npa).wrd: |ventricular|
+i: 1147  (**npa).num: 1148  (**npa).wrd: |ventriculo|
+i: 1148  (**npa).num: 1149  (**npa).wrd: |ver|
+i: 1149  (**npa).num: 1150  (**npa).wrd: |vertebrales|
+i: 1150  (**npa).num: 1151  (**npa).wrd: |vesical|
+i: 1151  (**npa).num: 1152  (**npa).wrd: |vesicula|
+i: 1152  (**npa).num: 1153  (**npa).wrd: |vesplenica|
+i: 1153  (**npa).num: 1154  (**npa).wrd: |via|
+i: 1154  (**npa).num: 1155  (**npa).wrd: |vias|
+i: 1155  (**npa).num: 1156  (**npa).wrd: |vii|
+i: 1156  (**npa).num: 1157  (**npa).wrd: |vinculable|
+i: 1157  (**npa).num: 1158  (**npa).wrd: |visible|
+i: 1158  (**npa).num: 1159  (**npa).wrd: |visibles|
+i: 1159  (**npa).num: 1160  (**npa).wrd: |visual|
+i: 1160  (**npa).num: 1161  (**npa).wrd: |visualiza|
+i: 1161  (**npa).num: 1162  (**npa).wrd: |visualizacin|
+i: 1162  (**npa).num: 1163  (**npa).wrd: |visualizacion|
+i: 1163  (**npa).num: 1164  (**npa).wrd: |visualizan|
+i: 1164  (**npa).num: 1165  (**npa).wrd: |visualizando|
+i: 1165  (**npa).num: 1166  (**npa).wrd: |visualizar|
+i: 1166  (**npa).num: 1167  (**npa).wrd: |visualizarse|
+i: 1167  (**npa).num: 1168  (**npa).wrd: |visualizo|
+i: 1168  (**npa).num: 1169  (**npa).wrd: |visulaizado|
+i: 1169  (**npa).num: 1170  (**npa).wrd: |vms|
+i: 1170  (**npa).num: 1171  (**npa).wrd: |vol|
+i: 1171  (**npa).num: 1172  (**npa).wrd: |volumen|
+i: 1172  (**npa).num: 1173  (**npa).wrd: |vporta|
+i: 1173  (**npa).num: 1174  (**npa).wrd: |vsh|
+i: 1174  (**npa).num: 1175  (**npa).wrd: |x|
+i: 1175  (**npa).num: 1176  (**npa).wrd: |y|
+i: 1176  (**npa).num: 1177  (**npa).wrd: |ya|
+i: 1177  (**npa).num: 1178  (**npa).wrd: |zona|
+
+
+Linea  : 0 
+
+Buffer :|1000 T1 Neg T2 liquido T3 0.9 x 0.8 x 0.85 cm No se observo liquido libre en cavidad.
+|
+
+
+Tipo de marca :  2   | T1 |  | T2 |  | T3 |  
+
+Linea  :  0 
+
+segm1  : >1000<
+segm2  : >Neg<
+segm3  : >liquido<
+segm4  : >0.9 x 0.8 x 0.85 cm No se observo liquido libre en cavidad.
+<
+
+
+  0,0.9
+  1,x
+  2,0.8
+  3,x
+  4,0.85
+  5,cm
+  6,No
+  7,se
+  8,observo
+  9,liquido
+ 10,libre
+ 11,en
+ 12,cavidad
+ 13,.
+
+
+Linea  : 1 
+
+Buffer :|1002 T1 Neg T2 adenomegalias T3 Diametro longitudinal:9.7( cm ) No se detectaron adenomegalias.
+|
+
+Linea  :  1 
+
+segm1  : >1002<
+segm2  : >Neg<
+segm3  : >adenomegalias<
+segm4  : >Diametro longitudinal:9.7( cm ) No se detectaron adenomegalias.
+<
+
+
+  0,Diametro
+  1,longitudinal
+  2,:
+  3,9.7
+  4,(
+  5,cm
+  6,)
+  7,No
+  8,se
+  9,detectaron
+ 10,adenomegalias
+ 11,.
+
+
+Linea  : 2 
+
+Buffer :|1003 T1 Neg T2 separacion T3 Conclusion: la imagen descripta podria corresponder a coleccion, pero, al no poder visualizarse claramente plano de separacion con el lobulo izquierdo tiroideo, no se puede descartar compromiso de esta glandula.
+|
+
+Linea  :  2 
+
+segm1  : >1003<
+segm2  : >Neg<
+segm3  : >separacion<
+segm4  : >Conclusion: la imagen descripta podria corresponder a coleccion, pero, al no poder visualizarse claramente plano de separacion con el lobulo izquierdo tiroideo, no se puede descartar compromiso de esta glandula.
+<
+
+
+  0,Conclusion
+  1,:
+  2,la
+  3,imagen
+  4,descripta
+  5,podria
+  6,corresponder
+  7,a
+  8,coleccion
+  9,,
+ 10,pero
+ 11,,
+ 12,al
+ 13,no
+ 14,poder
+ 15,visualizarse
+ 16,claramente
+ 17,plano
+ 18,de
+ 19,separacion
+ 20,con
+ 21,el
+ 22,lobulo
+ 23,izquierdo
+ 24,tiroideo
+ 25,,
+ 26,no
+ 27,se
+ 28,puede
+ 29,descartar
+ 30,compromiso
+ 31,de
+ 32,esta
+ 33,glandula
+ 34,.
+
+
+Linea  : 3 
+
+Buffer :|1005 T1 Neg T2 nodular T3 141730 Se observa glandula tiroides con ecoestructura heterogenea, predominantemente hipoecoica, no nodular.
+|
+
+Linea  :  3 
+
+segm1  : >1005<
+segm2  : >Neg<
+segm3  : >nodular<
+segm4  : >141730 Se observa glandula tiroides con ecoestructura heterogenea, predominantemente hipoecoica, no nodular.
+<
+
+
+  0,141730
+  1,Se
+  2,observa
+  3,glandula
+  4,tiroides
+  5,con
+  6,ecoestructura
+  7,heterogenea
+  8,,
+  9,predominantemente
+ 10,hipoecoica
+ 11,,
+ 12,no
+ 13,nodular
+ 14,.
+
+
+Linea  : 4 
+
+Buffer :|1006 T1 Neg T2 adenomegalias T3 942914 Ambos nodulos tiroideos difusa y levemente heterogeneos, compatible con TLS No se observan adenomegalias en cuello Vol Tiroideo LD4.
+|
+
+Linea  :  4 
+
+segm1  : >1006<
+segm2  : >Neg<
+segm3  : >adenomegalias<
+segm4  : >942914 Ambos nodulos tiroideos difusa y levemente heterogeneos, compatible con TLS No se observan adenomegalias en cuello Vol Tiroideo LD4.
+<
+
+
+  0,942914
+  1,Ambos
+  2,nodulos
+  3,tiroideos
+  4,difusa
+  5,y
+  6,levemente
+  7,heterogeneos
+  8,,
+  9,compatible
+ 10,con
+ 11,TLS
+ 12,No
+ 13,se
+ 14,observan
+ 15,adenomegalias
+ 16,en
+ 17,cuello
+ 18,Vol
+ 19,Tiroideo
+ 20,LD4
+ 21,.
+
+
+Linea  : 5 
+
+Buffer :|1008 T1 Neg T2 imagen T3 Psoas con fibras musculares conservadas, no se observa imagen sugerente de coleccion.
+|
+
+Linea  :  5 
+
+segm1  : >1008<
+segm2  : >Neg<
+segm3  : >imagen<
+segm4  : >Psoas con fibras musculares conservadas, no se observa imagen sugerente de coleccion.
+<
+
+
+  0,Psoas
+  1,con
+  2,fibras
+  3,musculares
+  4,conservadas
+  5,,
+  6,no
+  7,se
+  8,observa
+  9,imagen
+ 10,sugerente
+ 11,de
+ 12,coleccion
+ 13,.
+
+
+Linea  : 6 
+
+Buffer :|1009 T1 Neg T2 dilatacion  T3 Pelvis de diametro anteroposterior de 1.4(cm), extrarrenal No se detecto dilatacion  ureteral.
+|
+
+Linea  :  6 
+
+segm1  : >1009<
+segm2  : >Neg<
+segm3  : >dilatacion<
+segm4  : >Pelvis de diametro anteroposterior de 1.4(cm), extrarrenal No se detecto dilatacion  ureteral.
+<
+
+
+  0,Pelvis
+  1,de
+  2,diametro
+  3,anteroposterior
+  4,de
+  5,1.4
+  6,(
+  7,cm
+  8,)
+  9,,
+ 10,extrarrenal
+ 11,No
+ 12,se
+ 13,detecto
+ 14,dilatacion
+ 15,ureteral
+ 16,.
+
+
+Linea  : 7 
+
+Buffer :|1011 T1 Neg T2 derrame  T3 A116632 Se explora en forma comparativa ambas caderas No se observan alteraciones de partes blandas ni derrame  articular Ambos psoas de estructura conservada en los sectores visibles
+|
+
+Linea  :  7 
+
+segm1  : >1011<
+segm2  : >Neg<
+segm3  : >derrame<
+segm4  : >A116632 Se explora en forma comparativa ambas caderas No se observan alteraciones de partes blandas ni derrame  articular Ambos psoas de estructura conservada en los sectores visibles
+<
+
+
+  0,A116632
+  1,Se
+  2,explora
+  3,en
+  4,forma
+  5,comparativa
+  6,ambas
+  7,caderas
+  8,No
+  9,se
+ 10,observan
+ 11,alteraciones
+ 12,de
+ 13,partes
+ 14,blandas
+ 15,ni
+ 16,derrame
+ 17,articular
+ 18,Ambos
+ 19,psoas
+ 20,de
+ 21,estructura
+ 22,conservada
+ 23,en
+ 24,los
+ 25,sectores
+ 26,visibles
+
+
+Linea  : 8 
+
+Buffer :|1012 T1 Neg T2 dilatada T3 111205 HIGADO: tamano conservado y moderado incremento de la ecogenicidad en forma difusa  VIA BILIAR intra y extrahepatica: no dilatada.
+|
+
+Linea  :  8 
+
+segm1  : >1012<
+segm2  : >Neg<
+segm3  : >dilatada<
+segm4  : >111205 HIGADO: tamano conservado y moderado incremento de la ecogenicidad en forma difusa  VIA BILIAR intra y extrahepatica: no dilatada.
+<
+
+
+  0,111205
+  1,HIGADO
+  2,:
+  3,tamano
+  4,conservado
+  5,y
+  6,moderado
+  7,incremento
+  8,de
+  9,la
+ 10,ecogenicidad
+ 11,en
+ 12,forma
+ 13,difusa
+ 14,VIA
+ 15,BILIAR
+ 16,intra
+ 17,y
+ 18,extrahepatica
+ 19,:
+ 20,no
+ 21,dilatada
+ 22,.
+
+
+Linea  : 9 
+
+Buffer :|1015 T1 Neg T2 dilatacion T3 RDer: con ectasia pielocalicial a predominio de grupo calicilar superior, disminuye parcialmente postmiccion, no observandose dilatacion de ureter.
+|
+
+Linea  :  9 
+
+segm1  : >1015<
+segm2  : >Neg<
+segm3  : >dilatacion<
+segm4  : >RDer: con ectasia pielocalicial a predominio de grupo calicilar superior, disminuye parcialmente postmiccion, no observandose dilatacion de ureter.
+<
+
+
+  0,RDer
+  1,:
+  2,con
+  3,ectasia
+  4,pielocalicial
+  5,a
+  6,predominio
+  7,de
+  8,grupo
+  9,calicilar
+ 10,superior
+ 11,,
+ 12,disminuye
+ 13,parcialmente
+ 14,postmiccion
+ 15,,
+ 16,no
+ 17,observandose
+ 18,dilatacion
+ 19,de
+ 20,ureter
+ 21,.
+
+
+Linea  : 10 
+
+Buffer :|1022 T1 Neg T2 condensacion T3 A257557 Ecografia pleural: Hemitorax derecho: sin evidencia de derrame ni condensacion.
+|
+
+Linea  :  10 
+
+segm1  : >1022<
+segm2  : >Neg<
+segm3  : >condensacion<
+segm4  : >A257557 Ecografia pleural: Hemitorax derecho: sin evidencia de derrame ni condensacion.
+<
+
+
+  0,A257557
+  1,Ecografia
+  2,pleural
+  3,:
+  4,Hemitorax
+  5,derecho
+  6,:
+  7,sin
+  8,evidencia
+  9,de
+ 10,derrame
+ 11,ni
+ 12,condensacion
+ 13,.
+
+
+Linea  : 11 
+
+Buffer :|1023 T1 Neg T2 dilatada T3 Via excretora no dilatada.
+|
+
+Linea  :  11 
+
+segm1  : >1023<
+segm2  : >Neg<
+segm3  : >dilatada<
+segm4  : >Via excretora no dilatada.
+<
+
+
+  0,Via
+  1,excretora
+  2,no
+  3,dilatada
+  4,.
+
+
+Linea  : 12 
+
+Buffer :|1024 T1 Neg T2 liquido T3 No se observan colecciones ni liquido intrarticular al momento del examen.
+|
+
+Linea  :  12 
+
+segm1  : >1024<
+segm2  : >Neg<
+segm3  : >liquido<
+segm4  : >No se observan colecciones ni liquido intrarticular al momento del examen.
+<
+
+
+  0,No
+  1,se
+  2,observan
+  3,colecciones
+  4,ni
+  5,liquido
+  6,intrarticular
+  7,al
+  8,momento
+  9,del
+ 10,examen
+ 11,.
+
+
+Linea  : 13 
+
+Buffer :|1030 T1 Neg T2 dilatacion  T3 No se detecto dilatacion  ureteral ni litiasis en la via urinaria.
+|
+
+Linea  :  13 
+
+segm1  : >1030<
+segm2  : >Neg<
+segm3  : >dilatacion<
+segm4  : >No se detecto dilatacion  ureteral ni litiasis en la via urinaria.
+<
+
+
+  0,No
+  1,se
+  2,detecto
+  3,dilatacion
+  4,ureteral
+  5,ni
+  6,litiasis
+  7,en
+  8,la
+  9,via
+ 10,urinaria
+ 11,.
+
+
+Linea  : 14 
+
+Buffer :|1034 T1 Neg T2 liquido T3 Diametro longitudinal:8.1( cm ) ganglios mesentericos en rango no adenopatico.. No se detectaron colecciones ni liquido libre.
+|
+
+Linea  :  14 
+
+segm1  : >1034<
+segm2  : >Neg<
+segm3  : >liquido<
+segm4  : >Diametro longitudinal:8.1( cm ) ganglios mesentericos en rango no adenopatico.. No se detectaron colecciones ni liquido libre.
+<
+
+
+  0,Diametro
+  1,longitudinal
+  2,:
+  3,8.1
+  4,(
+  5,cm
+  6,)
+  7,ganglios
+  8,mesentericos
+  9,en
+ 10,rango
+ 11,no
+ 12,adenopatico
+ 13,.
+ 14,.
+ 15,No
+ 16,se
+ 17,detectaron
+ 18,colecciones
+ 19,ni
+ 20,liquido
+ 21,libre
+ 22,.
+
+
+Linea  : 15 
+
+Buffer :|1036 T1 Neg T2 dilatacion  T3 Diam long 5.5 cm, pelvis renal: 2.2 cm, no se observa dilatacion  ureteral.
+|
+
+Linea  :  15 
+
+segm1  : >1036<
+segm2  : >Neg<
+segm3  : >dilatacion<
+segm4  : >Diam long 5.5 cm, pelvis renal: 2.2 cm, no se observa dilatacion  ureteral.
+<
+
+
+  0,Diam
+  1,long
+  2,5.5
+  3,cm
+  4,,
+  5,pelvis
+  6,renal
+  7,:
+  8,2.2
+  9,cm
+ 10,,
+ 11,no
+ 12,se
+ 13,observa
+ 14,dilatacion
+ 15,ureteral
+ 16,.
+
+
+Linea  : 16 
+
+Buffer :|1037 T1 Neg T2 hidrocele T3 A262651 Se observa ovario derecho de forma y ecoestructura conservada, ubicado en trayecto inguinal distal por delante de los vasos iliacos sin extencion al TCS ni plano muscular, sin hidrocele.
+|
+
+Linea  :  16 
+
+segm1  : >1037<
+segm2  : >Neg<
+segm3  : >hidrocele<
+segm4  : >A262651 Se observa ovario derecho de forma y ecoestructura conservada, ubicado en trayecto inguinal distal por delante de los vasos iliacos sin extencion al TCS ni plano muscular, sin hidrocele.
+<
+
+
+  0,A262651
+  1,Se
+  2,observa
+  3,ovario
+  4,derecho
+  5,de
+  6,forma
+  7,y
+  8,ecoestructura
+  9,conservada
+ 10,,
+ 11,ubicado
+ 12,en
+ 13,trayecto
+ 14,inguinal
+ 15,distal
+ 16,por
+ 17,delante
+ 18,de
+ 19,los
+ 20,vasos
+ 21,iliacos
+ 22,sin
+ 23,extencion
+ 24,al
+ 25,TCS
+ 26,ni
+ 27,plano
+ 28,muscular
+ 29,,
+ 30,sin
+ 31,hidrocele
+ 32,.
+
+
+Linea  : 17 
+
+Buffer :|1038 T1 Neg T2 imagenes T3 A352965 DOPPLER VENOSO VCS no se observa imagenes sugerentes de Trombosis, cateter en su interior.
+|
+
+Linea  :  17 
+
+segm1  : >1038<
+segm2  : >Neg<
+segm3  : >imagenes<
+segm4  : >A352965 DOPPLER VENOSO VCS no se observa imagenes sugerentes de Trombosis, cateter en su interior.
+<
+
+
+  0,A352965
+  1,DOPPLER
+  2,VENOSO
+  3,VCS
+  4,no
+  5,se
+  6,observa
+  7,imagenes
+  8,sugerentes
+  9,de
+ 10,Trombosis
+ 11,,
+ 12,cateter
+ 13,en
+ 14,su
+ 15,interior
+ 16,.
+
+
+Linea  : 18 
+
+Buffer :|1044 T1 Neg T2 nodular T3 A144222 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea no nodular, disminuidos globalmente de tamano.
+|
+
+Linea  :  18 
+
+segm1  : >1044<
+segm2  : >Neg<
+segm3  : >nodular<
+segm4  : >A144222 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea no nodular, disminuidos globalmente de tamano.
+<
+
+
+  0,A144222
+  1,Ambos
+  2,lobulos
+  3,tiroideos
+  4,e
+  5,istmo
+  6,con
+  7,ecoestructura
+  8,heterogenea
+  9,no
+ 10,nodular
+ 11,,
+ 12,disminuidos
+ 13,globalmente
+ 14,de
+ 15,tamano
+ 16,.
+
+
+Linea  : 19 
+
+Buffer :|1045 T1 Neg T2 aumento T3 A293411 Se explora tobillo y pie izquierdo No se observa aumento del espesor del TCS en comparacion con el contralateral.
+|
+
+Linea  :  19 
+
+segm1  : >1045<
+segm2  : >Neg<
+segm3  : >aumento<
+segm4  : >A293411 Se explora tobillo y pie izquierdo No se observa aumento del espesor del TCS en comparacion con el contralateral.
+<
+
+
+  0,A293411
+  1,Se
+  2,explora
+  3,tobillo
+  4,y
+  5,pie
+  6,izquierdo
+  7,No
+  8,se
+  9,observa
+ 10,aumento
+ 11,del
+ 12,espesor
+ 13,del
+ 14,TCS
+ 15,en
+ 16,comparacion
+ 17,con
+ 18,el
+ 19,contralateral
+ 20,.
+
+
+Linea  : 20 
+
+Buffer :|1050 T1 Neg T2 dilatacion T3 Rinon izquierdo con imagen redondeada en sector medio del rinon( 2.6 x 2.5cm), isoecoica con el parenquima adyacente, sin senal Doppler color de significacion ni dilatacion.
+|
+
+Linea  :  20 
+
+segm1  : >1050<
+segm2  : >Neg<
+segm3  : >dilatacion<
+segm4  : >Rinon izquierdo con imagen redondeada en sector medio del rinon( 2.6 x 2.5cm), isoecoica con el parenquima adyacente, sin senal Doppler color de significacion ni dilatacion.
+<
+
+
+  0,Rinon
+  1,izquierdo
+  2,con
+  3,imagen
+  4,redondeada
+  5,en
+  6,sector
+  7,medio
+  8,del
+  9,rinon
+ 10,(
+ 11,2.6
+ 12,x
+ 13,2.5
+ 14,cm
+ 15,)
+ 16,,
+ 17,isoecoica
+ 18,con
+ 19,el
+ 20,parenquima
+ 21,adyacente
+ 22,,
+ 23,sin
+ 24,senal
+ 25,Doppler
+ 26,color
+ 27,de
+ 28,significacion
+ 29,ni
+ 30,dilatacion
+ 31,.
+
+
+Linea  : 21 
+
+Buffer :|1054 T1 Neg T2 imagenes T3 Se observa cateter de derivacion en FID con escaso liquido adyacente a la punta, no se observan imagenes quisticas.
+|
+
+Linea  :  21 
+
+segm1  : >1054<
+segm2  : >Neg<
+segm3  : >imagenes<
+segm4  : >Se observa cateter de derivacion en FID con escaso liquido adyacente a la punta, no se observan imagenes quisticas.
+<
+
+
+  0,Se
+  1,observa
+  2,cateter
+  3,de
+  4,derivacion
+  5,en
+  6,FID
+  7,con
+  8,escaso
+  9,liquido
+ 10,adyacente
+ 11,a
+ 12,la
+ 13,punta
+ 14,,
+ 15,no
+ 16,se
+ 17,observan
+ 18,imagenes
+ 19,quisticas
+ 20,.
+
+
+Linea  : 22 
+
+Buffer :|1055 T1 Neg T2 vascular T3 470740 Higado homogeneo.vesicula normal No se visualiza pancreas ni retroperitoneo  vascular por interposicion aerea- Bazo homogeno .mide 9 cm Rinones nativos pequenos.
+|
+
+Linea  :  22 
+
+segm1  : >1055<
+segm2  : >Neg<
+segm3  : >vascular<
+segm4  : >470740 Higado homogeneo.vesicula normal No se visualiza pancreas ni retroperitoneo  vascular por interposicion aerea- Bazo homogeno .mide 9 cm Rinones nativos pequenos.
+<
+
+
+  0,470740
+  1,Higado
+  2,homogeneo
+  3,.
+  4,vesicula
+  5,normal
+  6,No
+  7,se
+  8,visualiza
+  9,pancreas
+ 10,ni
+ 11,retroperitoneo
+ 12,vascular
+ 13,por
+ 14,interposicion
+ 15,aerea
+ 16,-
+ 17,Bazo
+ 18,homogeno
+ 19,.
+ 20,mide
+ 21,9
+ 22,cm
+ 23,Rinones
+ 24,nativos
+ 25,pequenos
+ 26,.
+
+
+Linea  : 23 
+
+Buffer :|1058 T1 Neg T2 dilatada  T3 coledoco no dilatada  VESICULA BILIAR: distendida alitiasica.
+|
+
+Linea  :  23 
+
+segm1  : >1058<
+segm2  : >Neg<
+segm3  : >dilatada<
+segm4  : >coledoco no dilatada  VESICULA BILIAR: distendida alitiasica.
+<
+
+
+  0,coledoco
+  1,no
+  2,dilatada
+  3,VESICULA
+  4,BILIAR
+  5,:
+  6,distendida
+  7,alitiasica
+  8,.
+
+
+Linea  : 24 
+
+Buffer :|1061 T1 Neg T2 hernia T3 532901 se explora la pared abdominal en reposo y contraccion no se observan alteraciones del Tcs, ni planos musculares no se observan signos ecograficos de hernia ni de trombosis al examen Doppler color
+|
+
+Linea  :  24 
+
+segm1  : >1061<
+segm2  : >Neg<
+segm3  : >hernia<
+segm4  : >532901 se explora la pared abdominal en reposo y contraccion no se observan alteraciones del Tcs, ni planos musculares no se observan signos ecograficos de hernia ni de trombosis al examen Doppler color
+<
+
+
+  0,532901
+  1,se
+  2,explora
+  3,la
+  4,pared
+  5,abdominal
+  6,en
+  7,reposo
+  8,y
+  9,contraccion
+ 10,no
+ 11,se
+ 12,observan
+ 13,alteraciones
+ 14,del
+ 15,Tcs
+ 16,,
+ 17,ni
+ 18,planos
+ 19,musculares
+ 20,no
+ 21,se
+ 22,observan
+ 23,signos
+ 24,ecograficos
+ 25,de
+ 26,hernia
+ 27,ni
+ 28,de
+ 29,trombosis
+ 30,al
+ 31,examen
+ 32,Doppler
+ 33,color
+
+
+Linea  : 25 
+
+Buffer :|1065 T1 Neg T2 liquido T3 Vejiga s / p no liquido libre.
+|
+
+Linea  :  25 
+
+segm1  : >1065<
+segm2  : >Neg<
+segm3  : >liquido<
+segm4  : >Vejiga s / p no liquido libre.
+<
+
+
+  0,Vejiga
+  1,s
+  2,/
+  3,p
+  4,no
+  5,liquido
+  6,libre
+  7,.
+
+
+Linea  : 26 
+
+Buffer :|1072 T1 Neg T2 dilatacion T3 Ectasia pielocalicial izquierda, pelvis: 0.9cm No se detecto dilatacion de la via urinaria.
+|
+
+Linea  :  26 
+
+segm1  : >1072<
+segm2  : >Neg<
+segm3  : >dilatacion<
+segm4  : >Ectasia pielocalicial izquierda, pelvis: 0.9cm No se detecto dilatacion de la via urinaria.
+<
+
+
+  0,Ectasia
+  1,pielocalicial
+  2,izquierda
+  3,,
+  4,pelvis
+  5,:
+  6,0.9
+  7,cm
+  8,No
+  9,se
+ 10,detecto
+ 11,dilatacion
+ 12,de
+ 13,la
+ 14,via
+ 15,urinaria
+ 16,.
+
+
+Linea  : 27 
+
+Buffer :|1076 T1 Neg T2 derrame  T3 Hemitorax izquierdo: no se observa derrame  pleural.
+|
+
+Linea  :  27 
+
+segm1  : >1076<
+segm2  : >Neg<
+segm3  : >derrame<
+segm4  : >Hemitorax izquierdo: no se observa derrame  pleural.
+<
+
+
+  0,Hemitorax
+  1,izquierdo
+  2,:
+  3,no
+  4,se
+  5,observa
+  6,derrame
+  7,pleural
+  8,.
+
+
+Linea  : 28 
+
+Buffer :|1077 T1 Neg T2 flujo tipo T3 Dada la importante ascitis, no se logra visualizar shunt su topografia ,ni vasos venosos adayacentes con flujo tipo turbulento.
+|
+
+Linea  :  28 
+
+segm1  : >1077<
+segm2  : >Neg<
+segm3  : >flujo tipo<
+segm4  : >Dada la importante ascitis, no se logra visualizar shunt su topografia ,ni vasos venosos adayacentes con flujo tipo turbulento.
+<
+
+
+  0,Dada
+  1,la
+  2,importante
+  3,ascitis
+  4,,
+  5,no
+  6,se
+  7,logra
+  8,visualizar
+  9,shunt
+ 10,su
+ 11,topografia
+ 12,,
+ 13,ni
+ 14,vasos
+ 15,venosos
+ 16,adayacentes
+ 17,con
+ 18,flujo
+ 19,tipo
+ 20,turbulento
+ 21,.
+
+
+Linea  : 29 
+
+Buffer :|1084 T1 Neg T2 cambios T3 Conclusion: no se observan cambios significativos respecto a estudio previo.
+|
+
+Linea  :  29 
+
+segm1  : >1084<
+segm2  : >Neg<
+segm3  : >cambios<
+segm4  : >Conclusion: no se observan cambios significativos respecto a estudio previo.
+<
+
+
+  0,Conclusion
+  1,:
+  2,no
+  3,se
+  4,observan
+  5,cambios
+  6,significativos
+  7,respecto
+  8,a
+  9,estudio
+ 10,previo
+ 11,.
+
+
+Linea  : 30 
+
+Buffer :|1092 T1 Neg T2 Derivacion  T3 Relacion Epiplon Aorta: 3,7 / 1,2 COLATERALES: Vena coronaria en epiplon:no Derivacion  dorsal: no Hemorroidales:no vasos cortos:no Ascitis:no Rinones de caracteristicas normales.RD:10,6 cm Ri:10,5 cm Conclusion: no se observan signos ecograficos de hipertension  portal.
+|
+
+Linea  :  30 
+
+segm1  : >1092<
+segm2  : >Neg<
+segm3  : >derivacion<
+segm4  : >Relacion Epiplon Aorta: 3,7 / 1,2 COLATERALES: Vena coronaria en epiplon:no Derivacion  dorsal: no Hemorroidales:no vasos cortos:no Ascitis:no Rinones de caracteristicas normales.RD:10,6 cm Ri:10,5 cm Conclusion: no se observan signos ecograficos de hipertension  portal.
+<
+
+
+  0,Relacion
+  1,Epiplon
+  2,Aorta
+  3,:
+  4,3,7
+  5,/
+  6,1,2
+  7,COLATERALES
+  8,:
+  9,Vena
+ 10,coronaria
+ 11,en
+ 12,epiplon
+ 13,:
+ 14,no
+ 15,Derivacion
+ 16,dorsal
+ 17,:
+ 18,no
+ 19,Hemorroidales
+ 20,:
+ 21,no
+ 22,vasos
+ 23,cortos
+ 24,:
+ 25,no
+ 26,Ascitis
+ 27,:
+ 28,no
+ 29,Rinones
+ 30,de
+ 31,caracteristicas
+ 32,normales
+ 33,.
+ 34,RD
+ 35,:
+ 36,10,6
+ 37,cm
+ 38,Ri
+ 39,:
+ 40,10,5
+ 41,cm
+ 42,Conclusion
+ 43,:
+ 44,no
+ 45,se
+ 46,observan
+ 47,signos
+ 48,ecograficos
+ 49,de
+ 50,hipertension
+ 51,portal
+ 52,.
+
+
+Linea  : 31 
+
+Buffer :|1093 T1 Neg T2 nodular T3 A146009 HIGADO: hepatomegalia heterogenea debido a la presencia de multiples imagenes hipoecoicas de limites mal definidos, no se observa imagen  nodular dominante.
+|
+
+Linea  :  31 
+
+segm1  : >1093<
+segm2  : >Neg<
+segm3  : >nodular<
+segm4  : >A146009 HIGADO: hepatomegalia heterogenea debido a la presencia de multiples imagenes hipoecoicas de limites mal definidos, no se observa imagen  nodular dominante.
+<
+
+
+  0,A146009
+  1,HIGADO
+  2,:
+  3,hepatomegalia
+  4,heterogenea
+  5,debido
+  6,a
+  7,la
+  8,presencia
+  9,de
+ 10,multiples
+ 11,imagenes
+ 12,hipoecoicas
+ 13,de
+ 14,limites
+ 15,mal
+ 16,definidos
+ 17,,
+ 18,no
+ 19,se
+ 20,observa
+ 21,imagen
+ 22,nodular
+ 23,dominante
+ 24,.
+
+
+Linea  : 32 
+
+Buffer :|1096 T1 Neg T2 nodular T3 A269755 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular.
+|
+
+Linea  :  32 
+
+segm1  : >1096<
+segm2  : >Neg<
+segm3  : >nodular<
+segm4  : >A269755 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular.
+<
+
+
+  0,A269755
+  1,Ambos
+  2,lobulos
+  3,tiroideos
+  4,e
+  5,istmo
+  6,con
+  7,ecoestructura
+  8,heterogenea
+  9,difusa
+ 10,no
+ 11,nodular
+ 12,.
+
+
+Linea  : 33 
+
+Buffer :|1100 T1 Neg T2 imagenes T3 No se observan imagenes nodulares, quisticas ni calcificaciones.
+|
+
+Linea  :  33 
+
+segm1  : >1100<
+segm2  : >Neg<
+segm3  : >imagenes<
+segm4  : >No se observan imagenes nodulares, quisticas ni calcificaciones.
+<
+
+
+  0,No
+  1,se
+  2,observan
+  3,imagenes
+  4,nodulares
+  5,,
+  6,quisticas
+  7,ni
+  8,calcificaciones
+  9,.
+
+
+Linea  : 34 
+
+Buffer :|1101 T1 Neg T2 imagen T3 A148853 HIGADO: tamano y ecoestructura normal.no se identifican imagenes quisticas VIA BILIAR intra y extrahepatica: no dilatada.
+|
+
+Linea  :  34 
+
+segm1  : >1101<
+segm2  : >Neg<
+segm3  : >imagen<
+segm4  : >A148853 HIGADO: tamano y ecoestructura normal.no se identifican imagenes quisticas VIA BILIAR intra y extrahepatica: no dilatada.
+<
+
+
+  0,A148853
+  1,HIGADO
+  2,:
+  3,tamano
+  4,y
+  5,ecoestructura
+  6,normal
+  7,.
+  8,no
+  9,se
+ 10,identifican
+ 11,imagenes
+ 12,quisticas
+ 13,VIA
+ 14,BILIAR
+ 15,intra
+ 16,y
+ 17,extrahepatica
+ 18,:
+ 19,no
+ 20,dilatada
+ 21,.
+
+
+Linea  : 35 
+
+Buffer :|1102 T1 Neg T2 dilatacion T3 A216841 Ambos rinones ortotopicos- Rinon derecho de mayor tamano con multiples imagenes quisticas de diferente tamano, sin parenquima renal normal.Sin dilatacion pielocalicial.Se visualiza en forma intermitente ureter derecho no dilatado de 2.6 mm .
+|
+
+Linea  :  35 
+
+segm1  : >1102<
+segm2  : >Neg<
+segm3  : >dilatacion<
+segm4  : >A216841 Ambos rinones ortotopicos- Rinon derecho de mayor tamano con multiples imagenes quisticas de diferente tamano, sin parenquima renal normal.Sin dilatacion pielocalicial.Se visualiza en forma intermitente ureter derecho no dilatado de 2.6 mm .
+<
+
+
+  0,A216841
+  1,Ambos
+  2,rinones
+  3,ortotopicos
+  4,-
+  5,Rinon
+  6,derecho
+  7,de
+  8,mayor
+  9,tamano
+ 10,con
+ 11,multiples
+ 12,imagenes
+ 13,quisticas
+ 14,de
+ 15,diferente
+ 16,tamano
+ 17,,
+ 18,sin
+ 19,parenquima
+ 20,renal
+ 21,normal
+ 22,.
+ 23,Sin
+ 24,dilatacion
+ 25,pielocalicial
+ 26,.
+ 27,Se
+ 28,visualiza
+ 29,en
+ 30,forma
+ 31,intermitente
+ 32,ureter
+ 33,derecho
+ 34,no
+ 35,dilatado
+ 36,de
+ 37,2.6
+ 38,mm
+ 39,.
+
+
+Linea  : 36 
+
+Buffer :|1109 T1 Neg T2 nodular T3 A27059 Ambos lobulos tiroideos e itsmo con ecoestructura minimamente heterogenea difusa no nodular y aumentados globalmente de tamano.
+|
+
+Linea  :  36 
+
+segm1  : >1109<
+segm2  : >Neg<
+segm3  : >nodular<
+segm4  : >A27059 Ambos lobulos tiroideos e itsmo con ecoestructura minimamente heterogenea difusa no nodular y aumentados globalmente de tamano.
+<
+
+
+  0,A27059
+  1,Ambos
+  2,lobulos
+  3,tiroideos
+  4,e
+  5,itsmo
+  6,con
+  7,ecoestructura
+  8,minimamente
+  9,heterogenea
+ 10,difusa
+ 11,no
+ 12,nodular
+ 13,y
+ 14,aumentados
+ 15,globalmente
+ 16,de
+ 17,tamano
+ 18,.
+
+
+Linea  : 37 
+
+Buffer :|1114 T1 Neg T2 liquido T3 Diametro longitudinal:12,7( cm ) No se detectaron colecciones ni liquido libre.
+|
+
+Linea  :  37 
+
+segm1  : >1114<
+segm2  : >Neg<
+segm3  : >liquido<
+segm4  : >Diametro longitudinal:12,7( cm ) No se detectaron colecciones ni liquido libre.
+<
+
+
+  0,Diametro
+  1,longitudinal
+  2,:
+  3,12,7
+  4,(
+  5,cm
+  6,)
+  7,No
+  8,se
+  9,detectaron
+ 10,colecciones
+ 11,ni
+ 12,liquido
+ 13,libre
+ 14,.
+
+
+Linea  : 38 
+
+Buffer :|1118 T1 Neg T2 nodular T3 A29142 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y presencia de multiples tractos fibrosos.
+|
+
+Linea  :  38 
+
+segm1  : >1118<
+segm2  : >Neg<
+segm3  : >nodular<
+segm4  : >A29142 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y presencia de multiples tractos fibrosos.
+<
+
+
+  0,A29142
+  1,Ambos
+  2,lobulos
+  3,tiroideos
+  4,e
+  5,istmo
+  6,con
+  7,ecoestructura
+  8,heterogenea
+  9,difusa
+ 10,no
+ 11,nodular
+ 12,y
+ 13,presencia
+ 14,de
+ 15,multiples
+ 16,tractos
+ 17,fibrosos
+ 18,.
+
+
+Linea  : 39 
+
+Buffer :|1120 T1 Neg T2 nodular T3 123104 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa levemente, no nodular.
+|
+
+Linea  :  39 
+
+segm1  : >1120<
+segm2  : >Neg<
+segm3  : >nodular<
+segm4  : >123104 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa levemente, no nodular.
+<
+
+
+  0,123104
+  1,Ambos
+  2,lobulos
+  3,tiroideos
+  4,e
+  5,istmo
+  6,con
+  7,ecoestructura
+  8,heterogenea
+  9,difusa
+ 10,levemente
+ 11,,
+ 12,no
+ 13,nodular
+ 14,.
+
+
+Linea  : 40 
+
+Buffer :|1126 T1 Neg T2 flujo T3 La misma no presenta flujo al doppler color.
+|
+
+Linea  :  40 
+
+segm1  : >1126<
+segm2  : >Neg<
+segm3  : >flujo<
+segm4  : >La misma no presenta flujo al doppler color.
+<
+
+
+  0,La
+  1,misma
+  2,no
+  3,presenta
+  4,flujo
+  5,al
+  6,doppler
+  7,color
+  8,.
+
+
+Linea  : 41 
+
+Buffer :|1128 T1 Neg T2 nodular T3 532441 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea no nodular.
+|
+
+Linea  :  41 
+
+segm1  : >1128<
+segm2  : >Neg<
+segm3  : >nodular<
+segm4  : >532441 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea no nodular.
+<
+
+
+  0,532441
+  1,Ambos
+  2,lobulos
+  3,tiroideos
+  4,e
+  5,istmo
+  6,con
+  7,ecoestructura
+  8,heterogenea
+  9,no
+ 10,nodular
+ 11,.
+
+
+Linea  : 42 
+
+Buffer :|1129 T1 Neg T2 liquido T3 No liquido libre en cavidad abdominal, no derivaciones hemorroidales.
+|
+
+Linea  :  42 
+
+segm1  : >1129<
+segm2  : >Neg<
+segm3  : >liquido<
+segm4  : >No liquido libre en cavidad abdominal, no derivaciones hemorroidales.
+<
+
+
+  0,No
+  1,liquido
+  2,libre
+  3,en
+  4,cavidad
+  5,abdominal
+  6,,
+  7,no
+  8,derivaciones
+  9,hemorroidales
+ 10,.
+
+
+Linea  : 43 
+
+Buffer :|1130 T1 Neg T2 dilatacion T3 Sin dilatacion del sistema excretor No se identifica la vejiga.
+|
+
+Linea  :  43 
+
+segm1  : >1130<
+segm2  : >Neg<
+segm3  : >dilatacion<
+segm4  : >Sin dilatacion del sistema excretor No se identifica la vejiga.
+<
+
+
+  0,Sin
+  1,dilatacion
+  2,del
+  3,sistema
+  4,excretor
+  5,No
+  6,se
+  7,identifica
+  8,la
+  9,vejiga
+ 10,.
+
+
+Linea  : 44 
+
+Buffer :|1131 T1 Neg T2 hematoma T3 Por este metodo no se puede descartar hematoma subdural ni extradural.
+|
+
+Linea  :  44 
+
+segm1  : >1131<
+segm2  : >Neg<
+segm3  : >hematoma<
+segm4  : >Por este metodo no se puede descartar hematoma subdural ni extradural.
+<
+
+
+  0,Por
+  1,este
+  2,metodo
+  3,no
+  4,se
+  5,puede
+  6,descartar
+  7,hematoma
+  8,subdural
+  9,ni
+ 10,extradural
+ 11,.
+
+
+Linea  : 45 
+
+Buffer :|1133 T1 Neg T2 nodular T3 611191 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.
+|
+
+Linea  :  45 
+
+segm1  : >1133<
+segm2  : >Neg<
+segm3  : >nodular<
+segm4  : >611191 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.
+<
+
+
+  0,611191
+  1,Ambos
+  2,lobulos
+  3,tiroideos
+  4,e
+  5,istmo
+  6,con
+  7,ecoestructura
+  8,heterogenea
+  9,difusa
+ 10,no
+ 11,nodular
+ 12,y
+ 13,aumentados
+ 14,globalmente
+ 15,de
+ 16,tamano
+ 17,.
+
+
+Linea  : 46 
+
+Buffer :|1134 T1 Neg T2 dilatada T3 : 20 cm / s Venas suprahepaticas: Flujo hepatofugo, onda bifasica Via biliar no dilatada.
+|
+
+Linea  :  46 
+
+segm1  : >1134<
+segm2  : >Neg<
+segm3  : >dilatada<
+segm4  : >: 20 cm / s Venas suprahepaticas: Flujo hepatofugo, onda bifasica Via biliar no dilatada.
+<
+
+
+  0,:
+  1,20
+  2,cm
+  3,/
+  4,s
+  5,Venas
+  6,suprahepaticas
+  7,:
+  8,Flujo
+  9,hepatofugo
+ 10,,
+ 11,onda
+ 12,bifasica
+ 13,Via
+ 14,biliar
+ 15,no
+ 16,dilatada
+ 17,.
+
+
+Linea  : 47 
+
+Buffer :|1136 T1 Neg T2 desplazamiento T3 Presenta pequeno quiste subependimario de 0.8 x 1.3 mm que no produce desplazamientos ni efectos de masa.
+|
+
+Linea  :  47 
+
+segm1  : >1136<
+segm2  : >Neg<
+segm3  : >desplazamiento<
+segm4  : >Presenta pequeno quiste subependimario de 0.8 x 1.3 mm que no produce desplazamientos ni efectos de masa.
+<
+
+
+  0,Presenta
+  1,pequeno
+  2,quiste
+  3,subependimario
+  4,de
+  5,0.8
+  6,x
+  7,1.3
+  8,mm
+  9,que
+ 10,no
+ 11,produce
+ 12,desplazamientos
+ 13,ni
+ 14,efectos
+ 15,de
+ 16,masa
+ 17,.
+
+
+Linea  : 48 
+
+Buffer :|1137 T1 Neg T2 cambios T3 A345848 Se realiza ecografia, no se observan cambios significativos con respecto a ecografia previa.
+|
+
+Linea  :  48 
+
+segm1  : >1137<
+segm2  : >Neg<
+segm3  : >cambios<
+segm4  : >A345848 Se realiza ecografia, no se observan cambios significativos con respecto a ecografia previa.
+<
+
+
+  0,A345848
+  1,Se
+  2,realiza
+  3,ecografia
+  4,,
+  5,no
+  6,se
+  7,observan
+  8,cambios
+  9,significativos
+ 10,con
+ 11,respecto
+ 12,a
+ 13,ecografia
+ 14,previa
+ 15,.
+
+
+Linea  : 49 
+
+Buffer :|1138 T1 Neg T2 liquido T3 diametro longitudinal 5.3( cm ), transversal 3.5(cm) anteroposterior 2.8(cm), OVARIO DERECHO: de forma,tamano y estructura conservada 2.9(cm) x 2(cm) x 2.7(cm) con imagen  quistica  folicular dominante de 0.9 cm x 1.2 cm Volumen:8.6( cc ) OVARIO IZQUIERDO: de forma,tamano y estructura conservada 2.1(cm) x 1.3(cm) x 2.1(cm) Volumen: 3.1(cc) No liquido libre.-
+|
+
+Linea  :  49 
+
+segm1  : >1138<
+segm2  : >Neg<
+segm3  : >liquido<
+segm4  : >diametro longitudinal 5.3( cm ), transversal 3.5(cm) anteroposterior 2.8(cm), OVARIO DERECHO: de forma,tamano y estructura conservada 2.9(cm) x 2(cm) x 2.7(cm) con imagen  quistica  folicular dominante de 0.9 cm x 1.2 cm Volumen:8.6( cc ) OVARIO IZQUIERDO: de forma,tamano y estructura conservada 2.1(cm) x 1.3(cm) x 2.1(cm) Volumen: 3.1(cc) No liquido libre.-
+<
+
+
+  0,diametro
+  1,longitudinal
+  2,5.3
+  3,(
+  4,cm
+  5,)
+  6,,
+  7,transversal
+  8,3.5
+  9,(
+ 10,cm
+ 11,)
+ 12,anteroposterior
+ 13,2.8
+ 14,(
+ 15,cm
+ 16,)
+ 17,,
+ 18,OVARIO
+ 19,DERECHO
+ 20,:
+ 21,de
+ 22,forma
+ 23,,
+ 24,tamano
+ 25,y
+ 26,estructura
+ 27,conservada
+ 28,2.9
+ 29,(
+ 30,cm
+ 31,)
+ 32,x
+ 33,2
+ 34,(
+ 35,cm
+ 36,)
+ 37,x
+ 38,2.7
+ 39,(
+ 40,cm
+ 41,)
+ 42,con
+ 43,imagen
+ 44,quistica
+ 45,folicular
+ 46,dominante
+ 47,de
+ 48,0.9
+ 49,cm
+ 50,x
+ 51,1.2
+ 52,cm
+ 53,Volumen
+ 54,:
+ 55,8.6
+ 56,(
+ 57,cc
+ 58,)
+ 59,OVARIO
+ 60,IZQUIERDO
+ 61,:
+ 62,de
+ 63,forma
+ 64,,
+ 65,tamano
+ 66,y
+ 67,estructura
+ 68,conservada
+ 69,2.1
+ 70,(
+ 71,cm
+ 72,)
+ 73,x
+ 74,1.3
+ 75,(
+ 76,cm
+ 77,)
+ 78,x
+ 79,2.1
+ 80,(
+ 81,cm
+ 82,)
+ 83,Volumen
+ 84,:
+ 85,3.1
+ 86,(
+ 87,cc
+ 88,)
+ 89,No
+ 90,liquido
+ 91,libre
+ 92,.
+ 93,-
+
+
+Linea  : 50 
+
+Buffer :|1141 T1 Neg T2 nodular T3 891467 Se visualiza glandula tiroides con ecoestructura heterogenea, no nodular, predominantemente hipoecoica.
+|
+
+Linea  :  50 
+
+segm1  : >1141<
+segm2  : >Neg<
+segm3  : >nodular<
+segm4  : >891467 Se visualiza glandula tiroides con ecoestructura heterogenea, no nodular, predominantemente hipoecoica.
+<
+
+
+  0,891467
+  1,Se
+  2,visualiza
+  3,glandula
+  4,tiroides
+  5,con
+  6,ecoestructura
+  7,heterogenea
+  8,,
+  9,no
+ 10,nodular
+ 11,,
+ 12,predominantemente
+ 13,hipoecoica
+ 14,.
+
+
+Linea  : 51 
+
+Buffer :|1142 T1 Neg T2 derrame  T3 955807 en cara anterior del muslo izquierdo, por debajo del TCS, se observa una coleccion liquida con algunos tabiques de54x48x18 mm No se observa derrame  articular
+|
+
+Linea  :  51 
+
+segm1  : >1142<
+segm2  : >Neg<
+segm3  : >derrame<
+segm4  : >955807 en cara anterior del muslo izquierdo, por debajo del TCS, se observa una coleccion liquida con algunos tabiques de54x48x18 mm No se observa derrame  articular
+<
+
+
+  0,955807
+  1,en
+  2,cara
+  3,anterior
+  4,del
+  5,muslo
+  6,izquierdo
+  7,,
+  8,por
+  9,debajo
+ 10,del
+ 11,TCS
+ 12,,
+ 13,se
+ 14,observa
+ 15,una
+ 16,coleccion
+ 17,liquida
+ 18,con
+ 19,algunos
+ 20,tabiques
+ 21,de
+ 22,54
+ 23,x
+ 24,48
+ 25,x
+ 26,18
+ 27,mm
+ 28,No
+ 29,se
+ 30,observa
+ 31,derrame
+ 32,articular
+
+
+Linea  : 52 
+
+Buffer :|1145 T1 Neg T2 masa T3 No se observan desviaciones de la linea media, efectos de masa, ni colecciones.
+|
+
+Linea  :  52 
+
+segm1  : >1145<
+segm2  : >Neg<
+segm3  : >masa<
+segm4  : >No se observan desviaciones de la linea media, efectos de masa, ni colecciones.
+<
+
+
+  0,No
+  1,se
+  2,observan
+  3,desviaciones
+  4,de
+  5,la
+  6,linea
+  7,media
+  8,,
+  9,efectos
+ 10,de
+ 11,masa
+ 12,,
+ 13,ni
+ 14,colecciones
+ 15,.
+
+
+Linea  : 53 
+
+Buffer :|1156 T1 Neg T2 calcificaciones T3 A117909 Se observo engrosamiento difuso de partes blandas en plano celular subcutaneo de la pierna derecha sin evidencia de calcificaciones, lesiones quisticas ni nodulares.
+|
+
+Linea  :  53 
+
+segm1  : >1156<
+segm2  : >Neg<
+segm3  : >calcificaciones<
+segm4  : >A117909 Se observo engrosamiento difuso de partes blandas en plano celular subcutaneo de la pierna derecha sin evidencia de calcificaciones, lesiones quisticas ni nodulares.
+<
+
+
+  0,A117909
+  1,Se
+  2,observo
+  3,engrosamiento
+  4,difuso
+  5,de
+  6,partes
+  7,blandas
+  8,en
+  9,plano
+ 10,celular
+ 11,subcutaneo
+ 12,de
+ 13,la
+ 14,pierna
+ 15,derecha
+ 16,sin
+ 17,evidencia
+ 18,de
+ 19,calcificaciones
+ 20,,
+ 21,lesiones
+ 22,quisticas
+ 23,ni
+ 24,nodulares
+ 25,.
+
+
+Linea  : 54 
+
+Buffer :|1158 T1 Neg T2 dilatada  T3 Via urinaria no dilatada  Vejiga plenificada de contornos regulares, sin residuo postmiccional.
+|
+
+Linea  :  54 
+
+segm1  : >1158<
+segm2  : >Neg<
+segm3  : >dilatada<
+segm4  : >Via urinaria no dilatada  Vejiga plenificada de contornos regulares, sin residuo postmiccional.
+<
+
+
+  0,Via
+  1,urinaria
+  2,no
+  3,dilatada
+  4,Vejiga
+  5,plenificada
+  6,de
+  7,contornos
+  8,regulares
+  9,,
+ 10,sin
+ 11,residuo
+ 12,postmiccional
+ 13,.
+
+
+Linea  : 55 
+
+Buffer :|1159 T1 Neg T2 nodular T3 693781 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea no nodular.
+|
+
+Linea  :  55 
+
+segm1  : >1159<
+segm2  : >Neg<
+segm3  : >nodular<
+segm4  : >693781 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea no nodular.
+<
+
+
+  0,693781
+  1,Ambos
+  2,lobulos
+  3,tiroideos
+  4,e
+  5,istmo
+  6,con
+  7,ecoestructura
+  8,heterogenea
+  9,no
+ 10,nodular
+ 11,.
+
+
+Linea  : 56 
+
+Buffer :|1160 T1 Neg T2 dilatacion T3 RD 8,7 cm x 4,2 cm x 3,1 cn RI 9 cm x 3,2 cm x 3,6 cm No se observa dilatacion de la via urinaria.
+|
+
+Linea  :  56 
+
+segm1  : >1160<
+segm2  : >Neg<
+segm3  : >dilatacion<
+segm4  : >RD 8,7 cm x 4,2 cm x 3,1 cn RI 9 cm x 3,2 cm x 3,6 cm No se observa dilatacion de la via urinaria.
+<
+
+
+  0,RD
+  1,8,7
+  2,cm
+  3,x
+  4,4,2
+  5,cm
+  6,x
+  7,3,1
+  8,cn
+  9,RI
+ 10,9
+ 11,cm
+ 12,x
+ 13,3,2
+ 14,cm
+ 15,x
+ 16,3,6
+ 17,cm
+ 18,No
+ 19,se
+ 20,observa
+ 21,dilatacion
+ 22,de
+ 23,la
+ 24,via
+ 25,urinaria
+ 26,.
+
+
+Linea  : 57 
+
+Buffer :|1161 T1 Neg T2 estenosis T3 Al momento del examen no se observan signos ecograficos compatibles con estenosis hipertrofica del piloro.
+|
+
+Linea  :  57 
+
+segm1  : >1161<
+segm2  : >Neg<
+segm3  : >estenosis<
+segm4  : >Al momento del examen no se observan signos ecograficos compatibles con estenosis hipertrofica del piloro.
+<
+
+
+  0,Al
+  1,momento
+  2,del
+  3,examen
+  4,no
+  5,se
+  6,observan
+  7,signos
+  8,ecograficos
+  9,compatibles
+ 10,con
+ 11,estenosis
+ 12,hipertrofica
+ 13,del
+ 14,piloro
+ 15,.
+
+
+Linea  : 58 
+
+Buffer :|1162 T1 Neg T2 imagen T3 No se visualiza coleccion ni imagens residuales.
+|
+
+Linea  :  58 
+
+segm1  : >1162<
+segm2  : >Neg<
+segm3  : >imagen<
+segm4  : >No se visualiza coleccion ni imagens residuales.
+<
+
+
+  0,No
+  1,se
+  2,visualiza
+  3,coleccion
+  4,ni
+  5,imagens
+  6,residuales
+  7,.
+
+
+Linea  : 59 
+
+Buffer :|1165 T1 Neg T2 adenomegalias T3 PANCREAS: parcialmente visible por interposicion de aire intestinal s / p No se identifican adenomegalias BAZO: esplenomegalia homogenea.
+|
+
+Linea  :  59 
+
+segm1  : >1165<
+segm2  : >Neg<
+segm3  : >adenomegalias<
+segm4  : >PANCREAS: parcialmente visible por interposicion de aire intestinal s / p No se identifican adenomegalias BAZO: esplenomegalia homogenea.
+<
+
+
+  0,PANCREAS
+  1,:
+  2,parcialmente
+  3,visible
+  4,por
+  5,interposicion
+  6,de
+  7,aire
+  8,intestinal
+  9,s
+ 10,/
+ 11,p
+ 12,No
+ 13,se
+ 14,identifican
+ 15,adenomegalias
+ 16,BAZO
+ 17,:
+ 18,esplenomegalia
+ 19,homogenea
+ 20,.
+
+
+Linea  : 60 
+
+Buffer :|1167 T1 Neg T2 lesiones T3 No se visualizan lesiones nodulares solidas ni quisticas.
+|
+
+Linea  :  60 
+
+segm1  : >1167<
+segm2  : >Neg<
+segm3  : >lesiones<
+segm4  : >No se visualizan lesiones nodulares solidas ni quisticas.
+<
+
+
+  0,No
+  1,se
+  2,visualizan
+  3,lesiones
+  4,nodulares
+  5,solidas
+  6,ni
+  7,quisticas
+  8,.
+
+
+Linea  : 61 
+
+Buffer :|1171 T1 Neg T2 cambios T3 Se exploran rinones en decubito con transductor de alta frecuencia, no se observan imagenes patologicas o cambios de ecogenicidad en region media o polos, ectasias pielicas bilaterales, RIzquierdo con imagen sugerente de doble  sistema.
+|
+
+Linea  :  61 
+
+segm1  : >1171<
+segm2  : >Neg<
+segm3  : >cambios<
+segm4  : >Se exploran rinones en decubito con transductor de alta frecuencia, no se observan imagenes patologicas o cambios de ecogenicidad en region media o polos, ectasias pielicas bilaterales, RIzquierdo con imagen sugerente de doble  sistema.
+<
+
+
+  0,Se
+  1,exploran
+  2,rinones
+  3,en
+  4,decubito
+  5,con
+  6,transductor
+  7,de
+  8,alta
+  9,frecuencia
+ 10,,
+ 11,no
+ 12,se
+ 13,observan
+ 14,imagenes
+ 15,patologicas
+ 16,o
+ 17,cambios
+ 18,de
+ 19,ecogenicidad
+ 20,en
+ 21,region
+ 22,media
+ 23,o
+ 24,polos
+ 25,,
+ 26,ectasias
+ 27,pielicas
+ 28,bilaterales
+ 29,,
+ 30,RIzquierdo
+ 31,con
+ 32,imagen
+ 33,sugerente
+ 34,de
+ 35,doble
+ 36,sistema
+ 37,.
+
+
+Linea  : 62 
+
+Buffer :|1174 T1 Neg T2 masa T3 OVARIO DERECHO: 0.8(cm) x 0.5(cm) x 0.7(cm) Volumen: 0.2(cc) OVARIO IZQUIERDO: 0.8(cm) x 0.4(cm) x 0.6(cm) Volumen: 0.1(cc) No se visualiza masa pelviana ni en region glutea anteriormente conocida.
+|
+
+Linea  :  62 
+
+segm1  : >1174<
+segm2  : >Neg<
+segm3  : >masa<
+segm4  : >OVARIO DERECHO: 0.8(cm) x 0.5(cm) x 0.7(cm) Volumen: 0.2(cc) OVARIO IZQUIERDO: 0.8(cm) x 0.4(cm) x 0.6(cm) Volumen: 0.1(cc) No se visualiza masa pelviana ni en region glutea anteriormente conocida.
+<
+
+
+  0,OVARIO
+  1,DERECHO
+  2,:
+  3,0.8
+  4,(
+  5,cm
+  6,)
+  7,x
+  8,0.5
+  9,(
+ 10,cm
+ 11,)
+ 12,x
+ 13,0.7
+ 14,(
+ 15,cm
+ 16,)
+ 17,Volumen
+ 18,:
+ 19,0.2
+ 20,(
+ 21,cc
+ 22,)
+ 23,OVARIO
+ 24,IZQUIERDO
+ 25,:
+ 26,0.8
+ 27,(
+ 28,cm
+ 29,)
+ 30,x
+ 31,0.4
+ 32,(
+ 33,cm
+ 34,)
+ 35,x
+ 36,0.6
+ 37,(
+ 38,cm
+ 39,)
+ 40,Volumen
+ 41,:
+ 42,0.1
+ 43,(
+ 44,cc
+ 45,)
+ 46,No
+ 47,se
+ 48,visualiza
+ 49,masa
+ 50,pelviana
+ 51,ni
+ 52,en
+ 53,region
+ 54,glutea
+ 55,anteriormente
+ 56,conocida
+ 57,.
+
+
+Linea  : 63 
+
+Buffer :|1176 T1 Neg T2 herida T3 RD Diam Long: 9,1 cm RI Diam long:9,4 cm Vejiga de caracteristicas normales No se observa coleccion en herida quirurgica.
+|
+
+Linea  :  63 
+
+segm1  : >1176<
+segm2  : >Neg<
+segm3  : >herida<
+segm4  : >RD Diam Long: 9,1 cm RI Diam long:9,4 cm Vejiga de caracteristicas normales No se observa coleccion en herida quirurgica.
+<
+
+
+  0,RD
+  1,Diam
+  2,Long
+  3,:
+  4,9,1
+  5,cm
+  6,RI
+  7,Diam
+  8,long
+  9,:
+ 10,9,4
+ 11,cm
+ 12,Vejiga
+ 13,de
+ 14,caracteristicas
+ 15,normales
+ 16,No
+ 17,se
+ 18,observa
+ 19,coleccion
+ 20,en
+ 21,herida
+ 22,quirurgica
+ 23,.
+
+
+Linea  : 64 
+
+Buffer :|1183 T1 Neg T2 imagenes T3 5.9mm No se observaron cacificaciones ni imagenes quisticas en relacion con la misma.
+|
+
+Linea  :  64 
+
+segm1  : >1183<
+segm2  : >Neg<
+segm3  : >imagenes<
+segm4  : >5.9mm No se observaron cacificaciones ni imagenes quisticas en relacion con la misma.
+<
+
+
+  0,5.9
+  1,mm
+  2,No
+  3,se
+  4,observaron
+  5,cacificaciones
+  6,ni
+  7,imagenes
+  8,quisticas
+  9,en
+ 10,relacion
+ 11,con
+ 12,la
+ 13,misma
+ 14,.
+
+
+Linea  : 65 
+
+Buffer :|1186 T1 Neg T2 nodular T3 875104 Ambos lobulos tiroideos e istmo con ecoestructura finamente heterogenea difusa, no nodular.
+|
+
+Linea  :  65 
+
+segm1  : >1186<
+segm2  : >Neg<
+segm3  : >nodular<
+segm4  : >875104 Ambos lobulos tiroideos e istmo con ecoestructura finamente heterogenea difusa, no nodular.
+<
+
+
+  0,875104
+  1,Ambos
+  2,lobulos
+  3,tiroideos
+  4,e
+  5,istmo
+  6,con
+  7,ecoestructura
+  8,finamente
+  9,heterogenea
+ 10,difusa
+ 11,,
+ 12,no
+ 13,nodular
+ 14,.
+
+
+Linea  : 66 
+
+Buffer :|1189 T1 Neg T2 dilatacion T3 Sin dilatacion No se detecto dilatacion  ureteral.
+|
+
+Linea  :  66 
+
+segm1  : >1189<
+segm2  : >Neg<
+segm3  : >dilatacion<
+segm4  : >Sin dilatacion No se detecto dilatacion  ureteral.
+<
+
+
+  0,Sin
+  1,dilatacion
+  2,No
+  3,se
+  4,detecto
+  5,dilatacion
+  6,ureteral
+  7,.
+
+
+Linea  : 67 
+
+Buffer :|1191 T1 Neg T2 Derivacion T3 / 1 COLATERALES: Vena coronaria en epiplon:no Derivacion dorsal:no Hemorroidales: no vasos cortos:no Ascitis:moderada Rinones de caracteristicas normales Conclusion: se observan signos ecograficos de hipertension  portal.
+|
+
+Linea  :  67 
+
+segm1  : >1191<
+segm2  : >Neg<
+segm3  : >derivacion<
+segm4  : >/ 1 COLATERALES: Vena coronaria en epiplon:no Derivacion dorsal:no Hemorroidales: no vasos cortos:no Ascitis:moderada Rinones de caracteristicas normales Conclusion: se observan signos ecograficos de hipertension  portal.
+<
+
+
+  0,/
+  1,1
+  2,COLATERALES
+  3,:
+  4,Vena
+  5,coronaria
+  6,en
+  7,epiplon
+  8,:
+  9,no
+ 10,Derivacion
+ 11,dorsal
+ 12,:
+ 13,no
+ 14,Hemorroidales
+ 15,:
+ 16,no
+ 17,vasos
+ 18,cortos
+ 19,:
+ 20,no
+ 21,Ascitis
+ 22,:
+ 23,moderada
+ 24,Rinones
+ 25,de
+ 26,caracteristicas
+ 27,normales
+ 28,Conclusion
+ 29,:
+ 30,se
+ 31,observan
+ 32,signos
+ 33,ecograficos
+ 34,de
+ 35,hipertension
+ 36,portal
+ 37,.
+
+
+Linea  : 68 
+
+Buffer :|1193 T1 Neg T2 nodular T3 RD Diam Long: 9.9 cm RI Diam long:9.7 cm Vejiga de caracteristicas normales Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.
+|
+
+Linea  :  68 
+
+segm1  : >1193<
+segm2  : >Neg<
+segm3  : >nodular<
+segm4  : >RD Diam Long: 9.9 cm RI Diam long:9.7 cm Vejiga de caracteristicas normales Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.
+<
+
+
+  0,RD
+  1,Diam
+  2,Long
+  3,:
+  4,9.9
+  5,cm
+  6,RI
+  7,Diam
+  8,long
+  9,:
+ 10,9.7
+ 11,cm
+ 12,Vejiga
+ 13,de
+ 14,caracteristicas
+ 15,normales
+ 16,Ambos
+ 17,lobulos
+ 18,tiroideos
+ 19,e
+ 20,istmo
+ 21,con
+ 22,ecoestructura
+ 23,heterogenea
+ 24,difusa
+ 25,no
+ 26,nodular
+ 27,y
+ 28,aumentados
+ 29,globalmente
+ 30,de
+ 31,tamano
+ 32,.
+
+
+Linea  : 69 
+
+Buffer :|1194 T1 Neg T2 tension T3 Rinon derecho con dilatacion pielocalicial no a tension.
+|
+
+Linea  :  69 
+
+segm1  : >1194<
+segm2  : >Neg<
+segm3  : >tension<
+segm4  : >Rinon derecho con dilatacion pielocalicial no a tension.
+<
+
+
+  0,Rinon
+  1,derecho
+  2,con
+  3,dilatacion
+  4,pielocalicial
+  5,no
+  6,a
+  7,tension
+  8,.
+
+
+Linea  : 70 
+
+Buffer :|1196 T1 Neg T2 imagenes T3 No se visualizan imagenes de aspecto patologico evaluables por este metodo, ni diferencicas significativas a la comparacion con el contralateral.
+|
+
+Linea  :  70 
+
+segm1  : >1196<
+segm2  : >Neg<
+segm3  : >imagenes<
+segm4  : >No se visualizan imagenes de aspecto patologico evaluables por este metodo, ni diferencicas significativas a la comparacion con el contralateral.
+<
+
+
+  0,No
+  1,se
+  2,visualizan
+  3,imagenes
+  4,de
+  5,aspecto
+  6,patologico
+  7,evaluables
+  8,por
+  9,este
+ 10,metodo
+ 11,,
+ 12,ni
+ 13,diferencicas
+ 14,significativas
+ 15,a
+ 16,la
+ 17,comparacion
+ 18,con
+ 19,el
+ 20,contralateral
+ 21,.
+
+
+Linea  : 71 
+
+Buffer :|1197 T1 Neg T2 cambios T3 Dilatacion pielica de 2.3(cm) de diametro anterposterior, sin cambios postmiccionales No se detecto dilatacion  ureteral.
+|
+
+Linea  :  71 
+
+segm1  : >1197<
+segm2  : >Neg<
+segm3  : >cambios<
+segm4  : >Dilatacion pielica de 2.3(cm) de diametro anterposterior, sin cambios postmiccionales No se detecto dilatacion  ureteral.
+<
+
+
+  0,Dilatacion
+  1,pielica
+  2,de
+  3,2.3
+  4,(
+  5,cm
+  6,)
+  7,de
+  8,diametro
+  9,anterposterior
+ 10,,
+ 11,sin
+ 12,cambios
+ 13,postmiccionales
+ 14,No
+ 15,se
+ 16,detecto
+ 17,dilatacion
+ 18,ureteral
+ 19,.
+
+
+Linea  : 72 
+
+Buffer :|1198 T1 Neg T2 imagen T3 Vejiga de caracteristicas normales No se visualizan imagenes compatibles con invaginacion intestinal.
+|
+
+Linea  :  72 
+
+segm1  : >1198<
+segm2  : >Neg<
+segm3  : >imagen<
+segm4  : >Vejiga de caracteristicas normales No se visualizan imagenes compatibles con invaginacion intestinal.
+<
+
+
+  0,Vejiga
+  1,de
+  2,caracteristicas
+  3,normales
+  4,No
+  5,se
+  6,visualizan
+  7,imagenes
+  8,compatibles
+  9,con
+ 10,invaginacion
+ 11,intestinal
+ 12,.
+
+
+Linea  : 73 
+
+Buffer :|1199 T1 Neg T2 lesiones T3 Tiene arco %  ' o elisa   lla mdre refiere mataderos cerca, si bien no se ven otras lesiones, dejo las rx de torax en la casa, podrian pedirselas en nueva consulta.
+|
+
+Linea  :  73 
+
+segm1  : >1199<
+segm2  : >Neg<
+segm3  : >lesiones<
+segm4  : >Tiene arco %  ' o elisa   lla mdre refiere mataderos cerca, si bien no se ven otras lesiones, dejo las rx de torax en la casa, podrian pedirselas en nueva consulta.
+<
+
+
+  0,Tiene
+  1,arco
+  2,%
+  3,'
+  4,o
+  5,elisa
+  6,lla
+  7,mdre
+  8,refiere
+  9,mataderos
+ 10,cerca
+ 11,,
+ 12,si
+ 13,bien
+ 14,no
+ 15,se
+ 16,ven
+ 17,otras
+ 18,lesiones
+ 19,,
+ 20,dejo
+ 21,las
+ 22,rx
+ 23,de
+ 24,torax
+ 25,en
+ 26,la
+ 27,casa
+ 28,,
+ 29,podrian
+ 30,pedirselas
+ 31,en
+ 32,nueva
+ 33,consulta
+ 34,.
+
+
+Linea  : 74 
+
+Buffer :|1200 T1 Neg T2 adenomegalias T3 Pequenas imagenes quisticas de aspecto coloide no mayores a tres milimetros No se detectaron adenomegalias laterocervicales.
+|
+
+Linea  :  74 
+
+segm1  : >1200<
+segm2  : >Neg<
+segm3  : >adenomegalias<
+segm4  : >Pequenas imagenes quisticas de aspecto coloide no mayores a tres milimetros No se detectaron adenomegalias laterocervicales.
+<
+
+
+  0,Pequenas
+  1,imagenes
+  2,quisticas
+  3,de
+  4,aspecto
+  5,coloide
+  6,no
+  7,mayores
+  8,a
+  9,tres
+ 10,milimetros
+ 11,No
+ 12,se
+ 13,detectaron
+ 14,adenomegalias
+ 15,laterocervicales
+ 16,.
+
+
+Linea  : 75 
+
+Buffer :|1201 T1 Neg T2 patologia T3 A360943 Ecografia Pleural Der: No se visualiza patologia pleuropulmonar por este metodo Izq: Derrame  pleural anecoico, con multiples tabiques, algunos de ellos gruesos, con consolidacion parenquimatosa subyacente.
+|
+
+Linea  :  75 
+
+segm1  : >1201<
+segm2  : >Neg<
+segm3  : >patologia<
+segm4  : >A360943 Ecografia Pleural Der: No se visualiza patologia pleuropulmonar por este metodo Izq: Derrame  pleural anecoico, con multiples tabiques, algunos de ellos gruesos, con consolidacion parenquimatosa subyacente.
+<
+
+
+  0,A360943
+  1,Ecografia
+  2,Pleural
+  3,Der
+  4,:
+  5,No
+  6,se
+  7,visualiza
+  8,patologia
+  9,pleuropulmonar
+ 10,por
+ 11,este
+ 12,metodo
+ 13,Izq
+ 14,:
+ 15,Derrame
+ 16,pleural
+ 17,anecoico
+ 18,,
+ 19,con
+ 20,multiples
+ 21,tabiques
+ 22,,
+ 23,algunos
+ 24,de
+ 25,ellos
+ 26,gruesos
+ 27,,
+ 28,con
+ 29,consolidacion
+ 30,parenquimatosa
+ 31,subyacente
+ 32,.
+
+
+Linea  : 76 
+
+Buffer :|1205 T1 Neg T2 imagen T3 999657 No se observa imagen compatible con glandula tiroides.
+|
+
+Linea  :  76 
+
+segm1  : >1205<
+segm2  : >Neg<
+segm3  : >imagen<
+segm4  : >999657 No se observa imagen compatible con glandula tiroides.
+<
+
+
+  0,999657
+  1,No
+  2,se
+  3,observa
+  4,imagen
+  5,compatible
+  6,con
+  7,glandula
+  8,tiroides
+  9,.
+
+
+Linea  : 77 
+
+Buffer :|1207 T1 Neg T2 liquido T3 Bazo: 7.5 cm No se observa liquido libre
+|
+
+Linea  :  77 
+
+segm1  : >1207<
+segm2  : >Neg<
+segm3  : >liquido<
+segm4  : >Bazo: 7.5 cm No se observa liquido libre
+<
+
+
+  0,Bazo
+  1,:
+  2,7.5
+  3,cm
+  4,No
+  5,se
+  6,observa
+  7,liquido
+  8,libre
+
+
+Linea  : 78 
+
+Buffer :|1208 T1 Neg T2 dilatacion T3 Ambos rinones ortotopicos, con aumento de ecogenicidad y menor diferencicion corticomedular, no se visualiza dilatacion pielica.
+|
+
+Linea  :  78 
+
+segm1  : >1208<
+segm2  : >Neg<
+segm3  : >dilatacion<
+segm4  : >Ambos rinones ortotopicos, con aumento de ecogenicidad y menor diferencicion corticomedular, no se visualiza dilatacion pielica.
+<
+
+
+  0,Ambos
+  1,rinones
+  2,ortotopicos
+  3,,
+  4,con
+  5,aumento
+  6,de
+  7,ecogenicidad
+  8,y
+  9,menor
+ 10,diferencicion
+ 11,corticomedular
+ 12,,
+ 13,no
+ 14,se
+ 15,visualiza
+ 16,dilatacion
+ 17,pielica
+ 18,.
+
+
+Linea  : 79 
+
+Buffer :|1210 T1 Neg T2 dilatada  T3 extrahepatica: No dilatada  Vesicula biliar: de paredes engrosadas con flujo  venoso colateral visible.
+|
+
+Linea  :  79 
+
+segm1  : >1210<
+segm2  : >Neg<
+segm3  : >dilatada<
+segm4  : >extrahepatica: No dilatada  Vesicula biliar: de paredes engrosadas con flujo  venoso colateral visible.
+<
+
+
+  0,extrahepatica
+  1,:
+  2,No
+  3,dilatada
+  4,Vesicula
+  5,biliar
+  6,:
+  7,de
+  8,paredes
+  9,engrosadas
+ 10,con
+ 11,flujo
+ 12,venoso
+ 13,colateral
+ 14,visible
+ 15,.
+
+
+Linea  : 80 
+
+Buffer :|1213 T1 Neg T2 masa T3 A349781 Ecoestructura parenquimatosa cerebral y de nucleos de la base sin alteraciones sin desviaciones de la linea media, efectos de masa, ni colecciones.
+|
+
+Linea  :  80 
+
+segm1  : >1213<
+segm2  : >Neg<
+segm3  : >masa<
+segm4  : >A349781 Ecoestructura parenquimatosa cerebral y de nucleos de la base sin alteraciones sin desviaciones de la linea media, efectos de masa, ni colecciones.
+<
+
+
+  0,A349781
+  1,Ecoestructura
+  2,parenquimatosa
+  3,cerebral
+  4,y
+  5,de
+  6,nucleos
+  7,de
+  8,la
+  9,base
+ 10,sin
+ 11,alteraciones
+ 12,sin
+ 13,desviaciones
+ 14,de
+ 15,la
+ 16,linea
+ 17,media
+ 18,,
+ 19,efectos
+ 20,de
+ 21,masa
+ 22,,
+ 23,ni
+ 24,colecciones
+ 25,.
+
+
+Linea  : 81 
+
+Buffer :|1214 T1 Neg T2 imagenes T3 64072 No se observan imagenes de significacion en la pared abdominal en la region de interes.
+|
+
+Linea  :  81 
+
+segm1  : >1214<
+segm2  : >Neg<
+segm3  : >imagenes<
+segm4  : >64072 No se observan imagenes de significacion en la pared abdominal en la region de interes.
+<
+
+
+  0,64072
+  1,No
+  2,se
+  3,observan
+  4,imagenes
+  5,de
+  6,significacion
+  7,en
+  8,la
+  9,pared
+ 10,abdominal
+ 11,en
+ 12,la
+ 13,region
+ 14,de
+ 15,interes
+ 16,.
+
+
+Linea  : 82 
+
+Buffer :|1219 T1 Neg T2 nodular T3 A57035 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.
+|
+
+Linea  :  82 
+
+segm1  : >1219<
+segm2  : >Neg<
+segm3  : >nodular<
+segm4  : >A57035 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.
+<
+
+
+  0,A57035
+  1,Ambos
+  2,lobulos
+  3,tiroideos
+  4,e
+  5,istmo
+  6,con
+  7,ecoestructura
+  8,heterogenea
+  9,difusa
+ 10,no
+ 11,nodular
+ 12,y
+ 13,aumentados
+ 14,globalmente
+ 15,de
+ 16,tamano
+ 17,.
+
+
+Linea  : 83 
+
+Buffer :|1221 T1 Neg T2 liquido intraarticular T3 No se visualiza liquido intraarticular ni imagenes compatibles con coleccion.
+|
+
+Linea  :  83 
+
+segm1  : >1221<
+segm2  : >Neg<
+segm3  : >liquido intraarticular<
+segm4  : >No se visualiza liquido intraarticular ni imagenes compatibles con coleccion.
+<
+
+
+  0,No
+  1,se
+  2,visualiza
+  3,liquido
+  4,intraarticular
+  5,ni
+  6,imagenes
+  7,compatibles
+  8,con
+  9,coleccion
+ 10,.
+
+
+Linea  : 84 
+
+Buffer :|1223 T1 Neg T2 liquido T3 No se observa liquido libre ni colecciones.
+|
+
+Linea  :  84 
+
+segm1  : >1223<
+segm2  : >Neg<
+segm3  : >liquido<
+segm4  : >No se observa liquido libre ni colecciones.
+<
+
+
+  0,No
+  1,se
+  2,observa
+  3,liquido
+  4,libre
+  5,ni
+  6,colecciones
+  7,.
+
+
+Linea  : 85 
+
+Buffer :|1225 T1 Neg T2 masa T3 No se observan colecciones ni efectos de masa.
+|
+
+Linea  :  85 
+
+segm1  : >1225<
+segm2  : >Neg<
+segm3  : >masa<
+segm4  : >No se observan colecciones ni efectos de masa.
+<
+
+
+  0,No
+  1,se
+  2,observan
+  3,colecciones
+  4,ni
+  5,efectos
+  6,de
+  7,masa
+  8,.
+
+
+Linea  : 86 
+
+Buffer :|1226 T1 Neg T2 nodular T3 486628 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular, tamano aconservado Luz traqueal  centrada.
+|
+
+Linea  :  86 
+
+segm1  : >1226<
+segm2  : >Neg<
+segm3  : >nodular<
+segm4  : >486628 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular, tamano aconservado Luz traqueal  centrada.
+<
+
+
+  0,486628
+  1,Ambos
+  2,lobulos
+  3,tiroideos
+  4,e
+  5,istmo
+  6,con
+  7,ecoestructura
+  8,heterogenea
+  9,difusa
+ 10,no
+ 11,nodular
+ 12,,
+ 13,tamano
+ 14,aconservado
+ 15,Luz
+ 16,traqueal
+ 17,centrada
+ 18,.
+
+
+Linea  : 87 
+
+Buffer :|1227 T1 Neg T2 dilatada  T3 395021 Higado: heterogeneo  difuso contorno nodular  Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: no visible Pancreas:sp Bazo: homogeneo.
+|
+
+Linea  :  87 
+
+segm1  : >1227<
+segm2  : >Neg<
+segm3  : >dilatada<
+segm4  : >395021 Higado: heterogeneo  difuso contorno nodular  Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: no visible Pancreas:sp Bazo: homogeneo.
+<
+
+
+  0,395021
+  1,Higado
+  2,:
+  3,heterogeneo
+  4,difuso
+  5,contorno
+  6,nodular
+  7,Via
+  8,biliar
+  9,intra
+ 10,y
+ 11,extrahepatica
+ 12,:
+ 13,no
+ 14,dilatada
+ 15,Vesicula
+ 16,biliar
+ 17,:
+ 18,no
+ 19,visible
+ 20,Pancreas
+ 21,:
+ 22,sp
+ 23,Bazo
+ 24,:
+ 25,homogeneo
+ 26,.
+
+
+Linea  : 88 
+
+Buffer :|1232 T1 Neg T2 TROMBOSIS T3 272872 DOPPLER COLOR PULSADO Y COLOR NO SE OBSERVAN IMAGENES SUGERENTES DE TROMBOSIS A NIVEL DE SISTEMA ARTERIAL O VENOSO DE MIEMBROS INFERIORES.
+|
+
+Linea  :  88 
+
+segm1  : >1232<
+segm2  : >Neg<
+segm3  : >trombosis<
+segm4  : >272872 DOPPLER COLOR PULSADO Y COLOR NO SE OBSERVAN IMAGENES SUGERENTES DE TROMBOSIS A NIVEL DE SISTEMA ARTERIAL O VENOSO DE MIEMBROS INFERIORES.
+<
+
+
+  0,272872
+  1,DOPPLER
+  2,COLOR
+  3,PULSADO
+  4,Y
+  5,COLOR
+  6,NO
+  7,SE
+  8,OBSERVAN
+  9,IMAGENES
+ 10,SUGERENTES
+ 11,DE
+ 12,TROMBOSIS
+ 13,A
+ 14,NIVEL
+ 15,DE
+ 16,SISTEMA
+ 17,ARTERIAL
+ 18,O
+ 19,VENOSO
+ 20,DE
+ 21,MIEMBROS
+ 22,INFERIORES
+ 23,.
+
+
+Linea  : 89 
+
+Buffer :|1234 T1 Neg T2 nodular T3 A255796 Se observa glandula tiroides aumentada globalmente de tamano, de contorno lobulado, con ecoestructura finamente heterogenea, no nodular, predominantemente hipoecoica, hipervascularizada.
+|
+
+Linea  :  89 
+
+segm1  : >1234<
+segm2  : >Neg<
+segm3  : >nodular<
+segm4  : >A255796 Se observa glandula tiroides aumentada globalmente de tamano, de contorno lobulado, con ecoestructura finamente heterogenea, no nodular, predominantemente hipoecoica, hipervascularizada.
+<
+
+
+  0,A255796
+  1,Se
+  2,observa
+  3,glandula
+  4,tiroides
+  5,aumentada
+  6,globalmente
+  7,de
+  8,tamano
+  9,,
+ 10,de
+ 11,contorno
+ 12,lobulado
+ 13,,
+ 14,con
+ 15,ecoestructura
+ 16,finamente
+ 17,heterogenea
+ 18,,
+ 19,no
+ 20,nodular
+ 21,,
+ 22,predominantemente
+ 23,hipoecoica
+ 24,,
+ 25,hipervascularizada
+ 26,.
+
+
+Linea  : 90 
+
+Buffer :|1239 T1 Neg T2 calcificaciones T3 Sin calcificaciones, ni vascularizacion en su interior.
+|
+
+Linea  :  90 
+
+segm1  : >1239<
+segm2  : >Neg<
+segm3  : >calcificaciones<
+segm4  : >Sin calcificaciones, ni vascularizacion en su interior.
+<
+
+
+  0,Sin
+  1,calcificaciones
+  2,,
+  3,ni
+  4,vascularizacion
+  5,en
+  6,su
+  7,interior
+  8,.
+
+
+Linea  : 91 
+
+Buffer :|1241 T1 Neg T2 imagenes T3 Se explora abdomen, no se observa imagenes compatibles con pseudoquiste.
+|
+
+Linea  :  91 
+
+segm1  : >1241<
+segm2  : >Neg<
+segm3  : >imagenes<
+segm4  : >Se explora abdomen, no se observa imagenes compatibles con pseudoquiste.
+<
+
+
+  0,Se
+  1,explora
+  2,abdomen
+  3,,
+  4,no
+  5,se
+  6,observa
+  7,imagenes
+  8,compatibles
+  9,con
+ 10,pseudoquiste
+ 11,.
+
+
+Linea  : 92 
+
+Buffer :|1242 T1 Neg T2 aumento T3 No se observa aumento del liquido  articular ni alteraciones musculares en la region explorada.
+|
+
+Linea  :  92 
+
+segm1  : >1242<
+segm2  : >Neg<
+segm3  : >aumento<
+segm4  : >No se observa aumento del liquido  articular ni alteraciones musculares en la region explorada.
+<
+
+
+  0,No
+  1,se
+  2,observa
+  3,aumento
+  4,del
+  5,liquido
+  6,articular
+  7,ni
+  8,alteraciones
+  9,musculares
+ 10,en
+ 11,la
+ 12,region
+ 13,explorada
+ 14,.
+
+
+Linea  : 93 
+
+Buffer :|1243 T1 Neg T2 imagenes T3 32.0 cc Ovarios con ecoestructura conservada, no se identifican imagenes quisticas.
+|
+
+Linea  :  93 
+
+segm1  : >1243<
+segm2  : >Neg<
+segm3  : >imagenes<
+segm4  : >32.0 cc Ovarios con ecoestructura conservada, no se identifican imagenes quisticas.
+<
+
+
+  0,32.0
+  1,cc
+  2,Ovarios
+  3,con
+  4,ecoestructura
+  5,conservada
+  6,,
+  7,no
+  8,se
+  9,identifican
+ 10,imagenes
+ 11,quisticas
+ 12,.
+
+
+Linea  : 94 
+
+Buffer :|1245 T1 Neg T2 stent T3 Exploracion directa extrarrenal: Arteria renal derecha con flujo turbulento en tercio proximal y aumento de la velocidad( 212 cm / seg) a dicho nivel, con disminucon de la velocidad en dos tercios distales(65 cm / seg) sugestivo de estenosis no se visualiza stent a traves de este metodo.
+|
+
+Linea  :  94 
+
+segm1  : >1245<
+segm2  : >Neg<
+segm3  : >stent<
+segm4  : >Exploracion directa extrarrenal: Arteria renal derecha con flujo turbulento en tercio proximal y aumento de la velocidad( 212 cm / seg) a dicho nivel, con disminucon de la velocidad en dos tercios distales(65 cm / seg) sugestivo de estenosis no se visualiza stent a traves de este metodo.
+<
+
+
+  0,Exploracion
+  1,directa
+  2,extrarrenal
+  3,:
+  4,Arteria
+  5,renal
+  6,derecha
+  7,con
+  8,flujo
+  9,turbulento
+ 10,en
+ 11,tercio
+ 12,proximal
+ 13,y
+ 14,aumento
+ 15,de
+ 16,la
+ 17,velocidad
+ 18,(
+ 19,212
+ 20,cm
+ 21,/
+ 22,seg
+ 23,)
+ 24,a
+ 25,dicho
+ 26,nivel
+ 27,,
+ 28,con
+ 29,disminucon
+ 30,de
+ 31,la
+ 32,velocidad
+ 33,en
+ 34,dos
+ 35,tercios
+ 36,distales
+ 37,(
+ 38,65
+ 39,cm
+ 40,/
+ 41,seg
+ 42,)
+ 43,sugestivo
+ 44,de
+ 45,estenosis
+ 46,no
+ 47,se
+ 48,visualiza
+ 49,stent
+ 50,a
+ 51,traves
+ 52,de
+ 53,este
+ 54,metodo
+ 55,.
+
+
+Linea  : 95 
+
+Buffer :|1249 T1 Neg T2 imagenes T3 No se visualizan imagenes quisticas ni nodulares.
+|
+
+Linea  :  95 
+
+segm1  : >1249<
+segm2  : >Neg<
+segm3  : >imagenes<
+segm4  : >No se visualizan imagenes quisticas ni nodulares.
+<
+
+
+  0,No
+  1,se
+  2,visualizan
+  3,imagenes
+  4,quisticas
+  5,ni
+  6,nodulares
+  7,.
+
+
+Linea  : 96 
+
+Buffer :|1252 T1 Neg T2 imagenes T3 no se observan imagenes quisticas ni sugestivas de duplicacion
+|
+
+Linea  :  96 
+
+segm1  : >1252<
+segm2  : >Neg<
+segm3  : >imagenes<
+segm4  : >no se observan imagenes quisticas ni sugestivas de duplicacion
+<
+
+
+  0,no
+  1,se
+  2,observan
+  3,imagenes
+  4,quisticas
+  5,ni
+  6,sugestivas
+  7,de
+  8,duplicacion
+
+
+Linea  : 97 
+
+Buffer :|1261 T1 Neg T2 liquido  T3 A227434 Ecografia de ambas caderas comparativas: No se identifica liquido  articular en ambas caderas.
+|
+
+Linea  :  97 
+
+segm1  : >1261<
+segm2  : >Neg<
+segm3  : >liquido<
+segm4  : >A227434 Ecografia de ambas caderas comparativas: No se identifica liquido  articular en ambas caderas.
+<
+
+
+  0,A227434
+  1,Ecografia
+  2,de
+  3,ambas
+  4,caderas
+  5,comparativas
+  6,:
+  7,No
+  8,se
+  9,identifica
+ 10,liquido
+ 11,articular
+ 12,en
+ 13,ambas
+ 14,caderas
+ 15,.
+
+
+Linea  : 98 
+
+Buffer :|1263 T1 Neg T2 dilatada  T3 Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: de paredes gruesas con varices perivesiculares.
+|
+
+Linea  :  98 
+
+segm1  : >1263<
+segm2  : >Neg<
+segm3  : >dilatada<
+segm4  : >Via biliar intra y extrahepatica: no dilatada  Vesicula biliar: de paredes gruesas con varices perivesiculares.
+<
+
+
+  0,Via
+  1,biliar
+  2,intra
+  3,y
+  4,extrahepatica
+  5,:
+  6,no
+  7,dilatada
+  8,Vesicula
+  9,biliar
+ 10,:
+ 11,de
+ 12,paredes
+ 13,gruesas
+ 14,con
+ 15,varices
+ 16,perivesiculares
+ 17,.
+
+
+Linea  : 99 
+
+Buffer :|1266 T1 Neg T2 liquido T3 se oservan dos uteros y dos cuellos de forma y estructura conservada( utero didelfo) Ut der:69x48x21 mm endometrio 6 mm Ut izq: 53 x 42x 29 mm endometrio 7 mm ovario derecho 38x30x15 mm vol: 9.5 cc ovario izquierdo: 42x30x20 mm vol:13 cc foliculo dominante de 19 mm No se observa liquido libre en cavidad
+|
+
+Linea  :  99 
+
+segm1  : >1266<
+segm2  : >Neg<
+segm3  : >liquido<
+segm4  : >se oservan dos uteros y dos cuellos de forma y estructura conservada( utero didelfo) Ut der:69x48x21 mm endometrio 6 mm Ut izq: 53 x 42x 29 mm endometrio 7 mm ovario derecho 38x30x15 mm vol: 9.5 cc ovario izquierdo: 42x30x20 mm vol:13 cc foliculo dominante de 19 mm No se observa liquido libre en cavidad
+<
+
+
+  0,se
+  1,oservan
+  2,dos
+  3,uteros
+  4,y
+  5,dos
+  6,cuellos
+  7,de
+  8,forma
+  9,y
+ 10,estructura
+ 11,conservada
+ 12,(
+ 13,utero
+ 14,didelfo
+ 15,)
+ 16,Ut
+ 17,der
+ 18,:
+ 19,69
+ 20,x
+ 21,48
+ 22,x
+ 23,21
+ 24,mm
+ 25,endometrio
+ 26,6
+ 27,mm
+ 28,Ut
+ 29,izq
+ 30,:
+ 31,53
+ 32,x
+ 33,42
+ 34,x
+ 35,29
+ 36,mm
+ 37,endometrio
+ 38,7
+ 39,mm
+ 40,ovario
+ 41,derecho
+ 42,38
+ 43,x
+ 44,30
+ 45,x
+ 46,15
+ 47,mm
+ 48,vol
+ 49,:
+ 50,9.5
+ 51,cc
+ 52,ovario
+ 53,izquierdo
+ 54,:
+ 55,42
+ 56,x
+ 57,30
+ 58,x
+ 59,20
+ 60,mm
+ 61,vol
+ 62,:
+ 63,13
+ 64,cc
+ 65,foliculo
+ 66,dominante
+ 67,de
+ 68,19
+ 69,mm
+ 70,No
+ 71,se
+ 72,observa
+ 73,liquido
+ 74,libre
+ 75,en
+ 76,cavidad
+
+
+Linea  : 100 
+
+Buffer :|1267 T1 Neg T2 hidrocele T3 Se observa a nivel de tercio medio posterior de testiculo derecho, imagen hipoecoica de bordes definidos sugerente de restos adrenales( mide:6.7 x 2.1 mm) Dimensiones: Testiculo derecho: Volumen:3( cc ) Testiculo izquierdo: Volumen: 3.7(cc) No se observa hidrocele o varicocele.
+|
+
+Linea  :  100 
+
+segm1  : >1267<
+segm2  : >Neg<
+segm3  : >hidrocele<
+segm4  : >Se observa a nivel de tercio medio posterior de testiculo derecho, imagen hipoecoica de bordes definidos sugerente de restos adrenales( mide:6.7 x 2.1 mm) Dimensiones: Testiculo derecho: Volumen:3( cc ) Testiculo izquierdo: Volumen: 3.7(cc) No se observa hidrocele o varicocele.
+<
+
+
+  0,Se
+  1,observa
+  2,a
+  3,nivel
+  4,de
+  5,tercio
+  6,medio
+  7,posterior
+  8,de
+  9,testiculo
+ 10,derecho
+ 11,,
+ 12,imagen
+ 13,hipoecoica
+ 14,de
+ 15,bordes
+ 16,definidos
+ 17,sugerente
+ 18,de
+ 19,restos
+ 20,adrenales
+ 21,(
+ 22,mide
+ 23,:
+ 24,6.7
+ 25,x
+ 26,2.1
+ 27,mm
+ 28,)
+ 29,Dimensiones
+ 30,:
+ 31,Testiculo
+ 32,derecho
+ 33,:
+ 34,Volumen
+ 35,:
+ 36,3
+ 37,(
+ 38,cc
+ 39,)
+ 40,Testiculo
+ 41,izquierdo
+ 42,:
+ 43,Volumen
+ 44,:
+ 45,3.7
+ 46,(
+ 47,cc
+ 48,)
+ 49,No
+ 50,se
+ 51,observa
+ 52,hidrocele
+ 53,o
+ 54,varicocele
+ 55,.
+
+
+Linea  : 101 
+
+Buffer :|1271 T1 Neg T2 dilatada  T3 Via urinaria no dilatada  Rinon izquierdo de tamano y ecoestructura normal.
+|
+
+Linea  :  101 
+
+segm1  : >1271<
+segm2  : >Neg<
+segm3  : >dilatada<
+segm4  : >Via urinaria no dilatada  Rinon izquierdo de tamano y ecoestructura normal.
+<
+
+
+  0,Via
+  1,urinaria
+  2,no
+  3,dilatada
+  4,Rinon
+  5,izquierdo
+  6,de
+  7,tamano
+  8,y
+  9,ecoestructura
+ 10,normal
+ 11,.
+
+
+Linea  : 102 
+
+Buffer :|1272 T1 Neg T2 dilatada T3 VCI permeable.No se visualiza flujo  portal en hilio observandose colaterales venosas.Via biliar no dilatada.
+|
+
+Linea  :  102 
+
+segm1  : >1272<
+segm2  : >Neg<
+segm3  : >dilatada<
+segm4  : >VCI permeable.No se visualiza flujo  portal en hilio observandose colaterales venosas.Via biliar no dilatada.
+<
+
+
+  0,VCI
+  1,permeable
+  2,.
+  3,No
+  4,se
+  5,visualiza
+  6,flujo
+  7,portal
+  8,en
+  9,hilio
+ 10,observandose
+ 11,colaterales
+ 12,venosas
+ 13,.
+ 14,Via
+ 15,biliar
+ 16,no
+ 17,dilatada
+ 18,.
+
+
+Linea  : 103 
+
+Buffer :|1273 T1 Neg T2 comunicacion T3 Hidrocele bilateral extendiendose a conducto inguinal, no se observa comunicacion con abdomen.
+|
+
+Linea  :  103 
+
+segm1  : >1273<
+segm2  : >Neg<
+segm3  : >comunicacion<
+segm4  : >Hidrocele bilateral extendiendose a conducto inguinal, no se observa comunicacion con abdomen.
+<
+
+
+  0,Hidrocele
+  1,bilateral
+  2,extendiendose
+  3,a
+  4,conducto
+  5,inguinal
+  6,,
+  7,no
+  8,se
+  9,observa
+ 10,comunicacion
+ 11,con
+ 12,abdomen
+ 13,.
+
+
+Linea  : 104 
+
+Buffer :|1274 T1 Neg T2 aumento T3 No se observa aumento de flujo en su interior ni signos de abscedacion.
+|
+
+Linea  :  104 
+
+segm1  : >1274<
+segm2  : >Neg<
+segm3  : >aumento<
+segm4  : >No se observa aumento de flujo en su interior ni signos de abscedacion.
+<
+
+
+  0,No
+  1,se
+  2,observa
+  3,aumento
+  4,de
+  5,flujo
+  6,en
+  7,su
+  8,interior
+  9,ni
+ 10,signos
+ 11,de
+ 12,abscedacion
+ 13,.
+
+
+Linea  : 105 
+
+Buffer :|1275 T1 Neg T2 imagenes T3 No se observan imagenes quisticas ni solidas.
+|
+
+Linea  :  105 
+
+segm1  : >1275<
+segm2  : >Neg<
+segm3  : >imagenes<
+segm4  : >No se observan imagenes quisticas ni solidas.
+<
+
+
+  0,No
+  1,se
+  2,observan
+  3,imagenes
+  4,quisticas
+  5,ni
+  6,solidas
+  7,.
+
+
+Linea  : 106 
+
+Buffer :|1279 T1 Neg T2 dilatacion T3 Higado de forma, tamano y ecoestructura habitual, no se evidencia dilatacion de la via intra ni extrahepatica.
+|
+
+Linea  :  106 
+
+segm1  : >1279<
+segm2  : >Neg<
+segm3  : >dilatacion<
+segm4  : >Higado de forma, tamano y ecoestructura habitual, no se evidencia dilatacion de la via intra ni extrahepatica.
+<
+
+
+  0,Higado
+  1,de
+  2,forma
+  3,,
+  4,tamano
+  5,y
+  6,ecoestructura
+  7,habitual
+  8,,
+  9,no
+ 10,se
+ 11,evidencia
+ 12,dilatacion
+ 13,de
+ 14,la
+ 15,via
+ 16,intra
+ 17,ni
+ 18,extrahepatica
+ 19,.
+
+
+Linea  : 107 
+
+Buffer :|1281 T1 Neg T2 infantil T3 UTERO: En AVF, de forma, aumento de tamano para la edad, forma no infantil.
+|
+
+Linea  :  107 
+
+segm1  : >1281<
+segm2  : >Neg<
+segm3  : >infantil<
+segm4  : >UTERO: En AVF, de forma, aumento de tamano para la edad, forma no infantil.
+<
+
+
+  0,UTERO
+  1,:
+  2,En
+  3,AVF
+  4,,
+  5,de
+  6,forma
+  7,,
+  8,aumento
+  9,de
+ 10,tamano
+ 11,para
+ 12,la
+ 13,edad
+ 14,,
+ 15,forma
+ 16,no
+ 17,infantil
+ 18,.
+
+
+Linea  : 108 
+
+Buffer :|1284 T1 Neg T2 nodular T3 353600 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.
+|
+
+Linea  :  108 
+
+segm1  : >1284<
+segm2  : >Neg<
+segm3  : >nodular<
+segm4  : >353600 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.
+<
+
+
+  0,353600
+  1,Ambos
+  2,lobulos
+  3,tiroideos
+  4,e
+  5,istmo
+  6,con
+  7,ecoestructura
+  8,heterogenea
+  9,difusa
+ 10,no
+ 11,nodular
+ 12,y
+ 13,aumentados
+ 14,globalmente
+ 15,de
+ 16,tamano
+ 17,.
+
+
+Linea  : 109 
+
+Buffer :|1285 T1 Neg T2 flebitis T3 No se observan al momento del estudio senal Doppler de fistula arteriovenosa, ni signos de trombosis o flebitis.
+|
+
+Linea  :  109 
+
+segm1  : >1285<
+segm2  : >Neg<
+segm3  : >flebitis<
+segm4  : >No se observan al momento del estudio senal Doppler de fistula arteriovenosa, ni signos de trombosis o flebitis.
+<
+
+
+  0,No
+  1,se
+  2,observan
+  3,al
+  4,momento
+  5,del
+  6,estudio
+  7,senal
+  8,Doppler
+  9,de
+ 10,fistula
+ 11,arteriovenosa
+ 12,,
+ 13,ni
+ 14,signos
+ 15,de
+ 16,trombosis
+ 17,o
+ 18,flebitis
+ 19,.
+
+
+Linea  : 110 
+
+Buffer :|1286 T1 Neg T2 liquido T3 No se visualiza liquido en cavidad ni interasas.
+|
+
+Linea  :  110 
+
+segm1  : >1286<
+segm2  : >Neg<
+segm3  : >liquido<
+segm4  : >No se visualiza liquido en cavidad ni interasas.
+<
+
+
+  0,No
+  1,se
+  2,visualiza
+  3,liquido
+  4,en
+  5,cavidad
+  6,ni
+  7,interasas
+  8,.
+
+
+Linea  : 111 
+
+Buffer :|1289 T1 Neg T2 dilatacion  T3 Pelvis pre-cateterismo: der: 1.6(cm) ; izq: 1.4(cm) Pelvis post-cateterismo: der: 1(cm) ; izq:1.6(cm) No se detecto dilatacion  ureteral, si bien el ureter izquierdo es visible en forma intermitente con un diametro de 0.3 cm pre y post-cateterismo.
+|
+
+Linea  :  111 
+
+segm1  : >1289<
+segm2  : >Neg<
+segm3  : >dilatacion<
+segm4  : >Pelvis pre-cateterismo: der: 1.6(cm) ; izq: 1.4(cm) Pelvis post-cateterismo: der: 1(cm) ; izq:1.6(cm) No se detecto dilatacion  ureteral, si bien el ureter izquierdo es visible en forma intermitente con un diametro de 0.3 cm pre y post-cateterismo.
+<
+
+
+  0,Pelvis
+  1,pre
+  2,-
+  3,cateterismo
+  4,:
+  5,der
+  6,:
+  7,1.6
+  8,(
+  9,cm
+ 10,)
+ 11,;
+ 12,izq
+ 13,:
+ 14,1.4
+ 15,(
+ 16,cm
+ 17,)
+ 18,Pelvis
+ 19,post
+ 20,-
+ 21,cateterismo
+ 22,:
+ 23,der
+ 24,:
+ 25,1
+ 26,(
+ 27,cm
+ 28,)
+ 29,;
+ 30,izq
+ 31,:
+ 32,1.6
+ 33,(
+ 34,cm
+ 35,)
+ 36,No
+ 37,se
+ 38,detecto
+ 39,dilatacion
+ 40,ureteral
+ 41,,
+ 42,si
+ 43,bien
+ 44,el
+ 45,ureter
+ 46,izquierdo
+ 47,es
+ 48,visible
+ 49,en
+ 50,forma
+ 51,intermitente
+ 52,con
+ 53,un
+ 54,diametro
+ 55,de
+ 56,0.3
+ 57,cm
+ 58,pre
+ 59,y
+ 60,post
+ 61,-
+ 62,cateterismo
+ 63,.
+
+
+Linea  : 112 
+
+Buffer :|1293 T1 Neg T2 liquido T3 Long: 13.9 cm No se identifican adenomegalias ni liquido libre en cavidad abdominal.
+|
+
+Linea  :  112 
+
+segm1  : >1293<
+segm2  : >Neg<
+segm3  : >liquido<
+segm4  : >Long: 13.9 cm No se identifican adenomegalias ni liquido libre en cavidad abdominal.
+<
+
+
+  0,Long
+  1,:
+  2,13.9
+  3,cm
+  4,No
+  5,se
+  6,identifican
+  7,adenomegalias
+  8,ni
+  9,liquido
+ 10,libre
+ 11,en
+ 12,cavidad
+ 13,abdominal
+ 14,.
+
+
+Linea  : 113 
+
+Buffer :|1295 T1 Neg T2 nodular T3 481310 Se observa glandula tiroides con ecoestructura finamente heterogenea, no nodular, con presencia de pequenos quistes coloides de mm, difusos.
+|
+
+Linea  :  113 
+
+segm1  : >1295<
+segm2  : >Neg<
+segm3  : >nodular<
+segm4  : >481310 Se observa glandula tiroides con ecoestructura finamente heterogenea, no nodular, con presencia de pequenos quistes coloides de mm, difusos.
+<
+
+
+  0,481310
+  1,Se
+  2,observa
+  3,glandula
+  4,tiroides
+  5,con
+  6,ecoestructura
+  7,finamente
+  8,heterogenea
+  9,,
+ 10,no
+ 11,nodular
+ 12,,
+ 13,con
+ 14,presencia
+ 15,de
+ 16,pequenos
+ 17,quistes
+ 18,coloides
+ 19,de
+ 20,mm
+ 21,,
+ 22,difusos
+ 23,.
+
+
+Linea  : 114 
+
+Buffer :|1299 T1 Neg T2 nodular T3 A121556 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.
+|
+
+Linea  :  114 
+
+segm1  : >1299<
+segm2  : >Neg<
+segm3  : >nodular<
+segm4  : >A121556 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.
+<
+
+
+  0,A121556
+  1,Ambos
+  2,lobulos
+  3,tiroideos
+  4,e
+  5,istmo
+  6,con
+  7,ecoestructura
+  8,heterogenea
+  9,difusa
+ 10,no
+ 11,nodular
+ 12,y
+ 13,aumentados
+ 14,globalmente
+ 15,de
+ 16,tamano
+ 17,.
+
+
+Linea  : 115 
+
+Buffer :|1301 T1 Neg T2 dilatada T3 Via biliar extrahepatica: no dilatada.
+|
+
+Linea  :  115 
+
+segm1  : >1301<
+segm2  : >Neg<
+segm3  : >dilatada<
+segm4  : >Via biliar extrahepatica: no dilatada.
+<
+
+
+  0,Via
+  1,biliar
+  2,extrahepatica
+  3,:
+  4,no
+  5,dilatada
+  6,.
+
+
+Linea  : 116 
+
+Buffer :|1310 T1 Neg T2 flujo T3 en hueco popliteo y cara posterior de la pierna izquierda se observa una formacion quistica con ecos y tabiques en su interior de aprox 18x9x4 cm que corresponderia a un gran  quiste de Baker No prsenta flujo al examen Doppler color ni compromiso de planos profundos
+|
+
+Linea  :  116 
+
+segm1  : >1310<
+segm2  : >Neg<
+segm3  : >flujo<
+segm4  : >en hueco popliteo y cara posterior de la pierna izquierda se observa una formacion quistica con ecos y tabiques en su interior de aprox 18x9x4 cm que corresponderia a un gran  quiste de Baker No prsenta flujo al examen Doppler color ni compromiso de planos profundos
+<
+
+
+  0,en
+  1,hueco
+  2,popliteo
+  3,y
+  4,cara
+  5,posterior
+  6,de
+  7,la
+  8,pierna
+  9,izquierda
+ 10,se
+ 11,observa
+ 12,una
+ 13,formacion
+ 14,quistica
+ 15,con
+ 16,ecos
+ 17,y
+ 18,tabiques
+ 19,en
+ 20,su
+ 21,interior
+ 22,de
+ 23,aprox
+ 24,18
+ 25,x
+ 26,9
+ 27,x
+ 28,4
+ 29,cm
+ 30,que
+ 31,corresponderia
+ 32,a
+ 33,un
+ 34,gran
+ 35,quiste
+ 36,de
+ 37,Baker
+ 38,No
+ 39,prsenta
+ 40,flujo
+ 41,al
+ 42,examen
+ 43,Doppler
+ 44,color
+ 45,ni
+ 46,compromiso
+ 47,de
+ 48,planos
+ 49,profundos
+
+
+Linea  : 117 
+
+Buffer :|1314 T1 Neg T2 derrame  T3 A57909 HEMITORAX DERECHO: No se observa derrame  pleural.
+|
+
+Linea  :  117 
+
+segm1  : >1314<
+segm2  : >Neg<
+segm3  : >derrame<
+segm4  : >A57909 HEMITORAX DERECHO: No se observa derrame  pleural.
+<
+
+
+  0,A57909
+  1,HEMITORAX
+  2,DERECHO
+  3,:
+  4,No
+  5,se
+  6,observa
+  7,derrame
+  8,pleural
+  9,.
+
+
+Linea  : 118 
+
+Buffer :|1316 T1 Neg T2 dilatacion T3 Mide:7.3 cm No se observa dilatacion de la via urinaria.
+|
+
+Linea  :  118 
+
+segm1  : >1316<
+segm2  : >Neg<
+segm3  : >dilatacion<
+segm4  : >Mide:7.3 cm No se observa dilatacion de la via urinaria.
+<
+
+
+  0,Mide
+  1,:
+  2,7.3
+  3,cm
+  4,No
+  5,se
+  6,observa
+  7,dilatacion
+  8,de
+  9,la
+ 10,via
+ 11,urinaria
+ 12,.
+
+
+Linea  : 119 
+
+Buffer :|1320 T1 Neg T2 IMAGEN T3 A225188 SE REALIZA ECOGRAFIA A NIVEL DE REGION SACRA, NO SE OBSERVA IMAGEN VASCULARIZADA A DICHO NIVEL, NI COMPROMISO DE ESTRUCTURAS PROFUNDAS.
+|
+
+Linea  :  119 
+
+segm1  : >1320<
+segm2  : >Neg<
+segm3  : >imagen<
+segm4  : >A225188 SE REALIZA ECOGRAFIA A NIVEL DE REGION SACRA, NO SE OBSERVA IMAGEN VASCULARIZADA A DICHO NIVEL, NI COMPROMISO DE ESTRUCTURAS PROFUNDAS.
+<
+
+
+  0,A225188
+  1,SE
+  2,REALIZA
+  3,ECOGRAFIA
+  4,A
+  5,NIVEL
+  6,DE
+  7,REGION
+  8,SACRA
+  9,,
+ 10,NO
+ 11,SE
+ 12,OBSERVA
+ 13,IMAGEN
+ 14,VASCULARIZADA
+ 15,A
+ 16,DICHO
+ 17,NIVEL
+ 18,,
+ 19,NI
+ 20,COMPROMISO
+ 21,DE
+ 22,ESTRUCTURAS
+ 23,PROFUNDAS
+ 24,.
+
+
+Linea  : 120 
+
+Buffer :|1321 T1 Neg T2 ADENOMEGALIAS T3 LA COLA DEL EPIDIDIMO IZQUIERDO NO SE VISUALIZA PEQUEnA ADENOMEGALIAS INGUINAL DERECHA DE 11 MM
+|
+
+Linea  :  120 
+
+segm1  : >1321<
+segm2  : >Neg<
+segm3  : >adenomegalias<
+segm4  : >LA COLA DEL EPIDIDIMO IZQUIERDO NO SE VISUALIZA PEQUEnA ADENOMEGALIAS INGUINAL DERECHA DE 11 MM
+<
+
+
+  0,LA
+  1,COLA
+  2,DEL
+  3,EPIDIDIMO
+  4,IZQUIERDO
+  5,NO
+  6,SE
+  7,VISUALIZA
+  8,PEQUEnA
+  9,ADENOMEGALIAS
+ 10,INGUINAL
+ 11,DERECHA
+ 12,DE
+ 13,11
+ 14,MM
+
+
+Linea  : 121 
+
+Buffer :|1323 T1 Neg T2 engrosamiento T3 RD Diam Long:7.4 cm RI Diam long: 6.5cm Vejiga de caracteristicas normales No se observa engrosamiento de la pared intestinal al momento del estudio.
+|
+
+Linea  :  121 
+
+segm1  : >1323<
+segm2  : >Neg<
+segm3  : >engrosamiento<
+segm4  : >RD Diam Long:7.4 cm RI Diam long: 6.5cm Vejiga de caracteristicas normales No se observa engrosamiento de la pared intestinal al momento del estudio.
+<
+
+
+  0,RD
+  1,Diam
+  2,Long
+  3,:
+  4,7.4
+  5,cm
+  6,RI
+  7,Diam
+  8,long
+  9,:
+ 10,6.5
+ 11,cm
+ 12,Vejiga
+ 13,de
+ 14,caracteristicas
+ 15,normales
+ 16,No
+ 17,se
+ 18,observa
+ 19,engrosamiento
+ 20,de
+ 21,la
+ 22,pared
+ 23,intestinal
+ 24,al
+ 25,momento
+ 26,del
+ 27,estudio
+ 28,.
+
+
+Linea  : 122 
+
+Buffer :|1324 T1 Neg T2 hipertension T3 Diametro longitudinal: 9.9 cm( normal ) Retroperitoneo: Relacion Epiplon Aorta: 1 / 1 COLATERALES: Vena coronaria en epiplon:no Derivacion  dorsal: no Hemorroidales: no vasos cortos:no Ascitis:no Rinones de caracteristicas normales RD 10.2 CM RI9.9 CM Conclusion: NO se observan signos ecograficos de hipertension  portal.
+|
+
+Linea  :  122 
+
+segm1  : >1324<
+segm2  : >Neg<
+segm3  : >hipertension<
+segm4  : >Diametro longitudinal: 9.9 cm( normal ) Retroperitoneo: Relacion Epiplon Aorta: 1 / 1 COLATERALES: Vena coronaria en epiplon:no Derivacion  dorsal: no Hemorroidales: no vasos cortos:no Ascitis:no Rinones de caracteristicas normales RD 10.2 CM RI9.9 CM Conclusion: NO se observan signos ecograficos de hipertension  portal.
+<
+
+
+  0,Diametro
+  1,longitudinal
+  2,:
+  3,9.9
+  4,cm
+  5,(
+  6,normal
+  7,)
+  8,Retroperitoneo
+  9,:
+ 10,Relacion
+ 11,Epiplon
+ 12,Aorta
+ 13,:
+ 14,1
+ 15,/
+ 16,1
+ 17,COLATERALES
+ 18,:
+ 19,Vena
+ 20,coronaria
+ 21,en
+ 22,epiplon
+ 23,:
+ 24,no
+ 25,Derivacion
+ 26,dorsal
+ 27,:
+ 28,no
+ 29,Hemorroidales
+ 30,:
+ 31,no
+ 32,vasos
+ 33,cortos
+ 34,:
+ 35,no
+ 36,Ascitis
+ 37,:
+ 38,no
+ 39,Rinones
+ 40,de
+ 41,caracteristicas
+ 42,normales
+ 43,RD
+ 44,10.2
+ 45,CM
+ 46,RI9
+ 47,.
+ 48,9
+ 49,CM
+ 50,Conclusion
+ 51,:
+ 52,NO
+ 53,se
+ 54,observan
+ 55,signos
+ 56,ecograficos
+ 57,de
+ 58,hipertension
+ 59,portal
+ 60,.
+
+
+Linea  : 123 
+
+Buffer :|1326 T1 Neg T2 diverticulo T3 Vejiga de contorno neto, paredes finas y contenido normal, no se visualiza a traves de este metodo diverticulo.
+|
+
+Linea  :  123 
+
+segm1  : >1326<
+segm2  : >Neg<
+segm3  : >diverticulo<
+segm4  : >Vejiga de contorno neto, paredes finas y contenido normal, no se visualiza a traves de este metodo diverticulo.
+<
+
+
+  0,Vejiga
+  1,de
+  2,contorno
+  3,neto
+  4,,
+  5,paredes
+  6,finas
+  7,y
+  8,contenido
+  9,normal
+ 10,,
+ 11,no
+ 12,se
+ 13,visualiza
+ 14,a
+ 15,traves
+ 16,de
+ 17,este
+ 18,metodo
+ 19,diverticulo
+ 20,.
+
+
+Linea  : 124 
+
+Buffer :|1327 T1 Neg T2 vascular T3 Asas del ileon, apendicular y cecales de4 paredes engrosadas no logrando determinar flujo doppler vascular en su interior por interposicion de ventana acustica.
+|
+
+Linea  :  124 
+
+segm1  : >1327<
+segm2  : >Neg<
+segm3  : >vascular<
+segm4  : >Asas del ileon, apendicular y cecales de4 paredes engrosadas no logrando determinar flujo doppler vascular en su interior por interposicion de ventana acustica.
+<
+
+
+  0,Asas
+  1,del
+  2,ileon
+  3,,
+  4,apendicular
+  5,y
+  6,cecales
+  7,de
+  8,4
+  9,paredes
+ 10,engrosadas
+ 11,no
+ 12,logrando
+ 13,determinar
+ 14,flujo
+ 15,doppler
+ 16,vascular
+ 17,en
+ 18,su
+ 19,interior
+ 20,por
+ 21,interposicion
+ 22,de
+ 23,ventana
+ 24,acustica
+ 25,.
+
+
+Linea  : 125 
+
+Buffer :|1332 T1 Neg T2 quiste T3 No se logra identificar quiste de punta de cateter de DVP ni apendice cecal.
+|
+
+Linea  :  125 
+
+segm1  : >1332<
+segm2  : >Neg<
+segm3  : >quiste<
+segm4  : >No se logra identificar quiste de punta de cateter de DVP ni apendice cecal.
+<
+
+
+  0,No
+  1,se
+  2,logra
+  3,identificar
+  4,quiste
+  5,de
+  6,punta
+  7,de
+  8,cateter
+  9,de
+ 10,DVP
+ 11,ni
+ 12,apendice
+ 13,cecal
+ 14,.
+
+
+Linea  : 126 
+
+Buffer :|1334 T1 Neg T2 adenomegalias T3 Vol: 2.3 cc No adenomegalias regionales.
+|
+
+Linea  :  126 
+
+segm1  : >1334<
+segm2  : >Neg<
+segm3  : >adenomegalias<
+segm4  : >Vol: 2.3 cc No adenomegalias regionales.
+<
+
+
+  0,Vol
+  1,:
+  2,2.3
+  3,cc
+  4,No
+  5,adenomegalias
+  6,regionales
+  7,.
+
+
+Linea  : 127 
+
+Buffer :|1336 T1 Neg T2 nodular T3 Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.
+|
+
+Linea  :  127 
+
+segm1  : >1336<
+segm2  : >Neg<
+segm3  : >nodular<
+segm4  : >Ambos lobulos tiroideos e istmo con ecoestructura heterogenea difusa no nodular y aumentados globalmente de tamano.
+<
+
+
+  0,Ambos
+  1,lobulos
+  2,tiroideos
+  3,e
+  4,istmo
+  5,con
+  6,ecoestructura
+  7,heterogenea
+  8,difusa
+  9,no
+ 10,nodular
+ 11,y
+ 12,aumentados
+ 13,globalmente
+ 14,de
+ 15,tamano
+ 16,.
+
+
+Linea  : 128 
+
+Buffer :|1337 T1 Neg T2 aumento T3 A229589 Ambos rinones ortotopicos, de ecoestructura normal, no se observa aumento de la ecogenicidad parenquimatosa.
+|
+
+Linea  :  128 
+
+segm1  : >1337<
+segm2  : >Neg<
+segm3  : >aumento<
+segm4  : >A229589 Ambos rinones ortotopicos, de ecoestructura normal, no se observa aumento de la ecogenicidad parenquimatosa.
+<
+
+
+  0,A229589
+  1,Ambos
+  2,rinones
+  3,ortotopicos
+  4,,
+  5,de
+  6,ecoestructura
+  7,normal
+  8,,
+  9,no
+ 10,se
+ 11,observa
+ 12,aumento
+ 13,de
+ 14,la
+ 15,ecogenicidad
+ 16,parenquimatosa
+ 17,.
+
+
+Linea  : 129 
+
+Buffer :|1338 T1 Neg T2 nodular T3 485725 Se observa glandula tiroides de pequeno volumen, con ecoestructura finamente heterogenea, no nodular.
+|
+
+Linea  :  129 
+
+segm1  : >1338<
+segm2  : >Neg<
+segm3  : >nodular<
+segm4  : >485725 Se observa glandula tiroides de pequeno volumen, con ecoestructura finamente heterogenea, no nodular.
+<
+
+
+  0,485725
+  1,Se
+  2,observa
+  3,glandula
+  4,tiroides
+  5,de
+  6,pequeno
+  7,volumen
+  8,,
+  9,con
+ 10,ecoestructura
+ 11,finamente
+ 12,heterogenea
+ 13,,
+ 14,no
+ 15,nodular
+ 16,.
+
+
+Linea  : 130 
+
+Buffer :|1342 T1 Neg T2 dilatacion T3 Miden: RD: 8.9 x 3.3 cm RIz: 8.8 x 3.2 cm No se observa dilatacion de la via urinaria.
+|
+
+Linea  :  130 
+
+segm1  : >1342<
+segm2  : >Neg<
+segm3  : >dilatacion<
+segm4  : >Miden: RD: 8.9 x 3.3 cm RIz: 8.8 x 3.2 cm No se observa dilatacion de la via urinaria.
+<
+
+
+  0,Miden
+  1,:
+  2,RD
+  3,:
+  4,8.9
+  5,x
+  6,3.3
+  7,cm
+  8,RIz
+  9,:
+ 10,8.8
+ 11,x
+ 12,3.2
+ 13,cm
+ 14,No
+ 15,se
+ 16,observa
+ 17,dilatacion
+ 18,de
+ 19,la
+ 20,via
+ 21,urinaria
+ 22,.
+
+
+Linea  : 131 
+
+Buffer :|1343 T1 Neg T2 cambios T3 A nivel del hilio de observan dos imagenes nodulares, ya conocidas, sin cambios significativos, una de 3 x 3.7 cm y la otra de aprox 4 x 3 cm VIA BILIAR intra y extrahepatica: no dilatada.
+|
+
+Linea  :  131 
+
+segm1  : >1343<
+segm2  : >Neg<
+segm3  : >cambios<
+segm4  : >A nivel del hilio de observan dos imagenes nodulares, ya conocidas, sin cambios significativos, una de 3 x 3.7 cm y la otra de aprox 4 x 3 cm VIA BILIAR intra y extrahepatica: no dilatada.
+<
+
+
+  0,A
+  1,nivel
+  2,del
+  3,hilio
+  4,de
+  5,observan
+  6,dos
+  7,imagenes
+  8,nodulares
+  9,,
+ 10,ya
+ 11,conocidas
+ 12,,
+ 13,sin
+ 14,cambios
+ 15,significativos
+ 16,,
+ 17,una
+ 18,de
+ 19,3
+ 20,x
+ 21,3.7
+ 22,cm
+ 23,y
+ 24,la
+ 25,otra
+ 26,de
+ 27,aprox
+ 28,4
+ 29,x
+ 30,3
+ 31,cm
+ 32,VIA
+ 33,BILIAR
+ 34,intra
+ 35,y
+ 36,extrahepatica
+ 37,:
+ 38,no
+ 39,dilatada
+ 40,.
+
+
+Linea  : 132 
+
+Buffer :|1353 T1 Neg T2 Dilatacion T3 No se observa dilatacion  ureteral Vejiga vacia con balon.
+|
+
+Linea  :  132 
+
+segm1  : >1353<
+segm2  : >Neg<
+segm3  : >dilatacion<
+segm4  : >No se observa dilatacion  ureteral Vejiga vacia con balon.
+<
+
+
+  0,No
+  1,se
+  2,observa
+  3,dilatacion
+  4,ureteral
+  5,Vejiga
+  6,vacia
+  7,con
+  8,balon
+  9,.
+
+
+Linea  : 133 
+
+Buffer :|1354 T1 Neg T2 dilatacion T3 No se detecto dilatacion de la via urinaria.Presencia de pelvis extrarenales bilaterales.pelvis renal der mide 1.2 cm y extrar 2.3 cm.Pelvis izquierda mide 0.97 cm y extrarenal 1.1 cm.Sin ditacion calicial ni visualizacion de ureteres.
+|
+
+Linea  :  133 
+
+segm1  : >1354<
+segm2  : >Neg<
+segm3  : >dilatacion<
+segm4  : >No se detecto dilatacion de la via urinaria.Presencia de pelvis extrarenales bilaterales.pelvis renal der mide 1.2 cm y extrar 2.3 cm.Pelvis izquierda mide 0.97 cm y extrarenal 1.1 cm.Sin ditacion calicial ni visualizacion de ureteres.
+<
+
+
+  0,No
+  1,se
+  2,detecto
+  3,dilatacion
+  4,de
+  5,la
+  6,via
+  7,urinaria
+  8,.
+  9,Presencia
+ 10,de
+ 11,pelvis
+ 12,extrarenales
+ 13,bilaterales
+ 14,.
+ 15,pelvis
+ 16,renal
+ 17,der
+ 18,mide
+ 19,1.2
+ 20,cm
+ 21,y
+ 22,extrar
+ 23,2.3
+ 24,cm
+ 25,.
+ 26,Pelvis
+ 27,izquierda
+ 28,mide
+ 29,0.97
+ 30,cm
+ 31,y
+ 32,extrarenal
+ 33,1.1
+ 34,cm
+ 35,.
+ 36,Sin
+ 37,ditacion
+ 38,calicial
+ 39,ni
+ 40,visualizacion
+ 41,de
+ 42,ureteres
+ 43,.
+
+
+Linea  : 134 
+
+Buffer :|1355 T1 Neg T2 dilatacion T3 Sin ditacion calicial ni visualizacion de ureteres.
+|
+
+Linea  :  134 
+
+segm1  : >1355<
+segm2  : >Neg<
+segm3  : >dilatacion<
+segm4  : >Sin ditacion calicial ni visualizacion de ureteres.
+<
+
+
+  0,Sin
+  1,ditacion
+  2,calicial
+  3,ni
+  4,visualizacion
+  5,de
+  6,ureteres
+  7,.
+
+
+Linea  : 135 
+
+Buffer :|1356 T1 Neg T2 dilatada T3 Via biliar con cateter no dilatada, se observa dilatacion de via biliar mas superficial intrahepatica de 6 mm.
+|
+
+Linea  :  135 
+
+segm1  : >1356<
+segm2  : >Neg<
+segm3  : >dilatada<
+segm4  : >Via biliar con cateter no dilatada, se observa dilatacion de via biliar mas superficial intrahepatica de 6 mm.
+<
+
+
+  0,Via
+  1,biliar
+  2,con
+  3,cateter
+  4,no
+  5,dilatada
+  6,,
+  7,se
+  8,observa
+  9,dilatacion
+ 10,de
+ 11,via
+ 12,biliar
+ 13,mas
+ 14,superficial
+ 15,intrahepatica
+ 16,de
+ 17,6
+ 18,mm
+ 19,.
+
+Cant de lineas procesadas 136
+
+
+
+[2018/10/12 15:24:58] Finaliza programa 
+
